@@ -1,5 +1,5 @@
 
-# MTGOArchetypeParserData
+# MTGOFormatData
 Format data for use with MTGOArchetypeParser (https://github.com/Badaro/MTGOArchetypeParser).
 
 ## Data Structure
