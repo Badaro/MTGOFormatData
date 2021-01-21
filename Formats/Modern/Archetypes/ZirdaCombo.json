@@ -1,0 +1,22 @@
+{
+  "Name": "ZirdaCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InSideboard",
+      "Cards": ["Zirda, the Dawnwaker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Umbral Mantle"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Heliod, Sun-Crowned"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Devoted Druid"]
+    }
+  ]
+}

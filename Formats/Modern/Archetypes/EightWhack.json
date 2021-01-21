@@ -1,0 +1,18 @@
+{
+  "Name": "EightWhack",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Foundry Street Denizen"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Bushwhacker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Grenade"]
+    }
+  ]
+}

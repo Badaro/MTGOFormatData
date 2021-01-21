@@ -1,0 +1,18 @@
+{
+  "Name": "LivingEnd",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Living End"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Street Wraith"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Electrodominance"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Humans",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Champion of the Parish"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thalia's Lieutenant"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thalia, Guardian of Thraben","Kitesail Freebooter"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mantis Rider"]
+    }
+  ]
+}

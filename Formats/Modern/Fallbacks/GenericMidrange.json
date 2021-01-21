@@ -1,0 +1,24 @@
+{
+  "Name": "GenericMidrange",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Bloodbraid Elf",
+    "Scavenging Ooze",
+    "Noble Hierarch",
+    "Birds of Paradise",
+    "Arbor Elf",
+    "Thoughtseize",
+    "Inquisition of Kozilek",
+    "Kroxa, Titan of Death's Hunger",
+    "Seasoned Pyromancer",
+    "Tarmogoyf",
+    "Wrenn and Six",
+    "Dark Confidant",
+    "Liliana of the Veil",
+    "Stoneforge Mystic",
+    "Brazen Borrower",
+    "Spell Queller",
+    "Karn, the Great Creator",
+    "Geist of Saint Traft"
+  ]
+}

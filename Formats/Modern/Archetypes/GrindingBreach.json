@@ -1,0 +1,18 @@
+{
+  "Name": "GrindingBreach",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Underworld Breach"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thassa's Oracle","Paradox Engine"]
+    }
+  ]
+}

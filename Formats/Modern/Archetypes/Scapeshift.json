@@ -1,0 +1,22 @@
+{
+  "Name": "Scapeshift",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Scapeshift"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Valakut, the Molten Pinnacle"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Search for Tomorrow","Growth Spiral","Farseek","Mwonvuli Acid-Moss","Explore","Uro, Titan of Nature's Wrath"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Primeval Titan"]
+    }
+  ]
+}

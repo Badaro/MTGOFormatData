@@ -1,0 +1,30 @@
+{
+  "Name": "Shadow",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thoughtseize"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "ShadowProwess",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Scourge of the Skyclaves"]
+        },
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Soul-Scar Mage","Monastery Swiftspear"]
+        }
+      ]
+    }
+  ]
+}

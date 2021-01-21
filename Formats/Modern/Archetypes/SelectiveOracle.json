@@ -1,0 +1,14 @@
+{
+  "Name": "SelectiveOracle",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Selective Memory"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thassa's Oracle"]
+    }
+  ]
+}

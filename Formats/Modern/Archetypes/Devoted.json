@@ -1,0 +1,18 @@
+{
+  "Name": "Devoted",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Devoted Druid"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Vizier of Remedies"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Walking Ballista"]
+    }
+  ]
+}

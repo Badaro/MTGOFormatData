@@ -1,0 +1,30 @@
+{
+  "Name": "Uroza",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza, Lord High Artificer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mishra's Bauble"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Metallic Rebuke","Whir of Invention","Sai, Master Thopterist","Tireless Tracker"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Engineered Explosives","Springleaf Drum","Witching Well","Pyrite Spellbomb"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Emry, Lurker of the Loch"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Uro, Titan of Nature's Wrath"]
+    }
+  ]
+}

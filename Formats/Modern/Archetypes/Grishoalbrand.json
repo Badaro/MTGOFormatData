@@ -1,0 +1,22 @@
+{
+  "Name": "Grishoalbrand",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Griselbrand"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Borborygmos Enraged"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nourishing Shoal","Thoughtseize"]
+    }
+  ]
+}

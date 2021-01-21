@@ -1,0 +1,18 @@
+{
+  "Name": "Skelementals",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lightning Skelemental"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Unearth"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thunderkin Awakener"]
+    }
+  ]
+}

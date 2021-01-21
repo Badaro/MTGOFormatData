@@ -1,0 +1,22 @@
+{
+  "Name": "Spirits",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Drogskol Captain"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Supreme Phantom"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Spell Queller"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mausoleum Wanderer"]
+    }
+  ]
+}

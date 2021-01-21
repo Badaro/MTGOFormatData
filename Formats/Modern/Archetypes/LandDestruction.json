@@ -1,0 +1,22 @@
+{
+  "Name": "LandDestruction",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Boom // Bust"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Pillage"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Cleansing Wildfire","Molten Rain","Stone Rain"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Chandra, Torch of Defiance","Karn, the Great Creator","Nahiri, the Harbinger","Goblin Dark-Dwellers"]
+    }
+  ]
+}

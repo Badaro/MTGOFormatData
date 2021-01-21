@@ -1,0 +1,18 @@
+{
+  "Name": "Polymorph",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Emrakul, the Aeons Torn","Primeval Titan"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Polymorph","Indomitable Creativity"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Dwarven Mine"]
+    }
+  ]
+}

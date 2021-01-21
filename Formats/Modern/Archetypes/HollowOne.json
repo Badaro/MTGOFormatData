@@ -1,0 +1,22 @@
+{
+  "Name": "HollowOne",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hollow One"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Flameblade Adept"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Burning Inquiry"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Lore"]
+    }
+  ]
+}

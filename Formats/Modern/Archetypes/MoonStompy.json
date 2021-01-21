@@ -1,0 +1,22 @@
+{
+  "Name": "MoonStompy",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Magus of the Moon"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Simian Spirit Guide"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Rabblemaster"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Legion Warboss"]
+    }
+  ]
+}

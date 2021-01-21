@@ -1,0 +1,14 @@
+{
+  "Name": "Merfolk",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Lord of Atlantis","Master of the Pearl Trident","Merrow Reejerey"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Merfolk Trickster","Silvergill Adept"]
+    }
+  ]
+}

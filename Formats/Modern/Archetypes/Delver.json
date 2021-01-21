@@ -1,0 +1,18 @@
+{
+  "Name": "Delver",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Delver of Secrets"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Lightning Bolt","Psionic Blast","Fatal Push"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Vapor Snag","Remand","Mana Leak","Force of Negation","Archmage's Charm","Stubborn Denial"]
+    }
+  ]
+}

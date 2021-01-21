@@ -1,0 +1,22 @@
+{
+  "Name": "AdNauseam",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ad Nauseam"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Angel's Grace"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Phyrexian Unlife"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Pentad Prism"]
+    }
+  ]
+}

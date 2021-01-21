@@ -1,0 +1,18 @@
+{
+  "Name": "EightRack",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Rack"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Shrieking Affliction"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Raven's Crime"]
+    }
+  ]
+}

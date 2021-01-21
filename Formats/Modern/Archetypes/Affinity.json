@@ -1,0 +1,22 @@
+{
+  "Name": "Affinity",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ornithopter"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Signal Pest"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Arcbound Ravager"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cranial Plating"]
+    }
+  ]
+}

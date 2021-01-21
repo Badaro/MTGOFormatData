@@ -1,0 +1,22 @@
+{
+  "Name": "NivToLight",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Niv-Mizzet Reborn"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bring to Light"]
+    },
+    {
+      "Type": "InMainOrSideboard",
+      "Cards": ["Lightning Helix"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Assassin's Trophy","Abrupt Decay"]
+    }
+  ]
+}

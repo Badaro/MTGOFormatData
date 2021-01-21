@@ -1,0 +1,14 @@
+{
+  "Name": "Reclamation",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Wilderness Reclamation"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Nexus of Fate","Fact or Fiction","Shark Typhoon"]
+    }
+  ]
+}

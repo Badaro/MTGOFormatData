@@ -1,0 +1,22 @@
+{
+  "Name": "DomainZoo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tribal Flames"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Wild Nacatl"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lightning Bolt"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lightning Helix"]
+    }
+  ]
+}

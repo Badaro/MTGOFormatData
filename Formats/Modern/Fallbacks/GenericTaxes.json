@@ -1,0 +1,19 @@
+{
+  "Name": "GenericTaxes",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Giver of Runes",
+    "Brimaz, King of Oreskos",
+    "Thalia, Guardian of Thraben",
+    "Aether Vial",
+    "Leonin Arbiter",
+    "Flickerwisp",
+    "Eldrazi Displacer",
+    "Thought-Knot Seer",
+    "Serra Avenger",
+    "Wasteland Strangler"
+  ],
+  "RequiredCards": [
+    "Thalia, Guardian of Thraben"
+  ]
+}

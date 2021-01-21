@@ -1,0 +1,14 @@
+{
+  "Name": "AscendancyCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Jeskai Ascendancy"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Fatestitcher"]
+    }
+  ]
+}

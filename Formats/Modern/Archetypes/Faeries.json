@@ -1,0 +1,18 @@
+{
+  "Name": "Faeries",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Spellstutter Sprite"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bitterblossom"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Vendilion Clique","Brazen Borrower"]
+    }
+  ]
+}

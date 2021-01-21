@@ -1,0 +1,48 @@
+{
+  "Name": "ThopterCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Whir of Invention","Emry, Lurker of the Loch"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sword of the Meek"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thopter Foundry"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Uro, Titan of Nature's Wrath"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "ThopterUrza",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Urza, Lord High Artificer"]
+        }
+      ]
+    },
+    {
+      "Name": "Lantern",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Lantern of Insight"]
+        }
+      ]
+    }
+  ]
+}

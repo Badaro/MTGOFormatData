@@ -1,0 +1,14 @@
+{
+  "Name": "TakingTurns",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Time Warp","Temporal Mastery","Savor the Moment","Exhaustion","Walk the Aeons"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Cryptic Command","Remand","Howling Mine"]
+    }
+  ]
+}

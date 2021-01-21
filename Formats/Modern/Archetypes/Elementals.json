@@ -1,0 +1,18 @@
+{
+  "Name": "Elementals",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Flamekin Harbinger"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Risen Reef"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thunderkin Awakener"]
+    }
+  ]
+}

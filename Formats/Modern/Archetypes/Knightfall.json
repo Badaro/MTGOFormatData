@@ -1,0 +1,14 @@
+{
+  "Name": "Knightfall",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Knight of the Reliquary"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Retreat to Coralhelm"]
+    }
+  ]
+}

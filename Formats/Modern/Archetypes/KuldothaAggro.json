@@ -1,0 +1,18 @@
+{
+  "Name": "KuldothaAggro",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Bushwhacker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Reckless Bushwhacker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kuldotha Rebirth"]
+    }
+  ]
+}

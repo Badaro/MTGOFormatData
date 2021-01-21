@@ -1,0 +1,18 @@
+{
+  "Name": "ParadoxicalUrza",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza, Lord High Artificer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Paradoxical Outcome"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mox Amber"]
+    }
+  ]
+}

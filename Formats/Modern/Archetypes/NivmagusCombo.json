@@ -1,0 +1,18 @@
+{
+  "Name": "NivmagusCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nivmagus Elemental"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Pact of the Titan"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Pact of Negation"]
+    }
+  ]
+}

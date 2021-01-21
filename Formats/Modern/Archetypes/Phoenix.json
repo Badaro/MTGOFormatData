@@ -1,0 +1,18 @@
+{
+  "Name": "Phoenix",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Arclight Phoenix"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thing in the Ice"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Manamorphose"]
+    }
+  ]
+}

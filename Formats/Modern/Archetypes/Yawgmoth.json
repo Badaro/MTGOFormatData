@@ -1,0 +1,18 @@
+{
+  "Name": "Yawgmoth",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Yawgmoth, Thran Physician"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Young Wolf"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Strangleroot Geist"]
+    }
+  ]
+}

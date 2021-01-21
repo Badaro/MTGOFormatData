@@ -1,0 +1,18 @@
+{
+  "Name": "GreenDevotion",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nykthos, Shrine to Nyx"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Oath of Nissa"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Burning-Tree Emissary"]
+    }
+  ]
+}

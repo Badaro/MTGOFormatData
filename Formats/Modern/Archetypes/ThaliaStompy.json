@@ -1,0 +1,22 @@
+{
+  "Name": "ThaliaStompy",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chalice of the Void"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thalia, Guardian of Thraben"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Simian Spirit Guide"]
+    },
+    {
+      "Type": "InMainOrSideboard",
+      "Cards": ["Winds of Abandon"]
+    }
+  ]
+}

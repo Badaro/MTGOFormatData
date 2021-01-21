@@ -1,0 +1,22 @@
+{
+  "Name": "Slivers",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sliver Hive"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Predatory Sliver"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cloudshredder Sliver"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Galerider Sliver"]
+    }
+  ]
+}

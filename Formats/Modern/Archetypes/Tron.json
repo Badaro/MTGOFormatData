@@ -1,0 +1,112 @@
+{
+  "Name": "Tron",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Tower"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Mine"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Power Plant"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "GreenTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Forest","Snow-Covered Forest"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Expedition Map"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Ancient Stirrings"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Sylvan Scrying"]
+        }
+      ]
+    },
+    {
+      "Name": "BlueTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Academy Ruins"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Condescend"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Remand"]
+        }
+      ]
+    },
+    {
+      "Name": "EldraziTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Eldrazi Temple"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Thought-Knot Seer"]
+        },
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Reality Smasher","Oblivion Sower"]
+        }
+      ]
+    },
+    {
+      "Name": "DiceFactoryTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Urza's Tower"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Urza's Mine"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Urza's Power Plant"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Expedition Map"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Coretapper"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Astral Cornucopia"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Everflowing Chalice"]
+        }
+      ]
+    }
+  ]
+}

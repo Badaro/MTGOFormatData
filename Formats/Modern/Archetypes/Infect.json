@@ -1,0 +1,18 @@
+{
+  "Name": "Infect",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Glistener Elf"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Vines of Vastwood"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Might of Old Krosa"]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-   Cards:
+   "Lands":
    [
       { "Name": "Ancient Ziggurat", "Color": "WUBRG" },
       { "Name": "Sliver Hive", "Color": "WUBRG" },
@@ -7,5 +7,6 @@
       { "Name": "Primal Beyond", "Color": "WUBRG" },
       { "Name": "Glimmervoid", "Color": "WUBRG" },
       { "Name": "Spire of Industry", "Color": "WUBRG" },
-   ]
+   ],
+   "NonLands": null   
 }

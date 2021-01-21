@@ -1,0 +1,22 @@
+{
+  "Name": "Crabvine",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hedron Crab"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Vengevine"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Stitcher's Supplier"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Gravecrawler"]
+    }
+  ]
+}

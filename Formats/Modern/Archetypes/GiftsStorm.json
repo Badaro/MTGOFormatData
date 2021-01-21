@@ -1,0 +1,38 @@
+{
+  "Name": "GiftsStorm",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Baral, Chief of Compliance"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Electromancer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Grapeshot"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Past in Flames"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Manamorphose"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Gifts Ungiven"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Desperate Ritual"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Pyretic Ritual"]
+    }
+  ]
+}

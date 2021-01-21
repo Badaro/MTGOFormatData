@@ -1,0 +1,18 @@
+{
+  "Name": "TunnelMoon",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tunnel Ignus"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Magus of the Moon"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Simian Spirit Guide"]
+    }
+  ]
+}

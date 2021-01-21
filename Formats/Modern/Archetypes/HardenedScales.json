@@ -1,0 +1,22 @@
+{
+  "Name": "HardenedScales",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hardened Scales"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Arcbound Ravager"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Walking Ballista"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hangarback Walker"]
+    }
+  ]
+}

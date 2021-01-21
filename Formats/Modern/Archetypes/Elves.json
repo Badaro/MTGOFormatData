@@ -1,0 +1,14 @@
+{
+  "Name": "Elves",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Llanowar Elves"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Elvish Archdruid","Heritage Druid","Nettle Sentinel","Elvish Clancaller"]
+    }
+  ]
+}

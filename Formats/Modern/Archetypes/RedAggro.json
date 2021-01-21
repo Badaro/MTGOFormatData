@@ -1,0 +1,70 @@
+{
+  "Name": "RedAggro",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Lightning Bolt"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kird Ape"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Burn",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Goblin Guide","Eidolon of the Great Revel"]
+        },
+        {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": ["Rift Bolt","Skewer the Critics","Lightning Helix","Boros Charm","Skullcrack","Searing Blaze","Atarka's Command"]
+        }
+      ]
+    },
+    {
+      "Name": "Prowess",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Nivmagus Elemental"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Eidolon of the Great Revel"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Obosh, the Preypiercer"]
+        }
+      ]
+    },
+    {
+      "Name": "OboshAggro",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Seasoned Pyromancer","Bomat Courier"]
+        },
+        {
+          "Type": "InSideboard",
+          "Cards": ["Obosh, the Preypiercer"]
+        }
+      ]
+    }
+  ]
+}

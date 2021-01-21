@@ -1,0 +1,18 @@
+{
+  "Name": "HammerTime",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Colossus Hammer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Steelshaper's Gift"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sigarda's Aid"]
+    }
+  ]
+}

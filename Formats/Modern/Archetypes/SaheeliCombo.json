@@ -1,0 +1,30 @@
+{
+  "Name": "SaheeliCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Saheeli Rai"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Felidar Guardian"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Pillar of the Paruns"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "OmnathSaheeli",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Omnath, Locus of Creation"]
+        }
+      ]
+    }
+  ]
+}
