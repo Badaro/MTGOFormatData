@@ -50,6 +50,8 @@ namespace CardListUpdater
                     if (addedCards.Contains(cardName)) continue;
                     if (cardName.StartsWith("Leyline of")) continue;
 
+                    bool isSplit = card.layout == "split" || card.layout=="aftermath";
+
                     bool isLand = false;
                     foreach (var type in card.types) if (type == "Land") isLand = true;
 
@@ -57,7 +59,7 @@ namespace CardListUpdater
                     if (card.keywords != null) foreach (var type in card.keywords) if (type == "Flashback") isFlashback = true;
 
                     string cardColor = "";
-                    if (isLand || isFlashback) foreach (var color in card.colorIdentity) cardColor += color;
+                    if (isLand || isFlashback || isSplit) foreach (var color in card.colorIdentity) cardColor += color;
                     else foreach (var color in card.colors) cardColor += color;
 
                     string manaCost = card.manaCost;
