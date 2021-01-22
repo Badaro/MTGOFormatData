@@ -140,7 +140,7 @@ An archetype may also include multiple Variants. Each variant has the same struc
 
 One of the challenges of automated tagging is how to work with "goodstuff" decks, that don't have specific archetype-defining cards, like generic "[Deck Color] Control" or "[Deck Color] Midrange" decks. There's way too many variations between these, and creating archetypes for all of them is rather cumbersome and difficult to maintain.
 
-The way MTGOArchetypeParser deals with these decks is by using "Fallbacks", or "Piles". They are defined as a set of "Common Cards" that are common to this archetype. As an example, here's the current list of common cards used for "Control" piles in Modern:
+MTGOArchetypeParser supports an alternative to deal with these decks by using "Fallbacks", or "Piles". They are defined as a set of "Common Cards" that are frequently used in decks of this archetype. As an example, here's the current list of common cards used for "Control" piles in Modern:
 
 ```
   "CommonCards": [
