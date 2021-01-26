@@ -33,6 +33,20 @@
 		  "Cards": ["Chalice of the Void"]
 		},
 	  ]
+	},
+	{
+	  "Name": "EldraziTaxes",
+	  "IncludeColorInName": true,
+	  "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Eldrazi Temple"]
+		},
+		{
+		  "Type": "DoesNotContain",
+		  "Cards": ["Chalice of the Void"]
+		}
+	  ]
 	}
   ]
 }
