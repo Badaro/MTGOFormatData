@@ -1,0 +1,38 @@
+{
+  "Name": "Taxes",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thalia, Guardian of Thraben"]
+    },
+    {
+      "Type": "OneOrMoreInMainOrSideboard",
+      "Cards": ["Leonin Arbiter","Ethersworn Canonist","Aven Mindcensor","Meddling Mage"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Primeval Titan"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Champion of the Parish"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Heliod, Sun-Crowned"]
+    }
+  ],
+  "Variants": [
+	{
+	  "Name": "ThaliaStompy",
+	  "IncludeColorInName": false,
+	  "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Chalice of the Void"]
+		},
+	  ]
+	}
+  ]
+}
