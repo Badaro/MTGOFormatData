@@ -78,7 +78,11 @@ Type must be one of the following values:
 * InSideboard
 * InMainOrSideboard
 * OneOrMoreInMainboard
+* OneOrMoreInSideboard
+* OneOrMoreInMainOrSideboard
 * TwoOrMoreInMainboard
+* TwoOrMoreInSideboard
+* TwoOrMoreInMainOrSideboard
 * DoesNotContain
 * DoesNotContainMainboard
 * DoesNotContainSideboard
@@ -86,8 +90,8 @@ Type must be one of the following values:
 This work in conjunction with the Cards property to define the conditions for those rules to match.
 
 * InMainboard/InSideboard/InMainOrSideboard: The card listed is required in the MB/SB depending on which rule you use.
-* OneOrMoreInMainboard: At least one of the cards listed is required mainboard.
-* TwoOrMoreInMainboard: At least two of the cards listed is required mainboard.
+* OneOrMoreInMainboard/OneOrMoreInSideboard/OneOrMoreInMainOrSideboard: At least one of the cards listed is required in the MB/SB depending on which rule you use.
+* TwoOrMoreInMainboard/TwoOrMoreInSideboard/TwoOrMoreInMainOrSideboard: At least two of the cards listed are required in the MB/SB depending on which rule you use.
 * DoesNotContain/DoesNotContainMainboard/DoesNotContainSideboard: The card listed must not be present in MB/SB depending on which rule you use.
 
 If an archetype has multiple conditions, all must be satisfied for the archetype to match successfully. 
