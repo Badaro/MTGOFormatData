@@ -1,5 +1,5 @@
 {
-  "Name": "Scapeshift",
+  "Name": "BlueScapeshift",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -13,6 +13,10 @@
     {
       "Type": "TwoOrMoreInMainboard",
       "Cards": ["Search for Tomorrow","Growth Spiral","Farseek","Mwonvuli Acid-Moss","Explore","Uro, Titan of Nature's Wrath"]
+    },
+    {
+      "Type": "OneOrMoreINMainboard",
+      "Cards": ["Remand","Bring to Light"]
     },
     {
       "Type": "DoesNotContain",
