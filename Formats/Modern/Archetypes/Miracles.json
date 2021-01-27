@@ -1,0 +1,14 @@
+{
+  "Name": "Miracles",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Terminus"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Jace, the Mind Sculptor"]
+    }
+  ]
+}
