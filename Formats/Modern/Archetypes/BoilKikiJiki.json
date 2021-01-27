@@ -1,0 +1,22 @@
+{
+  "Name": "BoilKikiJiki",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kiki-Jiki, Mirror Breaker"]
+    },
+	{
+      "Type": "InMainboard",
+      "Cards": ["Cryptic Command"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Reflecting Pool"]
+    },
+    {
+      "Type": "InSideboard",
+      "Cards": ["Boil"]
+    }
+  ]
+}
