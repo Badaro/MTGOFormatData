@@ -1,0 +1,26 @@
+{
+  "Name": "Stoneblade",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Force of Negation", "Cryptic Command"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Saheeli Rai"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza, Lord High Artificer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ephemerate"]
+    }
+  ]
+}
