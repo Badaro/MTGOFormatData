@@ -8,11 +8,11 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Ardent Plea"]
+      "Cards": ["Simian Spirit Guide"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Violent Outburst"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Ardent Plea","Violent Outburst","Demonic Dread"]
     }
   ]
 }
