@@ -1,6 +1,6 @@
 {
   "Name": "TurboTibalt",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
