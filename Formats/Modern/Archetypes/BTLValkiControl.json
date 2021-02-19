@@ -1,0 +1,18 @@
+{
+  "Name": "BTLValkiControl",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Valki, God of Lies"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bring to Light"]
+    },
+    {
+      "Type": "InMainOrSideboard",
+      "Cards": ["Cryptic Command"]
+    }
+  ]
+}
