@@ -11,16 +11,24 @@
       "Cards": ["Valakut, the Molten Pinnacle"]
     },
     {
-      "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Search for Tomorrow","Growth Spiral","Farseek","Mwonvuli Acid-Moss","Explore","Uro, Titan of Nature's Wrath"]
-    },
-    {
       "Type": "OneOrMoreINMainboard",
       "Cards": ["Remand","Bring to Light"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Primeval Titan"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "BTLScapeshift",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Bring to Light"]
+        }
+      ]
     }
   ]
 }
