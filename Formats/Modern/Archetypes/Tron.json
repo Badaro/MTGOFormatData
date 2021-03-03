@@ -26,15 +26,15 @@
         },
         {
           "Type": "InMainboard",
-          "Cards": ["Expedition Map"]
-        },
-        {
-          "Type": "InMainboard",
           "Cards": ["Ancient Stirrings"]
         },
         {
           "Type": "InMainboard",
           "Cards": ["Sylvan Scrying"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Oath of Nissa"]
         }
       ]
     },
@@ -43,16 +43,8 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "Type": "InMainboard",
-          "Cards": ["Academy Ruins"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Condescend"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Remand"]
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Condescend","Remand"]
         }
       ]
     },
@@ -80,22 +72,6 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Urza's Tower"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Urza's Mine"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Urza's Power Plant"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Expedition Map"]
-        },
-        {
-          "Type": "InMainboard",
           "Cards": ["Coretapper"]
         },
         {
@@ -105,6 +81,20 @@
         {
           "Type": "InMainboard",
           "Cards": ["Everflowing Chalice"]
+        }
+      ]
+    },
+    {
+      "Name": "OathTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Oath of Nissa"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Doubling Season"]
         }
       ]
     }
