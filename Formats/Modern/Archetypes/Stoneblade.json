@@ -8,11 +8,15 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Force of Negation", "Cryptic Command"]
+      "Cards": ["Force of Negation", "Cryptic Command", "Mana Leak"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Saheeli Rai"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
     },
     {
       "Type": "DoesNotContain",
