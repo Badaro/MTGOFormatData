@@ -53,6 +53,10 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Obosh, the Preypiercer"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Force of Rage"]
         }
       ]
     },
