@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Gyruda, Doom of Depths"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Indomitable Creativity"]
     }
   ],
   "Variants": [
