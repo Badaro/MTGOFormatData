@@ -1,6 +1,6 @@
 {
-  "Name": "IzzetKikiJiki",
-  "IncludeColorInName": false,
+  "Name": "KikiJiki",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -8,7 +8,7 @@
     },
 	{
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Deceiver Exarch", "Pestermite"]
+      "Cards": ["Deceiver Exarch", "Pestermite", "Restoration Angel"]
     },
 	{
       "Type": "OneOrMoreInMainboard",
