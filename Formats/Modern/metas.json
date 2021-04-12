@@ -10,6 +10,7 @@
       { "StartDate": "2020-07-14", "Name": "PostAstrolabeBan" },
       { "StartDate": "2020-09-16", "Name": "PostZendikarRising" },
       { "StartDate": "2021-01-28", "Name": "PostKaldheim" },
-      { "StartDate": "2021-02-17", "Name": "PostUroBan" }
+      { "StartDate": "2021-02-17", "Name": "PostUroBan" },
+      { "StartDate": "2021-04-15", "Name": "PostStrixhaven" }
    ]
 }
