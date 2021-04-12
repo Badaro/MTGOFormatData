@@ -11,8 +11,8 @@
       "Cards": ["Primeval Titan"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Uro, Titan of Nature's Wrath"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Uro, Titan of Nature's Wrath", "Bonecrusher Giant"]
     }
   ]
 }
