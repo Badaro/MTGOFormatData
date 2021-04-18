@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Llanowar Elves"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Llanowar Elves","Elvish Mystic"]
     },
     {
       "Type": "TwoOrMoreInMainboard",
