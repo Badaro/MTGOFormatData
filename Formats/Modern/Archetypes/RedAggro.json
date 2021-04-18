@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon"]
+      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Clever Lumimancer"]
     },
     {
       "Type": "OneOrMoreInMainboard",
