@@ -1,0 +1,18 @@
+{
+  "Name": "AuraReanimator",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Storm Herald"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Eldrazi Conscription"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Unearth"]
+    }
+  ]
+}
