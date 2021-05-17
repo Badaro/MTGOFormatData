@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lightning Bolt"]
+      "Cards": ["Lightning Bolt", "Ground Rift"]
     },
     {
       "Type": "DoesNotContain",
