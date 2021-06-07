@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Force of Negation", "Cryptic Command", "Mana Leak"]
+      "Cards": ["Force of Negation", "Cryptic Command", "Mana Leak", "Counterspell"]
     },
     {
       "Type": "DoesNotContain",
