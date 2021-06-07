@@ -12,7 +12,7 @@
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Vapor Snag","Remand","Mana Leak","Force of Negation","Archmage's Charm","Stubborn Denial"]
+      "Cards": ["Vapor Snag","Remand","Mana Leak","Force of Negation","Archmage's Charm","Stubborn Denial", "Counterspell"]
     }
   ]
 }
