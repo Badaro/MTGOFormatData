@@ -1,0 +1,14 @@
+{
+  "Name": "ShardlessCascade",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Shardless Agent"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Crashing Footfalls"]
+    }
+  ]
+}

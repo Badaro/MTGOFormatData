@@ -1,0 +1,18 @@
+{
+  "Name": "Reanimator",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Unburial Rites"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Unmarked Grave"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Priest of Fell Rites"]
+    }
+  ]
+}

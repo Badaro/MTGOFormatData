@@ -21,7 +21,11 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Grinding Station"]
-    }
+    },
+	{
+	  "Type": "DoesNotContain",
+	  "Cards": ["Lantern of Insight"]
+	}
   ],
   "Variants": [
     {
@@ -31,16 +35,6 @@
         {
           "Type": "InMainboard",
           "Cards": ["Urza, Lord High Artificer"]
-        }
-      ]
-    },
-    {
-      "Name": "Lantern",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Lantern of Insight"]
         }
       ]
     }
