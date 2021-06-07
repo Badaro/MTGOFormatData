@@ -1,14 +1,14 @@
 {
-  "Name": "Spirits",
+  "Name": "UrzaManufactor",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Supreme Phantom"]
+      "Cards": ["Urza, Lord High Artificer"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Mausoleum Wanderer"]
+      "Cards": ["Academy Manufactor"]
     }
   ]
 }

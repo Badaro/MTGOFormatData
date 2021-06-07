@@ -1,14 +1,14 @@
 {
-  "Name": "Spirits",
+  "Name": "Enchantress",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Supreme Phantom"]
+      "Cards": ["Enchantress's Presence"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Mausoleum Wanderer"]
+      "Cards": ["Solitary Confinement"]
     }
   ]
 }
