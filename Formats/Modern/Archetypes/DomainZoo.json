@@ -15,8 +15,8 @@
       "Cards": ["Lightning Bolt"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Lightning Helix"]
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
     }
   ]
 }
