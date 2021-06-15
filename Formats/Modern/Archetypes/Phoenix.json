@@ -7,8 +7,8 @@
       "Cards": ["Arclight Phoenix"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Izzet Charm"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Izzet Charm","Faithless Salvaging"]
     },
     {
       "Type": "InMainboard",

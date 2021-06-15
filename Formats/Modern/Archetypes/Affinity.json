@@ -7,12 +7,8 @@
       "Cards": ["Ornithopter"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Signal Pest"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Arcbound Ravager"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Arcbound Ravager","Nettlecyst"]
     },
     {
       "Type": "InMainboard",
