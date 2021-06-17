@@ -8,19 +8,19 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Snapcaster Mage"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Lightning Bolt"]
     },
     {
-      "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Counterspell","Force of Negation","Archmage's Charm"]
+      "Type": "InMainboard",
+      "Cards": ["Counterspell"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Delver of Secrets"]
     }
   ]
 }

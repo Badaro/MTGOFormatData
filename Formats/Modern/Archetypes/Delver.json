@@ -6,13 +6,17 @@
       "Type": "InMainboard",
       "Cards": ["Delver of Secrets"]
     },
-    {
+	{
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lightning Bolt","Psionic Blast","Fatal Push"]
+      "Cards": ["Lightning Bolt", "Fatal Push"]
+    },    
+	{
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Remand","Mana Leak","Force of Negation","Archmage's Charm","Counterspell"]
     },
     {
-      "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Vapor Snag","Remand","Mana Leak","Force of Negation","Archmage's Charm","Stubborn Denial", "Counterspell"]
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
     }
   ]
 }
