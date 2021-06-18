@@ -1,0 +1,22 @@
+{
+  "Name": "AsmoFood",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Underworld Cookbook"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Witch's Oven","Ovalchase Daredevil"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    }
+  ]
+}
