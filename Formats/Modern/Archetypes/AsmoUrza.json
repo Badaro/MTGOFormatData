@@ -1,5 +1,5 @@
 {
-  "Name": "AsmoFood",
+  "Name": "AsmoUrza",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -11,8 +11,8 @@
       "Cards": ["The Underworld Cookbook"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Witch's Oven","Gilded Goose"]
+      "Type": "InMainboard",
+      "Cards": ["Urza, Lord High Artificer"]
     },
     {
       "Type": "DoesNotContain",
