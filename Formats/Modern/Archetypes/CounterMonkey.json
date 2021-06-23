@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Delver of Secrets"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
     }
   ]
 }
