@@ -11,8 +11,8 @@
       "Cards": ["Risen Reef"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Thunderkin Awakener"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thunderkin Awakener","Omnath, Locus of the Roil"]
     }
   ]
 }

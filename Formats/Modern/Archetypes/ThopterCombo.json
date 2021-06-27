@@ -25,6 +25,10 @@
 	{
 	  "Type": "DoesNotContain",
 	  "Cards": ["Lantern of Insight"]
+	},
+	{
+	  "Type": "DoesNotContain",
+	  "Cards": ["Asmoranomardicadaistinaculdacar"]
 	}
   ],
   "Variants": [

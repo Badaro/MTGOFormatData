@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Glistener Elf"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Glistener Elf","Blighted Agent"]
     },
     {
       "Type": "InMainboard",
