@@ -1,0 +1,22 @@
+{
+  "Name": "EmryAffinity",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Emry, Lurker of the Loch"]
+    },
+	{
+      "Type": "InMainboard",
+      "Cards": ["Thought Monitor"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Frogmite","Sojourner's Companion"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ornithopter","Memnite"]
+    }
+  ]
+}

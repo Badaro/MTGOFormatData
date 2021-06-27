@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Academy Manufactor"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
     }
   ]
 }
