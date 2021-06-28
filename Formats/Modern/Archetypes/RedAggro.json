@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Clever Lumimancer"]
+      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Clever Lumimancer","Ragavan, Nimble Pilferer","Dragon's Rage Channeler"]
     },
     {
       "Type": "OneOrMoreInMainboard",
@@ -21,6 +21,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Arclight Phoenix"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Delver of Secrets"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dauthi Voidwalker"]
     }
   ],
   "Variants": [
@@ -75,6 +83,16 @@
         {
           "Type": "InSideboard",
           "Cards": ["Obosh, the Preypiercer"]
+        }
+      ]
+    },
+    {
+      "Name": "CounterMonkey",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Counterspell"]
         }
       ]
     }
