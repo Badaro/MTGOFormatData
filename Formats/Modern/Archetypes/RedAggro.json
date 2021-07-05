@@ -92,7 +92,11 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Counterspell"]
+          "Cards": ["Ragavan, Nimble Pilferer"]
+        },
+	    {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Counterspell","Force of Negation"]
         }
       ]
     }

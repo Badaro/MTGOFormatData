@@ -4,15 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Flamekin Harbinger"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Risen Reef"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Thunderkin Awakener","Omnath, Locus of the Roil"]
+      "Cards": ["Thunderkin Awakener","Omnath, Locus of the Roil","Omnath, Locus of Creation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Glimpse of Tomorrow"]
     }
   ]
 }
