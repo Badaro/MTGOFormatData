@@ -12,6 +12,7 @@
       { "StartDate": "2021-01-28", "Name": "PostKaldheim" },
       { "StartDate": "2021-02-17", "Name": "PostUroBan" },
       { "StartDate": "2021-04-14", "Name": "PostStrixhaven" },
-      { "StartDate": "2021-06-03", "Name": "PostModernHorizons2" }
+      { "StartDate": "2021-06-03", "Name": "PostModernHorizons2" },
+      { "StartDate": "2021-07-08", "Name": "PostForgottenRealms" }
    ]
 }
