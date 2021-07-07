@@ -44,7 +44,7 @@ namespace CardListUpdater
                 foreach (var card in set.data.cards)
                 {
                     string cardName;
-                    if (card.layout == "transform" || card.layout == "flip" || card.layout == "adventure" || card.layout == "meld" || card.layout == "modal_dfc") cardName = card.faceName;
+                    if (card.layout == "transform" || card.layout == "flip" || card.layout == "adventure" || card.layout == "modal_dfc") cardName = card.faceName;
                     else cardName = card.name;
 
                     if (addedCards.Contains(cardName)) continue;
