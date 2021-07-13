@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainOrSideboard",
-      "Cards": ["Leonin Arbiter","Ethersworn Canonist","Aven Mindcensor","Meddling Mage"]
+      "Cards": ["Leonin Arbiter","Ethersworn Canonist","Aven Mindcensor","Meddling Mage","Tithe Taker"]
     },
     {
       "Type": "DoesNotContain",
