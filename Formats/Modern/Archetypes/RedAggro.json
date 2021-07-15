@@ -96,7 +96,7 @@
         },
 	    {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Counterspell","Force of Negation"]
+          "Cards": ["Counterspell","Force of Negation","Drown in the Loch"]
         }
       ]
     }
