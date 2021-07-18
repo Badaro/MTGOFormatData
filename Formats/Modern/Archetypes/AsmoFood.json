@@ -12,11 +12,15 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Witch's Oven","Gilded Goose"]
+      "Cards": ["Witch's Oven","Gilded Goose","Ovalchase Daredevil"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza, Lord High Artificer"]
     }
   ]
 }

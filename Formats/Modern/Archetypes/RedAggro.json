@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Dauthi Voidwalker"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
     }
   ],
   "Variants": [
