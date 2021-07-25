@@ -97,6 +97,28 @@
           "Cards": ["Doubling Season"]
         }
       ]
+    },
+    {
+      "Name": "PrisonTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Chalice of the Void"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Ensnaring Bridge"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Inventors' Fair"]
+        },
+		{
+          "Type": "DoesNotContain",
+          "Cards": ["Coretapper"]
+        }
+      ]
     }
   ]
 }
