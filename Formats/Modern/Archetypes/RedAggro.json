@@ -27,7 +27,7 @@
       "Cards": ["Delver of Secrets"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Dauthi Voidwalker"]
     },
 	{
@@ -101,6 +101,24 @@
 	    {
           "Type": "OneOrMoreInMainboard",
           "Cards": ["Counterspell","Force of Negation","Drown in the Loch"]
+        }
+      ]
+    },
+    {
+      "Name": "SagaAggro",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Urza's Saga"]
+        },
+	    {
+          "Type": "InMainboard",
+          "Cards": ["Esper Sentinel"]
+        },
+	    {
+          "Type": "InMainboard",
+          "Cards": ["Bomat Courier"]
         }
       ]
     }

@@ -1,0 +1,14 @@
+{
+  "Name": "SeismicSwans",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Swans of Bryn Argoll"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Seismic Assault"]
+    }
+  ]
+}

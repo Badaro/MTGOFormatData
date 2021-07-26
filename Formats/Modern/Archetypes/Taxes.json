@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainOrSideboard",
-      "Cards": ["Leonin Arbiter","Ethersworn Canonist","Aven Mindcensor","Meddling Mage","Tithe Taker","Archon of Emeria"]
+      "Cards": ["Leonin Arbiter","Ethersworn Canonist","Aven Mindcensor","Meddling Mage","Tithe Taker","Archon of Emeria","Esper Sentinel","Kitesail Freebooter","Tidehollow Sculler"]
     },
     {
       "Type": "DoesNotContain",
