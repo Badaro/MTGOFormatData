@@ -14,5 +14,17 @@
       "Type": "DoesNotContain",
       "Cards": ["Electrodominance"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "ShardlessLivingEnd",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Shardless Agent"]
+        }
+      ]
+    }
   ]
 }
