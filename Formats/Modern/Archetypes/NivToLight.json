@@ -11,8 +11,8 @@
       "Cards": ["Bring to Light"]
     },
     {
-      "Type": "InMainOrSideboard",
-      "Cards": ["Lightning Helix"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Lightning Helix","Kaya's Guile"]
     },
     {
       "Type": "OneOrMoreInMainboard",
