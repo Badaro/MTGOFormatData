@@ -1,6 +1,6 @@
 {
-  "Name": "PrimevalTitan",
-  "IncludeColorInName": false,
+  "Name": "Titan",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",

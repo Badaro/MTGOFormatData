@@ -1,6 +1,6 @@
 {
-  "Name": "RedAggro",
-  "IncludeColorInName": false,
+  "Name": "Aggro",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",

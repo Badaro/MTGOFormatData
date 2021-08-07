@@ -1,6 +1,6 @@
 {
-  "Name": "GreenEldrazi",
-  "IncludeColorInName": false,
+  "Name": "Eldrazi",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
