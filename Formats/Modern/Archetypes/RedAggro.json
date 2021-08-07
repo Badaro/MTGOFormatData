@@ -33,6 +33,10 @@
 	{
       "Type": "DoesNotContain",
       "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Wrenn and Six"]
     }
   ],
   "Variants": [
