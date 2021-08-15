@@ -44,7 +44,7 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Condescend","Remand"]
+          "Cards": ["Condescend","Remand","Repeal"]
         }
       ]
     },
