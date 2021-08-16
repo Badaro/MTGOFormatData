@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Unburial Rites"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Unburial Rites","Priest of Fell Rites"]
     },
     {
       "Type": "InMainboard",
@@ -12,7 +12,7 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Priest of Fell Rites"]
+      "Cards": ["Archon of Cruelty"]
     }
   ]
 }
