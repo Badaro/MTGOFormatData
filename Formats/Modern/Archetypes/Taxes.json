@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Heliod, Sun-Crowned"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
     }
   ],
   "Variants": [

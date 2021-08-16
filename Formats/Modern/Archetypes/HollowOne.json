@@ -7,16 +7,28 @@
       "Cards": ["Hollow One"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Flameblade Adept"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Flameblade Adept","Ox of Agonas"]
     },
     {
       "Type": "InMainboard",
       "Cards": ["Burning Inquiry"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Goblin Lore"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Goblin Lore","Cathartic Reunion"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Hollowvine",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Vengevine"]
+        }
+      ]
     }
   ]
 }

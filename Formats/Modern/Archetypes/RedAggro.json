@@ -76,6 +76,10 @@
         },
         {
           "Type": "DoesNotContainMainboard",
+          "Cards": ["Force of Negation"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
           "Cards": ["Skullcrack"]
         }
       ]

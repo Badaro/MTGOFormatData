@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Grapeshot"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Charbelcher"]
     }
   ]
 }
