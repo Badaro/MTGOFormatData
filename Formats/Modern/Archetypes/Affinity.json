@@ -3,16 +3,12 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Ornithopter"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ornithopter","Memnite"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Arcbound Ravager","Nettlecyst","Neoform"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Cranial Plating"]
+      "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion"]
     }
   ]
 }
