@@ -1,0 +1,18 @@
+{
+  "Name": "GenericSaga",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Dragon's Rage Channeler"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Saga"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    }
+  ]
+}

@@ -7,8 +7,8 @@
       "Cards": ["Living End"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Street Wraith"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Street Wraith","Desert Cerodon"]
     },
     {
       "Type": "DoesNotContain",
@@ -23,7 +23,11 @@
         {
           "Type": "InMainboard",
           "Cards": ["Shardless Agent"]
-        }
+        },
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Force of Negation"]
+		}
       ]
     }
   ]
