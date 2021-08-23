@@ -17,7 +17,7 @@
   ],
   "Variants": [
     {
-      "Name": "ShardlessLivingEnd",
+      "Name": "BlueLivingEnd",
       "IncludeColorInName": false,
       "Conditions": [
         {
