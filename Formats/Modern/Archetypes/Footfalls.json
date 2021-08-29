@@ -1,6 +1,6 @@
 {
-  "Name": "ShardlessRhinos",
-  "IncludeColorInName": false,
+  "Name": "Footfalls",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",

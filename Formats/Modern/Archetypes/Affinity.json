@@ -9,6 +9,10 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
     }
   ]
 }
