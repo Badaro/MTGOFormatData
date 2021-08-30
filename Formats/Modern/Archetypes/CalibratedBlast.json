@@ -1,0 +1,14 @@
+{
+  "Name": "CalibratedBlast",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Calibrated Blast"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Throes of Chaos"]
+    }
+  ]
+}
