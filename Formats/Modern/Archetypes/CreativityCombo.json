@@ -1,5 +1,5 @@
 {
-  "Name": "Polymorph",
+  "Name": "CreativityCombo",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Polymorph","Indomitable Creativity"]
+      "Cards": ["Indomitable Creativity","Transmogrify"]
     },
     {
       "Type": "InMainboard",
