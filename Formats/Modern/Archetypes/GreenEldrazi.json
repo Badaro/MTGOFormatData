@@ -20,7 +20,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Karplusan Forest","Brushland","Llanowar Wastes","Yavimaya Coast","Grove of the Burnwillows","Cavern of Souls"]
+      "Cards": ["Karplusan Forest","Brushland","Llanowar Wastes","Yavimaya Coast","Grove of the Burnwillows","Cavern of Souls","Hashep Oasis"]
     },
     {
       "Type": "DoesNotContain",
