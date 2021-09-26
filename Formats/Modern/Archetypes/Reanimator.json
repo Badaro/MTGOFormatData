@@ -7,8 +7,8 @@
       "Cards": ["Unburial Rites","Priest of Fell Rites"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Unmarked Grave"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Unmarked Grave","Faithful Mending"]
     },
     {
       "Type": "InMainboard",
