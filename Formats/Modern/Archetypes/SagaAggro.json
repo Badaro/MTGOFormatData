@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Dragon's Rage Channeler"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Dragon's Rage Channeler","Ragavan, Nimble Pilferer"]
     },
     {
       "Type": "InMainboard",
@@ -17,6 +17,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Counterspell"]
     }
   ]
 }
