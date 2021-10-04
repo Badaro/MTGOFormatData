@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Ornithopter","Memnite"]
+      "Cards": ["Ornithopter","Memnite","Esper Sentinel"]
     },
     {
       "Type": "OneOrMoreInMainboard",
