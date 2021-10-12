@@ -4,15 +4,11 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Plumb the Forbidden"]
+      "Cards": ["Mayhem Devil"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Crack the Earth"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Village Rites"]
+      "Cards": ["Goblin Bombardment"]
     }
   ]
 }
