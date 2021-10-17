@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Whir of Invention","Emry, Lurker of the Loch"]
+      "Cards": ["Whir of Invention","Emry, Lurker of the Loch","Urza, Lord High Artificer"]
     },
     {
       "Type": "InMainboard",
