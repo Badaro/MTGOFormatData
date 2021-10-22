@@ -7,10 +7,6 @@
       "Cards": ["Hollow One"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Flameblade Adept","Ox of Agonas"]
-    },
-    {
       "Type": "InMainboard",
       "Cards": ["Burning Inquiry"]
     },

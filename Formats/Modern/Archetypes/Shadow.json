@@ -7,8 +7,8 @@
       "Cards": ["Death's Shadow"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Thoughtseize"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thoughtseize","Street Wraith"]
     },
     {
       "Type": "DoesNotContain",

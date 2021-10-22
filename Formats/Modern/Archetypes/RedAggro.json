@@ -4,11 +4,11 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Clever Lumimancer","Ragavan, Nimble Pilferer","Dragon's Rage Channeler"]
+      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Nivmagus Elemental","Clever Lumimancer","Ragavan, Nimble Pilferer","Dragon's Rage Channeler"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lightning Bolt", "Ground Rift"]
+      "Type": "InMainboard",
+      "Cards": ["Lightning Bolt"]
     },
     {
       "Type": "DoesNotContain",
@@ -53,6 +53,10 @@
 	{
 	  "Type": "DoesNotContain",
 	  "Cards": ["Reckless Bushwhacker"]
+	},
+	{
+	  "Type": "DoesNotContain",
+	  "Cards": ["Ground Rift"]
 	}
   ],
   "Variants": [
