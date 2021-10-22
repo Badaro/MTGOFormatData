@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Priest of Fell Rites"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Unburial Rites"]
     }
   ]
 }

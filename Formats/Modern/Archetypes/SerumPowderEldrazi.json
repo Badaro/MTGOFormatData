@@ -1,26 +1,22 @@
 {
-  "Name": "Zoo",
+  "Name": "SerumPowderEldrazi",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Goblin Guide"]
+      "Cards": ["Eldrazi Temple"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Atarka's Command"]
+      "Cards": ["Serum Powder"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Wild Nacatl"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Kird Ape"]
+      "Cards": ["Gemstone Caverns"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Goblin Bushwhacker"]
+      "Cards": ["Urza's Tower"]
     }
   ]
 }

@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["The Rack"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Priest of Fell Rites"]
     }
   ]
 }

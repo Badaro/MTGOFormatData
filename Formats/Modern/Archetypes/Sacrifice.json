@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Goblin Bombardment"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
     }
   ]
 }

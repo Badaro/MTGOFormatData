@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Sword of the Meek"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Paradoxical Outcome"]
     }
   ]
 }

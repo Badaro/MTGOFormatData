@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainOrSideboard",
-      "Cards": ["Leonin Arbiter","Ethersworn Canonist","Aven Mindcensor","Meddling Mage","Tithe Taker","Archon of Emeria","Esper Sentinel","Kitesail Freebooter","Tidehollow Sculler"]
+      "Cards": ["Leonin Arbiter","Ethersworn Canonist","Aven Mindcensor","Meddling Mage","Tithe Taker","Archon of Emeria","Esper Sentinel","Kitesail Freebooter","Tidehollow Sculler","Drannith Magistrate"]
     },
     {
       "Type": "DoesNotContain",
@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Angrath's Marauders"]
     }
   ],
   "Variants": [

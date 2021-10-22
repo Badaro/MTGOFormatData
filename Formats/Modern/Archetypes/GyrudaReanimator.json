@@ -3,16 +3,16 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InSideboard",
+      "Type": "InMainOrSideboard",
       "Cards": ["Gyruda, Doom of Depths"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Primeval Titan"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Primeval Titan","Grave Titan"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Kozilek, Butcher of Truth","Spark Double","Sire of Insanity"]
+      "Cards": ["Kozilek, Butcher of Truth","Spark Double","Sire of Insanity","Sundering Titan"]
     }
   ]
 }

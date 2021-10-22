@@ -3,16 +3,16 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Dryad Militant"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Dryad Militant","Mardu Woe-Reaper"]
     },
     {
       "Type": "InMainboard",
       "Cards": ["Kytheon, Hero of Akros"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Venerated Loxodon"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Venerated Loxodon","Luminarch Aspirant"]
     }
   ]
 }

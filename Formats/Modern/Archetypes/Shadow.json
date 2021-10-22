@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Thoughtseize"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Soaring Thought-Thief"]
     }
   ],
   "Variants": [

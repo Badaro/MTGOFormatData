@@ -13,6 +13,10 @@
     {
       "Type": "TwoOrMoreInMainboard",
       "Cards": ["Goblin Bushwhacker","Reckless Bushwhacker","Burning-Tree Emissary"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Tribal Flames"]
     }
   ]
 }

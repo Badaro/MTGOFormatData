@@ -15,8 +15,8 @@
       "Cards": ["Thalia, Guardian of Thraben","Kitesail Freebooter"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Mantis Rider"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Mantis Rider","Meddling Mage","Intrepid Adversary"]
     }
   ]
 }
