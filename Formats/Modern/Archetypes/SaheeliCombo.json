@@ -13,6 +13,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Chord of Calling"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Flamekin Harbinger"]
     }
   ],
   "Variants": [

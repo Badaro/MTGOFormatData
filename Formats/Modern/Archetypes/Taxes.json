@@ -29,6 +29,18 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Angrath's Marauders"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Supreme Phantom"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Devoted Druid"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Venerated Loxodon"]
     }
   ],
   "Variants": [

@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Jace, the Mind Sculptor"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wilderness Reclamation"]
     }
   ]
 }

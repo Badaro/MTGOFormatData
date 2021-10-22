@@ -13,6 +13,10 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Vendilion Clique","Brazen Borrower"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
     }
   ]
 }

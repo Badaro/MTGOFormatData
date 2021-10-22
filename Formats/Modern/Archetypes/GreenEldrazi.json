@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Leonin Arbiter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza's Tower"]
     }
   ]
 }
