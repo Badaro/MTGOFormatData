@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Primeval Titan"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Niv-Mizzet Reborn"]
     }
   ],
   "Variants": [

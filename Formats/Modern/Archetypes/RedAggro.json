@@ -67,6 +67,10 @@
         {
           "Type": "TwoOrMoreInMainboard",
           "Cards": ["Rift Bolt","Skewer the Critics","Lightning Helix","Boros Charm","Skullcrack","Searing Blaze","Atarka's Command"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Bonecrusher Giant"]
         }
       ]
     },

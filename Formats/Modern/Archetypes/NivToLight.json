@@ -17,6 +17,10 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Assassin's Trophy","Abrupt Decay","Vindicate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Felidar Guardian"]
     }
   ]
 }

@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Goblin Bushwhacker"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Reckless Bushwhacker"]
     }
   ]
 }
