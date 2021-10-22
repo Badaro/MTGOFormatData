@@ -1,5 +1,5 @@
 {
-  "Name": "SunAndMoon",
+  "Name": "ArtifactPrison",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -8,19 +8,15 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Blood Moon"]
+      "Cards": ["Whir of Invention"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Nahiri, the Harbinger"]
+      "Cards": ["Ensnaring Bridge"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Anger of the Gods"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Wrath of God"]
+      "Cards": ["Bottled Cloister"]
     }
   ]
 }

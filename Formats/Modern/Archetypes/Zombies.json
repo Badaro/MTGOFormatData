@@ -11,8 +11,8 @@
       "Cards": ["Gravecrawler"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Diregraf Captain"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Diregraf Captain","Undead Augur"]
     }
   ]
 }

@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Summoner's Pact","Hour of Promise","Elvish Reclaimer","Sakura-Tribe Elder","Once Upon a Time","Search for Tomorrow"]
+      "Cards": ["Summoner's Pact","Hour of Promise","Elvish Reclaimer","Sakura-Tribe Elder","Once Upon a Time","Search for Tomorrow","Dryad of the Ilysian Grove"]
     },
     {
       "Type": "DoesNotContain",
@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Violent Outburst"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza's Tower"]
     }
   ],
   "Variants": [

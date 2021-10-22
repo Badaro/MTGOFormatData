@@ -3,12 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Goblin Guide"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Atarka's Command"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Goblin Guide","Pelt Collector","Akoum Hellhound"]
     },
     {
       "Type": "TwoOrMoreInMainboard",
@@ -17,6 +13,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Tribal Flames"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Grenade"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kuldotha Rebirth"]
     }
   ]
 }

@@ -11,12 +11,8 @@
       "Cards": ["Atarka's Command"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Wild Nacatl"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Kird Ape"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Wild Nacatl","Steppe Lynx","Kird Ape","Akoum Hellhound"]
     },
     {
       "Type": "DoesNotContain",

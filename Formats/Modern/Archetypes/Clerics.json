@@ -1,18 +1,18 @@
 {
-  "Name": "MartyrProc",
+  "Name": "Clerics",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Martyr of Sands"]
+      "Cards": ["Cleric of Life's Bond"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Serra Ascendant"]
+      "Cards": ["Luminarch Aspirant"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Squadron Hawk"]
+      "Cards": ["Taborax, Hope's Demise"]
     }
   ]
 }

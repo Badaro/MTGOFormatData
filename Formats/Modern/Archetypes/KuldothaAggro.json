@@ -3,12 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Goblin Bushwhacker"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Reckless Bushwhacker"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Goblin Bushwhacker","Reckless Bushwhacker","Burning-Tree Emissary","Memnite"]
     },
     {
       "Type": "InMainboard",

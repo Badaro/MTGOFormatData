@@ -25,12 +25,8 @@
           "Cards": ["Forest","Snow-Covered Forest"]
         },
         {
-          "Type": "InMainboard",
-          "Cards": ["Ancient Stirrings"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Sylvan Scrying"]
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Ancient Stirrings","Sylvan Scrying"]
         },
         {
           "Type": "DoesNotContain",
@@ -63,6 +59,10 @@
         {
           "Type": "OneOrMoreInMainboard",
           "Cards": ["Reality Smasher","Oblivion Sower"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Ancient Stirrings"]
         }
       ]
     },

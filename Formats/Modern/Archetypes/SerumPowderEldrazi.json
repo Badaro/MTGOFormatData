@@ -11,10 +11,6 @@
       "Cards": ["Serum Powder"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Gemstone Caverns"]
-    },
-    {
       "Type": "DoesNotContain",
       "Cards": ["Urza's Tower"]
     }

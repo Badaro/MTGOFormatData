@@ -8,11 +8,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Primeval Titan","Grave Titan"]
+      "Cards": ["Primeval Titan","Grave Titan","Dragonlord Kolaghan"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Kozilek, Butcher of Truth","Spark Double","Sire of Insanity","Sundering Titan"]
+      "Cards": ["Ulamog, the Ceaseless Hunger","Kozilek, Butcher of Truth","Spark Double","Sire of Insanity","Sundering Titan"]
     }
   ]
 }

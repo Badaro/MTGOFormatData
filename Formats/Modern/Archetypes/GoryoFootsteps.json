@@ -1,0 +1,14 @@
+{
+  "Name": "GoryoFootsteps",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Footsteps of the Goryo"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Jace, Vryn's Prodigy"]
+    }
+  ]
+}
