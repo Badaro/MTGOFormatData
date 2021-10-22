@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "GreenDevotion",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Nykthos, Shrine to Nyx"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Oath of Nissa"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Burning-Tree Emissary"]
     }
   ]
 }

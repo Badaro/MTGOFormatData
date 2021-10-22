@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Summoner's Pact","Hour of Promise","Elvish Reclaimer","Sakura-Tribe Elder","Once Upon a Time","Search for Tomorrow"]
+      "Cards": ["Summoner's Pact","Hour of Promise","Elvish Reclaimer","Sakura-Tribe Elder","Once Upon a Time"]
     },
     {
       "Type": "DoesNotContain",
@@ -21,10 +21,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Indomitable Creativity"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Violent Outburst"]
     }
   ],
   "Variants": [
@@ -71,24 +67,6 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Amulet of Vigor"]
-        }
-      ]
-    },
-    {
-      "Name": "BreachTitan",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Through the Breach"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Amulet of Vigor"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Scapeshift"]
         }
       ]
     }

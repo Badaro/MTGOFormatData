@@ -1,0 +1,14 @@
+{
+  "Name": "EightRack",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["The Rack", "Shrieking Affliction", "Davriel, Rogue Shadowmage"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ensnaring Bridge","Smallpox"]
+    }
+  ]
+}

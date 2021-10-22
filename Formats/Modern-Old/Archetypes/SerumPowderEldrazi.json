@@ -1,0 +1,22 @@
+{
+  "Name": "SerumPowderEldrazi",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Eldrazi Temple"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Serum Powder"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Gemstone Caverns"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza's Tower"]
+    }
+  ]
+}

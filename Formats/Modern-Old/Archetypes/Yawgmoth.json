@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "Yawgmoth",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Yawgmoth, Thran Physician"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Young Wolf"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Strangleroot Geist"]
     }
   ]
 }

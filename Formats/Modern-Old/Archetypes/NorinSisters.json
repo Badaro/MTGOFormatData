@@ -1,0 +1,14 @@
+{
+  "Name": "NorinSisters",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Soul Warden","Soul's Attendant"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Norin the Wary"]
+    }
+  ]
+}

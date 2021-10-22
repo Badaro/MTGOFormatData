@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "Ninjas",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Ninja of the Deep Hours"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Mist-Syndicate Naga"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Ingenious Infiltrator"]
     }
   ]
 }

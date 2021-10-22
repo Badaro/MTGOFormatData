@@ -1,0 +1,14 @@
+{
+  "Name": "TwiddleStorm",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Twiddle","Dream's Grip"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lotus Field"]
+    }
+  ]
+}

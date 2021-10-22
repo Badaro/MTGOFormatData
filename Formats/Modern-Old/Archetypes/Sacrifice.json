@@ -1,0 +1,18 @@
+{
+  "Name": "Sacrifice",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mayhem Devil"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Bombardment"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "BushwhackerZoo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Guide"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Atarka's Command"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Goblin Bushwhacker","Reckless Bushwhacker","Burning-Tree Emissary"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Tribal Flames"]
+    }
+  ]
+}

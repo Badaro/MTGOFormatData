@@ -1,0 +1,22 @@
+{
+  "Name": "EvershrikeCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Evershrike"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Noose Constrictor"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Vampiric Link"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Rancor"]
+    }
+  ]
+}

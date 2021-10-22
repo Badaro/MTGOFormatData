@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "AuraReanimator",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Storm Herald"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Eldrazi Conscription"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Unearth"]
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "Name": "GyrudaReanimator",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainOrSideboard",
+      "Cards": ["Gyruda, Doom of Depths"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Primeval Titan","Grave Titan"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Kozilek, Butcher of Truth","Spark Double","Sire of Insanity","Sundering Titan"]
+    }
+  ]
+}

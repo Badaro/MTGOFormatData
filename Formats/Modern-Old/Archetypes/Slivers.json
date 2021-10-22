@@ -12,6 +12,10 @@
     },
     {
       "Type": "InMainboard",
+      "Cards": ["Cloudshredder Sliver"]
+    },
+    {
+      "Type": "InMainboard",
       "Cards": ["Galerider Sliver"]
     }
   ]

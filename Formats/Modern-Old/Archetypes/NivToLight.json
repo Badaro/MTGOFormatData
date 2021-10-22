@@ -1,0 +1,26 @@
+{
+  "Name": "NivToLight",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Niv-Mizzet Reborn"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bring to Light"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Lightning Helix","Kaya's Guile"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Assassin's Trophy","Abrupt Decay","Vindicate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Felidar Guardian"]
+    }
+  ]
+}

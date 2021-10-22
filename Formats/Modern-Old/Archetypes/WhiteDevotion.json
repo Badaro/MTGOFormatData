@@ -1,0 +1,26 @@
+{
+  "Name": "WhiteDevotion",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nykthos, Shrine to Nyx"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Heliod, Sun-Crowned"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Walking Ballista"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Knight of the White Orchid","Auriok Champion"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ajani's Pridemate"]
+    }
+  ]
+}

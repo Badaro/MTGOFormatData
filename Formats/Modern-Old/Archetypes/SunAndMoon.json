@@ -1,0 +1,30 @@
+{
+  "Name": "SunAndMoon",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chalice of the Void"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Blood Moon"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chandra, Torch of Defiance"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nahiri, the Harbinger"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Anger of the Gods"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Wrath of God"]
+    }
+  ]
+}

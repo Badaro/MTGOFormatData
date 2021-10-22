@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "Lantern",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Lantern of Insight"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Ensnaring Bridge"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Codex Shredder"]
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "UrzaDiceFactory",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Urza, Lord High Artificer"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Coretapper"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Surge Node"]
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "Name": "Cats",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["King of the Pride"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Feline Sovereign"]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Reanimator",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Unburial Rites","Priest of Fell Rites"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Unmarked Grave","Faithful Mending"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Archon of Cruelty"]
+    }
+  ]
+}

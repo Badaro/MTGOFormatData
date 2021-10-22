@@ -1,0 +1,14 @@
+{
+  "Name": "Mill",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Hedron Crab","Ruin Crab","Glimpse the Unthinkable","Maddening Cacophony"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Archive Trap","Mesmeric Orb"]
+    }
+  ]
+}

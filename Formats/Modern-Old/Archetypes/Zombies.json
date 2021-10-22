@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "Zombies",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Cryptbreaker"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Gravecrawler"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Diregraf Captain"]
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "Name": "SacrificeTokens",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Plumb the Forbidden"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Crack the Earth"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Village Rites"]
+    }
+  ]
+}

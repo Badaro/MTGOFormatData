@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "InverterCombo",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Jace, Wielder of Mysteries"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Thassa's Oracle"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Inverter of Truth"]
     }
   ]
 }

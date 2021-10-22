@@ -1,0 +1,26 @@
+{
+  "Name": "Affinity",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ornithopter","Memnite","Esper Sentinel"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hardened Scales"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sword of the Meek"]
+    }
+  ]
+}

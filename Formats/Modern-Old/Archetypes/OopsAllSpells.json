@@ -1,0 +1,22 @@
+{
+  "Name": "OopsAllSpells",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Balustrade Spy"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Undercity Informer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Narcomoeba"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Creeping Chill"]
+    }
+  ]
+}

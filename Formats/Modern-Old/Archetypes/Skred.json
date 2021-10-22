@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "Skred",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Skred"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Koth of the Hammer"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Chandra, Torch of Defiance"]
     }
   ]
 }

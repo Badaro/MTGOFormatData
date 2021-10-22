@@ -1,0 +1,18 @@
+{
+  "Name": "Elementals",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Risen Reef"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thunderkin Awakener","Omnath, Locus of the Roil","Omnath, Locus of Creation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Glimpse of Tomorrow"]
+    }
+  ]
+}

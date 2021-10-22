@@ -1,0 +1,14 @@
+{
+  "Name": "Allies",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ally Encampment"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Hada Freeblade","Expedition Envoy"]
+    }
+  ]
+}

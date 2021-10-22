@@ -1,0 +1,18 @@
+{
+  "Name": "UrzaManufactor",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza, Lord High Artificer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Academy Manufactor"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    }
+  ]
+}

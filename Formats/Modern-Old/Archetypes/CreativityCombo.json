@@ -1,0 +1,18 @@
+{
+  "Name": "CreativityCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Emrakul, the Aeons Torn","Primeval Titan"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Indomitable Creativity","Transmogrify"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Dwarven Mine"]
+    }
+  ]
+}

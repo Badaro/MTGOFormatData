@@ -1,0 +1,14 @@
+{
+  "Name": "AssaultLoam",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Life from the Loam"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Seismic Assault"]
+    }
+  ]
+}

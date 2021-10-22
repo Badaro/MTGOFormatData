@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "EnduringIdeal",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Enduring Ideal"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Lotus Bloom"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Form of the Dragon"]
     }
   ]
 }

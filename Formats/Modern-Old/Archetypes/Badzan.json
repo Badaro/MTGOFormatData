@@ -1,0 +1,26 @@
+{
+  "Name": "Badzan",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Flickerwisp"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ephemerate"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Eternal Witness"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tidehollow Sculler"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Wasteland Strangler"]
+    }
+  ]
+}

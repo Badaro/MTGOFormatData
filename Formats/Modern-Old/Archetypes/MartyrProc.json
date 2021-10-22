@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "MartyrProc",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Martyr of Sands"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Serra Ascendant"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Squadron Hawk"]
     }
   ]
 }

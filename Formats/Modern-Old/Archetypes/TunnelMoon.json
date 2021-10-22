@@ -1,18 +1,18 @@
 {
-  "Name": "Slivers",
+  "Name": "TunnelMoon",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sliver Hive"]
+      "Cards": ["Tunnel Ignus"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Predatory Sliver"]
+      "Cards": ["Magus of the Moon"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Galerider Sliver"]
+      "Cards": ["Simian Spirit Guide"]
     }
   ]
 }
