@@ -1,0 +1,18 @@
+{
+  "Name": "BroughtBack",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Brought Back"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ephemerate"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Showdown of the Skalds"]
+    }
+  ]
+}
