@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Ephemerate"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Showdown of the Skalds"]
     }
   ]
 }
