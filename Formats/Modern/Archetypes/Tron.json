@@ -1,6 +1,6 @@
 {
-  "Name": "Tron",
-  "IncludeColorInName": false,
+  "Name": "GenericTron",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -40,7 +40,7 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Condescend","Remand","Repeal"]
+          "Cards": ["Condescend","Remand","Repeal","Coax from the Blind Eternities"]
         }
       ]
     },
