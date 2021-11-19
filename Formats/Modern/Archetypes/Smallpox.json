@@ -7,20 +7,24 @@
       "Cards": ["Smallpox"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Liliana of the Veil"]
-    },
-    {
       "Type": "TwoOrMoreInMainboard",
       "Cards": ["Inquisition of Kozilek","Thoughtseize","Raven's Crime"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["The Rack"]
+      "Cards": ["Shrieking Affliction"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Priest of Fell Rites"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Boom // Bust"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Funeral Charm"]
     }
   ]
 }

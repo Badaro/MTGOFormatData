@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["The Rack", "Shrieking Affliction", "Davriel, Rogue Shadowmage"]
+      "Cards": ["The Rack", "Shrieking Affliction", "Davriel, Rogue Shadowmage","Raven's Crime"]
     },
     {
       "Type": "OneOrMoreInMainboard",
