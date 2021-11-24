@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Funeral Charm"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wrench Mind"]
     }
   ]
 }
