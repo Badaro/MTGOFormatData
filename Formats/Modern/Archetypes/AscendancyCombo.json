@@ -7,8 +7,12 @@
       "Cards": ["Jeskai Ascendancy"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Fatestitcher"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Fatestitcher","Emry, Lurker of the Loch"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza, Lord High Artificer"]
     }
   ]
 }

@@ -33,6 +33,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Aether Vial"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Jeskai Ascendancy"]
     }
   ]
 }
