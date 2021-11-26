@@ -37,6 +37,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Jeskai Ascendancy"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dryad of the Ilysian Grove"]
     }
   ]
 }
