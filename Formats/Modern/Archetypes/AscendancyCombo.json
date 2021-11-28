@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Fatestitcher","Emry, Lurker of the Loch"]
+      "Cards": ["Fatestitcher","Emry, Lurker of the Loch","Retraction Helix"]
     },
     {
       "Type": "DoesNotContain",
