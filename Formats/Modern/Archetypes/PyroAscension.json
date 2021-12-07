@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Goblin Charbelcher"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Clever Lumimancer"]
     }
   ]
 }
