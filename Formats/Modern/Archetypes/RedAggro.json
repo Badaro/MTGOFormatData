@@ -118,7 +118,7 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Seasoned Pyromancer","Bomat Courier"]
+          "Cards": ["Seasoned Pyromancer","Bomat Courier","Chandra, Dressed to Kill"]
         },
         {
           "Type": "InSideboard",

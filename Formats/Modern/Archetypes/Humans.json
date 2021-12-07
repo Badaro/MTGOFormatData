@@ -12,11 +12,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Thalia, Guardian of Thraben","Kitesail Freebooter"]
+      "Cards": ["Thalia, Guardian of Thraben","Kitesail Freebooter","Esper Sentinel"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Mantis Rider","Meddling Mage","Intrepid Adversary"]
+      "Cards": ["Mantis Rider","Meddling Mage","Intrepid Adversary","Unsettled Mariner"]
     }
   ]
 }

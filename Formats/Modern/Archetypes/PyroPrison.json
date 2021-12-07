@@ -3,28 +3,20 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Chalice of the Void"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Chalice of the Void","Blood Moon","Ensnaring Bridge"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Blood Moon"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Ensnaring Bridge"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Chandra, Torch of Defiance"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Karn, the Great Creator"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Chandra, Torch of Defiance","Chandra, Dressed to Kill","Karn, the Great Creator"]
     },
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Simian Spirit Guide","Desperate Ritual","Pyretic Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Skred"]
     }
   ]
 }
