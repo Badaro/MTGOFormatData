@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Wrench Mind"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Persist"]
     }
   ]
 }

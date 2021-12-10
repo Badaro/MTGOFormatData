@@ -13,6 +13,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Archon of Cruelty"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Feasting Troll King"]
     }
   ]
 }
