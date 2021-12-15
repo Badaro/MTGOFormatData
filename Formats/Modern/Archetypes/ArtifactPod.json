@@ -1,0 +1,26 @@
+{
+  "Name": "ArtifactPod",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Oswald Fiddlebender"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Shadowspear"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza, Lord High Artificer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thalia, Guardian of Thraben"]
+    }
+  ]
+}
