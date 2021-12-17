@@ -12,10 +12,6 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Teferi, Time Raveler"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Wrenn and Six"]
     },
     {
@@ -23,8 +19,8 @@
       "Cards": ["Karn, the Great Creator"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Dovin, Hand of Control"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Teferi, Time Raveler","Dovin, Hand of Control","Liliana of the Veil","Grist, the Hunger Tide"]
     }
   ]
 }
