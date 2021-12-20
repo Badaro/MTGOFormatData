@@ -2,7 +2,7 @@
 # MTGOFormatData
 Format data for use with MTGOArchetypeParser (https://github.com/Badaro/MTGOArchetypeParser).
 
-## Current maintainers
+## Archetype Definition Maintainers
 
 * Modern: https://github.com/Badaro/
 
