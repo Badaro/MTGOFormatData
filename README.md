@@ -2,6 +2,10 @@
 # MTGOFormatData
 Format data for use with MTGOArchetypeParser (https://github.com/Badaro/MTGOArchetypeParser).
 
+## Current maintainers
+
+* Modern: https://github.com/Badaro/
+
 ## Data Structure
 
 All formats are required to be placed under the "Formats" folder.
