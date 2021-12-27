@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Tribal Flames"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Tribal Flames","Scion of Draco"]
     },
     {
       "Type": "OneOrMoreInMainboard",

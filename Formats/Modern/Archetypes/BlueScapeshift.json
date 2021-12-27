@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Niv-Mizzet Reborn"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Crashing Footfalls"]
     }
   ],
   "Variants": [
