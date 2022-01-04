@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Feasting Troll King"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Indomitable Creativity"]
     }
   ]
 }

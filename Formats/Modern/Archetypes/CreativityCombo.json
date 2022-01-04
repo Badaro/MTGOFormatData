@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Emrakul, the Aeons Torn","Primeval Titan"]
+      "Cards": ["Emrakul, the Aeons Torn","Primeval Titan","Archon of Cruelty"]
     },
     {
       "Type": "OneOrMoreInMainboard",
