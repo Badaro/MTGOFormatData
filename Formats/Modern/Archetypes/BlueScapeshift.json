@@ -35,6 +35,24 @@
         {
           "Type": "InMainboard",
           "Cards": ["Bring to Light"]
+        },
+		{
+          "Type": "DoesNotContain",
+          "Cards": ["Omnath, Locus of Creation"]
+        }
+      ]
+    },
+	{
+      "Name": "OmnathScapeshift",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Bring to Light"]
+        },
+		{
+          "Type": "InMainboard",
+          "Cards": ["Omnath, Locus of Creation"]
         }
       ]
     }
