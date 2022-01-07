@@ -8,11 +8,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Izzet Charm","Faithless Salvaging","Faithful Mending","Thought Scour","Thrill of Possibility"]
+      "Cards": ["Izzet Charm","Faithless Salvaging","Faithful Mending","Thought Scour","Thrill of Possibility","Cathartic Reunion"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Manamorphose"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Manamorphose","Lava Dart"]
     }
   ]
 }

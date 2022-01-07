@@ -58,7 +58,7 @@
         },
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Reality Smasher","Oblivion Sower"]
+          "Cards": ["Reality Smasher","Oblivion Sower","Endbringer"]
         },
         {
           "Type": "DoesNotContain",
