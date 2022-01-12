@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Ad Nauseam"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ad Nauseam","Spoils of the Vault"]
     },
     {
       "Type": "InMainboard",
@@ -17,6 +17,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Pentad Prism"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Inverter of Truth"]
     }
   ]
 }

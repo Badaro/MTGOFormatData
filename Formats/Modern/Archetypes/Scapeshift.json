@@ -1,18 +1,14 @@
 {
-  "Name": "BlueScapeshift",
+  "Name": "Scapeshift",
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
+      "Type": "InMainOrSideboard",
       "Cards": ["Scapeshift"]
     },
     {
       "Type": "InMainboard",
       "Cards": ["Valakut, the Molten Pinnacle"]
-    },
-    {
-      "Type": "OneOrMoreINMainboard",
-      "Cards": ["Remand","Bring to Light"]
     },
     {
       "Type": "DoesNotContain",
@@ -29,6 +25,24 @@
   ],
   "Variants": [
     {
+      "Name": "BlueScapeshift",
+      "IncludeColorInName": false,
+      "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Remand"]
+		},
+		{
+		  "Type": "DoesNotContain",
+		  "Cards": ["Bring to Light"]
+		},
+		{
+		  "Type": "DoesNotContain",
+		  "Cards": ["Omnath, Locus of Creation"]
+		}
+      ]
+    },
+	{
       "Name": "BTLScapeshift",
       "IncludeColorInName": false,
       "Conditions": [
@@ -46,10 +60,6 @@
       "Name": "OmnathScapeshift",
       "IncludeColorInName": false,
       "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Bring to Light"]
-        },
 		{
           "Type": "InMainboard",
           "Cards": ["Omnath, Locus of Creation"]
