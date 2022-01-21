@@ -57,6 +57,10 @@
 	{
 	  "Type": "DoesNotContain",
 	  "Cards": ["Ground Rift"]
+	},
+	{
+	  "Type": "DoesNotContain",
+	  "Cards": ["Grapeshot"]
 	}
   ],
   "Variants": [
