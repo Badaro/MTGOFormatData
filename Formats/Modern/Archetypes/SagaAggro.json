@@ -41,6 +41,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Dryad of the Ilysian Grove"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Oswald Fiddlebender"]
     }
   ]
 }
