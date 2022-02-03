@@ -3,7 +3,7 @@
    [
       { "StartDate": "2019-05-20", "Name": "PostBlueMonday" }, 
       { "StartDate": "2019-06-14", "Name": "PostModernHorizons"},
-      { "StartDate": "2019-06-27", "Name": "PostPauperMaster"},
+      { "StartDate": "2019-07-02", "Name": "PostPauperSanctioning"},
       { "StartDate": "2019-09-26", "Name": "PostEldraine" },
       { "StartDate": "2020-10-21", "Name": "PostAstrolabeBan"}, 
       { "StartDate": "2020-01-17", "Name": "PostTherosBeyondDeath" },
@@ -20,6 +20,6 @@
       { "StartDate": "2021-09-08", "Name": "PostChatterStorm"},
       { "StartDate": "2021-09-16", "Name": "PostMidnightHunt" },
       { "StartDate": "2021-11-11", "Name": "PostCrimsomVow" },
-      { "StartDate": "2022-01-27", "Name": "PostAtogBan"}
+      { "StartDate": "2022-01-21", "Name": "PostAtogBan"}
    ]
 }
