@@ -1,0 +1,10 @@
+{
+    "Name": "EnigmaticIncarnation",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Enigmatic Incarnation"]
+        }
+    ]
+}

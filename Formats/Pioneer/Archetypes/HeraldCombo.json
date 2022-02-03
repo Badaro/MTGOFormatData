@@ -1,0 +1,10 @@
+{
+  "Name": "Herald Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Storm Herald"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "Name": "Cycle Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Drannith Stinger","Songs of the Damned"]
+        }
+    ]
+}

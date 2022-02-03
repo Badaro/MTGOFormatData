@@ -1,0 +1,46 @@
+{
+    "Name": "Maverick",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Swords to Plowshares"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Elvish Spirit Guide"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Vampire Hexmage"]   
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sylvan Safekeeper"]  
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Witherbloom Apprentice", "Chain of Smog", "Noble Hierarch", "Stoneforge Mystic", "Batterskull", "Umezawa's Jitte", "Questing Beast"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Punishing Maverick",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Punishing Fire"]
+                }
+            ]
+        }
+    ]
+}

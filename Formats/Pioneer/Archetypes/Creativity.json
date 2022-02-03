@@ -1,0 +1,18 @@
+{
+  "Name": "Creativity",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Indomitable Creativity"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Locust God"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sage of the Falls"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "Soulflayer",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Soulflayer"]
+    }
+  ]
+}

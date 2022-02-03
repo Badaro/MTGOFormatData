@@ -1,0 +1,22 @@
+{
+  "Name": "Pyromancer",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Young Pyromancer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kroxa, Titan of Death's Hunger","Dreadhorde Arcanist","Village's Rites"]
+    },
+    {
+      "Type": "InSideboard",
+      "Cards": ["Lurrus of the Dream-Den"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Jace, Vryn's Prodigy"]
+    }
+  ]
+}

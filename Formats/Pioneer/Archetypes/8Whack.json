@@ -1,0 +1,14 @@
+{
+  "Name": "8Whack",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Reckless Bushwhacker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Legion Loyalist"]
+    }
+  ]
+}

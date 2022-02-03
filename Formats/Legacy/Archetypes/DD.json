@@ -1,0 +1,78 @@
+{
+    "Name": "Slow Depths",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thespian's Stage"]
+        },
+        {
+            "Type": "TwoOrMoreInMainOrSideboard",
+            "Cards": ["Sylvan Safekeeper","Crop Rotation","Not of This World","Thoughtseize","Sylvan Scrying","Pithing Needle"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Turbo Depths",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Elvish Spirit Guide"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Lotus Petal"]
+                }
+            ]
+        },
+        {
+            "Name": "Depths",
+            "IncludeColorInName": true,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Knight of the Reliquary"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Swords to Plowshares"]
+                },
+                 {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Gaddock Teeg"]
+                },
+                {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Thalia, Guardian of Thraben"]
+                },
+                {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Scryb Ranger"]
+                }
+            ]
+        },
+        {
+            "Name": "Rainbow Depths",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Stifle"]
+                },
+                {
+                    "Type": "InSideboard",
+                    "Cards": ["Flusterstorm"]
+                }
+            ]
+        }
+    ]
+}

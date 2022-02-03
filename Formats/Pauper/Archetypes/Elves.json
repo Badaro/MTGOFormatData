@@ -1,0 +1,18 @@
+{
+    "Name": "Elves",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Birchlore Rangers"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Priest of Titania"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Llanowar Elves"]
+        }
+    ]
+}

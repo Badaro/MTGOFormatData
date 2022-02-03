@@ -1,0 +1,15 @@
+
+{
+   "Metas":
+   [
+        { "StartDate": "2019-05-20", "Name": "BlueMonday" }, 
+        {"StartDate": "2019-06-27", "Name" : "PauperMaster"},
+        {"StartDate": "2019-06-14" , "Name":"ModernHorizons1"}, 
+        {"StartDate":"2019-10-21" , "Name":"PostModernHorizon1"},
+        {"StartDate": "2020-07-13" , "Name":"PostSanctuary"}, 
+        {"StartDate": "2020-11-20" , "Name":"CommanderLegend"}, 
+        {"StartDate": "2021-01-14" , "Name":"PostFallFromFlavor"}, 
+        {"StartDate": "2021-06-18" , "Name":"ModernHorizons2"}, 
+        {"StartDate": "2021-09-08" , "Name":"PostChatterStorm"}
+   ]
+}

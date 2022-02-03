@@ -1,0 +1,22 @@
+{
+  "Name": "ValkiToLight",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bring to Light"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Valki, God of Lies"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Jace, Vryn's Prodigy"]
+    },
+    {
+      "Type": "InSideboard",
+      "Cards": ["Lurrus of the Dream-Den"]
+    }
+  ]
+}

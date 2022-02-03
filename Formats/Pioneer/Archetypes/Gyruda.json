@@ -1,0 +1,14 @@
+{
+  "Name": "Gyruda",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Spark Double", "Sylvan Caryatid"]
+    },
+    {
+      "Type": "InSideboard",
+      "Cards": ["Gyruda, Doom of Depths"]
+    }
+  ]
+}

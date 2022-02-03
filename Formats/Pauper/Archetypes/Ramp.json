@@ -1,0 +1,18 @@
+{
+    "Name": "Ramp",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Annoyed Altisaur"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Llanowar Visionary"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sarulf's Packmate"]
+        }
+    ]
+}

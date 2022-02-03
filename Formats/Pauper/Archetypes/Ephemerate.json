@@ -1,0 +1,26 @@
+{
+    "Name": "Ephemerate",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ephemerate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sunscape Familiar"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Ephemerate Tron",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Urza's Tower"]
+                }
+            ]
+        }
+    ]
+}

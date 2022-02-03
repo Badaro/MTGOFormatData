@@ -1,0 +1,10 @@
+{
+    "Name": "Heliod",
+    "IncludeColorInName": true,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": ["Heliod, Sun-Crowned"]
+      }
+    ]
+  }

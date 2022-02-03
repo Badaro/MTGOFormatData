@@ -1,0 +1,14 @@
+{
+    "Name": "Slivers",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Muscle Sliver"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sinew Sliver"]
+        }
+    ]
+}

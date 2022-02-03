@@ -1,0 +1,10 @@
+{
+  "Name": "Ascendancy",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Jeskai Ascendancy"]
+    }
+  ]
+}

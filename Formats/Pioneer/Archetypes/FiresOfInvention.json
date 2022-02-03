@@ -1,0 +1,22 @@
+{
+  "Name": "FiresOfInvention",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Fires of Invention"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Transmogrify"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Agent of Treachery"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Deafening Clarion"]
+    }
+  ]
+}

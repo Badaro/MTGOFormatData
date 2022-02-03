@@ -1,0 +1,14 @@
+{
+    "Name": "Bogles",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Slippery Bogle"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gladecover Scout"]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "DevotionWalkers",
+    "IncludeColorInName": false,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": ["Nykthos, Shrine to Nyx"]
+      },
+      {
+        "Type": "InMainboard",
+        "Cards": ["Oath of Nissa", "Nissa, Who Shakes the World"]
+      }
+    ]
+  }

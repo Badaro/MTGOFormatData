@@ -1,0 +1,22 @@
+{
+  "Name": "Humans",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thalia's Lieutenant","General Kudro of Drannith"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Pyre",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Pyre of Heroes"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "Elves",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gaea's Cradle"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wirewood Symbiote"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Heritage Druid"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Glimpse of Nature"]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "Midrange",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ardent Elementalist"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Geomancer's Gambit"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Reaping the Graves"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cast Down"]
+        }
+    ]
+}

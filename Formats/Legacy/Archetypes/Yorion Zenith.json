@@ -1,0 +1,26 @@
+{
+    "Name": "Yorion Zenith",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Force of Will"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Noble Hierarch"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Chain of Smog"]
+        }
+    ]
+}

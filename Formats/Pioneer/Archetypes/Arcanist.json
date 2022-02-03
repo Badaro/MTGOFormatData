@@ -1,0 +1,22 @@
+{
+    "Name": "Arcanist",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dreadhorde Arcanist"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Kroxa, Titan of Death's Hunger"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Jace, Vryn's Prodigy"]
+        },
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }
+    ]
+}

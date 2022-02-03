@@ -1,0 +1,14 @@
+{
+  "Name": "Starfield Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Starfield of Nyx"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nine Lives", "Solemnity"]
+    }
+  ]
+}

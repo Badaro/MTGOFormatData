@@ -1,0 +1,26 @@
+{
+    "Name": "Artifacts Blue",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Emry, Lurker of the Loch","Sai, Master Thopterist","Urza, Lord High Artificer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Lotus Petal"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Arcbound Ravager"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Grindstone"]
+        }
+    ]
+}

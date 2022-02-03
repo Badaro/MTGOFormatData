@@ -1,0 +1,11 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Fatal Push",
+    "Assassin's Trophy",
+    "Abrupt Decay",
+    "Scavenging Ooze",
+    "Thoughtseize"
+  ]
+}

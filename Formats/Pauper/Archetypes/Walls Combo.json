@@ -1,0 +1,22 @@
+{
+    "Name": "Walls Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Overgrown Battlement"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Walls Cascade",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Annoyed Altisaur","Boarding Parting"]
+                }
+            ]
+        }
+    ]
+}

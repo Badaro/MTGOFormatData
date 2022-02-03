@@ -1,0 +1,36 @@
+{
+    "Name": "Death & Taxes",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Aether Vial"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wasteland"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Goblins",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Goblin Lackey"]
+                }
+            ]
+        },
+        {
+            "Name": "Vial",
+            "IncludeColorInName": true,
+            "Conditions": [
+                {
+                    "Type": "TwoOrMoreInMainboard",
+                    "Cards": ["Baleful Strix","Lavinia, Azorius Renegade", "Soulherder", "Brainstorm", "Force of Will", "Plague Engineer", "Meddling Mage", "Venser, Shaper Savant"]
+                }
+            ]
+        }
+    ]
+}

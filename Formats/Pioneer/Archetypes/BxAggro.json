@@ -1,0 +1,22 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainOrSideboard",
+      "Cards": ["Knight of the Ebon Legion"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Vampires",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Sorin, Imperious Bloodlord"]
+        }
+      ]
+    }
+  ]
+}

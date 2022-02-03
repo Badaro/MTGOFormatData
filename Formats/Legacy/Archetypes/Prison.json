@@ -1,0 +1,14 @@
+{
+    "Name": "Prison",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Blood Moon", "Chrome Mox", "Goblin Rabblemaster", "Simian Spirit Guide", "Legion Warboss"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Chalice of the Void"]
+        }
+    ]
+}

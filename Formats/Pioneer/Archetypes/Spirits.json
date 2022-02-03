@@ -1,0 +1,30 @@
+{
+  "Name": "Spirits",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mausoleum Wanderer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Rattlechains"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Supreme Phantom"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "BantSpirits",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Collected Company"]
+        }
+      ]
+    }
+  ]
+}

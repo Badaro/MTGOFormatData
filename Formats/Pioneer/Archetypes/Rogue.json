@@ -1,0 +1,18 @@
+{
+  "Name": "Rogue",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Merfolk Windrobber"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Soaring Thought-Thief"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thieves' Guild Enforcer"]
+    }
+  ]
+}

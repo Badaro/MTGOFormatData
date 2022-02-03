@@ -1,0 +1,10 @@
+{
+  "Name": "MonoRBigMana",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Irencrag Feat"]
+    }
+  ]
+}

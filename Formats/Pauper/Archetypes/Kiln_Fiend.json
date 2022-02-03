@@ -1,0 +1,14 @@
+{
+    "Name": "Kiln Fiend",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Kiln Fiend"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Apostle's Blessing"]
+        }
+    ]
+}

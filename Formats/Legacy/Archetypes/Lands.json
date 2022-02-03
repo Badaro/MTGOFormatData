@@ -1,0 +1,10 @@
+{
+    "Name": "Lands",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Exploration"]
+        }
+    ]
+}

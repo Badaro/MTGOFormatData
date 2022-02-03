@@ -1,0 +1,10 @@
+{
+    "Name": "Madness",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Hollow One","Faithless Looting","Putrid Imp","Basking Rootwalla","Blazing Rootwalla","Anger"]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Wildfire",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cleansing Wildfire"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Mulldrifter"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Battle Screech"]
+        }
+    ]
+}

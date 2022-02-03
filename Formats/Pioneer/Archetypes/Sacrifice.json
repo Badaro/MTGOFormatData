@@ -1,0 +1,10 @@
+{
+  "Name": "Sacrifice",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mayhem Devil"]
+    }
+  ]
+}

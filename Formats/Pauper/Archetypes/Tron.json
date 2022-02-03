@@ -1,0 +1,30 @@
+{
+    "Name": "Tron",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Tower"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Ephemerate"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Cascade Tron",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Annoyed Altisaur"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Boarding Parting"]
+                }
+            ]
+        }
+    ]
+}

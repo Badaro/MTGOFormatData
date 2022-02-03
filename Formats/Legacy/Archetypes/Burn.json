@@ -1,0 +1,18 @@
+{
+    "Name": "Burn",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Chain Lightning"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Fireblast"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Price of Progress"]
+        }
+    ]
+}

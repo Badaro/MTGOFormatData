@@ -1,0 +1,18 @@
+{
+  "Name": "Rally",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Rally the Ancestors"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Satyr Wayfinder","Stitcher's Supplier","Blisterpod","Fiend Artisan","Priest of Forgotten Gods"]
+    },
+    {
+      "Type": "InSideboard",
+      "Cards": ["Lurrus of the Dream-Den"]
+    }
+  ]
+}

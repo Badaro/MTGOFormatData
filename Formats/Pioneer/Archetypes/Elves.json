@@ -1,0 +1,22 @@
+{
+  "Name": "Elves",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Elvish Warmaster"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "GolgariElves",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Shaman of the Pack"]
+        }
+      ]
+    }
+  ]
+}

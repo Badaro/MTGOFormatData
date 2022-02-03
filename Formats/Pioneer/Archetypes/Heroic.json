@@ -1,0 +1,26 @@
+{
+    "Name": "Heroic",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Defiant Strike"]
+        },
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }
+    ],
+    "Variants": [
+        {
+          "Name": "Feather",
+          "IncludeColorInName": false,
+          "Conditions": [
+            {
+                "Type": "InMainOrSideboard",
+                "Cards": ["Feather, the Redeemed"]
+            }
+          ]
+        }
+    ]
+}

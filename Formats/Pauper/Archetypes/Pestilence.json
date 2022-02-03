@@ -1,0 +1,14 @@
+{
+    "Name": "Pestilence",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Pestilence"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Guardian of the Guildpact"]
+        }
+    ]
+}

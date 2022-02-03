@@ -1,0 +1,22 @@
+{
+    "Name": "Reanimator",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Exhume"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Reanimate"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Entomb"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Children of Korlis"]
+        }
+    ]
+}

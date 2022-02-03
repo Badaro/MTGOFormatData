@@ -1,0 +1,10 @@
+{
+  "Name": "Burn",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Eidolon of the Great Revel"]
+    }
+  ]
+}

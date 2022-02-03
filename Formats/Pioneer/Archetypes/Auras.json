@@ -1,0 +1,14 @@
+{
+  "Name": "Auras",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sram, Senior Edificer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["All That Glitters"]
+    }
+  ]
+}

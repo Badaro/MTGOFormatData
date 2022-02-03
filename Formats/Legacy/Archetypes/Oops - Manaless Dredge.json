@@ -1,0 +1,22 @@
+{
+    "Name": "Oops! All Spells",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Balustrade Spy"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Manaless Dredge",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Phantasmagorian"]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "Faeries",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Faerie Seer"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Spire Golem"]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Mono Green Aggro",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Rancor"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Burning-Tree Emissary"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Nest Invader"]
+        }
+    ]
+}

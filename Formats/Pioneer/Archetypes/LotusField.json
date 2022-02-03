@@ -1,0 +1,14 @@
+{
+  "Name": "LotusField",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lotus Field"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Blood Sun"]
+    }
+  ]
+}

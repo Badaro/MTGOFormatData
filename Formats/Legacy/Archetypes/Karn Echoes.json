@@ -1,0 +1,14 @@
+{
+    "Name": "Karn Echoes",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Basalt Monolith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        }
+    ]
+}

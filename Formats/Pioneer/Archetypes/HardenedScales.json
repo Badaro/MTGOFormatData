@@ -1,0 +1,10 @@
+{
+    "Name": "HardenedScales",
+    "IncludeColorInName": true,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": ["Hardened Scales"]
+      }
+    ]
+  }

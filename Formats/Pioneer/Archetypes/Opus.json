@@ -1,0 +1,14 @@
+{
+  "Name": "GearhulkOpus",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Torrential Gearhulk"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Magma Opus"]
+    }
+  ]
+}

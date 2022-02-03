@@ -1,0 +1,10 @@
+{
+  "Name": "Phoenix",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Arclight Phoenix"]
+    }
+  ]
+}

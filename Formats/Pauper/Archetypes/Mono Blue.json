@@ -1,0 +1,14 @@
+{
+    "Name": "Mono Blue",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Spire Golem"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Counterspell"]
+        }
+    ]
+}

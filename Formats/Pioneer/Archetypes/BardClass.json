@@ -1,0 +1,10 @@
+{
+  "Name": "Bard class",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bard Class"]
+    }
+  ]
+}

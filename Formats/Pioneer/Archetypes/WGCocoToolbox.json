@@ -1,0 +1,22 @@
+{
+  "Name": "CocoToolbox",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Archon of Emeria"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Elite Spellbinder"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Skyclave Apparition"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Collected Company"]
+    }
+  ]
+}

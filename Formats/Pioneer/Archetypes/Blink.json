@@ -1,0 +1,22 @@
+{
+  "Name": "Blink",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Yorion, Sky Nomad"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Charming Prince"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Teferi, Hero of Dominaria"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enigmatic Incarnation"]
+    }
+  ]
+}
