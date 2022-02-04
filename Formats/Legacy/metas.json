@@ -1,13 +1,22 @@
 {
    Metas:
    [
+      { "StartDate": "2019-11-18", "Name": "PostW6Ban" },
       { "StartDate": "2020-01-17", "Name": "PostTherosBeyondDeath" },
+      { "StartDate": "2020-03-10", "Name": "PostBreachBan" },
       { "StartDate": "2020-04-17", "Name": "PostIkoria" },
+      { "StartDate": "2020-05-18", "Name": "PostLurrusBan" },
+      { "StartDate": "2020-06-01", "Name": "PostCompanionChange" },
       { "StartDate": "2020-06-25", "Name": "PostM21" },
       { "StartDate": "2020-09-16", "Name": "PostZendikarRising" },
+      { "StartDate": "2020-11-20", "Name": "PostCommanderLegends"}, 
       { "StartDate": "2021-01-28", "Name": "PostKaldheim" },
+      { "StartDate": "2021-02-17", "Name": "PostOkoBan" },
       { "StartDate": "2021-04-14", "Name": "PostStrixhaven" },
+      { "StartDate": "2021-06-03", "Name": "PostModernHorizons2" },
       { "StartDate": "2021-07-08", "Name": "PostForgottenRealms" },
-      { "StartDate": "2021-09-16", "Name": "PostMidnightHunt" }
+      { "StartDate": "2021-09-16", "Name": "PostMidnightHunt" },
+      { "StartDate": "2021-11-11", "Name": "PostCrimsomVow" },
+      { "StartDate": "2022-01-27", "Name": "PostRagavanBan" }
    ]
 }
