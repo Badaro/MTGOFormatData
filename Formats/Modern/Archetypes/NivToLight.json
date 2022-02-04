@@ -12,11 +12,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lightning Helix","Kaya's Guile"]
+      "Cards": ["Lightning Helix","Kaya's Guile","Rip Apart"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Assassin's Trophy","Abrupt Decay","Vindicate"]
+      "Cards": ["Assassin's Trophy","Abrupt Decay","Vindicate","Fiery Justice"]
     },
     {
       "Type": "DoesNotContain",
