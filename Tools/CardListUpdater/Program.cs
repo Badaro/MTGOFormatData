@@ -33,24 +33,35 @@ namespace CardListUpdater
             ZipFile.ExtractToDirectory(_mtgJsonTempFile, _mtgJsonFolder);
             File.Delete(_mtgJsonTempFile);
 
-            StringBuilder landList = new StringBuilder();
-            StringBuilder nonLandList = new StringBuilder();
-            HashSet<string> addedCards = new HashSet<string>();
+            List<Set> sets = new List<Set>();
 
             Console.WriteLine("Loading card names from mtgjson data files");
             foreach (string setFile in Directory.GetFiles(_mtgJsonFolder))
             {
-                dynamic set = JsonConvert.DeserializeObject(File.ReadAllText(setFile));
-                foreach (var card in set.data.cards)
+                Console.WriteLine($"- Loading {Path.GetFileNameWithoutExtension(setFile)}");
+
+                dynamic json = JsonConvert.DeserializeObject(File.ReadAllText(setFile));
+                string code = json.data.code;
+                string rawSetDate = json.data.releaseDate;
+                DateTime releaseDate = DateTime.Parse(rawSetDate);
+
+                Set set = new Set()
+                {
+                    Code = code,
+                    ReleaseDate = releaseDate
+                };
+                sets.Add(set);
+
+                foreach (var card in json.data.cards)
                 {
                     string cardName;
-                    if (card.layout == "transform" || card.layout == "flip" || card.layout == "adventure" || card.layout == "modal_dfc") cardName = card.faceName;
+                    if (card.layout == "transform" || card.layout == "flip" || card.layout == "adventure" || card.layout == "meld" || card.layout == "modal_dfc") cardName = card.faceName;
                     else cardName = card.name;
 
-                    if (addedCards.Contains(cardName)) continue;
+                    if (set.Lands.ContainsKey(cardName) || set.NonLands.ContainsKey(cardName)) continue;
                     if (cardName.StartsWith("Leyline of")) continue;
 
-                    bool isSplit = card.layout == "split" || card.layout=="aftermath";
+                    bool isSplit = card.layout == "split" || card.layout == "aftermath";
 
                     bool isLand = false;
                     foreach (var type in card.types) if (type == "Land") isLand = true;
@@ -66,7 +77,7 @@ namespace CardListUpdater
                     if (manaCost != null && manaCost.Replace("{", "").Split("}").Where(c => c == "W" || c == "U" || c == "B" || c == "R" || c == "G").Count() == 0)
                         continue; // Skips colorless, hybrid and pyrexian mana cards
 
-                    bool isModalDfc = card.layout == "modal_dfc";
+                    bool isModalDfcLand = card.layout == "modal_dfc" && (code=="ZNR" || cardName.Contains("Pathway"));
 
                     string fixedColor = "";
                     if (cardColor.Contains('W')) fixedColor += "W";
@@ -82,20 +93,38 @@ namespace CardListUpdater
 
                     if (isLand)
                     {
-                        landList.AppendLine(dataRow);
+                        set.Lands.Add(cardName, dataRow);
                     }
                     else
                     {
-                        nonLandList.AppendLine(dataRow);
-                        if (isModalDfc)
+                        set.NonLands.Add(cardName, dataRow);
+                        if (isModalDfcLand)
                         {
                             // MDFCs that aren't lands on the front side should count for both lists
-                            landList.AppendLine(dataRow);
+                            set.Lands.Add(cardName, dataRow);
                         }
                     }
-
-                    addedCards.Add(cardName);
                 }
+            }
+
+            StringBuilder landList = new StringBuilder();
+            StringBuilder nonLandList = new StringBuilder();
+
+            HashSet<string> addedLands = new HashSet<string>();
+            HashSet<string> addedNonLands = new HashSet<string>();
+
+            foreach (var card in sets.OrderBy(x => x.ReleaseDate).SelectMany(x => x.Lands))
+            {
+                if (addedLands.Contains(card.Key)) continue;
+                landList.AppendLine(card.Value);
+                addedLands.Add(card.Key);
+            }
+
+            foreach (var card in sets.OrderBy(x => x.ReleaseDate).SelectMany(x => x.NonLands))
+            {
+                if (addedNonLands.Contains(card.Key)) continue;
+                nonLandList.AppendLine(card.Value);
+                addedNonLands.Add(card.Key);
             }
 
             string output = _template
@@ -123,5 +152,13 @@ NONLAND_LIST
 }";
 
         #endregion
+    }
+
+    class Set
+    {
+        public string Code { get; set; }
+        public DateTime ReleaseDate { get; set; }
+        public Dictionary<string, string> Lands { get; set; } = new Dictionary<string, string>();
+        public Dictionary<string, string> NonLands { get; set; } = new Dictionary<string, string>();
     }
 }
