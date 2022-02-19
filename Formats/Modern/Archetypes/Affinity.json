@@ -4,11 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Ornithopter","Memnite","Esper Sentinel"]
+      "Cards": ["Ornithopter","Memnite","Esper Sentinel","Springleaf Drum"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion"]
+      "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion","Thought Monitor"]
     },
     {
       "Type": "DoesNotContain",
@@ -29,6 +29,38 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Oswald Fiddlebender"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Underworld Breach"]
     }
-  ]
+  ],
+  "Variants": [
+    {
+      "Name": "UrzaAffinity",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Emry, Lurker of the Loch","The Antiquities War"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Urza, Lord High Artificer"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Thought Monitor"]
+        },
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Razortide Bridge","Silverbluff Bridge"]
+        }
+      ]
+    }
+   ]
 }

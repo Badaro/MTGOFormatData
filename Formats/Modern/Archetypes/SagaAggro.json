@@ -45,6 +45,10 @@
 	{
       "Type": "DoesNotContain",
       "Cards": ["Oswald Fiddlebender"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Thoughtcast"]
     }
   ]
 }

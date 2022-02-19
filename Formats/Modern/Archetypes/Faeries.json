@@ -7,16 +7,28 @@
       "Cards": ["Spellstutter Sprite"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Bitterblossom"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Bitterblossom","Mutavault"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Vendilion Clique","Brazen Borrower"]
+      "Cards": ["Vendilion Clique","Brazen Borrower","Faerie Miscreant"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thalia, Guardian of Thraben"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Soulherder"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Delver of Secrets"]
     }
   ]
 }
