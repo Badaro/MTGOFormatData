@@ -49,6 +49,10 @@
 	{
       "Type": "DoesNotContain",
       "Cards": ["Thoughtcast"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Trail of Crumbs"]
     }
   ]
 }
