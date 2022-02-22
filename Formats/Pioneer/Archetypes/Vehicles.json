@@ -1,14 +1,14 @@
 {
-  "Name": "Winota",
+  "Name": "Vehicles",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Winota, Joiner of Forces"]
+      "Cards": ["Greasefang, Okiba Boss"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Elvish Mystic"]
+      "Cards": ["Parhelion II"]
     }
   ]
 }
