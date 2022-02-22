@@ -1,0 +1,14 @@
+{
+  "Name": "Angels",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Righteous Valkyrie"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bishop of Wings"]
+    }
+  ]
+}
