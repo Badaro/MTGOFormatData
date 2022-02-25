@@ -53,6 +53,10 @@
 	{
       "Type": "DoesNotContain",
       "Cards": ["Trail of Crumbs"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Sword of the Meek"]
     }
   ]
 }

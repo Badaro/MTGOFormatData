@@ -8,10 +8,6 @@
     },
     {
       "Type": "InMainBoard",
-      "Cards": ["Open the Vaults"]
-    },
-    {
-      "Type": "InMainBoard",
       "Cards": ["Faith's Reward"]
     }
   ]
