@@ -1,0 +1,22 @@
+{
+  "Name": "CoffersControl",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cabal Coffers"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urborg, Tomb of Yawgmoth"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Damnation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Persist"]
+    }
+  ]
+}
