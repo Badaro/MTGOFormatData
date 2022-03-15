@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Arcbound Ravager"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scurry Oak"]
     }
   ]
 }
