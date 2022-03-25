@@ -1,0 +1,18 @@
+{
+  "Name": "LandDestruction",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Boom // Bust"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Pillage","Cleansing Wildfire","Molten Rain","Stone Rain","Vindicate","Smallpox"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Chandra, Torch of Defiance","Karn, the Great Creator","Nahiri, the Harbinger","Goblin Dark-Dwellers","Stoneforge Mystic","Stormbreath Dragon"]
+    }
+  ]
+}

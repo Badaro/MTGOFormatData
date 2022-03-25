@@ -1,0 +1,26 @@
+{
+  "Name": "BushwhackerZoo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Goblin Guide","Pelt Collector","Akoum Hellhound"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Goblin Bushwhacker","Reckless Bushwhacker","Burning-Tree Emissary"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Tribal Flames"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Grenade"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kuldotha Rebirth"]
+    }
+  ]
+}

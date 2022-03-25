@@ -1,0 +1,22 @@
+{
+  "Name": "DomainZoo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Tribal Flames","Scion of Draco"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Wild Nacatl","Territorial Kavu"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lightning Bolt"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    }
+  ]
+}

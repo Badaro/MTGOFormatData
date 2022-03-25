@@ -1,0 +1,18 @@
+{
+  "Name": "Bogles",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Kor Spiritdancer","Gladecover Scout","Silhana Ledgewalker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Slippery Bogle"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Daybreak Coronet"]
+    }
+  ]
+}

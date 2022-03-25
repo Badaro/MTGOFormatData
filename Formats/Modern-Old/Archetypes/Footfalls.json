@@ -1,0 +1,18 @@
+{
+  "Name": "Footfalls",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Shardless Agent"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Crashing Footfalls"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Electrodominance"]
+    }
+  ]
+}

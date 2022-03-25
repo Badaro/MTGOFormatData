@@ -1,0 +1,18 @@
+{
+  "Name": "Ninjas",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ninja of the Deep Hours"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mist-Syndicate Naga"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ingenious Infiltrator"]
+    }
+  ]
+}

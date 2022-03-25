@@ -1,0 +1,22 @@
+{
+  "Name": "Storm",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Birgi, God of Storytelling"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Grapeshot"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Underworld Breach"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hollow One"]
+    }
+  ]
+}

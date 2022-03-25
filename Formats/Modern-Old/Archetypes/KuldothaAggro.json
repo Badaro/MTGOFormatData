@@ -1,0 +1,14 @@
+{
+  "Name": "KuldothaAggro",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Goblin Bushwhacker","Reckless Bushwhacker","Burning-Tree Emissary","Memnite"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kuldotha Rebirth"]
+    }
+  ]
+}

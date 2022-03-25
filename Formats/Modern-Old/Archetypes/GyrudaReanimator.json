@@ -1,0 +1,18 @@
+{
+  "Name": "GyrudaReanimator",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainOrSideboard",
+      "Cards": ["Gyruda, Doom of Depths"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Primeval Titan","Grave Titan","Dragonlord Kolaghan"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ulamog, the Ceaseless Hunger","Kozilek, Butcher of Truth","Spark Double","Sire of Insanity","Sundering Titan"]
+    }
+  ]
+}

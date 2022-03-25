@@ -1,0 +1,22 @@
+{
+  "Name": "Dredge",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Stinkweed Imp"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Life from the Loam","Golgari Thug"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Prized Amalgam"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Narcomoeba"]
+    }
+  ]
+}

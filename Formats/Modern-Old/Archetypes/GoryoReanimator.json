@@ -1,0 +1,26 @@
+{
+  "Name": "GoryoReanimator",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Through the Breach"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Griselbrand"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Emrakul, the Aeons Torn"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Nourishing Shoal"]
+    }
+  ]
+}

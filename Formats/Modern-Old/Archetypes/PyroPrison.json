@@ -1,0 +1,22 @@
+{
+  "Name": "PyroPrison",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Chalice of the Void","Blood Moon","Ensnaring Bridge"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Chandra, Torch of Defiance","Chandra, Dressed to Kill","Karn, the Great Creator"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Simian Spirit Guide","Desperate Ritual","Pyretic Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Skred"]
+    }
+  ]
+}

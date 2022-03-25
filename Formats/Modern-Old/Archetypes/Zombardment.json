@@ -1,0 +1,14 @@
+{
+  "Name": "Zombardment",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Bombardment"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Gravecrawler"]
+    }
+  ]
+}

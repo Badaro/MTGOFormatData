@@ -1,0 +1,14 @@
+{
+  "Name": "Enchantress",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Enchantress's Presence"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sterling Grove"]
+    }
+  ]
+}

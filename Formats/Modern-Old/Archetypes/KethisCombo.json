@@ -1,0 +1,18 @@
+{
+  "Name": "KethisCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kethis, the Hidden Hand"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mox Amber"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Grinding Station"]
+    }
+  ]
+}

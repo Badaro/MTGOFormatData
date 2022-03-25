@@ -1,0 +1,22 @@
+{
+  "Name": "ErayoPrison",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Erayo, Soratami Ascendant"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Emry, Lurker of the Loch"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mox Amber"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Monastery Mentor"]
+    }
+  ]
+}

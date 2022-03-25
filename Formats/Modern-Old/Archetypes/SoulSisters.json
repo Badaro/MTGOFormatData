@@ -1,0 +1,58 @@
+{
+  "Name": "SoulSisters",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Soul's Attendant","Soul Warden","Martyr of Sands","Serra Ascendant"]
+    }
+  ],
+  "Variants": [
+	  {
+	  "Name": "MartyrProc",
+	  "IncludeColorInName": false,
+	  "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Martyr of Sands"]
+		},
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Serra Ascendant"]
+		},
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Squadron Hawk"]
+		}
+	  ]
+	},
+	{
+	  "Name": "HeliodSisters",
+	  "IncludeColorInName": false,
+	  "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Heliod, Sun-Crowned"]
+		},
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Walking Ballista"]
+		},
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Ajani's Pridemate"]
+		}
+	  ]
+	},
+	{
+	  "Name": "HelioakCombo",
+	  "IncludeColorInName": false,
+	  "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Scurry Oak"]
+		}
+	  ]
+	}
+  ]
+}

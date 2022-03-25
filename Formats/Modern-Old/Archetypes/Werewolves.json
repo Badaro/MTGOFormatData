@@ -1,0 +1,14 @@
+{
+  "Name": "Werewolves",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Aether Vial","Collected Company"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Tovolar, Dire Overlord","Immerwolf","Mayor of Avabruck"]
+    }
+  ]
+}

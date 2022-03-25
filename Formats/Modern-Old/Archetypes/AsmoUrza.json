@@ -1,0 +1,22 @@
+{
+  "Name": "AsmoUrza",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Underworld Cookbook"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza, Lord High Artificer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    }
+  ]
+}

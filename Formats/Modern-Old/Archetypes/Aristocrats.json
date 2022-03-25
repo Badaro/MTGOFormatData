@@ -1,0 +1,18 @@
+{
+  "Name": "Aristocrats",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Cartel Aristocrat","Viscera Seer","Priest of Forgotten Gods"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Cruel Celebrant","Zulaport Cutthroat","Blood Artist"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Return to the Ranks","Doomed Traveler","Garrison Cat","Hunted Witness"]
+    }
+  ]
+}

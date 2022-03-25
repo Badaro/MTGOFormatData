@@ -1,0 +1,30 @@
+{
+  "Name": "Food",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cauldron Familiar"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Witch's Oven"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Trail of Crumbs"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Urza, Lord High Artificer"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Mayhem Devil"]
+    }
+  ]
+}

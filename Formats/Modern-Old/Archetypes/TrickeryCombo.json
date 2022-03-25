@@ -1,0 +1,14 @@
+{
+  "Name": "TrickeryCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tibalt's Trickery"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Violent Outburst"]
+    }
+  ]
+}

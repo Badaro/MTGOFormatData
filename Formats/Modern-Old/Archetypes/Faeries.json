@@ -1,0 +1,34 @@
+{
+  "Name": "Faeries",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Spellstutter Sprite"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Bitterblossom","Mutavault"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Vendilion Clique","Brazen Borrower","Faerie Miscreant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thalia, Guardian of Thraben"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Soulherder"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Delver of Secrets"]
+    }
+  ]
+}

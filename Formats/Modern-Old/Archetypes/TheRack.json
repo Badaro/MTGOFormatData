@@ -1,0 +1,14 @@
+{
+  "Name": "TheRack",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["The Rack","Shrieking Affliction", "Davriel, Rogue Shadowmage","Raven's Crime"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ensnaring Bridge","Smallpox","Wrench Mind"]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "GreenControl",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Plow Under"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Primal Command"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Eternal Witness"]
+    }
+  ]
+}

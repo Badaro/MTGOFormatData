@@ -1,0 +1,76 @@
+{
+  "Name": "Taxes",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thalia, Guardian of Thraben"]
+    },
+    {
+      "Type": "OneOrMoreInMainOrSideboard",
+      "Cards": ["Leonin Arbiter","Ethersworn Canonist","Aven Mindcensor","Meddling Mage","Tithe Taker","Archon of Emeria","Esper Sentinel","Kitesail Freebooter","Tidehollow Sculler","Drannith Magistrate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Primeval Titan"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Champion of the Parish"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Heliod, Sun-Crowned"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Angrath's Marauders"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Supreme Phantom"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Devoted Druid"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Venerated Loxodon"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cruel Celebrant"]
+    }
+  ],
+  "Variants": [
+	{
+	  "Name": "ThaliaStompy",
+	  "IncludeColorInName": false,
+	  "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Chalice of the Void"]
+		},
+	  ]
+	},
+	{
+	  "Name": "EldraziTaxes",
+	  "IncludeColorInName": true,
+	  "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Eldrazi Temple"]
+		},
+		{
+		  "Type": "DoesNotContain",
+		  "Cards": ["Chalice of the Void"]
+		}
+	  ]
+	}
+  ]
+}

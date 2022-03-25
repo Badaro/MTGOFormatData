@@ -1,0 +1,34 @@
+{
+  "Name": "PyroAscension",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainOrSideboard",
+      "Cards": ["Lightning Bolt"]
+    },
+    {
+      "Type": "InMainOrSideboard",
+      "Cards": ["Pyromancer Ascension"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Manamorphose"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Arclight Phoenix"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grapeshot"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Charbelcher"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Clever Lumimancer"]
+    }
+  ]
+}

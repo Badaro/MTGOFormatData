@@ -1,0 +1,26 @@
+{
+  "Name": "Cheeri0s",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Puresteel Paladin"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sram, Senior Edificer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Retract"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Accorder's Shield"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cathar's Shield"]
+    }
+  ]
+}

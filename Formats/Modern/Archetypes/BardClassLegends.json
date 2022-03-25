@@ -1,0 +1,14 @@
+{
+  "Name": "BardClassLegends",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bard Class"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Domri, Anarch of Bolas","Radha, Heir to Keld","Targ Nar, Demon-Fang Gnoll","Gallia of the Endless Dance"]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Rogues",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thieves' Guild Enforcer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Soaring Thought-Thief"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Drown in the Loch"]
+    }
+  ]
+}

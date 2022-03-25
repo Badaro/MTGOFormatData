@@ -1,0 +1,18 @@
+{
+  "Name": "Zombies",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cryptbreaker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Gravecrawler"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Diregraf Captain","Undead Augur"]
+    }
+  ]
+}

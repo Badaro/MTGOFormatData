@@ -1,0 +1,18 @@
+{
+  "Name": "Weenies",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Dryad Militant","Mardu Woe-Reaper"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kytheon, Hero of Akros"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Venerated Loxodon","Luminarch Aspirant"]
+    }
+  ]
+}

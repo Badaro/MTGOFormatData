@@ -1,0 +1,18 @@
+{
+  "Name": "AscendancyCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Jeskai Ascendancy"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Fatestitcher","Emry, Lurker of the Loch","Retraction Helix"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Urza, Lord High Artificer"]
+    }
+  ]
+}

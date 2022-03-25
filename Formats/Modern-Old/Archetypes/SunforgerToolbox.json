@@ -1,0 +1,14 @@
+{
+  "Name": "SunforgerToolbox",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sunforger"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Stoneforge Mystic"]
+    }
+  ]
+}

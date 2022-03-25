@@ -1,0 +1,34 @@
+{
+  "Name": "AsmoFood",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Underworld Cookbook"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Witch's Oven","Gilded Goose","Ovalchase Daredevil"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Urza, Lord High Artificer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Priest of Fell Rites"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Burning Inquiry"]
+    }
+  ]
+}

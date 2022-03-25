@@ -1,0 +1,22 @@
+{
+  "Name": "ArtifactPrison",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chalice of the Void"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Whir of Invention"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ensnaring Bridge"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bottled Cloister"]
+    }
+  ]
+}

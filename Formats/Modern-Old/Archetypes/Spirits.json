@@ -1,0 +1,14 @@
+{
+  "Name": "Spirits",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Supreme Phantom"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mausoleum Wanderer"]
+    }
+  ]
+}

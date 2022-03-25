@@ -1,0 +1,18 @@
+{
+  "Name": "Phoenix",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Arclight Phoenix"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Izzet Charm","Faithless Salvaging","Faithful Mending","Thought Scour","Thrill of Possibility","Cathartic Reunion"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Manamorphose","Lava Dart"]
+    }
+  ]
+}

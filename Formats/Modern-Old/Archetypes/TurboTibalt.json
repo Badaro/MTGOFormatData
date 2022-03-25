@@ -1,0 +1,18 @@
+{
+  "Name": "TurboTibalt",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Valki, God of Lies"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Simian Spirit Guide"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Ardent Plea","Violent Outburst","Demonic Dread"]
+    }
+  ]
+}

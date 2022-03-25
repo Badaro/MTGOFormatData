@@ -1,0 +1,26 @@
+{
+  "Name": "Zoo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Guide"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Atarka's Command"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Wild Nacatl","Steppe Lynx","Kird Ape","Akoum Hellhound"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Bushwhacker"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Reckless Bushwhacker"]
+    }
+  ]
+}

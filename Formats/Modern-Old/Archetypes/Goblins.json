@@ -1,0 +1,14 @@
+{
+  "Name": "Goblins",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Matron"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sling-Gang Lieutenant"]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Skred",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Skred"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Koth of the Hammer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chandra, Torch of Defiance"]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Clerics",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cleric of Life's Bond"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Luminarch Aspirant"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Taborax, Hope's Demise"]
+    }
+  ]
+}

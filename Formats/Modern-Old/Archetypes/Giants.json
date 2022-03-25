@@ -1,0 +1,18 @@
+{
+  "Name": "Giants",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Invasion of the Giants"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Primeval Titan"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Uro, Titan of Nature's Wrath", "Bonecrusher Giant"]
+    }
+  ]
+}
