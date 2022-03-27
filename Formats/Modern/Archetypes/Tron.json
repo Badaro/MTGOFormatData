@@ -44,7 +44,7 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Condescend","Remand","Repeal","Coax from the Blind Eternities"]
+          "Cards": ["Condescend","Remand","Repeal"]
         }
       ]
     },
@@ -62,7 +62,7 @@
         },
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Reality Smasher","Oblivion Sower","Endbringer"]
+          "Cards": ["Matter Reshaper","Reality Smasher","Oblivion Sower","Endbringer"]
         },
         {
           "Type": "DoesNotContain",
