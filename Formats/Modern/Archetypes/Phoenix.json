@@ -14,5 +14,17 @@
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Manamorphose","Lava Dart"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "HollowPhoenix",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Hollow One"]
+        }
+      ]
+    }
   ]
 }

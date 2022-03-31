@@ -13,6 +13,10 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Goblin Lore","Cathartic Reunion"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Murktide Regent"]
     }
   ],
   "Variants": [
