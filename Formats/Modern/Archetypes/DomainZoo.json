@@ -11,12 +11,16 @@
       "Cards": ["Wild Nacatl","Territorial Kavu"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Lightning Bolt"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Lightning Bolt","Lightning Helix"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Seismic Assault"]
     }
   ]
 }
