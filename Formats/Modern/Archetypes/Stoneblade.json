@@ -33,6 +33,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Terminus"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wrenn and Six"]
     }
   ]
 }
