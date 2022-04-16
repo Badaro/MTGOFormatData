@@ -13,6 +13,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Glimpse of Tomorrow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enigmatic Incarnation"]
     }
   ]
 }

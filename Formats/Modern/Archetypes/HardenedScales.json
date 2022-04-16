@@ -11,12 +11,8 @@
       "Cards": ["Arcbound Ravager"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Walking Ballista"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Hangarback Walker"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Walking Ballista","Hangarback Walker"]
     }
   ]
 }
