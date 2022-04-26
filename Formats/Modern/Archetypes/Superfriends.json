@@ -7,12 +7,8 @@
       "Cards": ["Oath of Nissa"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Utopia Sprawl"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Wrenn and Six"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Utopia Sprawl","Birds of Paradise"]
     },
     {
       "Type": "InMainboard",
@@ -20,7 +16,7 @@
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Teferi, Time Raveler","Dovin, Hand of Control","Liliana of the Veil","Grist, the Hunger Tide"]
+      "Cards": ["Teferi, Time Raveler","Dovin, Hand of Control","Liliana of the Veil","Grist, the Hunger Tide","Tamiyo, Field Researcher"]
     }
   ]
 }
