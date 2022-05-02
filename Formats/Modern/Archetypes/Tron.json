@@ -3,16 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Urza's Tower"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Urza's Mine"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Urza's Power Plant"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Urza's Tower","Urza's Mine","Urza's Power Plant"]
     }
   ],
   "Variants": [
