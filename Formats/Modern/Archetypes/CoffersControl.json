@@ -11,8 +11,8 @@
       "Cards": ["Urborg, Tomb of Yawgmoth"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Damnation"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Damnation","Invoke Despair"]
     },
     {
       "Type": "DoesNotContain",
