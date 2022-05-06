@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Glimpse of Tomorrow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Planebound Accomplice"]
     }
   ],
   "Variants": [

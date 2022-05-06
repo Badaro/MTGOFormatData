@@ -1,0 +1,22 @@
+{
+  "Name": "VivienCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Vivien on the Hunt"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Planebound Accomplice"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kiki-Jiki, Mirror Breaker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Felidar Guardian"]
+    }
+  ]
+}
