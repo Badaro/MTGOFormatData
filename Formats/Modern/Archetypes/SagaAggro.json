@@ -57,6 +57,10 @@
 	{
       "Type": "DoesNotContain",
       "Cards": ["Sword of the Meek"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Felidar Guardian"]
     }
   ]
 }
