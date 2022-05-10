@@ -4,15 +4,31 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Cryptbreaker"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Gravecrawler"]
     },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Hollow One"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Hedron Crab"]
+    }
+  ],
+  "Variants": [
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Diregraf Captain","Undead Augur"]
+      "Name": "Zombardment",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Goblin Bombardment"]
+        }
+      ]
     }
   ]
 }

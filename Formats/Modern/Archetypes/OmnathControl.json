@@ -33,6 +33,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Risen Reef"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kiki-Jiki, Mirror Breaker"]
     }
   ]
 }
