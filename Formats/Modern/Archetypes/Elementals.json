@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Enigmatic Incarnation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Planebound Accomplice"]
     }
   ]
 }
