@@ -17,6 +17,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Felidar Guardian"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archon of Cruelty"]
     }
   ]
 }

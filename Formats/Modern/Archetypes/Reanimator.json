@@ -4,19 +4,15 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Unburial Rites","Priest of Fell Rites"]
+      "Cards": ["Unburial Rites","Priest of Fell Rites","Persist"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Unmarked Grave","Faithful Mending","Seasoned Pyromancer"]
+      "Cards": ["Unmarked Grave","Faithful Mending","Seasoned Pyromancer","Ledger Shredder","Tainted Indulgence"]
     },
     {
       "Type": "InMainboard",
       "Cards": ["Archon of Cruelty"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Feasting Troll King"]
     },
     {
       "Type": "DoesNotContain",

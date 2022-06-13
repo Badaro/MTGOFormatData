@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Burning Inquiry"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archon of Cruelty"]
     }
   ]
 }
