@@ -45,20 +45,8 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Emry, Lurker of the Loch","The Antiquities War"]
-        },
-        {
           "Type": "InMainboard",
           "Cards": ["Urza, Lord High Artificer"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Thought Monitor"]
-        },
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Razortide Bridge","Silverbluff Bridge"]
         }
       ]
     }
