@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Hollow One"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
     }
   ]
 }

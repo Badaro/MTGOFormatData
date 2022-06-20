@@ -1,14 +1,14 @@
 {
-  "Name": "ChangelingPod",
+  "Name": "Changelings",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Pyre of Heroes"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Changeling Outcast"]
+    },
+	{
+      "Type": "InMainboard",
+      "Cards": ["Universal Automaton"]
     }
   ]
 }
