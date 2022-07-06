@@ -4,15 +4,7 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Baral, Chief of Compliance"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Grapeshot"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Past in Flames"]
     },
     {
       "Type": "InMainboard",
@@ -23,12 +15,8 @@
       "Cards": ["Song of Creation"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Desperate Ritual"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Pyretic Ritual"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Desperate Ritual","Pyretic Ritual","An Offer You Can't Refuse","Strike It Rich"]
     }
   ]
 }
