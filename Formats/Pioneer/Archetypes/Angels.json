@@ -1,14 +1,14 @@
 {
-  "Name": "Winota",
+  "Name": "Angels",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Winota, Joiner of Forces"]
+      "Cards": ["Righteous Valkyrie"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Elvish Mystic"]
+      "Cards": ["Bishop of Wings"]
     }
   ]
 }
