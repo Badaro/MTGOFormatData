@@ -4,8 +4,12 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Thalia's Lieutenant","General Kudro of Drannith"]
-    }
+      "Cards": ["Thalia's Lieutenant"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Spirit of the Labyrinth"]
+    }	
   ],
   "Variants": [
     {
