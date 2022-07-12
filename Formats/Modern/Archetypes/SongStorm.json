@@ -8,15 +8,11 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Manamorphose"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Song of Creation"]
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Desperate Ritual","Pyretic Ritual","An Offer You Can't Refuse","Strike It Rich"]
+      "Cards": ["Desperate Ritual","Pyretic Ritual","An Offer You Can't Refuse","Strike It Rich","Manamorphose"]
     }
   ]
 }
