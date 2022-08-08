@@ -57,6 +57,10 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Elvish Reclaimer"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Amulet of Vigor"]
         }
       ]
     },
