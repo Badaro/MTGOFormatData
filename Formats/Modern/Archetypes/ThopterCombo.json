@@ -29,6 +29,10 @@
 	{
 	  "Type": "DoesNotContain",
 	  "Cards": ["Asmoranomardicadaistinaculdacar"]
+	},
+	{
+	  "Type": "DoesNotContain",
+	  "Cards": ["Tameshi, Reality Architect"]
 	}
   ],
   "Variants": [
