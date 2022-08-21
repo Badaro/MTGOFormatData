@@ -12,19 +12,23 @@
         },
         {
             "Type": "DoesNotContainMainboard",
-            "Cards": ["Daybreak Chimera"]
+            "Cards": ["Daybreak Chimera","Basilisk Gate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
         }
     ],
     "Variants": [
         {
-            "Name": "Bully/Flashback",
-            "IncludeColorInName": true,
-            "Conditions": [
-                {
-                    "Type": "TwoOrMoreInMainboard",
-                    "Cards": ["Squadron Hawk","Faithless Looting","Rally the Peasants","Battle Screech"]
-                }
-            ]
-        }
+           "Name": "Bully/Flashback",
+           "IncludeColorInName": true,
+           "Conditions": [
+               {
+                   "Type": "TwoOrMoreInMainboard",
+                   "Cards": ["Squadron Hawk","Faithless Looting","Rally the Peasants","Battle Screech"]
+               }
+           ]
+       }
     ]
 }
