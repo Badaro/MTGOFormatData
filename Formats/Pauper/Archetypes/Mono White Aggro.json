@@ -4,11 +4,7 @@
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Daybreak Chimera"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Journey to Nowhere"]
+            "Cards": ["Daybreak Chimera","Journey to Nowhere"]
         }
     ]
 }
