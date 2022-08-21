@@ -3,12 +3,12 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Akroan Skyguard"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Akroan Skyguard","Lagonna-Band Trailblazer"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Lagonna-Band Trailblazer"]
+            "Type": "DoesNotContain",
+            "Cards": ["Armadillo Cloak"]
         }
     ]
 }
