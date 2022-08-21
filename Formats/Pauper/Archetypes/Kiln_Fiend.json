@@ -9,6 +9,10 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Apostle's Blessing","Temur Battle Rage"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Basilisk Gate"]
         }
     ]
 }

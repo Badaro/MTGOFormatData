@@ -3,8 +3,8 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Bump in the Night"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Kitchen Imp","Bump in the Night","Alms of the Vein"]
         },
         {
             "Type": "InMainboard",

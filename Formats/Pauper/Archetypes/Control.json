@@ -19,4 +19,16 @@
             "Cards": ["Gray Merchant of Asphodel"]
         }
     ],
+    "Variants": [
+        {
+            "Name": "Mono Black Control",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Chittering Rats","Crypt Rats","Vampire Sovereign"]
+                }
+            ]
+        }
+    ]
 }

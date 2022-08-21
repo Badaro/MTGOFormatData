@@ -9,6 +9,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Guardian of the Guildpact"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Basilisk Gate"]
         }
     ]
 }

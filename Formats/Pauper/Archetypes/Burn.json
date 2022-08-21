@@ -5,22 +5,14 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Chain Lightning","Bump in the Night"]
-        }
-    ],
-    "Variants": [
+        },
         {
-            "Name": "Black Burn",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "OneOrMoreInMainboard",
-                    "Cards": ["Kitchen Imp","Bump in the Night","Alms of the Vein"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Rakdos Carnarium"]
-                }
-            ]
+            "Type": "DoesNotContain",
+            "Cards": ["Experimental Synthesizer", "Galvanic Blast"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Faithless Looting"]
         }
     ]
 }

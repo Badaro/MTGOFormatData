@@ -3,8 +3,12 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Frogmite","Myr Enforcer","Ornithopter"]
+            "Type": "InMainboard",
+            "Cards": ["Deadly Dispute"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Disciple of the Vault","Myr Enforcer"]
         },
         {
             "Type": "DoesNotContain",

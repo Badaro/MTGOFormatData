@@ -3,16 +3,8 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Cuombajj Witches"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Cast Down"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Gray Merchant of Asphodel"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Gray Merchant of Asphodel","Cuombajj Witches"]
         }
     ]
 }
