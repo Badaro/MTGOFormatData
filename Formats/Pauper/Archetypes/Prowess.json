@@ -1,0 +1,34 @@
+{
+    "Name": "Prowess",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Monastery Swiftspear"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Faithless Looting","Reckless Impulse"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Kiln Fiend"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Rakdos Carnarium"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Glint Hawk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Fireblast"]
+        }
+    ]
+}
