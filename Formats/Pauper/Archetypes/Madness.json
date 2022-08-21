@@ -1,0 +1,14 @@
+{
+    "Name": "Madness",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Kitchen Imp"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Blood Fountain"]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Fog",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Tangle", "Weather the Storm", "Fog", "Moment's Peace"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards" :["Stream of Thought"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Serpentine Curve"]
+        }
+    ]
+}

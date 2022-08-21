@@ -1,0 +1,22 @@
+ {
+    "Name": "Bully/Flashback",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Palace Sentinels", "Journey to Nowhere", "Thraben Inspector"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Daybreak Chimera"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Squadron Hawk","Faithless Looting","Rally the Peasants","Battle Screech"]
+        }
+    ]
+}

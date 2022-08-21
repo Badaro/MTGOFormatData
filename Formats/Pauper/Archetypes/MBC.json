@@ -1,0 +1,14 @@
+{
+    "Name": "Mono Black Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Chittering Rats", "Crypt Rats", " Vampire Sovereign"]
+        }, 
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Thorn of the Black Rose","Gray Merchant of Asphodel","Cuombajj Witches" ]
+        }
+    ]
+}

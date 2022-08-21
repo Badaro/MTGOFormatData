@@ -1,0 +1,10 @@
+{
+    "Name": "Tireless Tribe",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tireless Tribe"]
+        }
+    ]
+}   

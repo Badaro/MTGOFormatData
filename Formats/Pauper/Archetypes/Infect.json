@@ -1,0 +1,10 @@
+{
+    "Name": "Infect",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": [" Blight Mamba", "Ichorclaw Myr", "Rot Wolf", "Glistener Elf"]
+        }
+    ]
+}

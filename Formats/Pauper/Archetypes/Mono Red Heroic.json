@@ -1,0 +1,14 @@
+{
+    "Name": "Mono Red Heroic",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Akroan Crusader"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ancestral Anger"]
+        }
+    ]
+}

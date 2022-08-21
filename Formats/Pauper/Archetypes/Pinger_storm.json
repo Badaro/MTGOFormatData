@@ -1,0 +1,14 @@
+{
+    "Name": "Pinger Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Kessig Flamebreather"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Galvanic Relay"]
+        }
+    ]
+}
