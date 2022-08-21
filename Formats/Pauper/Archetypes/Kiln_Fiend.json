@@ -7,8 +7,8 @@
             "Cards": ["Kiln Fiend"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Apostle's Blessing"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Apostle's Blessing","Temur Battle Rage"]
         }
     ]
 }
