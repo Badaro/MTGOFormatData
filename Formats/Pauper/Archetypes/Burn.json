@@ -12,7 +12,11 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Faithless Looting"]
+            "Cards": ["Rakdos Carnarium"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Battle Screech"]
         }
     ]
 }
