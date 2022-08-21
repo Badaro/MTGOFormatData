@@ -11,8 +11,8 @@
             "Cards": ["Llanowar Visionary"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Sarulf's Packmate"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Sarulf's Packmate","Mwonvuli Acid-Moss","Thermokarst"]
         }
     ]
 }
