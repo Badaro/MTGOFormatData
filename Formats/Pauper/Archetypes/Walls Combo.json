@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Overgrown Battlement"]
+            "Cards": ["Axebane Guardian","Freed from the Real"]
         }
     ],
     "Variants": [

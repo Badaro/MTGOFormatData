@@ -3,8 +3,12 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Serpentine Curve"]
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Serpentine Curve","Skred","Fiery Cannonade"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Ephemerate"]
         }
     ]
 }

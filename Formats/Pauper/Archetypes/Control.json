@@ -21,7 +21,7 @@
     ],
     "Variants": [
         {
-            "Name": "Mono Black Control",
+            "Name": "Black Control",
             "IncludeColorInName": false,
             "Conditions": [
                 {
