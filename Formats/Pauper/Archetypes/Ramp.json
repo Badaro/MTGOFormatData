@@ -3,12 +3,8 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Annoyed Altisaur"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Llanowar Visionary"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Annoyed Altisaur","Llanowar Visionary"]
         },
         {
             "Type": "OneOrMoreInMainboard",
