@@ -7,12 +7,16 @@
             "Cards": ["Gurmag Angler"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Counterspell"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Counterspell","Cast Down"]
         },
         {
             "Type": "DoesNotContain",
             "Cards": ["Faerie Seer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Gray Merchant of Asphodel"]
         }
-    ]
+    ],
 }
