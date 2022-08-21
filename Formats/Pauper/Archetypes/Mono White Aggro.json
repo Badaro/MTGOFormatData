@@ -4,7 +4,19 @@
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Daybreak Chimera","Journey to Nowhere"]
+            "Cards": ["Journey to Nowhere"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Daybreak Chimera","Cathar Commando","Inspiring Overseer","Search Party Captain","Spirited Companion"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Squadron Hawk"]
         }
     ]
 }
