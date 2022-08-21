@@ -1,42 +1,14 @@
 {
     "Name": "Affinity",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Darksteel Citadel","Great Furnace","Seat of the Synod","Tree of Tales","Vault of Whispers"]
+            "Cards": ["Frogmite","Myr Enforcer","Ornithopter"]
         },
         {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Frogmite","Myr Enforcer","Ornithopter"]
-        }
-    ],
-    "Variants": [
-        {
-            "Name": "Atog Affinity",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Atog"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Disciple of the Vault"]
-                }
-            ],
-            "Variants": [
-                {
-                    "Name": "Atogshift Combo",
-                    "IncludeColorInName": false,
-                    "Conditions": [
-                        {
-                            "Type": "OneOrMoreInMainboard",
-                            "Cards": ["Dark Ritual","Manamorphose","Galvanic Relay"]
-                        }
-                    ]
-                }
-            ]
+            "Type": "DoesNotContain",
+            "Cards": ["Atog","Chain Lightning"]
         }
     ]
 }

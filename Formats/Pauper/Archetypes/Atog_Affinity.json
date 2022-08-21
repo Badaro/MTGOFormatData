@@ -1,0 +1,26 @@
+{
+    "Name": "Atog Affinity",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Atog"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Disciple of the Vault","Myr Enforcer"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Atogshift Combo",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Dark Ritual","Manamorphose","Galvanic Relay"]
+                }
+            ]
+        }
+    ]
+}
