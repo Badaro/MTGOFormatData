@@ -3,8 +3,8 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Chain Lightning","Bump in the Night"]
+            "Type": "InMainboard",
+            "Cards": ["Chain Lightning"]
         },
         {
             "Type": "DoesNotContain",
