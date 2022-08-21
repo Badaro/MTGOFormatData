@@ -4,11 +4,15 @@
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Kessig Flamebreather"]
+            "Cards": ["Kessig Flamebreather","Firebrand Archer"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Galvanic Relay"]
+            "Type": "DoesNotContain",
+            "Cards": ["Monastery Swiftspear"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Kiln Fiend"]
         }
     ]
 }
