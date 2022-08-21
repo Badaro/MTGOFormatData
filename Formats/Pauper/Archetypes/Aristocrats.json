@@ -1,0 +1,10 @@
+{
+    "Name": "Aristocrats",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Carrion Feeder","Mortician Beetle"]
+        }
+    ]
+}
