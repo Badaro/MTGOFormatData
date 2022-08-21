@@ -1,0 +1,10 @@
+{
+    "Name": "Gates",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Basilisk Gate"]
+        }
+    ]
+}
