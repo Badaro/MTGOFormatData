@@ -3,16 +3,12 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Skirk Prospector"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Goblin Matron","Mogg Raider","Skirk Prospector"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Goblin Matron"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Unearth"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Unearth","Goblin Grenade"]
         }
     ]
 }
