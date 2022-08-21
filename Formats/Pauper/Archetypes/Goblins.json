@@ -4,11 +4,23 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Goblin Matron","Mogg Raider","Skirk Prospector"]
-        },
+            "Cards": ["Goblin Matron","Mogg Raider","Skirk Prospector","Goblin Grenade"]
+        }
+    ],
+    "Variants": [
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Unearth","Goblin Grenade"]
+            "Name": "Bushwacker",
+            "IncludeColorInName": true,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Goblin Bushwhacker","Burning-Tree Emissary"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Goblin Instigator","Mogg War Marshal"]
+                }
+            ]
         }
     ]
 }
