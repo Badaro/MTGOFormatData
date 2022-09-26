@@ -37,6 +37,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Kiki-Jiki, Mirror Breaker"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Seismic Assault"]
     }
   ]
 }

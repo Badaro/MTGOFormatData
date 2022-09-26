@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Primeval Titan"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ovalchase Daredevil"]
     }
   ]
 }
