@@ -1,0 +1,26 @@
+{
+  "Name": "Scam",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Grief"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Fury"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Malakir Rebirth","Undying Evil","Undying Malice","Feign Death"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mayhem Devil"]
+    }
+  ]
+}
