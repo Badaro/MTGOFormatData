@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Paradoxical Outcome"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kethis, the Hidden Hand"]
     }
   ]
 }

@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Planebound Accomplice"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scapeshift"]
     }
   ]
 }

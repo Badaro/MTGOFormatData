@@ -21,6 +21,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Mayhem Devil"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archon of Cruelty"]
     }
   ]
 }

@@ -83,6 +83,10 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Bonecrusher Giant"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Obosh, the Preypiercer"]
         }
       ]
     },

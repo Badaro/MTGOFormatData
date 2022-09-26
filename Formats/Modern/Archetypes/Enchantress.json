@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Sterling Grove"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enigmatic Incarnation"]
     }
   ]
 }

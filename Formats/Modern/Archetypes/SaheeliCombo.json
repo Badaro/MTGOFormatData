@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Planebound Accomplice"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Crashing Footfalls"]
     }
   ],
   "Variants": [
