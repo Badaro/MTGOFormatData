@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Felidar Guardian"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scion of Draco"]
     }
   ]
 }
