@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Urza's Tower"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Chord of Calling"]
     }
   ],
   "Variants": [
