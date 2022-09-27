@@ -103,8 +103,8 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "Type": "InMainboard",
-          "Cards": ["Chalice of the Void"]
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Chalice of the Void","Pithing Needle"]
         },
         {
           "Type": "InMainboard",
