@@ -1,6 +1,6 @@
 {
   "Name": "Humans",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -16,7 +16,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Mantis Rider","Meddling Mage","Intrepid Adversary","Unsettled Mariner"]
+      "Cards": ["Mantis Rider","Meddling Mage","Intrepid Adversary","Unsettled Mariner","Extraction Specialist"]
     }
   ]
 }
