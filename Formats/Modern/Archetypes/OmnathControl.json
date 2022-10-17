@@ -15,10 +15,6 @@
       "Cards": ["Expressive Iteration"]
     },
     {
-      "Type": "InSideboard",
-      "Cards": ["Yorion, Sky Nomad"]
-    },
-    {
       "Type": "DoesNotContain",
       "Cards": ["Niv-Mizzet Reborn"]
     },
@@ -41,6 +37,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Seismic Assault"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Manamorphose"]
     }
   ]
 }
