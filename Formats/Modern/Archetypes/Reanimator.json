@@ -8,14 +8,14 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Unmarked Grave","Faithful Mending","Seasoned Pyromancer","Ledger Shredder","Tainted Indulgence"]
+      "Cards": ["Unmarked Grave","Faithful Mending","Seasoned Pyromancer","Ledger Shredder","Tainted Indulgence","Thrilling Discovery","Cathartic Reunion"]
     },
     {
       "Type": "InMainboard",
       "Cards": ["Archon of Cruelty"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Indomitable Creativity"]
     }
   ]
