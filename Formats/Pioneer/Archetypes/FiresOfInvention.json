@@ -1,22 +1,22 @@
 {
-  "Name": "FiresOfInvention",
+  "Name": "Fires",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
       "Cards": ["Fires of Invention"]
-    },
+    }
+  ],
+  "Variants": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Transmogrify"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Agent of Treachery"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Deafening Clarion"]
+      "Name": "Keruga Fires",
+      "IncludeColorInName": true,
+      "Conditions": [
+		{
+		  "Type": "InSideboard",
+		  "Cards": ["Keruga, the Macrosage"]
+		}
+      ]
     }
   ]
 }

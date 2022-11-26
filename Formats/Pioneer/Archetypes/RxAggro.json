@@ -1,0 +1,14 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Anax, Hardened in the Forge"]
+    },
+	{
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Torbran, Thane of Red Fell","Embercleave"]
+    }
+  ]
+}

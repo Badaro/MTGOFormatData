@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Thalia's Lieutenant"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thalia's Lieutenant","Valiant Veteran"]
     },
 	{
       "Type": "DoesNotContain",

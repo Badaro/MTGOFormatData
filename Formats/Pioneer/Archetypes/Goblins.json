@@ -1,0 +1,18 @@
+{
+  "Name": "Goblins",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Foundry Street Denizen"]
+    },
+	{
+      "Type": "InMainboard",
+      "Cards": ["Legion Loyalist"]
+    },
+	{
+      "Type": "InMainboard",
+      "Cards": ["Rundvelt Hordemaster"]
+    }
+  ]
+}
