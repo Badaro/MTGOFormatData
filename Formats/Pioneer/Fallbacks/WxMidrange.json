@@ -1,0 +1,11 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Karn, the Great Creator",
+	"Ambitious Farmhand",
+	"Elspeth Conquers Death",
+	"Chained to the Rocks",
+	"Nykthos, Shrine to Nyx"
+  ]
+}
