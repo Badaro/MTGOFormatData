@@ -9,6 +9,10 @@
 	{
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Torbran, Thane of Red Fell","Embercleave"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Atarka's Command"]
     }
   ]
 }
