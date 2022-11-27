@@ -10,5 +10,21 @@
         "Type": "InMainboard",
         "Cards": ["Oath of Nissa"]
       }
+    ],
+    "Variants": [
+		{
+		  "Name": "GreenDevotion",
+		  "IncludeColorInName": false,
+		  "Conditions": [
+			{
+			  "Type": "InMainboard",
+			  "Cards": ["Old-Growth Troll"]
+			},
+			{
+			  "Type": "InMainboard",
+			  "Cards": ["Cavalier of Thorns"]
+			}
+		  ]
+		}
     ]
   }
