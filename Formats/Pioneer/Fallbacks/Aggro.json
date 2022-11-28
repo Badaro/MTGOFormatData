@@ -1,0 +1,15 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Den of the Bugbear",
+    "Monastery Swiftspear",
+    "Ramunap Ruins",
+    "Anax, Hardened in the Forge",
+    "Torbran, Thane of Red Fell",
+    "Bonecrusher Giant",
+    "Kumano Faces Kakkazan",
+    "Eidolon of the Great Revel",
+    "Embercleave"
+  ]
+}

@@ -1,10 +1,22 @@
 {
     "Name": "Lands",
-    "IncludeColorInName": true,
+    "IncludeColorInName": false,
     "Conditions": [
         {
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Dark Depths", "Field of the Dead", "Thespian's Stage"]
+        },   
+  	    {
             "Type": "InMainboard",
             "Cards": ["Exploration"]
+        },
+     	{
+            "Type": "InMainboard",
+            "Cards": ["Life from the Loam"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green sun's Zenith"]
         }
     ]
 }

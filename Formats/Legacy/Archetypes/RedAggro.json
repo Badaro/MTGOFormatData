@@ -1,0 +1,14 @@
+{
+    "Name": "Red aggro",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Chandra's Incinerator"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Eidolon of the Great Revel"]
+        }       
+    ]
+}

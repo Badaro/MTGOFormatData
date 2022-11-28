@@ -1,0 +1,113 @@
+{
+    "Name": "Affinity",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Myr Enforcer","Sojourner's Companion"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ephemerate"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ghostly Flicker"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Grixis Affinity",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Drossforge Bridge"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Mistvault Bridge"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Silverbluff Bridge"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Thoughtcast"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Galvanic Blast"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Fling"]
+                }
+            ]
+        },
+        {
+            "Name": "Jund Affinity",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Darkmoss Bridge"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Slagwoods Bridge"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Galvanic Blast"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Fling"]
+                }
+            ]
+        },
+        {
+            "Name": "Mardu Affinity",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Darkmoss Bridge"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Rustvale Bridge"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Galvanic Blast"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Fling"]
+                }
+            ]
+        },
+        {
+            "Name": "Atog Fling",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Atog"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Fling"]
+                }
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,10 @@
+{
+    "Name": "Craterhoof",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Craterhoof Behemoth"]
+        }
+    ]
+}

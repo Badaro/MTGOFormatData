@@ -1,0 +1,18 @@
+{
+    "Name": "RG Valakut",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Valakut Exploration"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Valakut, the Molten Pinnacle"]  
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dryad of the Ilysian Grove"]  
+        }	
+    ]
+}

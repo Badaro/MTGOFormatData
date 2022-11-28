@@ -7,8 +7,8 @@
       "Cards": ["Indomitable Creativity"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Sage of the Falls","Xenagos, God of Revels"]
+      "Type": "DoesNotContain",
+      "Cards": ["Torrential Gearhulk"]
     }
   ]
 }

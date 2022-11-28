@@ -1,0 +1,14 @@
+{
+    "Name": "Turbo Fog",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Moment's Peace","Tangle","Fog"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Stream of Thought"]
+        }
+    ]
+}

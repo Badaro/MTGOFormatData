@@ -1,0 +1,22 @@
+{
+    "Name": "Nic Fit",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Kalitas, Traitor of Ghet", "Questing Beast", "Elder Gargaroth","Veteran Explorer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]  
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]  
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]  
+        }	
+    ]
+}

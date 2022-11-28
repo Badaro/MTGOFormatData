@@ -1,0 +1,14 @@
+{
+    "Name": "Gobelins",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Goblin Lackey"]
+         },
+         {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "Goblin Rabblemaster"]
+         }
+    ]
+}

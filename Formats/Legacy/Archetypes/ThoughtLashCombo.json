@@ -1,0 +1,15 @@
+{
+    "Name": "Thought Lash combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Thassa's Oracle", "Thought Lash"]
+        },
+        {
+         "Type" : "DoesNotContain",
+         "Cards" : ["Lord of Atlantis"]
+        }
+       
+    ]
+}

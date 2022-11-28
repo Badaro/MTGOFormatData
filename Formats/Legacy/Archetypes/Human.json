@@ -1,0 +1,19 @@
+{
+    "Name": "Human",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Brutal Cathar", "Elite Spellbinder", "General Kudro of Drannith", "Champion of the Parish"]
+        },  
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thalia's Lieutenant"]
+        },         
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cavern of Souls"]
+        }    
+
+    ]
+}

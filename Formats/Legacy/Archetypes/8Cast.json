@@ -1,0 +1,38 @@
+{
+    "Name": "8-cast",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Sai, Master Thopterist", "Kappa Cannoneer", "Emry, Lurker of the Loch"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Lotus Petal"]
+        },        
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thoughtcast"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Arcbound Ravager"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Grindstone"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Auriok Salvagers"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Teferi, Time Raveler"]
+        }
+    ]
+}

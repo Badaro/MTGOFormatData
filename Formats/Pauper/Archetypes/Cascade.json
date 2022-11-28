@@ -1,0 +1,26 @@
+{
+    "Name": "RG Cascade",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Annoyed Altisaur"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Boarding Party"]
+        },
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Llanowar Visionary","Arbor Elf"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Urza's Power Plant"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        }
+    ]
+}

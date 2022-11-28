@@ -1,0 +1,26 @@
+{
+    "Name": "The Epic Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Ritual"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Burning Wish", "Past in Flames","Lion's Eye Diamond"]
+        },       
+        {
+            "Type": "InMainboard",
+            "Cards": ["Brainstorm"]
+        },       
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ad Nauseam"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        }
+    ]
+   }

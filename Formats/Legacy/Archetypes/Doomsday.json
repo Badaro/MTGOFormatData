@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Doomsday"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
         }
     ]
 }

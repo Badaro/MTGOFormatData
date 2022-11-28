@@ -1,0 +1,34 @@
+{
+    "Name": "MonoB Depths",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thespian's Stage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Confidant"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Manabond"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Exploration"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Crop Rotation"]
+        }
+    ]
+ }

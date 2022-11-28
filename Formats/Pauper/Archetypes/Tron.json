@@ -3,26 +3,58 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
+            "Type" : "InMainboard",
+            "Cards": ["Urza's Power Plant"]
+        },
+        {
+            "Type" : "InMainboard",
             "Cards": ["Urza's Tower"]
         },
         {
-            "Type": "DoesNotContain",
-            "Cards": ["Ephemerate"]
+            "Type" : "InMainboard",
+            "Cards": ["Urza's Mine"]
         }
     ],
     "Variants": [
         {
-            "Name": "Cascade Tron",
+            "Name": "Mono G Tron",
             "IncludeColorInName": false,
             "Conditions": [
                 {
-                    "Type": "InMainboard",
-                    "Cards": ["Annoyed Altisaur"]
+                    "Type" : "OneOrMoreInMainboard",
+                    "Cards": ["Fangren Marauder"]
                 },
                 {
-                    "Type": "InMainboard",
-                    "Cards": ["Boarding Parting"]
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Golem Foundry"]
+                }
+            ]
+        },
+        {
+            "Name": "Altar Tron",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "OneOrMoreInMainboard",
+                    "Cards": ["Fangren Marauder","Golem Foundry"]
+                },
+                {
+                    "Type" : "OneOrMoreInMainboard",
+                    "Cards": ["Myr Retriever"]
+                },
+                {
+                    "Type" : "OneOrMoreInMainboard",
+                    "Cards": ["Ashnod's Altar"]
+                }
+            ]
+        },
+        {
+            "Name": "Azorius Tron",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Azorius Signet"]
                 }
             ]
         }

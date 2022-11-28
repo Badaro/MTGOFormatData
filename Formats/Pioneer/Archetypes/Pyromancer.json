@@ -7,16 +7,8 @@
       "Cards": ["Young Pyromancer"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Kroxa, Titan of Death's Hunger"]
-    },
-    {
-      "Type": "InSideboard",
-      "Cards": ["Lurrus of the Dream-Den"]
-    },
-    {
       "Type": "DoesNotContain",
-      "Cards": ["Jace, Vryn's Prodigy"]
+      "Cards": ["Arclight Phoenix"]
     }
   ]
 }

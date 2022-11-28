@@ -1,0 +1,35 @@
+{
+    "Name": "Narset Control",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Hullbreacher", "Karn, the Great Creator", "Teferi, Time Raveler", "The Wandering Emperor", "Snapcaster Mage"]
+        },       
+        {
+            "Type": "InMainboard",
+            "Cards": ["Narset, Parter of Veils"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Day's Undoing"]
+        },
+       {
+        "Type" : "DoesNotContain",
+        "Cards" : ["Thought Lash"]
+       },
+       {
+        "Type" : "DoesNotContain",
+        "Cards" : ["Green Sun's Zenith"]
+       },
+       {
+        "Type" : "DoesNotContain",
+        "Cards" : ["Sai, Master Thopterist"]
+       },
+       {
+        "Type" : "DoesNotContain",
+        "Cards" : ["Dryad Arbor"]
+       }
+    ]
+}
+

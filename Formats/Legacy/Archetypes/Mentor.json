@@ -1,0 +1,27 @@
+{
+    "Name": "Mentor",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Day's Undoing"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Prismatic Ending"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Swords to Plowshares"]
+        },
+        {
+            "Type": "InMainBoard",
+            "Cards": ["Monastery Mentor"]
+        }
+
+    ]
+}

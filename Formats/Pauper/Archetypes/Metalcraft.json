@@ -1,0 +1,70 @@
+{
+    "Name": "Metalcraft",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Ancient Den"]
+        },
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Thraben Inspector","Glint Hawk"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ephemerate"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Myr Enforcer"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        }
+    ],
+    "Variants": [
+        {            
+            "Name": "Boros Synthesizer",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Experimental Synthesizer"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Rally the Peasants"]
+                }          
+            ]
+        },
+        {            
+            "Name": "Jeskai Metalcraft",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Kenku Artificier"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Ephemerate"]
+                }
+            ]
+        },
+        {            
+            "Name": "Metalcraft Bully",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Rally the Peasants"]
+                }
+            ]
+        }
+    ]
+}

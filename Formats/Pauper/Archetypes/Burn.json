@@ -3,8 +3,50 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Chain Lightning"]
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Monastery Swiftspear","Thermo-Alchemist"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Faithless Looting"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Glint Hawk"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Kiln Fiend"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Classic Burn",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "OneOrMoreInMainboard",
+                    "Cards": ["Needle Drop","Fireblast","Lava Spike"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Kuldotha Rebirth"]
+                }
+            ]
+        },
+        {
+            "Name": "Kuldotha Burn",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Kuldotha Rebirth"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Great Furnace"]
+                }
+            ]
         }
     ]
 }

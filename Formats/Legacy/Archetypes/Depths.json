@@ -1,0 +1,58 @@
+{
+    "Name": "Slow Depths",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thespian's Stage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Life from the Loam", "Crop Rotation"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Manabond"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Exploration"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Snapcaster Mage"]
+        },
+        {"Type": "DoesNotContain",
+        "Cards": ["Knight of the Reliquary"]
+         }
+
+    ],
+    "Variants": [
+        {
+            "Name": "Sultai Depths",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Elvish Spirit Guide"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Lotus Petal"]
+                },
+		{
+                    "Type": "InMainboard",
+                    "Cards": ["vampire hexmage"]
+                }
+            ]
+        }
+                 ]
+        }

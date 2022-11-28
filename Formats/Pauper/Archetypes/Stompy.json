@@ -1,0 +1,18 @@
+{
+    "Name": "Stompy",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Savage Swipe","Rancor"]
+        },
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Wild Mongrel","Nest Invader","Burning-Tree Emissary"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Quirion Ranger","Nettle Sentinel"]
+        }
+    ]
+}

@@ -3,8 +3,8 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Knight of the Reliquary"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Knight of the Reliquary", "Ice-Fang Coatl", "Elvish Reclaimer"]
         },
         {
             "Type": "InMainboard",
@@ -14,6 +14,10 @@
             "Type": "InMainboard",
             "Cards": ["Swords to Plowshares"]
         },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Devoted Druid","Collector Ouphe", "Witherbloom Apprentice", "Chain of Smog", "Noble Hierarch", "Stoneforge Mystic", "Batterskull", "Umezawa's Jitte", "Questing Beast"]
+        },      
         {
             "Type": "DoesNotContain",
             "Cards": ["Elvish Spirit Guide"]
@@ -27,9 +31,13 @@
             "Cards": ["Sylvan Safekeeper"]  
         },
         {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Witherbloom Apprentice", "Chain of Smog", "Noble Hierarch", "Stoneforge Mystic", "Batterskull", "Umezawa's Jitte", "Questing Beast"]
-        }
+            "Type": "doesnotcontain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        }     
     ],
     "Variants": [
         {

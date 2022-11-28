@@ -1,0 +1,18 @@
+{
+    "Name": "Defender Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Overgrown Battlement","Axebane Guardian"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ephemerate"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ghostly Flicker"]
+        }
+    ]
+}

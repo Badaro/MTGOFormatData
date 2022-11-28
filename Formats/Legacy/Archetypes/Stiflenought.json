@@ -1,0 +1,22 @@
+{
+    "Name": "Stiflenought",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Phyrexian Dreadnought"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dress Down"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Force Of will"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
+        }
+    ]
+}

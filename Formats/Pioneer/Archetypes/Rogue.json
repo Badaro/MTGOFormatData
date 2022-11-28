@@ -4,10 +4,6 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Merfolk Windrobber"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Soaring Thought-Thief"]
     },
     {

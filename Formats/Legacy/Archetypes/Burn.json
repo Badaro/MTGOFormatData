@@ -13,6 +13,11 @@
         {
             "Type": "InMainboard",
             "Cards": ["Price of Progress"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Chandra's Incinerator"]
         }
+
     ]
 }

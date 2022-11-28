@@ -1,0 +1,83 @@
+{
+    "Name": "UR Tempo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Counterspell"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Brainstorm","Preordain","Ponder"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Skred"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Volatile Fjord"]                    
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Ephemerate"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ghostly Flicker"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "UR Faeries",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Faerie Seer","Faerie Miscreant"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Spellstutter Sprite"]
+                }
+            ]
+        },
+        {
+            "Name": "UR Delver",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Delver of Secrets"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Spellstutter Sprite"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Tolarian Terror"]
+                }
+            ]
+        },
+        {
+            "Name": "UR Terror",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Tolarian Terror"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Thought Scour","Consider","Mental Note"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Spellstutter Sprite"]
+                }
+                
+            ]
+        }
+    ]
+}

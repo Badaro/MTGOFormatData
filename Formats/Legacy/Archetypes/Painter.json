@@ -9,6 +9,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Grindstone"]
+        },
+  	{
+            "Type": "InMainboard",
+            "Cards": ["Urza's Saga"]
         }
     ]
 }

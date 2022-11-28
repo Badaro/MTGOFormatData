@@ -1,0 +1,74 @@
+{
+    "Name": "Gates",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Basilisk Gate"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "WU Gates",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Citadel Gate"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Sea Gate"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Black Dragon Gate"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Cliffgate"]
+                }
+            ]
+        },
+        {
+            "Name": "WR Gates",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Citadel Gate"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Cliffgate"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Black Dragon Gate"]
+                }
+            ]
+        },
+        {
+            "Name": "WB Gates",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Citadel Gate"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Black Dragon Gate"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Cliffgate"]
+                },
+                {
+                    "Type" : "DoesNotContain",
+                    "Cards": ["Sea Gate"]
+                }
+            ]
+        }
+    ]
+}

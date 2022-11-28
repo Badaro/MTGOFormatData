@@ -1,0 +1,38 @@
+{
+    "Name": "4c Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Terminus","Mizzix's Mastery","Abundant Growth", "Narset, Parter of Veils", "Baleful Strix"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Expressive Iteration", "Fire // Ice", "Pyroblast"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Wasteland", "Volcanic Island"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Court of Grace", "Sylvan Library", "Carpet of Flowers", "dress down", "Minsc & Boo, Timeless Heroes"]
+        },      
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Counterbalance"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dryad Arbor"]
+        }
+    ]
+}

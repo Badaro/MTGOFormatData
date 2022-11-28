@@ -1,0 +1,14 @@
+{
+  "Name": "Metalwork Combo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Metalwork Colossus"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Brass Knuckles"]
+    }
+  ]
+}

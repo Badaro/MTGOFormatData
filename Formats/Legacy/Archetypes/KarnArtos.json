@@ -1,0 +1,31 @@
+{
+    "Name": "Karn Artos",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Karn, the Great Creator"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Kappa Cannoneer","Urza, Lord High Artificer","Esika's Chariot", "Shifting Ceratops", "Hagra Mauling", "Serum Powder", "Oblivion Ring"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Chalice of the Void", "Urza's Bauble", "Hope of Ghirapur"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Esper Sentinel"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Thoughtcast"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Auriok Salvagers"]
+        }
+    ]
+}
+

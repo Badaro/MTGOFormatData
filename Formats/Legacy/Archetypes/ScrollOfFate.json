@@ -1,0 +1,14 @@
+{
+    "Name": "Scroll of Fate",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Scroll of Fate"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Murktide Regent"]
+        }
+    ]
+}

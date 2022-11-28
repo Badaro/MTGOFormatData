@@ -1,0 +1,14 @@
+{
+    "Name": "Riddlesmith combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Riddlesmith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Containment Construct"]
+         }
+    ]
+}

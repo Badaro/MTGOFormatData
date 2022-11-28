@@ -1,0 +1,18 @@
+{
+    "Name": "CounterTop",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Counterbalance"]
+        },      
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Monastery Mentor"]
+        },      
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
+        }
+    ]
+}

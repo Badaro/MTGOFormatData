@@ -1,0 +1,27 @@
+{
+    "Name": "Stoneblade",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Stoneforge Mystic"]
+        },
+	{
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Batterskull", "Kaldra Compleat"	]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Daze", "Force of Will", "Swords to Plowshares"]
+        },       
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cephalid Illusionist"]
+        }
+    ]
+}
+

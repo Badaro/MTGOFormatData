@@ -1,0 +1,27 @@
+{
+    "Name": "monoB control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Confidant"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tourach, Dread Cantor"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Duress"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thoughtseize"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Inquisition of Kozilek"]
+        }
+    ]
+    
+}

@@ -11,12 +11,12 @@
             "Cards": ["Wirewood Symbiote"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Heritage Druid"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Heritage Druid", "Elvish Visionary"]
         },
         {
             "Type": "InMainboard",
-            "Cards": ["Glimpse of Nature"]
+            "Cards": ["Allosaurus Shepherd"]
         }
     ]
 }

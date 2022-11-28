@@ -1,0 +1,14 @@
+{
+  "Name": "CocoToolbox",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Elite Spellbinder"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Collected Company"]
+    }
+  ]
+}

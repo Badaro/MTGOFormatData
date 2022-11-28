@@ -3,12 +3,20 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Slippery Bogle"]
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Slippery Bogle","Gladecover Scout"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Gladecover Scout"]
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Ethereal Armor","Ancestral Mask"]
+        },
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Rancor","Armadillo Cloak"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Tree of Tales"]
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "Name": "Karn Post",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Karn, the Great Creator","Grim Monolith","Reality Smasher","Ulamog, the Ceaseless Hunger"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cloudpost"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Echo of Eons"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Eldrazi Mimic"]
+        }
+
+    ]
+}

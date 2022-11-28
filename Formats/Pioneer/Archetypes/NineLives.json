@@ -1,0 +1,14 @@
+{
+  "Name": "Nine lives combo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nine Lives"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Solemnity"]
+    }
+  ]
+}

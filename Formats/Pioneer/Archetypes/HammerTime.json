@@ -1,0 +1,10 @@
+{
+  "Name": "HammerTime",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Colossus Hammer"]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "Name": "Delver",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Uro, Titan of Nature's Wrath", "Kroxa, Titan of Death's Hunger","Brazen Borrower"]
+        },
+        {
+            "Type" : "OneorMoreInMainboard",
+            "Cards": ["Murktide Regent", "Tarmogoyf","Phyrexian Dreadnought"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Daze", "Force of Will"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ponder", "Expressive Iteration", "Brainstorm "]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Counterbalance"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Arclight Phoenix"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Monastery Mentor"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Leovold, Emissary of Trest"]
+        }
+    ]
+}

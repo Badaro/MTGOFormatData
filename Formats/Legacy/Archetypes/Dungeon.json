@@ -1,0 +1,27 @@
+{
+    "Name": "Dungeon",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Seasoned Dungeoneer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Solitude"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Council's Judgment", "Timeless Dragon"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Cosmic Intervention", "Palace Jailer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        }
+    ]
+    
+}

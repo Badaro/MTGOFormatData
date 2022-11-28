@@ -1,0 +1,54 @@
+{
+    "Name": "Flicker",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Ephemerate","Ghostly Flicker"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Urza's Tower"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Lotus Petal"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Orzhov Ephemerate",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "OneorMoreInMainboard",
+                    "Cards": ["Palace Sentinel","Goliath Paladin"]
+                }
+            ]
+        },
+        {
+            "Name": "Jeskai Ephemerate",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Kenku Artificer"]
+                }
+            ]
+        },
+        {
+            "Name": "UW Familiar",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Sunscape Familiar"]
+                }
+            ]
+        }
+    ]
+}

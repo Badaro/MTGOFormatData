@@ -1,0 +1,22 @@
+{
+    "Name": "Bantphemerate",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Eternal Witness"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ice-Fang Coatl"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Solitude"]
+        },
+	  {
+            "Type": "InMainboard",
+            "Cards": ["Noble Hierarch"]
+        }
+    ]
+}

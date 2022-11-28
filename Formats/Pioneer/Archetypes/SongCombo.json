@@ -1,0 +1,10 @@
+{
+  "Name": "Song of Creation Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Song of Creation"]
+    }
+  ]
+}

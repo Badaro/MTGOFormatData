@@ -1,0 +1,18 @@
+{
+    "Name": "Birgi Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Birgi, God of Storytelling"]
+          },         
+          {
+            "Type": "InMainboard",
+            "Cards": ["Burning Wish"]
+          },
+          {
+            "Type": "InMainboard",
+            "Cards": ["Wish"]
+          }
+    ]
+}

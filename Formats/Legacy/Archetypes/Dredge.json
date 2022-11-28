@@ -1,0 +1,22 @@
+{
+    "Name": "Dredge",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Golgari Thug"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Narcomoeba"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Golgari Grave-Troll"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Stinkweed Imp"]
+        }
+    ]
+}

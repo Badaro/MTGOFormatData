@@ -1,0 +1,26 @@
+{
+    "Name": "Goblin Combo",
+    "IncludeColorInName": false,
+    "Conditions": [        
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Goblin Matron"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Putrid Goblin"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Skirk Prospector"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["First Day of Class"]
+        }          
+        
+    ],
+    "Variants": [
+
+    ] 
+}
