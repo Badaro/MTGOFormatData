@@ -3,8 +3,8 @@
     "IncludeColorInName": true,
     "Conditions": [
       {
-        "Type": "InMainboard",
-        "Cards": ["Stonecoil Serpent"]
+        "Type": "OneOrMoreInMainboard",
+        "Cards": ["Stonecoil Serpent","Gingerbrute"]
       },
       {
         "Type": "InMainboard",

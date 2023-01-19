@@ -1,0 +1,14 @@
+{
+    "Name": "BlueDevotion",
+    "IncludeColorInName": false,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": ["Nykthos, Shrine to Nyx"]
+      },
+      {
+        "Type": "InMainboard",
+        "Cards": ["Master of Waves"]
+      }
+    ]
+  }
