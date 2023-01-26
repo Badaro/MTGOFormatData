@@ -7,12 +7,8 @@
       "Cards": ["Indomitable Creativity"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["The Locust God"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Sage of the Falls"]
+      "Type": "DoesNotContain",
+      "Cards": ["Torrential Gearhulk"]
     }
   ]
 }

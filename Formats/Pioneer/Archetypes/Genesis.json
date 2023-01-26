@@ -1,0 +1,14 @@
+{
+  "Name": "Genesis",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Omnath, Locus of Creation"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Genesis Ultimatum"]
+    }
+  ]
+}

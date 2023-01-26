@@ -1,0 +1,34 @@
+{
+    "Name": "Gates",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": [
+                "Sea Gate",
+                "Citadel Gate",
+                "Heap Gate",
+                "Manor Gate",
+                "Cliffgate",
+                "Black Dragon Gate",
+                "Golgari Gate"
+            ]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Caw Gate",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Squadron Hawk"]
+                }
+            ]
+        }
+    ]
+}

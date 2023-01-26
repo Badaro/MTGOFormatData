@@ -1,0 +1,10 @@
+{
+  "Name": "Micromancer",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Micromancer"]
+    }
+  ]
+}

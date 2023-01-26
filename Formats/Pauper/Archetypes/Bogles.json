@@ -9,6 +9,22 @@
         {
             "Type": "InMainboard",
             "Cards": ["Gladecover Scout"]
-        }
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Heliod's Pilgrim","Silhana Ledgewalker","Spirited Companion","Aura Gnarlid"]
+        },        
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ancestral Mask","Ethereal Armor"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Rancor"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Glint Hawk"]
+        }        
     ]
 }

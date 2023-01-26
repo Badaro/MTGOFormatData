@@ -3,12 +3,33 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Faerie Seer"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Faerie Seer","Faerie Miscreant"]
         },
         {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Spire Golem"]
+            "Type": "InMainboard",
+            "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ninja of the Deep Hours","Moon-Circuit Hacker"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": [
+                "Counterspell",
+                "Brainstorm",
+                "Ponder",
+                "Preordain"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cleansing Wildfire"]
         }
     ]
 }

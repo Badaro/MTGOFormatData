@@ -1,0 +1,18 @@
+{
+    "Name": "Insect Tribal",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Kraul Harpooner"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Grist, the Hunger Tide"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Brain Maggot"]
+        }
+    ]
+}

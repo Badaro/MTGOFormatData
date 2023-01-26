@@ -1,0 +1,11 @@
+{
+    "Name": "Smallpox",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Smallpox"]
+        }
+    ]
+    
+}

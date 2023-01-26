@@ -1,0 +1,99 @@
+{
+    "Name": "Blink",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": [
+                "Ephemerate",
+                "Ghostly Flicker",
+                "Momentary Blink"
+            ]
+        },
+        {
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": [
+                "Lone Missionary",
+                "Dawnbringer Cleric",
+                "Inspiring Overseer",
+                "Mulldrifter",
+                "Archaeomancer",
+                "Sea Gate Oracle",
+                "Vampire Sovereign"
+            ]
+        },        
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Urza's Power Plant"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Tireless Tribe"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Overgrown Battlement"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cleansing Wildfire"]
+        }      
+    ],
+    "Variants" : [
+        {
+            "Name": "Familiars",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Ephemerate","Ghostly Flicker"]
+                },
+                {
+                    "Type": "TwoOrMoreInMainboard",
+                    "Cards": ["Sunscape Familiar","Archaeomancer","God-Pharaoh's Faithful"]
+                }
+            ]
+        },
+        {
+            "Name": "Orzhov Ephemerate",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "TwoOrMoreInMainboard",
+                    "Cards": [
+                        "Dawnbringer Cleric",
+                        "Inspiring Overseer",
+                        "Lone Missionary"
+                    ]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Ephemerate"]
+                }       
+            ]
+        },
+        {
+            "Name": "Acid Trip",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Reality Acid"]
+                },
+                {
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Kor Skyfisher","Dream Stalker"]
+                }
+            ]
+        }        
+    ]
+}
+

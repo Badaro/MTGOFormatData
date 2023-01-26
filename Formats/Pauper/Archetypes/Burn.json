@@ -3,8 +3,42 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": [
+                "Thermo-Alchemist",
+                "Voldaren Epicure",
+                "Ghitu Lavarunner",
+                "Keldon Marauders"
+            ]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Lava Spike"]
+        },
+        {
+            "Type" : "InMainboard",
             "Cards": ["Chain Lightning"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Lightning Bolt"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Rift Bolt"]
+        },    
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Needle Drop"]
+        },       
+        {
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": [              
+                "Flame Rift",
+                "Skewer the Critics",
+                "Searing Blaze",
+                "Fireblast"
+            ]
         }
     ]
 }

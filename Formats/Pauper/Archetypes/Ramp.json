@@ -1,18 +1,37 @@
 {
-    "Name": "Ramp",
-    "IncludeColorInName": true,
+    "Name": "Cascade",
+    "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Annoyed Altisaur"]
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": [
+                "Annoyed Altisaur",
+                "Boarding Party",
+                "Avenging Hunter",
+                "Goliath Paladin"
+            ]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Llanowar Visionary"]
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": [
+                "Llanowar Visionary",
+                "Arbor Elf",
+                "Utopia Sprawl",
+                "Wild Growth",
+                "Jewel Thief"
+            ]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Sarulf's Packmate"]
+            "Type" : "DoesNotContain",
+            "Cards": ["Urza's Power Plant"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cleansing Wildfire"]
         }
     ]
 }

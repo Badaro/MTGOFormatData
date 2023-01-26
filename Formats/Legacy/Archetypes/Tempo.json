@@ -3,70 +3,12 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Daze"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Volcanic Island"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Force of Will"]
-        },
-        {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Murktide Regent", "Ragavan, Nimble Pilferer"]
-        }
-    ],
-    "Variants": [
-        {
-            "Name": "Delver",
-            "IncludeColorInName": true,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Delver of Secrets"]
-                }
-            ]
+            "Cards": ["Dragon's Rage Channeler", "Baleful Strix	", "Murktide Regent"]
         },
         {
-            "Name": "Mentor",
-            "IncludeColorInName": true,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Prismatic Ending"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Swords to Plowshares"]
-                },
-                {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Monastery Mentor"]
-                }
-            ]
-        },
-        {
-            "Name": "Standstill",
-            "IncludeColorInName": true,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Standstill"]
-                }
-            ]
-        },
-        {
-            "Name": "Tempo",
-            "IncludeColorInName": true,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Uro, Titan of Nature's Wrath"]
-                }
-            ]
+            "Type": "InMainboard",
+            "Cards": ["Snuff Out"]
         }
     ]
 }

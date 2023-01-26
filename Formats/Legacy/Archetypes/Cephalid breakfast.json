@@ -1,0 +1,10 @@
+{
+    "Name": "Cephalid breakfast",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cephalid Illusionist"]
+        }
+    ]
+}

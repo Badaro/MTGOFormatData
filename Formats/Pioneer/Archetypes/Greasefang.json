@@ -1,0 +1,10 @@
+{
+  "Name": "GreaseFang",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Greasefang, Okiba Boss"]
+    }
+  ]
+}

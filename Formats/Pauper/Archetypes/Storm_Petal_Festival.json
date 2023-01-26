@@ -1,0 +1,14 @@
+{
+    "Name": "Petal Festival",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Petals of Insight"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Ideas Unbound","Peer Through Depths","Psychic Puppetry","Reach Through Mists"]                            
+        }
+    ]   
+}

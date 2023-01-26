@@ -1,11 +1,15 @@
 {
-    "Name": "Walls Combo",
+    "Name": "Walls",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": ["Overgrown Battlement"]
-        }
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Axebane Guardian"]
+        }        
     ],
     "Variants": [
         {
@@ -15,6 +19,20 @@
                 {
                     "Type": "OneOrMoreInMainboard",
                     "Cards": ["Annoyed Altisaur","Boarding Parting"]
+                },
+                {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Freed from the Real"]
+                }
+            ]
+        },
+        {
+            "Name": "Walls Combo",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Shield-Wall Sentinel","Freed from the Real"]
                 }
             ]
         }

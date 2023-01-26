@@ -1,0 +1,31 @@
+{
+    "Name": "Sultai",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Baleful Strix"]
+        },
+	    {
+            "Type": "InMainboard",
+            "Cards": ["Leovold, Emissary of Trest"]
+        },
+	    {
+            "Type": "InMainboard",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Expressive Iteration"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]  
+        }	
+
+    ]
+}

@@ -4,11 +4,11 @@
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Defiant Strike"]
+            "Cards": ["Favored Hoplite"]
         },
         {
-            "Type": "InSideboard",
-            "Cards": ["Lurrus of the Dream-Den"]
+            "Type": "InMainboard",
+            "Cards": ["Tenth District Legionnaire"]
         }
     ],
     "Variants": [

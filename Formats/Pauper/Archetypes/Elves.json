@@ -1,18 +1,14 @@
 {
     "Name": "Elves",
-    "IncludeColorInName": true,
+    "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Birchlore Rangers"]
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Birchlore Rangers","Llanowar Elves","Elvish Mystic","Fyndhorn Elves"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Priest of Titania"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Llanowar Elves"]
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Priest of Titania","Elvish Vanguard","Lys Alana Huntmaster","Timberwatch Elf"]
         }
     ]
 }

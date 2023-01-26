@@ -1,0 +1,10 @@
+{
+  "Name": "Transmogrify",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Transmogrify"]
+    }
+  ]
+}

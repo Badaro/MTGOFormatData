@@ -1,56 +1,85 @@
 {
-    "Name": "UW Control",
-    "IncludeColorInName": false,
+    "Name": "Control",
+    "IncludeColorInName": true,
     "Conditions": [
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Swords to Plowshares"]
+        { "Type" : "OneOrMoreInMainboard",
+       "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher"]
         },
         {
             "Type": "InMainboard",
             "Cards": ["Force of Will"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Brainstorm"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Brainstorm", "Day's Undoing"]
         },
         {
             "Type": "DoesNotContain",
             "Cards": ["Daze"]
-        }
-    ],
-    "Variants": [
-        {
-            "Name": "Control",
-            "IncludeColorInName": true,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Uro, Titan of Nature's Wrath"]
-                },
-                {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Life from the Loam"]
-                }
-            ]
+        },
+         {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
         },
         {
-            "Name": "4C Control",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Endurance"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Life from the Loam"]
-                }
-            ]
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Monastery Mentor"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dragon's Rage Channeler"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Arclight Phoenix"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Show and Tell"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sai, Master Thopterist"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Omnath, Locus of Creation"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aether Vial"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Carpet of Flowers"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Minsc & Boo, Timeless Heroes"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
         }
     ]
 }

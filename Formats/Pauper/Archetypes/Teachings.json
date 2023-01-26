@@ -1,0 +1,25 @@
+{
+    "Name": "Teachings Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Mystical Teachings"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": [
+                "Innocent Blood",
+                "Diabolic Edict",
+                "Evincar's Justice",
+                "Devour Flesh",
+                "Think Twice",
+                "Accumulated Knowledge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Urza's Tower"]
+        }
+    ]   
+}

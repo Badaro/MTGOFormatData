@@ -1,0 +1,14 @@
+{
+  "Name": "Book Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Book of Exalted Deeds"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Collected Company"]
+    }
+  ]
+}

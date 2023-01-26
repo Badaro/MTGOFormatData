@@ -61,6 +61,10 @@
 	{
       "Type": "DoesNotContain",
       "Cards": ["Felidar Guardian"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Eldrazi Temple"]
     }
   ]
 }

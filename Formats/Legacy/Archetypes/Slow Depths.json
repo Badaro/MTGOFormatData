@@ -1,0 +1,19 @@
+{
+    "Name": "Slow Depths",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thespian's Stage"]
+        },
+        {   
+            "Type": "InMainboard",
+            "Cards": ["Dark confident"]
+        }
+
+    ]
+}

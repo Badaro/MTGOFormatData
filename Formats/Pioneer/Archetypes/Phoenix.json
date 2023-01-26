@@ -5,10 +5,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Arclight Phoenix"]
-    },
-	{
-      "Type": "DoesNotContain",
-      "Cards": ["Lutri, the Spellchaser"]
     }
   ]
 }

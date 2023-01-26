@@ -1,18 +1,45 @@
 {
     "Name": "Goblins",
-    "IncludeColorInName": true,
+    "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Skirk Prospector"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": [
+                "Skirk Prospector",
+                "Goblin Sledder",
+                "Mogg Raider"            
+            ]
+        }
+    ],
+    "Variants": [
+        {
+            "Name": "Moggwart",
+            "IncludeColorInName": false,
+            "Conditions": [             
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Putrid Goblin"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["First Day of Class"]
+                }
+            ]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Goblin Matron"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Unearth"]
+            "Name": "Goblins Agro",
+            "IncludeColorInName": false,
+            "Conditions": [             
+                {
+                    "Type": "TwoOrMoreInMainboard",
+                    "Cards": [
+                        "Goblin Bushwacker",
+                        "Mogg War Marshal",
+                        "Goblin Grenade",
+                        "Kuldotha Rebirth"
+                    ]
+                }
+            ]
         }
     ]
 }

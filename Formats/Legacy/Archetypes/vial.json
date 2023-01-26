@@ -1,0 +1,43 @@
+{
+    "Name": "Vial",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Aether Vial"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Goblin Lackey"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Galerider Sliver"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Lord of Atlantis"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["General Kudro of Drannith"]
+        },
+        {
+            "Type": "oneOrMoreInMainboard",
+            "Cards": ["Baleful Strix","Lavinia, Azorius Renegade", "Soulherder", "Brainstorm", "Force of Will", "Plague Engineer", "Meddling Mage", "Venser, Shaper Savant"]
+        }
+        
+    ]
+}

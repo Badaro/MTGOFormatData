@@ -16,11 +16,31 @@
         }, 
         {
             "Type": "DoesNotContain",
-            "Cards": ["Noble Hierarch"]
+            "Cards": ["Chain of Smog"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Abundant Growth"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Chain of Smog"]
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sylvan Safekeeper"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Narset, Parter of Veils"]
         }
     ]
 }

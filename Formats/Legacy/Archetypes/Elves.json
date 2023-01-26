@@ -9,14 +9,15 @@
         {
             "Type": "InMainboard",
             "Cards": ["Wirewood Symbiote"]
+        },       
+         {
+            "Type": "InMainboard",
+            "Cards": ["Allosaurus Shepherd"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Heritage Druid"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Glimpse of Nature"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Heritage Druid", "Elvish Visionary"]
         }
+        
     ]
-}
+}	

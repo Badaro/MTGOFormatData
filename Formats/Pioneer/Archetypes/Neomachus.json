@@ -1,0 +1,14 @@
+{
+  "Name": "Neomachus",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Velomachus Lorehold"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["neoform"]
+    }
+  ]
+}

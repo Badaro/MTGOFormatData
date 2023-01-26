@@ -1,0 +1,26 @@
+{
+  "Name": "CocoToolbox",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [ "Skyclave Apparition" ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [ "Collected Company" ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [ "Kayla's Reconstruction" ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [ "Bishop of Wings" ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [ "Mausoleum Wanderer" ]
+    }
+  ]
+}

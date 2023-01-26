@@ -1,5 +1,5 @@
 {
-   Metas:
+   "Metas":
    [
       { "StartDate": "2019-05-20", "Name": "PostBlueMonday" }, 
       { "StartDate": "2019-06-14", "Name": "PostModernHorizons"},
@@ -24,6 +24,7 @@
       { "StartDate": "2022-02-10", "Name": "PostNeonDynasty" },
       { "StartDate": "2022-03-07", "Name": "PostGalvanicBan" },
       { "StartDate": "2022-04-28", "Name": "PostNewCapenna" },
-      { "StartDate": "2022-09-01", "Name": "PostDominariaUnited" }
+      { "StartDate": "2022-09-01", "Name": "PostDominariaUnited" },
+      { "StartDate": "2022-11-18", "Name": "PostBrotherWar" }
    ]
 }

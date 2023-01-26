@@ -1,0 +1,156 @@
+{
+    "Name": "Artifact",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": [
+                "Ancient Den",
+                "Seat of the Synod",
+                "Vault of Whispers",
+                "Great Furnace",
+                "Tree of Tales",
+                "Drossforge Bridge",
+                "Mistvault Bridge",
+                "Razortide Bridge",
+                "Rustvale Bridge",
+                "Silverbluff Bridge",
+                "Slagwoods Bridge",
+                "Tanglepool Bridge",
+                "Thornglint Bridge"
+            ]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": [
+                "Glint Hawk",
+                "Kor Skyfisher",
+                "Thoughtcast",
+                "Deadly Dispute",
+                "Makeshift Munitions",
+                "Galvanic Blast",
+                "Myr Enforcer",
+                "Sojourner's Companion",
+                "Frogmite",
+                "Foundry Helix"
+            ]
+        },    
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": [
+                "Experimental Synthesizer",
+                "Chromatic Star",
+                "Ichor Wellspring",
+                "Relic of Progenitus",
+                "Spare Supplies",
+                "Golden Egg",
+                "Prophetic Prism",
+                "Terrarion",
+                "Chromatic Sphere",
+                "Alchemist's Vial"
+            ]
+        },        
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Urza's Power Plant"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Kitchen Imp"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Skirk Prospector"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Tireless Tribe"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cleansing Wildfire"]
+        }            
+    ],
+    "Variants": [
+        {
+            "Name": "Affinity Agro",
+            "IncludeColorInName": false,
+            "Conditions": [       
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Atog"]
+                },     
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Myr Enforcer"]
+                },  
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Frogmite"]
+                },   
+                {
+                    "Type" : "TwoOrMoreInMainboard",
+                    "Cards": [
+                        "Carapace Forger",
+                        "Fling",
+                        "Springleaf Drum",
+                        "Ornithopter",
+                        "Disciple of the Vault"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Affinity Control",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type" : "OneOrMoreInMainboard",
+                    "Cards": [
+                        "Kenku Artificer",
+                        "Krark-Clan Shaman",
+                        "Gearseeker Serpent"
+                    ]
+                },
+                {
+                    "Type" : "OneOrMoreInMainboard",
+                    "Cards": ["Reckoner's Bargain","Deadly Dispute"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Blood Fountain"]
+                }                
+            ]
+        },
+        {
+            "Name": "Boros Metalcraft",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "TwoOrMoreInMainboard",
+                    "Cards": [
+                        "Glint Hawk",
+                        "Thraben Inspector",
+                        "Kor Skyfisher"
+                    ]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Lightning Bolt"]
+                },
+                {
+                    "Type" : "InMainboard",
+                    "Cards": ["Galvanic Blast"]
+                }
+            ]
+        }
+    ]
+}

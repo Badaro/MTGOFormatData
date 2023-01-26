@@ -1,28 +1,30 @@
 {
-  "Name": "TES",
-  "IncludeColorInName": false,
-  "Conditions": [
+    "Name": "The Epic Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Burning Wish"]
-        }
-    ],
-  "Conditions": [
+            "Cards": ["Dark Ritual"]
+        },
         {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Echo of Eons","Rite of Flame","Tendrils of Agony","Ad Nauseam","Wishclaw Talisman","Veil of Summer"]
-        }
-    ],
-    "Variants": [
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Burning Wish", "Past in Flames","Lion's Eye Diamond"]
+        },       
         {
-            "Name": "Birgi Storm",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Birgi, God of Storytelling"]
-                }
-            ]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Brainstorm","Wishclaw Talisman"]
+        },       
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ad Nauseam"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Birgi, God of Storytelling"]
         }
     ]
-}
+   }
