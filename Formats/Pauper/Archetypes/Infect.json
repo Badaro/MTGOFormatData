@@ -1,0 +1,14 @@
+{
+    "Name": "Infect",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Glistener Elf","Ichorclaw Myr","Blighted Agent"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Mutagenic Growth","Vines of Vastwood","Might of Old Krosa"]
+        }
+    ]
+}

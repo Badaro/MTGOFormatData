@@ -11,8 +11,8 @@
             "Cards": ["Green Sun's Zenith"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Swords to Plowshares"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Swords to Plowshares", "Once Upon a Time"]
         },
         {
             "Type": "OneOrMoreInMainboard",
@@ -37,7 +37,11 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Dark Depths"]
-        }     
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Wirewood Symbiote"]
+        }   
     ],
     "Variants": [
         {

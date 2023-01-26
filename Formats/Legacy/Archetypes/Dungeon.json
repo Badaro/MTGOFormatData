@@ -7,21 +7,24 @@
             "Cards": ["Seasoned Dungeoneer"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Solitude"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Solitude", "Caves of Chaos Adventurer"]
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Council's Judgment", "Timeless Dragon"]
+            "Cards": ["Council's Judgment", "Timeless Dragon","White Plume Adventurer"]
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Cosmic Intervention", "Palace Jailer"]
+            "Cards": ["Touch the Spirit Realm", "Cosmic Intervention", "Palace Jailer", "Emeria's Call","Anointed Peacekeeper", "Shatterskull Smashing"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Thalia, Guardian of Thraben"]
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Kaldra Compleat"]
         }
     ]
-    
 }

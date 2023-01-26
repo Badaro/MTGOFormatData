@@ -1,11 +1,7 @@
 {
     "Name": "Reanimator",
-    "IncludeColorInName": true,
+    "IncludeColorInName": false,
     "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Exhume"]
-        },
         {
             "Type": "InMainboard",
             "Cards": ["Reanimate"]
@@ -13,6 +9,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Entomb"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Exhume"]
         },
         {
             "Type": "DoesNotContain",

@@ -1,4 +1,40 @@
 {
+<<<<<<< HEAD
+<<<<<<<< HEAD:Formats/Modern/Archetypes/Insects.json
+    "Name": "Insect Tribal",
+========
+    "Name": "Enchantress",
+>>>>>>>> main:Formats/Legacy/Archetypes/Enchantress.json
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+<<<<<<<< HEAD:Formats/Modern/Archetypes/Insects.json
+            "Cards": ["Kraul Harpooner"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Grist, the Hunger Tide"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Brain Maggot"]
+========
+            "Cards": ["Argothian Enchantress"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sythis, Harvest's Hand"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Enchantress's Presence"]
+>>>>>>>> main:Formats/Legacy/Archetypes/Enchantress.json
+        }
+    ]
+}
+
+=======
   "Name": "Insects",
   "IncludeColorInName": false,
   "Conditions": [
@@ -16,3 +52,4 @@
 	}
   ]
 }
+>>>>>>> main

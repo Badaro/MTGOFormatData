@@ -1,0 +1,14 @@
+{
+    "Name": "Soldiers",
+    "IncludeColorInName": true,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": [ "Valiant Veteran" ]
+      },
+      {
+        "Type": "InMainboard",
+        "Cards": [ "Harbin, Vanguard Aviator" ]
+      }
+    ]
+  }

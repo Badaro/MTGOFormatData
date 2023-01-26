@@ -3,20 +3,28 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Slippery Bogle","Gladecover Scout"]
+            "Type": "InMainboard",
+            "Cards": ["Slippery Bogle"]
         },
         {
-            "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Ethereal Armor","Ancestral Mask"]
+            "Type": "InMainboard",
+            "Cards": ["Gladecover Scout"]
         },
         {
-            "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Rancor","Armadillo Cloak"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Heliod's Pilgrim","Silhana Ledgewalker","Spirited Companion","Aura Gnarlid"]
+        },        
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ancestral Mask","Ethereal Armor"]
         },
         {
-            "Type" : "DoesNotContain",
-            "Cards": ["Tree of Tales"]
-        }
+            "Type": "InMainboard",
+            "Cards": ["Rancor"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Glint Hawk"]
+        }        
     ]
 }

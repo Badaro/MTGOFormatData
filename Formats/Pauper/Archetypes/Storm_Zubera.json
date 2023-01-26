@@ -1,0 +1,10 @@
+{
+    "Name": "Zubera Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Floating-Dream Zubera","Ember-Fist Zubera","Ashen-Skin Zubera"]
+        }
+    ]   
+}

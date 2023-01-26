@@ -3,70 +3,30 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type" : "InMainboard",
+            "Type": "InMainboard",
             "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": [
+                "Sea Gate",
+                "Citadel Gate",
+                "Heap Gate",
+                "Manor Gate",
+                "Cliffgate",
+                "Black Dragon Gate",
+                "Golgari Gate"
+            ]
         }
     ],
     "Variants": [
         {
-            "Name": "WU Gates",
+            "Name": "Caw Gate",
             "IncludeColorInName": false,
             "Conditions": [
                 {
-                    "Type" : "InMainboard",
-                    "Cards": ["Citadel Gate"]
-                },
-                {
-                    "Type" : "InMainboard",
-                    "Cards": ["Sea Gate"]
-                },
-                {
-                    "Type" : "DoesNotContain",
-                    "Cards": ["Black Dragon Gate"]
-                },
-                {
-                    "Type" : "DoesNotContain",
-                    "Cards": ["Cliffgate"]
-                }
-            ]
-        },
-        {
-            "Name": "WR Gates",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type" : "InMainboard",
-                    "Cards": ["Citadel Gate"]
-                },
-                {
-                    "Type" : "InMainboard",
-                    "Cards": ["Cliffgate"]
-                },
-                {
-                    "Type" : "DoesNotContain",
-                    "Cards": ["Black Dragon Gate"]
-                }
-            ]
-        },
-        {
-            "Name": "WB Gates",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type" : "InMainboard",
-                    "Cards": ["Citadel Gate"]
-                },
-                {
-                    "Type" : "InMainboard",
-                    "Cards": ["Black Dragon Gate"]
-                },
-                {
-                    "Type" : "DoesNotContain",
-                    "Cards": ["Cliffgate"]
-                },
-                {
-                    "Type" : "DoesNotContain",
-                    "Cards": ["Sea Gate"]
+                    "Type": "InMainboard",
+                    "Cards": ["Squadron Hawk"]
                 }
             ]
         }

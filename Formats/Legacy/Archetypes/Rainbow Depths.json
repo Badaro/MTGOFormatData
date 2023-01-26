@@ -1,0 +1,22 @@
+{
+    "Name": "Rainbow Depths",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thespian's Stage"]
+        },
+        {   
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Mana Confluence","Flusterstorm"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Not of This World"]
+        }
+    ]
+}

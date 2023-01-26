@@ -4,11 +4,11 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Uro, Titan of Nature's Wrath", "Kroxa, Titan of Death's Hunger","Brazen Borrower"]
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets", "Third Path Iconoclast"]
         },
         {
             "Type" : "OneorMoreInMainboard",
-            "Cards": ["Murktide Regent", "Tarmogoyf","Phyrexian Dreadnought"]
+            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast"]
         },
         {
             "Type": "OneOrMoreInMainboard",
@@ -17,10 +17,6 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Ponder", "Expressive Iteration", "Brainstorm "]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Counterbalance"]
         },
         {
             "Type": "DoesNotContain",
@@ -53,6 +49,11 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Leovold, Emissary of Trest"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Snuff Out"]
         }
     ]
 }
+

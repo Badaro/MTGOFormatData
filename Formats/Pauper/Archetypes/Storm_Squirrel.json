@@ -1,0 +1,14 @@
+{
+    "Name": "First Day of Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Chatterstorm","Weather the Storm"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["First Day of Class"]
+        }
+    ]
+}

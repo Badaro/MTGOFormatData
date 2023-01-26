@@ -1,0 +1,22 @@
+{
+    "Name": "UB Delver",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Delver of Secrets"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Gurmag Angler"]
+        },
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Thought Scour","Consider","Mental Note"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Tolarian Terror"]
+        }        
+    ]
+}

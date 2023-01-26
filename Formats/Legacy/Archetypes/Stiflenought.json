@@ -12,11 +12,11 @@
         },
         {
             "Type": "InMainboard",
-            "Cards": ["Force Of will"]
+            "Cards": ["Stifle"]
         },
         {
-            "Type": "DoesNotContain",
-            "Cards": ["Death's Shadow"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Scroll of Fate", "Stubborn Denial"]
         }
     ]
 }

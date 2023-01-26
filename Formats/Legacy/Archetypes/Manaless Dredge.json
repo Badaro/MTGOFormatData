@@ -1,0 +1,14 @@
+{
+    "Name": "Manaless Dredge",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Golgari Grave-Troll"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Cephalid Coliseum"]
+        }
+    ]
+}

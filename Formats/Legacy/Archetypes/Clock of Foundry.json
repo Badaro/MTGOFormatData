@@ -1,0 +1,10 @@
+{
+    "Name": "Clock of Foundry",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Clock of Omens"]
+        }
+    ]
+}

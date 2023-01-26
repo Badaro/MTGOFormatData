@@ -1,6 +1,6 @@
 {
   "Name": "Footfalls",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -13,18 +13,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Electrodominance"]
-    }
-  ],
-  "Variants": [
-    {
-      "Name": "DomainFootfalls",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Leyline Binding"]
-        }
-      ]
     }
   ]
 }

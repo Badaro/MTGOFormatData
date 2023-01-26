@@ -1,0 +1,22 @@
+{
+    "Name": "Reanimator",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Ulamog's Crusher","Striped Riverwinder","Mirrorshell Crab","Dragon's Breath"]
+        }, 
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Exhume","Late to Dinner"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Careful Study","Faithless Looting"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Urza's Power Plant"]
+        }
+    ]
+}

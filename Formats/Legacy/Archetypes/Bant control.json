@@ -1,0 +1,63 @@
+{
+    "Name": "Bant control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Ice-Fang Coatl", "Uro, Titan of Nature's Wrath", "Noble Hierarch"]
+        },
+            {
+            "Type": "InMainboard",
+            "Cards": ["Prismatic Ending"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Savannah"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tropical Island"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tundra"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["volcanic island"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [" Witherbloom Apprentice"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Omnath, Locus of Creation"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Pyroblast"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Minsc & Boo, Timeless Heroes"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Batterskull"]
+        }
+    ]
+
+}

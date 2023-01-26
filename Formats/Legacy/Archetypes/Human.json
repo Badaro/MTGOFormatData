@@ -4,16 +4,20 @@
     "Conditions": [
         {
             "Type": "oneormoreInMainboard",
-            "Cards": ["Brutal Cathar", "Elite Spellbinder", "General Kudro of Drannith", "Champion of the Parish"]
+            "Cards": ["Winota, Joiner of Forces", "Brutal Cathar", "Elite Spellbinder", "General Kudro of Drannith", "Champion of the Parish"]
         },  
         {
-            "Type": "InMainboard",
-            "Cards": ["Thalia's Lieutenant"]
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Thalia's Lieutenant", "Thalia, Guardian of Thraben"]
         },         
         {
             "Type": "InMainboard",
             "Cards": ["Cavern of Souls"]
-        }    
+        },        
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Seasoned Dungeoneer"]
+        }   
 
     ]
 }

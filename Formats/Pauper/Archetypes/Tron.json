@@ -3,31 +3,67 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type" : "InMainboard",
-            "Cards": ["Urza's Power Plant"]
-        },
-        {
-            "Type" : "InMainboard",
+            "Type": "InMainboard",
             "Cards": ["Urza's Tower"]
         },
         {
-            "Type" : "InMainboard",
-            "Cards": ["Urza's Mine"]
+            "Type": "InMainboard",
+            "Cards": ["Urza's Power Plant"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Tower"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Energy Refractor","Arcum's Astrolabe","Prophetic Prism","Bonder's Ornament","Expedition Map","Chromatic Star","Chromatic Sphere"]
         }
     ],
     "Variants": [
+        {
+            "Name": "Cascade Tron",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Annoyed Altisaur"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Boarding Parting"]
+                }
+            ]
+        },
         {
             "Name": "Mono G Tron",
             "IncludeColorInName": false,
             "Conditions": [
                 {
-                    "Type" : "OneOrMoreInMainboard",
-                    "Cards": ["Fangren Marauder"]
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Fangren Marauder","Self-Assembler","Ulamog's Crusher","Maelstrom Colossus"]
                 },
                 {
-                    "Type" : "DoesNotContain",
-                    "Cards": ["Golem Foundry"]
-                }
+                    "Type": "InMainboard",
+                    "Cards": ["Ancient Stirrings"]
+                },
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Crop Rotation"]
+                }                
+            ]
+        },
+        {
+            "Name": "Flicker Tron",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Ephemerate","Ghostly Flicker"]
+                },
+                {
+                    "Type": "OneOrMoreInMainboard",
+                    "Cards": ["Mulldrifter","Stonehorn Dignitary","Mnemonic Wall","Sea Gate Oracle","Dinrova Tron"]
+                }                
             ]
         },
         {
@@ -35,27 +71,13 @@
             "IncludeColorInName": false,
             "Conditions": [
                 {
-                    "Type" : "OneOrMoreInMainboard",
-                    "Cards": ["Fangren Marauder","Golem Foundry"]
-                },
-                {
-                    "Type" : "OneOrMoreInMainboard",
-                    "Cards": ["Myr Retriever"]
-                },
-                {
-                    "Type" : "OneOrMoreInMainboard",
+                    "Type": "InMainboard",
                     "Cards": ["Ashnod's Altar"]
-                }
-            ]
-        },
-        {
-            "Name": "Azorius Tron",
-            "IncludeColorInName": false,
-            "Conditions": [
+                },
                 {
-                    "Type" : "InMainboard",
-                    "Cards": ["Azorius Signet"]
-                }
+                    "Type": "InMainboard",
+                    "Cards": ["Myr Retriever"]
+                }                
             ]
         }
     ]

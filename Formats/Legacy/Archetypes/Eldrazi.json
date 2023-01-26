@@ -19,10 +19,6 @@
             "Cards": ["Eldrazi Temple"]
         },
         {
-            "Type": "oneormoreinmainboard",
-            "Cards": ["Walking Ballista"]
-        },
-        {
             "Type": "DoesNotContain",
             "Cards": ["Cloudpost"]
         }

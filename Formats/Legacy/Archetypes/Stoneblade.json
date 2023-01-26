@@ -8,7 +8,7 @@
         },
 	{
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Batterskull", "Kaldra Compleat"	]
+            "Cards": ["Batterskull", "Kaldra Compleat"]
         },
         {
             "Type": "OneOrMoreInMainboard",
@@ -21,6 +21,14 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Cephalid Illusionist"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Punishing Fire"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Colossus Hammer"]
         }
     ]
 }

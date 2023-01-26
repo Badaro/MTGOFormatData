@@ -3,44 +3,12 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Karn, Scion of Urza", "Karn, Scion of Urza"]
+            "Type": "InMainboard",
+            "Cards": ["Metalworker"]
         },
         {
             "Type": "InMainboard",
-            "Cards": ["Chalice of the Void"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Crucible of Worlds"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Ensnaring Bridge"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Mox Diamond"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Sorcerous Spyglass", "Sphere of Resistance"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Ancient Tomb"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["City of Traitors"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Urza's Saga"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Wasteland", "Blast Zone", "Wastes"]
+            "Cards": ["Grim Monolith"]
         }
     ]
 }

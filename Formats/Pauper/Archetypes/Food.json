@@ -1,0 +1,22 @@
+{
+    "Name": "Food",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cauldron Familiar"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gingerbrute"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Golden Egg"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        }
+    ]
+}

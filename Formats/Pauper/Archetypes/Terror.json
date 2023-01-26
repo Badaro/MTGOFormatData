@@ -1,0 +1,25 @@
+{
+    "Name": "Terror",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Tolarian Terror"]
+        },
+        {
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": [
+                "Thought Scour",
+                "Consider",
+                "Mental Note",
+                "Brainstorm",
+                "Ponder",
+                "Fallaji Archaeologist"
+            ]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ninja of the Deep Hours"]
+        }
+    ]
+}

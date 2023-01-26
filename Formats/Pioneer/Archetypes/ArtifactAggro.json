@@ -1,40 +1,36 @@
 {
-    "Name": "Artifact Aggro",
-    "IncludeColorInName": true,
-    "Conditions": [
-      {
-        "Type": "OneOrMoreInMainboard",
-        "Cards": ["Stonecoil Serpent","Gingerbrute"]
-      },
-      {
-        "Type": "InMainboard",
-        "Cards": ["Patchwork Automaton"]
-      }
-    ],
-    "Variants": [
-      {
-        "Name": "Ensoul",
-        "IncludeColorInName": true,
-        "Conditions": [
-          {
-            "Type": "InMainboard",
-            "Cards": ["Ensoul Artifact"]
-          }
-        ]
-      },
-      {
-        "Name": "GlittersStompy",
-        "IncludeColorInName": true,
-        "Conditions": [
-          {
-            "Type": "InMainboard",
-            "Cards": ["Ingenious Smith"]
-          },
-          {
-            "Type": "InMainboard",
-            "Cards": ["Michiko's Reign of Truth"]
-          }
-        ]
-      }
-    ]
-  }
+  "Name": "Artifact Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Patchwork Automaton"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Ensoul",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Ensoul Artifact"]
+        }
+      ]
+    },
+    {
+      "Name": "GlittersStompy",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Ingenious Smith"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Michiko's Reign of Truth"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Zoo Agro",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Kird Ape"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wild Nacatl"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Abundant Growth","Nylea's Presence"]
+        }        
+    ]   
+}

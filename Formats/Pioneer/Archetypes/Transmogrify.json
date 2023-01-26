@@ -3,12 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
+      "Type": "TwoOrMoreInMainboard",
       "Cards": ["Transmogrify"]
-    },
-	{
-      "Type": "DoesNotContain",
-      "Cards": ["Indomitable Creativity"]
     }
   ]
 }

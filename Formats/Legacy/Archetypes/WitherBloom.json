@@ -9,10 +9,6 @@
           {
             "Type": "InMainboard",
             "Cards": ["Chain of Smog"]
-          },
-          {
-            "Type": "InMainboard",
-            "Cards": ["Chain of Smog"]
           }
     ]
 }

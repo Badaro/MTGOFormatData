@@ -5,14 +5,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Stoneforge Mystic"]
-        },       
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Day's Undoing"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Prismatic Ending"]
         },
         {
             "Type": "InMainboard",

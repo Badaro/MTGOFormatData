@@ -1,0 +1,37 @@
+{
+    "Name": "Cascade",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": [
+                "Annoyed Altisaur",
+                "Boarding Party",
+                "Avenging Hunter",
+                "Goliath Paladin"
+            ]
+        },
+        {
+            "Type" : "TwoOrMoreInMainboard",
+            "Cards": [
+                "Llanowar Visionary",
+                "Arbor Elf",
+                "Utopia Sprawl",
+                "Wild Growth",
+                "Jewel Thief"
+            ]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Urza's Power Plant"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Basilisk Gate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cleansing Wildfire"]
+        }
+    ]
+}

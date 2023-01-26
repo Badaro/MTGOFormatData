@@ -1,0 +1,22 @@
+{
+  "Name": "Underworld Breach Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Underworld Breach"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thassa's Oracle","Paradox Engine","Grapeshot"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Paradoxical Outcome"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kethis, the Hidden Hand"]
+    }
+  ]
+}

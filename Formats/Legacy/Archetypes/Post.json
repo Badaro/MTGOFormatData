@@ -4,10 +4,6 @@
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Primeval Titan"]
-        },
-        {
-            "Type": "InMainboard",
             "Cards": ["Cloudpost"]
         },
         {

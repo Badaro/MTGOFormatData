@@ -8,7 +8,7 @@
          },
          {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "Goblin Rabblemaster"]
+            "Cards": ["Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "goblin rabblemaster"]
          }
     ]
 }

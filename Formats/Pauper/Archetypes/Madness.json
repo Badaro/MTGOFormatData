@@ -1,43 +1,23 @@
 {
     "Name": "Madness",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type" : "InMainboard",
-            "Cards": ["Fiery Temper"]
-        },
-        {
-            "Type" : "InMainboard",
-            "Cards": ["Faithless Looting"]
-        },
-        {
-            "Type" : "DoesNotContain",
-            "Cards": ["Rancor"]
-        }
-    ],
-    "Variants": [
-        {
-            "Name": "RB Madness",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type" : "InMainboard",
-                    "Cards": ["Kitchen Imp"]
-                },
-                {
-                    "Type" : "InMainboard",
-                    "Cards": ["Alms of the Vein"]
-                }
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": [
+                "Reckless Wurm",
+                "Bloodmad Vampire",
+                "Arrogant Wurm",
+                "Basking Rootwalla",
+                "Kitchen Imp"
             ]
         },
         {
-            "Name": "RG Madness",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type" : "InMainboard",
-                    "Cards": ["Basking Rootwalla","Arrogant Wurm"]
-                }
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": [
+                "Fiery Temper",
+                "Circular Logic",
+                "Alms of the Vein"
             ]
         }
     ]

@@ -1,0 +1,14 @@
+{
+    "Name": "Aristocrats",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Carrion Feeder","Bloodthrone Vampire","Mortician Beetle"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Blisterpod","Brindle Shoat","Young Wolf","Nest Invader"]
+        }
+    ]
+}

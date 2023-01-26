@@ -1,0 +1,14 @@
+{
+    "Name": "Galvanic Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Galvanic Relay"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Cabal Ritual, Dark Ritual, Rite of Flame","Seething Song"]
+        }
+    ]
+}
