@@ -58,10 +58,6 @@
 	  "Type": "DoesNotContain",
 	  "Cards": ["Ground Rift"]
 	},
-	{
-	  "Type": "DoesNotContain",
-	  "Cards": ["Grapeshot"]
-	},
     {
       "Type": "DoesNotContain",
       "Cards": ["Archon of Cruelty"]
