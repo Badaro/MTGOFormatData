@@ -7,20 +7,12 @@
             "Cards": ["Dauthi Voidwalker"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Tourach, Dread Cantor"]
-        },
-        {
             "Type": "InSideboard",
             "Cards": ["Opposition Agent"]
         },
         {
             "Type": "InMainboard",
             "Cards": ["Liliana of the Veil"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Dark Confidant"]
         }
     ]
 }

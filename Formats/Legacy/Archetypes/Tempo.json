@@ -4,11 +4,15 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Baleful Strix	", "Murktide Regent"]
+            "Cards": ["Dragon's Rage Channeler", "Baleful Strix", "Murktide Regent"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Snuff Out"]
+            "Type": "OneOrInMainboard",
+            "Cards": ["Snuff Out", "Hymn to Tourach"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
         }
     ]
 }
