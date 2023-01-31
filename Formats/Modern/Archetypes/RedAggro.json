@@ -148,7 +148,7 @@
         },
 	    {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Counterspell","Force of Negation","Drown in the Loch"]
+          "Cards": ["Counterspell","Force of Negation","Drown in the Loch","Spell Pierce"]
         },
         {
           "Type": "DoesNotContain",

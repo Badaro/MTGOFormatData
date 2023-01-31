@@ -8,11 +8,19 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Thassa's Oracle","Paradox Engine","Grapeshot"]
+      "Cards": ["Thassa's Oracle","Paradox Engine","Grapeshot","Grinding Station"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Paradoxical Outcome"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Lotus Field"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Lava Dart"]
     },
     {
       "Type": "DoesNotContain",
