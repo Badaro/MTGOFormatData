@@ -1,0 +1,10 @@
+{
+    "Name": "Ninjas",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Yuriko, the Tiger's Shadow","Ingenious Infiltrator","Changeling Outcast","Ornithopter"]
+        }
+    ]
+}

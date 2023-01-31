@@ -1,0 +1,14 @@
+{
+    "Name": "Tin Fins ",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Children of Korlis"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Griselbrand"]
+        }
+    ]
+}

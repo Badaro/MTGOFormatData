@@ -1,0 +1,14 @@
+{
+    "Name": "WitherBloom",
+    "IncludeColorInName": false,
+    "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Witherbloom Apprentice"]
+          },   
+          {
+            "Type": "InMainboard",
+            "Cards": ["Chain of Smog"]
+          }
+    ]
+}

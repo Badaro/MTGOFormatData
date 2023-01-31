@@ -1,0 +1,19 @@
+{
+    "Name": "Merfolk",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Lord of Atlantis"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Master of the Pearl Trident"]
+        },         
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cavern of Souls"]
+        }    
+
+    ]
+}

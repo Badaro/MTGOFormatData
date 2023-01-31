@@ -31,6 +31,10 @@
         },
         {
             "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Dragon's Rage Channeler"]
         },
         {
@@ -59,6 +63,10 @@
         },
         {
             "Type": "DoesNotContain",
+            "Cards": ["Aluren"]
+        },
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Carpet of Flowers"]
         },
         {
@@ -68,6 +76,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Minsc & Boo, Timeless Heroes"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
         }
     ]
 }

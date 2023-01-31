@@ -1,0 +1,30 @@
+{
+    "Name": "The Epic Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Ritual"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Burning Wish", "Past in Flames","Lion's Eye Diamond"]
+        },       
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Brainstorm","Wishclaw Talisman"]
+        },       
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ad Nauseam"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Birgi, God of Storytelling"]
+        }
+    ]
+   }

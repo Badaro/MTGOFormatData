@@ -1,0 +1,18 @@
+{
+    "Name": "Affinity",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Mox Opal"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Seat of the Synod"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Arcbound Ravager"]
+        }
+    ]
+}

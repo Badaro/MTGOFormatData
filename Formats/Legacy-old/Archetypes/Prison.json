@@ -1,0 +1,30 @@
+{
+    "Name": "Prison",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Chrome Mox", "Goblin Rabblemaster", "Simian Spirit Guide", "Legion Warboss"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Chalice of the Void"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Goblin Lackey"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Laelia, the Blade Reforged", "Caves of Chaos Adventurer", "Fury"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Trinisphere", "Unlicensed Hearse", "Ensnaring Bridge"] 
+        },  
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Blood Moon", "Blood Sun"]
+        }
+    ]
+}

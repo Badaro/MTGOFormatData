@@ -1,0 +1,22 @@
+{
+    "Name": "Titan",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Primeval Titan"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Field of the Dead"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Valakut, the Molten Pinnacle"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dryad of the Ilysian Grove"]
+        }
+    ]
+}

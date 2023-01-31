@@ -1,0 +1,18 @@
+{
+    "Name": "Storm",
+    "IncludeColorInName": false,
+    "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Birgi, God of Storytelling"]
+          },         
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Burning Wish", "Grapeshot"]
+          },
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Wish", "Containment Construct"]
+          }
+    ]
+}

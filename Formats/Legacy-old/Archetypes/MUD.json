@@ -1,0 +1,14 @@
+{
+    "Name": "MUD",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Metalworker"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Grim Monolith"]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Name": "Maverick",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Knight of the Reliquary", "Ice-Fang Coatl", "Elvish Reclaimer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Swords to Plowshares", "Once Upon a Time"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Devoted Druid","Collector Ouphe", "Witherbloom Apprentice", "Chain of Smog", "Noble Hierarch", "Stoneforge Mystic", "Batterskull", "Umezawa's Jitte", "Questing Beast"]
+        },      
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Elvish Spirit Guide"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Vampire Hexmage"]   
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sylvan Safekeeper"]  
+        },
+        {
+            "Type": "doesnotcontain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Wirewood Symbiote"]
+        }   
+    ],
+    "Variants": [
+        {
+            "Name": "Punishing Maverick",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Punishing Fire"]
+                }
+            ]
+        }
+    ]
+}
