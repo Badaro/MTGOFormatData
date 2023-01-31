@@ -15,6 +15,10 @@
             "Cards": ["Aether Vial"]
         },
         {
+            "Type": "oneOrMoreInMainboard",
+            "Cards": ["Baleful Strix","Lavinia, Azorius Renegade", "Soulherder", "Brainstorm", "Force of Will", "Plague Engineer", "Meddling Mage", "Venser, Shaper Savant"]
+        },
+        {
             "Type": "DoesNotContain",
             "Cards": ["Goblin Lackey"]
         },
@@ -35,8 +39,8 @@
             "Cards": ["General Kudro of Drannith"]
         },
         {
-            "Type": "oneOrMoreInMainboard",
-            "Cards": ["Baleful Strix","Lavinia, Azorius Renegade", "Soulherder", "Brainstorm", "Force of Will", "Plague Engineer", "Meddling Mage", "Venser, Shaper Savant"]
+            "Type": "DoesNotContain",
+            "Cards": ["Cephalid Illusionist"]
         }
         
     ]

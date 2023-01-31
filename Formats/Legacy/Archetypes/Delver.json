@@ -4,11 +4,11 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets", "Third Path Iconoclast"]
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets"]
         },
         {
             "Type" : "OneorMoreInMainboard",
-            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast"]
+            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast","Third Path Iconoclast"]
         },
         {
             "Type": "OneOrMoreInMainboard",
