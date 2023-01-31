@@ -7,7 +7,7 @@
             "Cards": ["Dragon's Rage Channeler", "Baleful Strix", "Murktide Regent"]
         },
         {
-            "Type": "OneOrInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Snuff Out", "Hymn to Tourach"]
         },
         {
