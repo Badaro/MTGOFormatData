@@ -32,6 +32,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Persist"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Chord of Calling"]
     }
   ],

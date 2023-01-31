@@ -4,11 +4,35 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Baleful Strix	", "Murktide Regent"]
+            "Cards": ["Dragon's Rage Channeler", "Baleful Strix", "Murktide Regent"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Snuff Out"]
-        }
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Snuff Out", "Hymn to Tourach"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Snapcaster Mage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cephalid Illusionist"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yuriko, the Tiger's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Leovold, Emissary of Trest"]  
+        }	
     ]
 }

@@ -153,6 +153,28 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Murktide Regent"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Underworld Breach"]
+        }
+      ]
+    },
+    {
+      "Name": "BreachValue",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Underworld Breach"]
+        },
+	    {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Spell Pierce"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Murktide Regent"]
         }
       ]
     },

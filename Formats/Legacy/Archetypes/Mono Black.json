@@ -3,24 +3,16 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Dauthi Voidwalker"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Dauthi Voidwalker", "Opposition Agent"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Tourach, Dread Cantor"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Urborg, Tomb of Yawgmoth", "Castle Locthwain"]
         },
         {
-            "Type": "InSideboard",
-            "Cards": ["Opposition Agent"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Liliana of the Veil"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Dark Confidant"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Liliana of the Veil", "Dark Confidant"]
         }
     ]
 }
