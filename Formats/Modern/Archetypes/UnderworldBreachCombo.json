@@ -7,8 +7,12 @@
       "Cards": ["Underworld Breach"]
     },
     {
+      "Type": "InMainboard",
+      "Cards": ["Grinding Station"]
+    },
+    {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Thassa's Oracle","Paradox Engine","Grapeshot","Grinding Station"]
+      "Cards": ["Thassa's Oracle","Paradox Engine","Grapeshot"]
     },
     {
       "Type": "DoesNotContain",
