@@ -29,6 +29,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Dryad Arbor"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Leovold, Emissary of Trest"]
         }
     ]
 }

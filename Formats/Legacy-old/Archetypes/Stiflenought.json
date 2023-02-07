@@ -13,10 +13,6 @@
         {
             "Type": "InMainboard",
             "Cards": ["Stifle"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Scroll of Fate", "Stubborn Denial"]
         }
     ]
 }

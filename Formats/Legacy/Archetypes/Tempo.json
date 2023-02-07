@@ -8,7 +8,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Snuff Out", "Hymn to Tourach"]
+            "Cards": ["Snuff Out", "Esper Charm"]
         },
         {
             "Type": "DoesNotContain",
@@ -33,6 +33,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Leovold, Emissary of Trest"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
         }
     ]
 }

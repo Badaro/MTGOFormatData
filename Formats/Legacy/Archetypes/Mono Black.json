@@ -17,6 +17,18 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Helm of Obedience"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Stoneforge Mystic"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Smallpox"]
         }
     ]
 }

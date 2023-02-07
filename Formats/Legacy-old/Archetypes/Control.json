@@ -3,7 +3,7 @@
     "IncludeColorInName": true,
     "Conditions": [
         { "Type" : "OneOrMoreInMainboard",
-       "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher"]
+       "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless"]
         },
         {
             "Type": "InMainboard",
@@ -80,6 +80,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Murktide Regent"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Leovold, Emissary of Trest"]
         }
     ]
 }

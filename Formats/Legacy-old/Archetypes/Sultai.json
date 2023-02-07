@@ -7,8 +7,8 @@
             "Cards": ["Baleful Strix"]
         },
 	    {
-            "Type": "InMainboard",
-            "Cards": ["Leovold, Emissary of Trest"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Leovold, Emissary of Trest", "Brazen Borrower"]
         },
 	    {
             "Type": "InMainboard",
@@ -25,7 +25,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Aluren"]  
-        }	
-
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Karn, the Great Creator"]  
+        }      	
     ]
 }

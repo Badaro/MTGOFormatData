@@ -57,6 +57,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Batterskull"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Leovold, Emissary of Trest"]
         }
     ]
 
