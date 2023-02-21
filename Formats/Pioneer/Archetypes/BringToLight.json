@@ -1,11 +1,7 @@
 {
-  "Name": "NivToLight",
+  "Name": "BringToLight",
   "IncludeColorInName": false,
   "Conditions": [
-    {
-      "Type": "InMainboard",
-      "Cards": ["Niv-Mizzet Reborn"]
-    },
     {
       "Type": "InMainboard",
       "Cards": ["Bring to Light"]
