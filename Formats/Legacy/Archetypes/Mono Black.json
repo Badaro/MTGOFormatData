@@ -13,6 +13,7 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Liliana of the Veil", "Dark Confidant"]
+
         },
         {
             "Type": "DoesNotContain",

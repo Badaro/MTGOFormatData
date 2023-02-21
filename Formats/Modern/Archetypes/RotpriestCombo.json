@@ -1,0 +1,14 @@
+{
+  "Name": "RotpriestCombo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Venerated Rotpriest"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ground Rift"]
+    }
+  ]
+}

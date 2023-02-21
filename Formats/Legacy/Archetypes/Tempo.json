@@ -9,6 +9,7 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Snuff Out", "Esper Charm","Fable of the Mirror-Breaker"]
+
         },
         {
             "Type": "DoesNotContain",
