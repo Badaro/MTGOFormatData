@@ -11,12 +11,24 @@
             "Cards": ["Entomb"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Exhume"]
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Exhume","Animate Dead"]
         },
         {
             "Type": "DoesNotContain",
             "Cards": ["Children of Korlis"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Worldgorger Dragon"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Smallpox"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
         }
     ]
 }

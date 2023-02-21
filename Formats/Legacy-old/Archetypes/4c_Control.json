@@ -8,11 +8,11 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Fury","Terminus","Mizzix's Mastery","Abundant Growth", "Narset, Parter of Veils", "Baleful Strix"]
+            "Cards": ["Fury","Terminus","Mizzix's Mastery","Abundant Growth", "Narset, Parter of Veils", "Baleful Strix","Ice-Fang Coatl","Omnath, Locus of Creation"]
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Rise // Fall", "Expressive Iteration", "Fire // Ice", "Pyroblast","Teferi, Time Raveler"]
+            "Cards": ["Medding Mage", "Rise // Fall", "Expressive Iteration", "Fire // Ice", "Pyroblast","Teferi, Time Raveler"]
         },
         {
             "Type": "OneOrMoreInMainboard",
@@ -33,6 +33,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Leovold, Emissary of Trest"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]
         }
     ]
 }

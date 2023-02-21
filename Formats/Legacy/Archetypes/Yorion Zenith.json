@@ -13,15 +13,16 @@
         {
             "Type": "InMainboard",
             "Cards": ["Force of Will"]
+        },
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker"]
         }, 
         {
             "Type": "DoesNotContain",
             "Cards": ["Chain of Smog"]
         },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Abundant Growth"]
-        },
+
         {
             "Type": "DoesNotContain",
             "Cards": ["Dark Depths"]

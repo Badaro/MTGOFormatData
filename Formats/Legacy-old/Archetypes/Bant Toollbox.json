@@ -17,6 +17,15 @@
 	  {
             "Type": "InMainboard",
             "Cards": ["Noble Hierarch"]
+        },
+        {
+            "Type": "DoesNotContainsideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
         }
+        
     ]
 }

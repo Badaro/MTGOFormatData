@@ -8,11 +8,11 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Urza, Lord High Artificer", "Trinisphere"]
+            "Cards": ["Urza, Lord High Artificer", "Trinisphere", "Mystic Forge"]
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Chalice of the Void", "Urza's Bauble", "Hope of Ghirapur"]
+            "Cards": ["Chalice of the Void", "Urza's Bauble", "Hope of Ghirapur", "Grim Monolith"]
         },
         {
             "Type": "DoesNotContain",

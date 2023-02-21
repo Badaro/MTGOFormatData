@@ -79,11 +79,11 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Murktide Regent"]
+            "Cards": ["Leovold, Emissary of Trest"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Leovold, Emissary of Trest"]
+            "Cards": ["Animate Dead"]
         }
     ]
 }

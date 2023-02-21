@@ -29,6 +29,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Colossus Hammer"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]
         }
     ]
 }

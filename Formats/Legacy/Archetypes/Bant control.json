@@ -39,6 +39,10 @@
             "Cards": ["Green Sun's Zenith"]
         },
         {
+            "Type": "DoesNotContain",
+            "Cards": ["Food Chain"]
+        },
+        {
             "Type": "DoesNotContainSideboard",
             "Cards": ["Yorion, Sky Nomad"]
         },

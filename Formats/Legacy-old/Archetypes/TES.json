@@ -15,8 +15,8 @@
             "Cards": ["Brainstorm","Wishclaw Talisman"]
         },       
         {
-            "Type": "InMainboard",
-            "Cards": ["Ad Nauseam"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Ad Nauseam", "Peer into the Abyss"]
         },       
         {
             "Type": "DoesNotContain",

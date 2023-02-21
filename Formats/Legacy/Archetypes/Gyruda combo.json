@@ -1,0 +1,14 @@
+{
+    "Name": "Gyruda combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gyruda, Doom of Depths"]
+        },        
+        {
+            "Type": "InSideboard",
+            "Cards": ["Gyruda, Doom of Depths"]
+        }
+    ]
+}
