@@ -1,0 +1,19 @@
+{
+    "Name": "Mill",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Hedron Crab"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ruin Crab"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Archive Trap"]
+        }
+
+       ] 
+}

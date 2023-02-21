@@ -1,0 +1,22 @@
+{
+    "Name": "Hammer",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Colossus Hammer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Esper Sentinel"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sigarda's Aid"]
+        },
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Inkmoth Nexus", "Urza's Saga"]
+        }        
+    ]
+}

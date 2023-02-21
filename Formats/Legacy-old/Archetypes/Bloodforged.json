@@ -1,0 +1,11 @@
+{
+    "Name": "Bloodforged",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Bloodforged Battle-Axe"]
+        }
+    ]
+}
+

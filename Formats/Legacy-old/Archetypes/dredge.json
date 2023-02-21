@@ -1,0 +1,18 @@
+{
+    "Name": "Dredge",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Golgari Grave-Troll"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cephalid Coliseum"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Phantasmagorian"]
+        }
+    ]
+}

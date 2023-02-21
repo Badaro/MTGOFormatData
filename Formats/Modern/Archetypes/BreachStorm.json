@@ -1,0 +1,42 @@
+{
+  "Name": "BreachStorm",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Birgi, God of Storytelling","Goblin Anarchomancer","Pyretic Ritual"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Grapeshot"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Underworld Breach"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hollow One"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Lava Dart"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Song of Creation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Gifts Ungiven"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Venerated Rotpriest"]
+    }
+  ]
+}

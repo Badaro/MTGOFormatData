@@ -1,0 +1,18 @@
+{
+    "Name": "Omnishow",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Show and Tell"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Omniscience"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sneak Attack"]
+        }
+    ]
+}

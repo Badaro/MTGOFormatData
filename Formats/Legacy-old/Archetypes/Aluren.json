@@ -1,0 +1,10 @@
+{
+    "Name": "Aluren",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Aluren"]
+        }
+    ]
+}

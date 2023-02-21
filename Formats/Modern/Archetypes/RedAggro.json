@@ -65,6 +65,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Scion of Draco"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Anarchomancer"]
     }
   ],
   "Variants": [
