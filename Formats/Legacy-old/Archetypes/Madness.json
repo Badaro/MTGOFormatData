@@ -1,0 +1,30 @@
+{
+    "Name": "Madness",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Hollow One"]
+        
+        },  
+        {
+            "Type": "InMainboard",
+            "Cards": ["Faithless Looting"]
+        
+        },  
+        {
+            "Type": "InMainboard",
+            "Cards": ["Basking Rootwalla"]
+        
+        },        
+        {
+            "Type": "InMainboard",
+            "Cards": ["Blazing Rootwalla"]
+        
+        },                 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Golgari Grave-Troll"]
+        }
+    ]
+}

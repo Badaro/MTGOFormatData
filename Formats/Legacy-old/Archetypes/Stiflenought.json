@@ -1,19 +1,18 @@
 {
-    "Name": "Slow Depths",
+    "Name": "Stiflenought",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Dark Depths"]
+            "Cards": ["Phyrexian Dreadnought"]
         },
         {
             "Type": "InMainboard",
-            "Cards": ["Thespian's Stage"]
+            "Cards": ["Dress Down"]
         },
-        {   
+        {
             "Type": "InMainboard",
-            "Cards": ["Dark confident"]
+            "Cards": ["Stifle"]
         }
-
     ]
 }

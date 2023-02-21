@@ -1,0 +1,128 @@
+{
+    "Name": "Depths",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thespian's Stage"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Exploration"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        },
+        {   
+            "Type": "DoesNotContain",
+            "Cards": ["Karn, the Great Creator"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        }
+    ],
+    "Variants": [
+      {
+        "Name": "Slow Depths",
+        "IncludeColorInName": false,
+        "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Dark confident"]
+          }
+        ]
+      },
+      {
+        "Name": "Turbo Depths",
+        "IncludeColorInName":false,
+        "Conditions":[
+            {
+                "type": "OneOrMoreInMainboard",
+                "Cards" :["Lotus Petal","Elvish Spirit Guide", "Not of This World"]
+            
+            }
+        ]
+      },
+      {
+        "Name": "MonoB Depths",
+        "IncludeColorInName":false,
+        "Conditions":[
+            {
+                "type": "InMainboard",
+                "Cards" :["Vampire Hexmage"]
+            },
+            {   
+                "Type": "DoesNotContainMainboard",
+                "Cards": ["Not of This World"]
+            },
+            {   
+                "Type": "DoesNotContainMainboard",
+                "Cards": ["Elvish Spirit Guide"]
+            },
+            {   
+                "Type": "DoesNotContainMainboard",
+                "Cards": ["Lotus Petal"]
+            }
+        ]
+      },
+      {
+        "Name": "Rainbow Depths",
+        "IncludeColorInName":false,
+        "Conditions":[
+            {
+                "Type": "OneOrMoreInMainboard",
+                "Cards": ["Mana Confluence","Flusterstorm"]
+            
+            },
+            {   
+                "Type": "DoesNotContain",
+                "Cards": ["Not of This World"]
+            }
+        ]
+      },
+      {
+        "Name": "Selesnya Depths",
+        "IncludeColorInName":false,
+        "Conditions":[
+            {
+                "Type": "InMainboard",
+                "Cards": ["Knight of the Reliquary"]
+            },
+            {
+                "Type": "InMainboard",
+                "Cards": ["Swords to Plowshares"]
+            },  
+            {
+                "Type": "InMainboard",
+                "Cards": ["Crop Rotation"]
+            },
+            {
+                "Type": "DoesNotContainMainboard",
+                "Cards": ["Thalia, Guardian of Thraben"]
+            },
+            {
+                "Type": "DoesNotContain",
+                "Cards": ["Yorion, Sky Nomad"]
+            },
+            {
+                "Type": "DoesNotContain",
+                "Cards": ["Manabond"]
+            },
+            {
+                "Type": "DoesNotContain",
+                "Cards": ["Snapcaster Mage"]
+            }           
+        ]
+      }
+     ]
+}

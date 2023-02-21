@@ -1,0 +1,14 @@
+{
+    "Name": "Death's Shadow",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Death's Shadow"]
+        },      
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Phyrexian Dreadnought"]
+        }
+    ]
+}

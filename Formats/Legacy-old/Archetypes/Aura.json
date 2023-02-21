@@ -1,0 +1,10 @@
+{
+    "Name": "Aura",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Staggering Insight"]
+        }
+    ]
+}

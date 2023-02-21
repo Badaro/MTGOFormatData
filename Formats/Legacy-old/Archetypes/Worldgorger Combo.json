@@ -1,0 +1,10 @@
+{
+    "Name": "Worldgorger Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Worldgorger Dragon"]
+        }
+    ]
+}

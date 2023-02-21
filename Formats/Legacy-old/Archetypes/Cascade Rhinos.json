@@ -1,0 +1,10 @@
+{
+    "Name": "Cascade Rhinos",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Shardless Agent","Crashing Footfalls","Violent Outburst"]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Soldier Stompy",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Valiant Veteran"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Chrome Mox"]
+        }
+    ]
+}

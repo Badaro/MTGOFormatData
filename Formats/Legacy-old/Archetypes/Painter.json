@@ -1,0 +1,18 @@
+{
+    "Name": "Painter",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Painter's Servant"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Grindstone"]
+        },
+  	{
+            "Type": "InMainboard",
+            "Cards": ["Urza's Saga"]
+        }
+    ]
+}
