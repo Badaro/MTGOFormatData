@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Cephalid Illusionist"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
         }
     ]
 }
