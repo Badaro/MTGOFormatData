@@ -84,6 +84,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Animate Dead"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cephalid Illusionist"]
         }
     ]
 }

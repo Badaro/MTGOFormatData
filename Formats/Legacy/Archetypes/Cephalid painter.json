@@ -1,5 +1,5 @@
 {
-    "Name": "Cephalid breakfast",
+    "Name": "Cephalid Painter",
     "IncludeColorInName": false,
     "Conditions": [
         {
@@ -7,7 +7,7 @@
             "Cards": ["Cephalid Illusionist"]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "InMainboard",
             "Cards": ["Painter's Servant"]
         }
     ]
