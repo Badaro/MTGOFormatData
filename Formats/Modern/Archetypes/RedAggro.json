@@ -4,7 +4,9 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Nivmagus Elemental","Clever Lumimancer","Ragavan, Nimble Pilferer","Dragon's Rage Channeler","Ledger Shredder"]
+      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage",
+		"Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Nivmagus Elemental","Clever Lumimancer",
+		"Ragavan, Nimble Pilferer","Dragon's Rage Channeler","Ledger Shredder"]
     },
     {
       "Type": "InMainboard",
@@ -96,7 +98,7 @@
     },
     {
       "Name": "Prowess",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
@@ -129,6 +131,45 @@
       ]
     },
     {
+      "Name": "SagaAggro",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": ["Urza's Saga","Experimental Synthesizer","Dragon's Rage Channeler"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Tarmogoyf"]
+        },
+        {
+          "Type": "DoesNotContainSideboard",
+          "Cards": ["Obosh, the Preypiercer"]
+        }
+      ]
+    },
+    {
+      "Name": "OboshMidrange",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Blood Moon","Fury","Seasoned Pyromancer"]
+        },
+        {
+          "Type": "InSideboard",
+          "Cards": ["Obosh, the Preypiercer"]
+        },      
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Solitude"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Endurance"]
+        }	]
+    },
+    {
       "Name": "OboshAggro",
       "IncludeColorInName": false,
       "Conditions": [
@@ -139,9 +180,9 @@
         {
           "Type": "InSideboard",
           "Cards": ["Obosh, the Preypiercer"]
-        }
-      ]
+        }      ]
     },
+
     {
       "Name": "GenericMonkey",
       "IncludeColorInName": true,
