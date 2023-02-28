@@ -7,20 +7,16 @@
       "Cards": ["Goryo's Vengeance"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Through the Breach"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Griselbrand"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Emrakul, the Aeons Torn"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Griselbrand","Emrakul, the Aeons Torn","Atraxa, Grand Unifier"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Nourishing Shoal"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
     }
   ]
 }
