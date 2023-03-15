@@ -16,7 +16,7 @@
         },
         {
             "Type": "oneormoreInMainboard",
-            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker"]
+            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library"]
         }, 
         {
             "Type": "DoesNotContain",
