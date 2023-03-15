@@ -29,6 +29,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Karn, the Great Creator"]  
-        }      	
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Minsc & Boo, Timeless Heroes"]  
+        }      	   	
     ]
 }

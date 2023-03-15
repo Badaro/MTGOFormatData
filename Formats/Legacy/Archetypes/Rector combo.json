@@ -2,13 +2,13 @@
     "Name": "Recor Combo",
     "IncludeColorInName": false,
     "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Academy Rector"]
-        },        
-        {
+         {
             "Type": "InMainboard",
             "Cards": ["Arena Rector"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
         }
     ]
 }
