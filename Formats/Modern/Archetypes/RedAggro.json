@@ -159,7 +159,7 @@
         {
           "Type": "InSideboard",
           "Cards": ["Obosh, the Preypiercer"]
-        },      
+        },     
         {
           "Type": "DoesNotContain",
           "Cards": ["Solitude"]
@@ -207,7 +207,7 @@
     },
     {
       "Name": "BreachValue",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
@@ -225,7 +225,7 @@
     },
     {
       "Name": "GenericMurktide",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
