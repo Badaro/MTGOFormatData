@@ -78,7 +78,7 @@
             "Cards": ["Food Chain"]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Minsc & Boo, Timeless Heroes"]
         },
         {
