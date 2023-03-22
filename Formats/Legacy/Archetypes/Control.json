@@ -3,7 +3,7 @@
     "IncludeColorInName": true,
     "Conditions": [
         { "Type" : "OneOrMoreInMainboard",
-       "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless"]
+       "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless" ,"Uro, Titan of Nature's Wrath"]
         },
         {
             "Type": "InMainboard",
@@ -11,7 +11,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Brainstorm", "Day's Undoing"]
+            "Cards": ["Brainstorm", "Day's Undoing", "Prismatic Ending", "Ice-Fang Coatl"]
         },
         {
             "Type": "DoesNotContain",
@@ -63,18 +63,22 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Aluren"]
+            "Cards": ["Phyrexian Dreadnought"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Carpet of Flowers"]
+            "Cards": ["Aluren"]
         },
-        {
+            {
             "Type": "DoesNotContainSideboard",
             "Cards": ["Yorion, Sky Nomad"]
         },
         {
             "Type": "DoesNotContain",
+            "Cards": ["Food Chain"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Minsc & Boo, Timeless Heroes"]
         },
         {
@@ -88,6 +92,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Cephalid Illusionist"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Grist, the Hunger Tide"]
         }
     ]
 }

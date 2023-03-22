@@ -1,5 +1,5 @@
 {
-    "Name": "hogaak",
+    "Name": "Hogaak",
     "IncludeColorInName": true,
     "Conditions": [
         {
@@ -11,12 +11,12 @@
             "Cards": ["Stitcher's Supplier"]
         },      
   	    {
-            "Type": "InMainboard",
-            "Cards": ["Altar of Dementia"]
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Altar of Dementia", "Careful Study"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Bridge from Below"]
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Bridge from Below", "Hedron Crab"]
         }
     ]
 }

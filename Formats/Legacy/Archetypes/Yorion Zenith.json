@@ -16,13 +16,12 @@
         },
         {
             "Type": "oneormoreInMainboard",
-            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker"]
+            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library"]
         }, 
         {
             "Type": "DoesNotContain",
             "Cards": ["Chain of Smog"]
         },
-
         {
             "Type": "DoesNotContain",
             "Cards": ["Dark Depths"]
@@ -38,10 +37,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Aluren"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Narset, Parter of Veils"]
         }
     ]
 }
