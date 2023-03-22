@@ -22,7 +22,6 @@
             "Type": "DoesNotContain",
             "Cards": ["Chain of Smog"]
         },
-
         {
             "Type": "DoesNotContain",
             "Cards": ["Dark Depths"]
@@ -38,10 +37,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Aluren"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Narset, Parter of Veils"]
         }
     ]
 }
