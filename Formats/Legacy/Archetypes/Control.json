@@ -2,8 +2,8 @@
     "Name": "Control",
     "IncludeColorInName": true,
     "Conditions": [
-        { "Type" : "OneOrMoreInMainboard",
-       "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless" ,"Uro, Titan of Nature's Wrath"]
+        {   "Type" : "OneOrMoreInMainboard",
+            "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless" ,"Uro, Titan of Nature's Wrath"]
         },
         {
             "Type": "InMainboard",
@@ -13,10 +13,7 @@
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Brainstorm", "Day's Undoing", "Prismatic Ending", "Ice-Fang Coatl"]
         },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Daze"]
-        },
+        
          {
             "Type": "DoesNotContain",
             "Cards": ["Stoneforge Mystic"]
@@ -53,11 +50,7 @@
             "Type": "DoesNotContain",
             "Cards": ["Sai, Master Thopterist"]
         }, 
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Omnath, Locus of Creation"]
-        },  
-        {
+            {
             "Type": "DoesNotContain",
             "Cards": ["Aether Vial"]
         },
@@ -69,17 +62,9 @@
             "Type": "DoesNotContain",
             "Cards": ["Aluren"]
         },
-            {
-            "Type": "DoesNotContainSideboard",
-            "Cards": ["Yorion, Sky Nomad"]
-        },
         {
             "Type": "DoesNotContain",
             "Cards": ["Food Chain"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Minsc & Boo, Timeless Heroes"]
         },
         {
             "Type": "DoesNotContain",
@@ -96,6 +81,27 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Grist, the Hunger Tide"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Invigorate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Glistener Elf"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Thought Lash"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yuriko, the Tiger's Shadow"]
         }
+        
     ]
 }
