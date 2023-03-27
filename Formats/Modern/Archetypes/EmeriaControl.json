@@ -1,0 +1,18 @@
+{
+  "Name": "EmeriaControl",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Emeria, the Sky Ruin"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sun Titan"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Serra Ascendant"]
+    }
+  ]
+}
