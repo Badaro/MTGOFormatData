@@ -1,22 +1,15 @@
 {
-    "Name": "Delver",
-    "IncludeColorInName": true,
+    "Name": "Canadian Threshold",
+    "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets"]
+            "Type" : "InMainboard",
+            "Cards": ["Tarmogoyf"]
         },
         {
-            "Type" : "OneorMoreInMainboard",
-            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast","Third Path Iconoclast"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Daze", "Force of Will"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Ponder", "Expressive Iteration", "Brainstorm "]
+            "Type": "InMainboard",
+            "Cards": ["Stifle"]
+ 
         },
         {
             "Type": "DoesNotContain",
@@ -53,10 +46,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Snuff Out"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Tarmogoyf"]
         }
     ]
 }

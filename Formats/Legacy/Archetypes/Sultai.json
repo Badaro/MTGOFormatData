@@ -11,8 +11,8 @@
             "Cards": ["Leovold, Emissary of Trest", "Brazen Borrower"]
         },
 	    {
-            "Type": "InMainboard",
-            "Cards": ["Uro, Titan of Nature's Wrath"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Uro, Titan of Nature's Wrath", "Grief"]
         },
         {
             "Type": "DoesNotContainMainboard",
