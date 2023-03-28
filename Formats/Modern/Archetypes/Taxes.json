@@ -45,6 +45,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Cruel Celebrant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Emeria, the Sky Ruin"]
     }
   ],
   "Variants": [
