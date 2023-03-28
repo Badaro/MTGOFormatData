@@ -4,7 +4,9 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Nivmagus Elemental","Clever Lumimancer","Ragavan, Nimble Pilferer","Dragon's Rage Channeler","Ledger Shredder"]
+      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage",
+		"Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Nivmagus Elemental","Clever Lumimancer",
+		"Ragavan, Nimble Pilferer","Dragon's Rage Channeler","Ledger Shredder"]
     },
     {
       "Type": "InMainboard",
@@ -96,7 +98,7 @@
     },
     {
       "Name": "Prowess",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
@@ -129,18 +131,32 @@
       ]
     },
     {
-      "Name": "OboshAggro",
-      "IncludeColorInName": false,
+      "Name": "SagaAggro",
+      "IncludeColorInName": true,
       "Conditions": [
         {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Seasoned Pyromancer","Bomat Courier","Chandra, Dressed to Kill"]
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": ["Urza's Saga","Experimental Synthesizer","Dragon's Rage Channeler"]
         },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Tarmogoyf"]
+        },
+        {
+          "Type": "DoesNotContainSideboard",
+          "Cards": ["Obosh, the Preypiercer"]
+        }
+      ]
+    },
+    {
+      "Name": "OboshRed",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
           "Type": "InSideboard",
           "Cards": ["Obosh, the Preypiercer"]
         }
-      ]
+	  ]
     },
     {
       "Name": "GenericMonkey",
@@ -166,7 +182,7 @@
     },
     {
       "Name": "BreachValue",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
@@ -184,7 +200,7 @@
     },
     {
       "Name": "GenericMurktide",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",

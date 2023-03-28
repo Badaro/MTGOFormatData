@@ -17,17 +17,13 @@
   ],
   "Variants": [
     {
-      "Name": "BlueLivingEnd",
+      "Name": "JundLivingEnd",
       "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Shardless Agent"]
-        },
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Force of Negation"]
-		}
+          "Cards": ["Demonic Dread"]
+        }
       ]
     }
   ]
