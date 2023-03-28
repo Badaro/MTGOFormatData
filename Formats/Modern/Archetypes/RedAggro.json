@@ -149,40 +149,15 @@
       ]
     },
     {
-      "Name": "OboshMidrange",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Blood Moon","Fury","Seasoned Pyromancer"]
-        },
-        {
-          "Type": "InSideboard",
-          "Cards": ["Obosh, the Preypiercer"]
-        },     
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Solitude"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Endurance"]
-        }	]
-    },
-    {
-      "Name": "OboshAggro",
+      "Name": "OboshRed",
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Seasoned Pyromancer","Bomat Courier","Chandra, Dressed to Kill"]
-        },
-        {
           "Type": "InSideboard",
           "Cards": ["Obosh, the Preypiercer"]
-        }      ]
+        }
+	  ]
     },
-
     {
       "Name": "GenericMonkey",
       "IncludeColorInName": true,
