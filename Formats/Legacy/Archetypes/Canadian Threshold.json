@@ -7,8 +7,13 @@
             "Cards": ["Tarmogoyf"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Stifle"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Dragon's Rage Channeler","Nimble Mongoose","Delver of Secrets","Hooting Mandrills"]
+ 
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Stifle","Spell Pierce","Unholy Heat","Chain Lightning"]
  
         },
         {
