@@ -9,6 +9,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Force of Will"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Helm of Obedience"]
         }
     ]
 }

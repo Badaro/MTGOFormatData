@@ -33,6 +33,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Minsc & Boo, Timeless Heroes"]  
-        }      	   	
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]  
+        }      	   	     	   	
     ]
 }
