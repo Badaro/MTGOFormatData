@@ -3,7 +3,7 @@
     "IncludeColorInName": true,
     "Conditions": [
         {   "Type" : "OneOrMoreInMainboard",
-            "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless" ,"Uro, Titan of Nature's Wrath"]
+            "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless" ,"Uro, Titan of Nature's Wrath","Solitude"]
         },
         {
             "Type": "InMainboard",

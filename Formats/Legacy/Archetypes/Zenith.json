@@ -1,0 +1,67 @@
+{
+    "Name": "Zenith",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library","Natural Order"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Chain of Smog"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sylvan Safekeeper"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aluren"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Omniscience"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Wirewood Symbiote"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Elvish Reclaimer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Punishing Fire"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        }
+        
+    ],
+    "Variants": [
+        {
+            "Name": "Yorion Zenith",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InSideboard",
+                    "Cards": ["Yorion, Sky Nomad"]
+                }
+            ]
+        }
+    ]
+}

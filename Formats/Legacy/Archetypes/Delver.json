@@ -8,7 +8,7 @@
         },
         {
             "Type" : "OneorMoreInMainboard",
-            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast","Third Path Iconoclast"]
+            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast","Third Path Iconoclast","Hexdrinker"]
         },
         {
             "Type": "OneOrMoreInMainboard",
@@ -16,7 +16,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Ponder", "Expressive Iteration", "Brainstorm "]
+            "Cards": ["Ponder", "Expressive Iteration", "Brainstorm"]
         },
         {
             "Type": "DoesNotContain",

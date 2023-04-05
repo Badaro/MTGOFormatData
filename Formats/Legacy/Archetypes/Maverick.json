@@ -41,7 +41,16 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Wirewood Symbiote"]
-        }   
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Teferi, Time Raveler"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        }
+        
     ],
     "Variants": [
         {
