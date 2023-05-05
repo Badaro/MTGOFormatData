@@ -3,8 +3,8 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Hollow One"]
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Hollow One","Ox of Agonas"]
         
         },  
         {
@@ -25,6 +25,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Golgari Grave-Troll"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Hogaak, Arisen Necropolis"]
         }
     ]
 }

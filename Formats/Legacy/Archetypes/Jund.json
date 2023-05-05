@@ -1,0 +1,14 @@
+{
+    "Name": "Jund",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Liliana of the Veil"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Minsc & Boo, Timeless Heroes"]
+        }
+    ]
+}

@@ -51,6 +51,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Snuff Out"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Prismatic Ending"]
         }
     ]
 }

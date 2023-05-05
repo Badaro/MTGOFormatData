@@ -25,6 +25,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Auriok Salvagers"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
         }
     ]
 }

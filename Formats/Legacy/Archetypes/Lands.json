@@ -7,8 +7,8 @@
             "Cards": ["Dark Depths", "Field of the Dead", "Thespian's Stage", "Valakut, the Molten Pinnacle"]
         },   
   	    {
-            "Type": "InMainboard",
-            "Cards": ["Exploration"]
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Exploration","Elvish Reclaimer"]
         },
      	{
             "Type": "OneormoreInMainboard",
@@ -17,6 +17,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
         }
     ]
 }
