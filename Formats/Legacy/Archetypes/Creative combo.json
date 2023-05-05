@@ -1,0 +1,10 @@
+{
+    "Name": "Creative combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Creative Technique"]
+        }
+    ]
+}

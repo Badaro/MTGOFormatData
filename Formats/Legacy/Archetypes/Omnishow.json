@@ -14,5 +14,17 @@
             "Type": "DoesNotContain",
             "Cards": ["Sneak Attack"]
         }
+    ],
+    "Variants": [
+        {
+            "Name": "Hypergenesis",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Hypergenesis"]
+                }
+            ]
+        }
     ]
 }

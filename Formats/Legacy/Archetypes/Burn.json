@@ -11,8 +11,8 @@
             "Cards": ["Fireblast"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Price of Progress"]
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Price of Progress","Lightning Helix"]
         },
         {
             "Type": "DoesNotContain",

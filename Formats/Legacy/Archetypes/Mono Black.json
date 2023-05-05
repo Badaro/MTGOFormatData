@@ -12,10 +12,10 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Liliana of the Veil", "Dark Confidant"]
+            "Cards": ["Liliana of the Veil", "Dark Confidant","Sheoldred, the Apocalypse"]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "DoesNotContainmainboard",
             "Cards": ["Helm of Obedience"]
         },
         {

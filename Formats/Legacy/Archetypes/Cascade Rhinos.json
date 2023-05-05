@@ -5,6 +5,10 @@
         {
             "Type": "TwoOrMoreInMainboard",
             "Cards": ["Shardless Agent","Crashing Footfalls","Violent Outburst"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Omniscience"]
         }
     ]
 }

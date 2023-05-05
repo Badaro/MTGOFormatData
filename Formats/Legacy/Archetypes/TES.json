@@ -16,7 +16,7 @@
         },       
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Ad Nauseam", "Peer into the Abyss"]
+            "Cards": ["Ad Nauseam", "Peer into the Abyss", "Tendrils of Agony"]
         },       
         {
             "Type": "DoesNotContain",

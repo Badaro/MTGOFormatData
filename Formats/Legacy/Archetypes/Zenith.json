@@ -8,7 +8,7 @@
         },
         {
             "Type": "oneormoreInMainboard",
-            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library","Natural Order"]
+            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library","Natural Order","Collector Ouphe"]
         }, 
         {
             "Type": "DoesNotContain",
@@ -49,6 +49,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Thalia, Guardian of Thraben"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Kaldra Compleat"]
         }
         
     ],

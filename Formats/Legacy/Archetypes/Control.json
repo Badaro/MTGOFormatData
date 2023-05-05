@@ -101,6 +101,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Yuriko, the Tiger's Shadow"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aether Spellbomb"]
         }
         
     ]
