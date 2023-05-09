@@ -23,6 +23,7 @@
       { "StartDate": "2022-10-10", "Name": "PostYorionBan" },
       { "StartDate": "2022-11-15", "Name": "PostBrothersWar" },
       { "StartDate": "2023-02-07", "Name": "PostPhyrexiaAllWillBeOne" },
-      { "StartDate": "2023-04-18", "Name": "PostMarchOfTheMachine" }
+      { "StartDate": "2023-04-18", "Name": "PostMarchOfTheMachine" },
+      { "StartDate": "2023-05-11", "Name": "PostMarchOfTheMachineAftermath" }
    ]
 }
