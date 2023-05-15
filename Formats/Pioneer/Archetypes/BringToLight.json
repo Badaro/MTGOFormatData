@@ -1,0 +1,23 @@
+{
+  "Name": "BringToLight",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bring to Light"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Niv-to-light",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Niv-Mizzet reborn"]
+        }
+        ]
+
+    }
+  ]
+}

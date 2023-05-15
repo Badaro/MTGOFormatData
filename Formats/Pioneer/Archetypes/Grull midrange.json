@@ -1,0 +1,18 @@
+{
+  "Name": "Grull Midrange",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Esika's Chariot"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Reckless Stormseeker"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards":["Greasefang, Okiba Boss"]
+    }
+  ]
+}

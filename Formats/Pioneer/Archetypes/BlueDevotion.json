@@ -1,0 +1,18 @@
+{
+    "Name": "BlueDevotion",
+    "IncludeColorInName": false,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": ["Nykthos, Shrine to Nyx"]
+      },
+      {
+        "Type": "InMainboard",
+        "Cards": ["Leyline of Anticipation"]
+      },
+      {
+        "Type": "OneOrMoreInMainboard",
+        "Cards": ["Gadwick, the Wizened", "Master of Waves"]
+      }
+    ]
+  }

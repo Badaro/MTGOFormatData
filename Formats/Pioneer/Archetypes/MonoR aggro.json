@@ -1,0 +1,22 @@
+{
+  "Name": "MonoR agro",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Monastery Swiftspear"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Soul-Scar Mage"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Reckless Bushwhacker"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Favored Hoplite"]
+    }
+  ]
+}

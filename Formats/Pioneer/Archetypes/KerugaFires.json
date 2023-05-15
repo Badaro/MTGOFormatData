@@ -1,0 +1,18 @@
+{
+  "Name": "KerugaFires",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Fires of Invention"]
+    },
+	{
+      "Type": "InSideboard",
+      "Cards": ["Keruga, the Macrosage"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Enigmatic Incarnation"]
+    }
+  ]
+}

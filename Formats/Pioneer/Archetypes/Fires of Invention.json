@@ -1,0 +1,23 @@
+{
+    "Name": "Fires of Invention",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Fires of Invention"]
+        }
+    ],
+    "Variants": [
+      {
+        "Name": "Enigmatic Incarnation",
+        "IncludeColorInName": true,
+        "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Enigmatic Incarnation"]
+          }
+          ]
+  
+      }
+    ]
+  }
