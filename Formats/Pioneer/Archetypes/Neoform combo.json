@@ -1,0 +1,14 @@
+{
+  "Name": "Neoform",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Neoform"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Soulflayer"]
+    }
+  ]
+}

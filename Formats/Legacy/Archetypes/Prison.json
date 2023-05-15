@@ -19,8 +19,8 @@
             "Cards": ["Blood Moon", "Blood Sun"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Chalice of the Void"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Chalice of the Void","Shatterskull Smashing"]
         },
         {
             "Type": "DoesNotContain",

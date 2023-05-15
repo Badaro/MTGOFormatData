@@ -52,11 +52,11 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Snuff Out"]
+            "Cards": ["Tarmogoyf"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Tarmogoyf"]
+            "Cards": ["Phyrexian Dreadnought"]
         }
     ]
 }

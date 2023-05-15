@@ -1,0 +1,11 @@
+{
+  "Name": "Lutri, the Spellchaser",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "Insideboard",
+      "Cards": ["Lutri, the Spellchaser"]
+    }
+
+  ]
+}

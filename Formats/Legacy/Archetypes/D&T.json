@@ -20,10 +20,6 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Emeria's Call"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Brutal Cathar"]
         }
     ]
