@@ -13,7 +13,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Stifle","Spell Pierce","Unholy Heat","Chain Lightning"]
+            "Cards": ["Stifle","Spell Pierce","Unholy Heat","Chain Lightning","Invasion of Tarkir"]
  
         },
         {
@@ -47,10 +47,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Leovold, Emissary of Trest"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Snuff Out"]
         },
         {
             "Type": "DoesNotContain",

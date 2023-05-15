@@ -29,6 +29,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Dark Depths"]
+        },
+        {
+            "Type": "DoesNotContainmainboard",
+            "Cards": ["Show and Tell"]
         }
     ]
 }
