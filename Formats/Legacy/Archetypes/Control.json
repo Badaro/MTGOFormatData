@@ -68,19 +68,11 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Leovold, Emissary of Trest"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Animate Dead"]
         },
         {
             "Type": "DoesNotContain",
             "Cards": ["Cephalid Illusionist"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Grist, the Hunger Tide"]
         },
         {
             "Type": "DoesNotContain",
@@ -105,7 +97,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Aether Spellbomb"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
         }
-        
     ]
 }

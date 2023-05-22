@@ -1,0 +1,14 @@
+{
+    "Name": "Misfortune",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Riddlesmith"]
+        },
+        {
+            "Type": "Inmainboard",
+            "Cards": ["Wheel of Misfortune"]
+         }
+    ]
+}

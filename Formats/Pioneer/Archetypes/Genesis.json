@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Genesis Ultimatum"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Bring to Light"]
     }
   ]
 }

@@ -53,10 +53,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Minsc & Boo, Timeless Heroes"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Uro, Titan of Nature's Wrath"]
         }
         
     ],

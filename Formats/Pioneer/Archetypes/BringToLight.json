@@ -10,14 +10,13 @@
   "Variants": [
     {
       "Name": "Niv-to-light",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Niv-Mizzet reborn"]
+          "Cards": ["Niv-Mizzet Reborn"]
         }
         ]
-
     }
   ]
 }

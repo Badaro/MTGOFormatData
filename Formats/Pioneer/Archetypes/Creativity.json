@@ -5,10 +5,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Indomitable Creativity"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Torrential Gearhulk"]
     }
   ]
 }

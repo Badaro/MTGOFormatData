@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets"]
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Grief","Leovold, Emissary of Trest","Hullbreacher","Uro, Titan of Nature's Wrath"]
         },
         {
             "Type" : "OneorMoreInMainboard",
@@ -48,15 +48,15 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Leovold, Emissary of Trest"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Tarmogoyf"]
         },
         {
             "Type": "DoesNotContain",
             "Cards": ["Phyrexian Dreadnought"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Archmage's Charm"]
         }
     ]
 }
