@@ -9,10 +9,6 @@
     {
         "Type": "InMainboard",
         "Cards": ["Venerated Loxodon"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Burning-Tree Emissary"]
     }
   ]
 }
