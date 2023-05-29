@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Arclight Phoenix"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Jeskai Ascendancy"]
     }
   ]
 }

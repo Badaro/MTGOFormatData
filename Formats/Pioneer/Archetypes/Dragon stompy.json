@@ -1,0 +1,10 @@
+{
+  "Name": "Dragon Stompy",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sarkhan, Soul Aflame"]
+    }
+  ]
+}

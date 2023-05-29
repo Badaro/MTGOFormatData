@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Fires of Invention"]
+        },
+        {
+          "Type": "DoesNotContainSideboard",
+          "Cards": ["Keruga, the Macrosage"]
         }
     ],
     "Variants": [
