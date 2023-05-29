@@ -1,0 +1,18 @@
+{
+  "Name": "Elemental",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Omnath, Locus of Creation"]
+    },
+	  {
+      "Type": "InMainboard",
+      "Cards": ["Risen Reef"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Bring to Light"]
+    }	
+  ]
+}

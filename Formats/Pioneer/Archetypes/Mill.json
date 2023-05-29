@@ -1,0 +1,18 @@
+{
+  "Name": "Mill",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Jace, the Perfected Mind"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thieves' Guild Enforcer"]
+    },
+    {
+      "Type": "DoesNotContainSideboard",
+      "Cards": ["Lutri, the Spellchaser"]
+    }
+  ]
+}
