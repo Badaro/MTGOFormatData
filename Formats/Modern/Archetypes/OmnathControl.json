@@ -11,10 +11,6 @@
       "Cards": ["Omnath, Locus of Creation"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Expressive Iteration"]
-    },
-    {
       "Type": "DoesNotContain",
       "Cards": ["Niv-Mizzet Reborn"]
     },
