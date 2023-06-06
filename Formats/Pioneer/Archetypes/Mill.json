@@ -13,6 +13,10 @@
     {
       "Type": "DoesNotContainSideboard",
       "Cards": ["Lutri, the Spellchaser"]
+    },    
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Rona, Herald of Invasion"]
     }
   ]
 }

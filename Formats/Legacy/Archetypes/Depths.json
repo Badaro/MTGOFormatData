@@ -72,6 +72,10 @@
             {   
                 "Type": "DoesNotContainMainboard",
                 "Cards": ["Lotus Petal"]
+            },
+            {   
+                "Type": "DoesNotContainMainboard",
+                "Cards": ["Elvish Reclaimer"]
             }
         ]
       },

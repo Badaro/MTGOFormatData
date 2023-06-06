@@ -21,6 +21,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Cloudpost"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Vampire Hexmage"]
         }
     ]
 }

@@ -9,6 +9,10 @@
         {
           "Type": "DoesNotContainSideboard",
           "Cards": ["Keruga, the Macrosage"]
+        },    
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Genesis Ultimatum"]
         }
     ],
     "Variants": [

@@ -16,7 +16,7 @@
         },       
         {
             "Type": "DoesNotContainMainboard",
-            "Cards": ["Thalia, Guardian of Thraben"]
+            "Cards": ["Cavern of Souls"]
         },       
         {
             "Type": "DoesNotContain",
@@ -33,6 +33,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
         }
     ]
 }

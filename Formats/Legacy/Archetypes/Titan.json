@@ -1,0 +1,14 @@
+{
+    "Name": "Titan",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Primeval Titan"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cloudpost"]
+        }
+    ]
+}

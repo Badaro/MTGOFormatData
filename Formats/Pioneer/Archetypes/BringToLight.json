@@ -5,6 +5,14 @@
     {
       "Type": "InMainboard",
       "Cards": ["Bring to Light"]
+    },    
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Fires of Invention"]
+    },    
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Rona, Herald of Invasion"]
     }
   ],
   "Variants": [
