@@ -8,7 +8,7 @@
         },
         {
             "Type": "oneormoreInMainboard",
-            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library","Natural Order","Collector Ouphe"]
+            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library","Natural Order","Collector Ouphe","Wrenn and Realmbreaker"]
         }, 
         {
             "Type": "DoesNotContain",
@@ -53,6 +53,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Kaldra Compleat"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
         }
         
     ],

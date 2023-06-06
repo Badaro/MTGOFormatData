@@ -1,0 +1,14 @@
+{
+  "Name": "Rona combo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Rona, Herald of Invasion"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Greasefang, Okiba Boss"]
+    }
+  ]
+}

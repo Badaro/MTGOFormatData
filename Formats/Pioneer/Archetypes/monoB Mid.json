@@ -1,0 +1,18 @@
+{
+  "Name": "MonoB Midrange",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sheoldred, the apocalypse"]
+    },    
+    {
+        "Type": "OneOrMoreInMainboard",
+        "Cards": ["Invoke Despair","Phyrexian Fleshgorger"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["fable of the mirror breaker"]
+    }
+  ]
+}

@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Blood Sun"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Teferi, Hero of Dominaria"]
     }
   ]
 }

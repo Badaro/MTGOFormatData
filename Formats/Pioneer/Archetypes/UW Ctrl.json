@@ -1,0 +1,18 @@
+{
+  "Name": "UW Control",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Teferi, Hero of Dominaria"]
+    },    
+    {
+        "Type": "OneOrMoreInMainboard",
+        "Cards": ["The Wandering Emperor","Narset, Parter of Veils"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Atraxa, Grand Unifier"]
+    }
+  ]
+}

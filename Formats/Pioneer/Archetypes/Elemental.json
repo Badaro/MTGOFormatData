@@ -13,6 +13,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Bring to Light"]
+    },    
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Genesis Ultimatum"]
+    },    
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Fires of Invention"]
     }	
   ]
 }
