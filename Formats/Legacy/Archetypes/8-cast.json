@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "oneormoreInMainboard",
-            "Cards": ["Sai, Master Thopterist", "Kappa Cannoneer", "Emry, Lurker of the Loch"]
+            "Cards": ["Sai, Master Thopterist", "Kappa Cannoneer", "Emry, Lurker of the Loch","Hullbreacher"]
         },
         {
             "Type": "InMainboard",
@@ -12,7 +12,7 @@
         },        
         {
             "Type": "oneormoreInMainboard",
-            "Cards": ["Thoughtcast", "Urza's Bauble"]
+            "Cards": ["Thoughtcast", "Urza's Bauble","Karn, the Great Creator"]
         },
         {
             "Type": "DoesNotContain",
