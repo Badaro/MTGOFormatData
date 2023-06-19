@@ -14,5 +14,17 @@
       "Type": "DoesNotContain",
       "Cards": ["Atraxa, Grand Unifier"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "UW Lotus control",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Lotus Field"]
+        }
+        ]
+    }
   ]
 }

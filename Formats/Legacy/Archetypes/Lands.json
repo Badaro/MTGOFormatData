@@ -25,6 +25,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Vampire Hexmage"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Primeval Titan"]
         }
     ]
 }
