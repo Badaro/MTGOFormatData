@@ -11,8 +11,8 @@
       "Cards": ["Young Wolf"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Strangleroot Geist"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Strangleroot Geist", "Hapatra, Vizier of Poisons"]
     }
   ]
 }
