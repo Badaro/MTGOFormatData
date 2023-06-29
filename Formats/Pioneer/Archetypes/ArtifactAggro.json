@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Patchwork Automaton"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Patchwork Automaton","Gingerbrute"]
     }
   ],
   "Variants": [
