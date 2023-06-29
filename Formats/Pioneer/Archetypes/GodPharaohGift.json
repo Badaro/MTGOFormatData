@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["God-Pharaoh's Gift"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Rona, Herald of Invasion"]
     }
   ]
 }

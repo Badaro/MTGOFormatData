@@ -8,7 +8,7 @@
         },
         {
             "Type" : "OneorMoreInMainboard",
-            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast","Third Path Iconoclast","Hexdrinker"]
+            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast","Third Path Iconoclast","Hexdrinker","Pteramander"]
         },
         {
             "Type": "OneOrMoreInMainboard",
@@ -57,7 +57,12 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Archmage's Charm"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Witherbloom Command"]
         }
+
     ]
 }
 
