@@ -17,20 +17,6 @@
           "Cards": ["Ensoul Artifact"]
         }
       ]
-    },
-    {
-      "Name": "GlittersStompy",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Ingenious Smith"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Michiko's Reign of Truth"]
-        }
-      ]
     }
   ]
 }

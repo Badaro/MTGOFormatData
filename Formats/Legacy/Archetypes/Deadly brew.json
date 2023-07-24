@@ -1,0 +1,10 @@
+{
+    "Name": "Deadly Brew Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Deadly Brew"]
+        }
+    ]
+}

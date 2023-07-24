@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Aether Vial", "Chalice of the Void"]
+            "Cards": ["Aether Vial", "Chalice of the Void","Umezawa's Jitte"]
         },
         {
             "Type": "InMainboard",
@@ -16,7 +16,7 @@
         },
         {
             "Type": "OneOrMoreInSideboard",
-            "Cards": ["Yorion, Sky Nomad", "Deafening Silence"]
+            "Cards": ["Yorion, Sky Nomad", "Deafening Silence","Sanctum Prelate"]
         },
         {
             "Type": "DoesNotContain",
