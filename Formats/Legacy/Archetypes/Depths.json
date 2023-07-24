@@ -48,8 +48,11 @@
         "Conditions":[
             {
                 "type": "OneOrMoreInMainboard",
-                "Cards" :["Lotus Petal","Elvish Spirit Guide", "Not of This World"]
-            
+                "Cards" :["Lotus Petal", "Elvish Spirit Guide", "Not of This World"]
+            },
+            {   
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]
             }
         ]
       },

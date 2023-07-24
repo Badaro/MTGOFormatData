@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Grief","Leovold, Emissary of Trest","Hullbreacher","Uro, Titan of Nature's Wrath"]
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Grief","Leovold, Emissary of Trest","Hullbreacher"]
         },
         {
             "Type" : "OneorMoreInMainboard",
@@ -61,8 +61,15 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Witherbloom Command"]
-        }
-
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Narset, Parter of Veils"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
+        }       
     ]
 }
 

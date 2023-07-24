@@ -1,0 +1,18 @@
+{
+    "Name": "Samwise reanimator",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Samwise the Stouthearted"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Crop Rotation"]
+        },  
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        }
+    ]
+}

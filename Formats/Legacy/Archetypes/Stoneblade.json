@@ -32,6 +32,10 @@
         },       
         {
             "Type": "DoesNotContain",
+            "Cards": ["Aether Vial"]
+        },             
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Knight of the Reliquary"]
         },
         {

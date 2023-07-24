@@ -45,6 +45,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Teferi, Time Raveler"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
         }
         
     ],
