@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "CardListUpdater": {
-      "commandName": "Project",
-      "commandLineArgs": "\"$(SolutionDir)..\\..\\Formats\\card_colors.json\""
-    }
-  }
-}
