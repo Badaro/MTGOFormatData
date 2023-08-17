@@ -17,6 +17,10 @@
                 "Black Dragon Gate",
                 "Golgari Gate"
             ]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Pestilence"]
         }
     ],
     "Variants": [

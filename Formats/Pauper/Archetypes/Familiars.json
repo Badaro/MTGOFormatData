@@ -1,0 +1,15 @@
+{
+    
+        "Name": "Familiars",
+        "IncludeColorInName": true,
+        "Conditions": [
+            {
+                "Type": "OneOrMoreInMainboard",
+                "Cards": ["Ephemerate","Ghostly Flicker"]
+            },
+            {
+                "Type": "TwoOrMoreInMainboard",
+                "Cards": ["Sunscape Familiar","Archaeomancer","God-Pharaoh's Faithful"]
+            }
+        ]
+}

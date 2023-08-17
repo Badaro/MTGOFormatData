@@ -2,11 +2,7 @@
     "Name": "Reanimator",
     "IncludeColorInName": false,
     "Conditions": [
-        {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Ulamog's Crusher","Striped Riverwinder","Mirrorshell Crab","Dragon's Breath"]
-        }, 
-        {
+            {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Exhume","Late to Dinner"]
         },
@@ -17,6 +13,10 @@
         {
             "Type" : "DoesNotContain",
             "Cards": ["Urza's Power Plant"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Goblin Matron"]
         }
     ]
 }

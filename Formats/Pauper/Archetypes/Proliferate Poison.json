@@ -1,0 +1,10 @@
+{
+    "Name": "Proliferate Poison",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Infectious Inquiry"]
+        }
+    ]   
+}

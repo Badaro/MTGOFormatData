@@ -1,6 +1,6 @@
 {
     "Name": "Heroic",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "TwoOrMoreInMainboard",
@@ -17,42 +17,5 @@
             "Type" : "DoesNotContain",
             "Cards": ["Glistener Elf"]
         }        
-    ],
-    "Variants": [
-        {
-            "Name":"White Heroic",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "TwoOrMoreInMainboard",
-                    "Cards": [
-                        "Hyena Umbra",
-                        "Sentinel's Eyes",
-                        "Ethereal Armor",
-                        "Squire's Devotion",
-                        "Defiant Strike",
-                        "Emerge Unscathed",
-                        "Karametra's Blessing",
-                        "Sentinel's Eyes",
-                        "Cho-Manno's Blessing"
-                    ]
-                }
-            ]
-        },
-        {
-            "Name":"Red Heroic",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "TwoOrMoreInMainboard",
-                    "Cards": [
-                        "Brute Force",
-                        "Titan's Strength",
-                        "Furor of the Bitten",
-                        "Temur Battle Rage"
-                    ]
-                }
-            ]
-        }
     ]
 }

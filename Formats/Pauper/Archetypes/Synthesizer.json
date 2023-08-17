@@ -1,0 +1,14 @@
+{
+    "Name": "Synthesizer",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Experimental Synthesizer"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Galvanic Blast","Kor Skyfisher"]
+        }
+    ]   
+}
