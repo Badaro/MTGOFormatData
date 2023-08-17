@@ -1,0 +1,22 @@
+{
+    "Name": "BG midrange",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Avenging Hunter"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cast Down"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Pestilence"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Khalni Garden"]
+        }
+    ]
+}

@@ -13,71 +13,18 @@
         {
             "Type": "InMainboard",
             "Cards": ["Urza's Tower"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Energy Refractor","Arcum's Astrolabe","Prophetic Prism","Bonder's Ornament","Expedition Map","Chromatic Star","Chromatic Sphere"]
         }
-    ],
+       
+    ] ,
     "Variants": [
-        {
-            "Name": "Cascade Tron",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Annoyed Altisaur"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Boarding Parting"]
-                }
-            ]
-        },
-        {
-            "Name": "Mono G Tron",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "OneOrMoreInMainboard",
-                    "Cards": ["Fangren Marauder","Self-Assembler","Ulamog's Crusher","Maelstrom Colossus"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Ancient Stirrings"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Crop Rotation"]
-                }                
-            ]
-        },
         {
             "Name": "Flicker Tron",
             "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "OneOrMoreInMainboard",
-                    "Cards": ["Ephemerate","Ghostly Flicker"]
-                },
-                {
-                    "Type": "OneOrMoreInMainboard",
-                    "Cards": ["Mulldrifter","Stonehorn Dignitary","Mnemonic Wall","Sea Gate Oracle","Dinrova Tron"]
-                }                
-            ]
-        },
-        {
-            "Name": "Altar Tron",
-            "IncludeColorInName": false,
-            "Conditions": [
+            "Conditions": [             
                 {
                     "Type": "InMainboard",
-                    "Cards": ["Ashnod's Altar"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Myr Retriever"]
-                }                
+                    "Cards": ["Mulldrifter"]
+                }
             ]
         }
     ]
