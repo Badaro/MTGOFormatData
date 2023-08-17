@@ -1,0 +1,11 @@
+{
+    "Name": "Garden control",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Khalni Garden"]
+        }
+
+    ]
+}

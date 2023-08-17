@@ -1,0 +1,18 @@
+{
+    "Name": "Mono Black Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Gray Merchant of Asphodel"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thorn of the Black Rose"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Pestilence"]
+        }
+    ]
+}
