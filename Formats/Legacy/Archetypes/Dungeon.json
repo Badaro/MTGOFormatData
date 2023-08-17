@@ -16,7 +16,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Touch the Spirit Realm", "Cosmic Intervention", "Palace Jailer", "Emeria's Call","Anointed Peacekeeper", "Shatterskull Smashing", "Elvish Spirit Guide","Bloodboil Sorcerer"]
+            "Cards": ["Touch the Spirit Realm", "Cosmic Intervention", "Palace Jailer", "Emeria's Call","Anointed Peacekeeper", "Shatterskull Smashing", "Elvish Spirit Guide","Bloodboil Sorcerer","Forth Eorlingas!"]
         },
         {
             "Type": "DoesNotContain",

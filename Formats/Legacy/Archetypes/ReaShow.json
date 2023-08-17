@@ -1,0 +1,14 @@
+{
+    "Name": "ReaShow",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Reanimate"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Show and Tell"]
+        }
+    ]
+}

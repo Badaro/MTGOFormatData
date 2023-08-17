@@ -1,13 +1,9 @@
 {
-    "Name": "Creative combo",
+    "Name": "Mind's Desire",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Creative Technique"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Mind's Desire"]
         }
     ]

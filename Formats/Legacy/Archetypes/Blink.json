@@ -3,8 +3,20 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Soulherder"]
-        }       
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Soulherder", "Samwise the Stouthearted"]
+        },
+        {
+            "type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
+        },
+        {
+            "type": "DoesNotContainMainboard",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        },
+        {
+            "type": "DoesNotContain",
+            "Cards": ["Seasoned Dungeoneer"]
+        }
     ]
 }
