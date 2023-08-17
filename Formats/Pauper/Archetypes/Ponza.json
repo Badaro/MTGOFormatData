@@ -1,0 +1,18 @@
+{
+    "Name": "Ponza",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Thermokarst","Mwonvuli Acid-Moss"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Annoyed Altisaur"]
+        },
+        {
+            "Type" : "InMainboard",
+            "Cards": ["Boarding Party"]
+        }
+    ]
+}

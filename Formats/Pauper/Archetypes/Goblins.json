@@ -9,6 +9,10 @@
                 "Goblin Sledder",
                 "Mogg Raider"            
             ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Experimental Synthesizer"]
         }
     ],
     "Variants": [

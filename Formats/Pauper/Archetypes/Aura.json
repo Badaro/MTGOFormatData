@@ -1,0 +1,26 @@
+{
+    "Name": "Aura",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ethereal Armor"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Cartouche of Solidarity"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sentinel's Eyes"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Mutagenic Growth"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Slippery Bogle"]
+        }            
+    ]
+}

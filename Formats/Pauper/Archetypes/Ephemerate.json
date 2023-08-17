@@ -1,0 +1,19 @@
+ {
+    "Name": "Ephemerate",
+            "IncludeColorInName": true,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Ephemerate"]
+                },
+                {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Pestilence"]
+                },
+                {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Sunscape Familiar"]
+                }
+                         
+            ]
+ }

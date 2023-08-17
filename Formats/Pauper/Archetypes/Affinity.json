@@ -1,0 +1,19 @@
+{
+    "Name": "Affinity",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Myr Enforcer","Frogmite"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Experimental Synthesizer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Slippery Bogle"]
+        }
+       ]
+}
+    

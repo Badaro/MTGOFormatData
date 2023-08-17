@@ -1,0 +1,18 @@
+{
+    "Name": "Midrange",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Gray Merchant of Asphodel","Avenging Hunter"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Thorn of the Black Rose","Troll of Khazad-dum"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Pestilence"]
+        }
+    ]
+}

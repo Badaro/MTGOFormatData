@@ -1,5 +1,5 @@
 {
-    "Name": "Zoo Agro",
+    "Name": "Zoo",
     "IncludeColorInName": false,
     "Conditions": [
         {
@@ -12,7 +12,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Abundant Growth","Nylea's Presence"]
+            "Cards": ["Abundant Growth","Nylea's Presence","Land Grant"]
         }        
     ]   
 }
