@@ -1,14 +1,14 @@
 {
-    "Name": "Creative combo",
+    "Name": "Breya aggro",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Creative Technique"]
+            "Cards": ["Breya's Apprentice"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Mind's Desire"]
+            "Cards": ["Painter's Servant"]
         }
     ]
 }
