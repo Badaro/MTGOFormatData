@@ -1,6 +1,6 @@
 {
-    "Name": "Mono Black",
-    "IncludeColorInName": false,
+    "Name": "Midrange",
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
@@ -29,6 +29,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Smallpox"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Animate Dead"]
         }
     ]
 }

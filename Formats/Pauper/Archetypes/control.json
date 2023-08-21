@@ -1,6 +1,6 @@
 {
-    "Name": "UB control",
-    "IncludeColorInName": false,
+    "Name": "Control",
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type" : "InMainboard",
@@ -8,14 +8,7 @@
         },
         {
             "Type" : "TwoOrMoreInMainboard",
-            "Cards": [
-                "Thought Scour",
-                "Consider",
-                "Mental Note",
-                "Brainstorm",
-                "Ponder",
-                "Fallaji Archaeologist"
-            ]
+            "Cards": ["Thought Scour","Consider","Mental Note","Brainstorm","Ponder","Fallaji Archaeologist","Preordain"]
         },
         {
             "Type" : "DoesNotContain",

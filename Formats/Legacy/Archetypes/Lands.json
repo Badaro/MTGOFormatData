@@ -16,10 +16,6 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Knight of the Reliquary"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Cloudpost"]
         },
         {
