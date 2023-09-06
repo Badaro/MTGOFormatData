@@ -13,6 +13,10 @@
         {
             "Type" : "DoesNotContain",
             "Cards": ["Ninja of the Deep Hours"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Serpentine Curve"]
         }
     ]
 }

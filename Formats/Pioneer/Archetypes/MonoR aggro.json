@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Favored Hoplite"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Pia Nalaar, Consul of Revival"]
     }
   ]
 }

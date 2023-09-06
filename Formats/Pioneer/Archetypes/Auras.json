@@ -3,12 +3,12 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Light-Paws, Emperor's Voice"]
+      "Type": "OneorMoreInMainboard",
+      "Cards": ["Light-Paws, Emperor's Voice","Gladecover Scout"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["All That Glitters"]
+      "Type": "OneorMoreInMainboard",
+      "Cards": ["All That Glitters","Ethereal Armor"]
     }
   ]
 }

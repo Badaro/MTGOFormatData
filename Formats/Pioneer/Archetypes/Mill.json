@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Rona, Herald of Invasion"]
+    },    
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Teferi, Hero of Dominaria"]
     }
   ]
 }

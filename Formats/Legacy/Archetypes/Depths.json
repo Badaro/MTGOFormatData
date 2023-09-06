@@ -29,6 +29,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Force of Will"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Life from the Loam"]
         }
     ],
     "Variants": [

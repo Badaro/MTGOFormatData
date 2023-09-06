@@ -7,8 +7,8 @@
             "Cards": ["Colossus Hammer"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Esper Sentinel"]
+            "Type": "oneormoreInMainboard",
+            "Cards": ["Esper Sentinel","Puresteel Paladin"]
         },
         {
             "Type": "InMainboard",

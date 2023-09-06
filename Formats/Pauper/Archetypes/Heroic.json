@@ -3,15 +3,8 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": [
-                "Satyr Hoplite",
-                "Akroan Crusader",
-                "Lagonna-Band Trailblazer",
-                "Akroan Skyguard",
-                "Tenth District Legionnaire",
-                "Healer's Hawk"
-            ]
+            "Type": "InMainboard",
+            "Cards": ["Lagonna-Band Trailblazer"]
         },
         {
             "Type" : "DoesNotContain",

@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Mind's Desire"]
+        },       
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Tendrils of Agony"]
         }
     ]
 }

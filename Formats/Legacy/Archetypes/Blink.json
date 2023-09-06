@@ -17,6 +17,14 @@
         {
             "type": "DoesNotContain",
             "Cards": ["Seasoned Dungeoneer"]
+        },
+        {
+            "type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        },
+        {
+            "type": "DoesNotContain",
+            "Cards": ["Narset, Parter of Veils"]
         }
     ]
 }

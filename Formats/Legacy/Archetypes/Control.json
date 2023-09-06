@@ -3,7 +3,7 @@
     "IncludeColorInName": true,
     "Conditions": [
         {   "Type" : "OneOrMoreInMainboard",
-            "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless" ,"Uro, Titan of Nature's Wrath","Solitude"]
+            "Cards" : ["Jace, the Mind Sculptor", "Narset, Parter of Veils", "Teferi, Time Raveler","Snapcaster Mage","Hullbreacher", "Sorin the Mirthless" ,"Uro, Titan of Nature's Wrath","Solitude","Sauron's Ransom"]
         },
         {
             "Type": "InMainboard",
@@ -97,10 +97,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Aether Spellbomb"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Murktide Regent"]
         }
     ]
 }
