@@ -17,6 +17,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Cephalid Illusionist"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
         }
     ]
 }

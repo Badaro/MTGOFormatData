@@ -69,6 +69,14 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Uro, Titan of Nature's Wrath"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Teferi, time raveler"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sauron's Ransom"]
         }
     ]
 }

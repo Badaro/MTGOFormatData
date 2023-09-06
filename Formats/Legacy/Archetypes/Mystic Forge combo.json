@@ -3,8 +3,8 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Karn, the Great Creator"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Karn, the Great Creator","Ugin, the Ineffable"]
         },
         {
             "Type": "OneOrMoreInMainboard",

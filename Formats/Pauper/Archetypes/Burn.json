@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Chain Lightning","Lava Dart"]
+            "Cards": ["Chain Lightning","Lava Dart","Fireblast"]
         },
         {
             "Type" : "InMainboard",

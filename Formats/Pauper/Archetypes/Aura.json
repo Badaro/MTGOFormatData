@@ -21,6 +21,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Slippery Bogle"]
-        }            
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Lagonna-Band Trailblazer"]
+        }          
     ]
 }

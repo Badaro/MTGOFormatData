@@ -33,6 +33,10 @@
         {
             "Type": "DoesNotContainmainboard",
             "Cards": ["Show and Tell"]
+        },
+        {
+            "Type": "DoesNotContainmainboard",
+            "Cards": ["Death's Shadow"]
         }
     ]
 }

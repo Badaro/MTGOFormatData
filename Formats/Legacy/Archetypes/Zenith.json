@@ -8,7 +8,7 @@
         },
         {
             "Type": "oneormoreInMainboard",
-            "Cards": ["Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library","Natural Order","Collector Ouphe","Wrenn and Realmbreaker"]
+            "Cards": ["Leyline Binding","Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library","Natural Order","Collector Ouphe","Wrenn and Realmbreaker","Nashi, Moon's Legacy"]
         }, 
         {
             "Type": "DoesNotContain",
@@ -25,10 +25,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Aluren"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Dark Depths"]
         },
         {
             "Type": "DoesNotContain",
@@ -57,6 +53,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Primeval Titan"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Fiend Artisan"]
         }
         
     ],

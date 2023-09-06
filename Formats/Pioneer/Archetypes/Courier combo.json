@@ -1,0 +1,22 @@
+{
+  "Name": "Courier combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Courier's Briefcase"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Fires of Invention"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Bring to Light"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Transmogrify"]
+    }
+  ]
+}

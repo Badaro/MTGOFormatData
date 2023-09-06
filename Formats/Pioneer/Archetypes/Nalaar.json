@@ -1,0 +1,10 @@
+{
+  "Name": "Nalaar",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Pia Nalaar, Consul of Revival"]
+    }
+  ]
+}

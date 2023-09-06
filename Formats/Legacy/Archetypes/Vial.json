@@ -45,6 +45,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Soulherder"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Samwise the Stouthearted"]
         }
         
     ]

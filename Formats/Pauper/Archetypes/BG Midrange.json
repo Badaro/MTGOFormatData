@@ -7,8 +7,8 @@
             "Cards": ["Avenging Hunter"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Cast Down"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Cast Down","Generous Ent"]
         },
         {
             "Type": "DoesNotContainMainboard",
@@ -17,6 +17,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Khalni Garden"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Mwonvuli Acid-Moss"]
         }
     ]
 }

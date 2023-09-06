@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Thermokarst","Mwonvuli Acid-Moss"]
+            "Cards": ["Thermokarst","Mwonvuli Acid-Moss","Cleansing Wildfire"]
         },
         {
             "Type" : "InMainboard",
