@@ -97,6 +97,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Aether Spellbomb"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Delver of Secrets"]
         }
     ]
 }

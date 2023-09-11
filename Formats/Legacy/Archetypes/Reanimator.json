@@ -7,12 +7,12 @@
             "Cards": ["Reanimate"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Entomb"]
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Entomb","Currency Converter"]
         },
         {
             "Type": "OneormoreInMainboard",
-            "Cards": ["Exhume","Animate Dead"]
+            "Cards": ["Exhume","Animate Dead","Atraxa, Grand Unifier"]
         },
         {
             "Type": "DoesNotContain",
