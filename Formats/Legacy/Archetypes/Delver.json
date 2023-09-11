@@ -75,8 +75,12 @@
             "Cards": ["Teferi, time raveler"]
         }, 
         {
-            "Type": "DoesNotContain",
-            "Cards": ["Sauron's Ransom"]
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Sheoldred's Edict"]
+        }, 
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Go for the Throat"]
         }
     ]
 }
