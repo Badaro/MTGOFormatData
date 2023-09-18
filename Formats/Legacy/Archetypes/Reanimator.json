@@ -37,6 +37,10 @@
         {
             "Type": "DoesNotContainmainboard",
             "Cards": ["Death's Shadow"]
+        },
+        {
+            "Type": "DoesNotContainmainboard",
+            "Cards": ["Currency Converter"]
         }
     ]
 }

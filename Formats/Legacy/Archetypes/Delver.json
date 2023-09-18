@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Grief","Leovold, Emissary of Trest","Hullbreacher"]
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Grief","Leovold, Emissary of Trest","Hullbreacher","Elvish Reclaimer"]
         },
         {
             "Type" : "OneorMoreInMainboard",
@@ -81,6 +81,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Go for the Throat"]
+        }, 
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Sneak Attack"]
         }
     ]
 }

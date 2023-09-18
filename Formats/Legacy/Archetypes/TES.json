@@ -25,6 +25,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Birgi, God of Storytelling"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Song of Creation"]
         }
     ]
    }
