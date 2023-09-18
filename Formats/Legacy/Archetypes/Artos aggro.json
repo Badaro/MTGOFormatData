@@ -1,0 +1,23 @@
+{
+    "Name": "Artos aggro",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Saga"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Fable of the Mirror-Breaker"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Caves of Chaos Adventurer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Galvanic Blast"]
+        }
+       
+    ]
+}

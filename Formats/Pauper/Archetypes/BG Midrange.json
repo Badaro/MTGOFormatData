@@ -21,6 +21,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Mwonvuli Acid-Moss"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Overgrown Battlement"]
         }
-    ]
+    ]	
 }

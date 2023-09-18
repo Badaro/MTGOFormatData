@@ -1,0 +1,11 @@
+{
+    "Name": "As Foretold",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["As Foretold"]
+        }
+
+       ] 
+}
