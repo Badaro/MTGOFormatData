@@ -1,10 +1,10 @@
 {
-  "Name": "UrzaManufactor",
+  "Name": "ManufactorCombo",
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Urza, Lord High Artificer"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Urza, Lord High Artificer","Lonis, Cryptozoologist"]
     },
     {
       "Type": "InMainboard",
