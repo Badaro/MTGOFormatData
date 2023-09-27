@@ -1,5 +1,5 @@
 {
-  "Name": "UW Control",
+  "Name": "Azorius Control",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -17,7 +17,7 @@
   ],
   "Variants": [
     {
-      "Name": "UW Lotus control",
+      "Name": "Azorius Lotus Control",
       "IncludeColorInName": false,
       "Conditions": [
         {

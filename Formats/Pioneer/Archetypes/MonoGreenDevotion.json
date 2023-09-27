@@ -1,5 +1,5 @@
 {
-    "Name": "BlueDevotion",
+    "Name": "Mono Green Devotion",
     "IncludeColorInName": false,
     "Conditions": [
       {
@@ -8,11 +8,7 @@
       },
       {
         "Type": "InMainboard",
-        "Cards": ["Leyline of Anticipation"]
-      },
-      {
-        "Type": "OneOrMoreInMainboard",
-        "Cards": ["Gadwick, the Wizened", "Master of Waves"]
+        "Cards": ["Oath of Nissa"]
       }
     ]
   }

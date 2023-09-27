@@ -4,10 +4,6 @@
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Paradoxical Outcome"]
-        },
-        {
-            "Type": "InMainboard",
             "Cards": ["Paradox Engine"]
         }
     ]

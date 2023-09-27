@@ -17,7 +17,7 @@
   ],
   "Variants": [
     {
-      "Name": "Niv-to-light",
+      "Name": "NivToLight",
       "IncludeColorInName": false,
       "Conditions": [
         {

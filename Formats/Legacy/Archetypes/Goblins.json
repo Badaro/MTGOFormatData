@@ -3,8 +3,8 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Goblin Lackey"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Goblin Lackey","Muxus, Goblin Grandee"]
          },
          {
             "Type": "OneOrMoreInMainboard",
