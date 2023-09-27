@@ -33,6 +33,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Blood Moon"]
+        },
+        {
+            "Type": "DoesNotContainmainboard",
+            "Cards": ["Paradox Engine"]
         }
     ]
 }
