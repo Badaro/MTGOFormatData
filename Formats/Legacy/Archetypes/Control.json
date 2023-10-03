@@ -13,8 +13,7 @@
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Brainstorm", "Day's Undoing", "Prismatic Ending", "Ice-Fang Coatl"]
         },
-        
-         {
+        {
             "Type": "DoesNotContain",
             "Cards": ["Stoneforge Mystic"]
         },
@@ -97,6 +96,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Delver of Secrets"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Witherbloom Apprentice"]
         }
     ]
 }

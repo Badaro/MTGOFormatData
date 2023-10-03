@@ -3,12 +3,12 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type" : "InMainboard",
-            "Cards": ["Tolarian Terror"]
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Tolarian Terror","Murmuring Mystic"]
         },
         {
             "Type" : "TwoOrMoreInMainboard",
-            "Cards": ["Thought Scour","Consider","Mental Note","Brainstorm","Ponder","Fallaji Archaeologist","Preordain"]
+            "Cards": ["Thought Scour","Consider","Mental Note","Brainstorm","Ponder","Fallaji Archaeologist","Preordain","Counterspell"]
         },
         {
             "Type" : "DoesNotContain",
@@ -17,6 +17,10 @@
         {
             "Type" : "DoesNotContain",
             "Cards": ["Serpentine Curve"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Ephemerate"]
         }
     ]
 }
