@@ -9,6 +9,10 @@
          {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "goblin rabblemaster"]
-         }
+         },        
+         {
+            "Type": "DoesNotContain",
+            "Cards": ["Name Sticker Goblin"]
+        }
     ]
 }

@@ -1,0 +1,10 @@
+{
+    "Name": "Sticker Goblin",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Name Sticker Goblin"]
+        }
+    ]
+}
