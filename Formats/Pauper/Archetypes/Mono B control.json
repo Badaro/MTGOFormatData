@@ -7,8 +7,8 @@
             "Cards": ["Gray Merchant of Asphodel"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Thorn of the Black Rose"]
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Thorn of the Black Rose","Chittering Rats"]
         },
         {
             "Type": "DoesNotContainMainboard",
