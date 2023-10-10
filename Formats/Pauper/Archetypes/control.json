@@ -15,7 +15,7 @@
             "Cards": ["Ninja of the Deep Hours"]
         },
         {
-            "Type" : "DoesNotContain",
+            "Type" : "DoesNotContainMainboard",
             "Cards": ["Serpentine Curve"]
         },
         {
