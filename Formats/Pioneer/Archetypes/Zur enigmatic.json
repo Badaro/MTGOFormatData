@@ -1,0 +1,18 @@
+{
+    "Name": "Zurg enigmatic",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Enigmatic Incarnation"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Zur, Eternal Schemer"]
+        },    
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Fires of Invention"]
+        }
+    ]
+  }

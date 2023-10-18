@@ -1,0 +1,10 @@
+{
+    "Name": "Initiative",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Trailblazer's Torch"]
+        }
+    ]   
+}

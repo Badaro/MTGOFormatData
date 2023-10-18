@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Grief","Leovold, Emissary of Trest","Hullbreacher","Elvish Reclaimer"]
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Grief","Leovold, Emissary of Trest","Hullbreacher","Elvish Reclaimer","Orcish Bowmasters"]
         },
         {
             "Type" : "OneorMoreInMainboard",
@@ -69,10 +69,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Teferi, time raveler"]
-        }, 
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Sheoldred's Edict"]
         }, 
         {
             "Type": "DoesNotContainMainboard",
