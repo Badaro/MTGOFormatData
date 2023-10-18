@@ -9,6 +9,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Tendrils of Agony"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["High Tide"]
         }
     ]
 }

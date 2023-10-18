@@ -13,6 +13,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Atraxa, Grand Unifier"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Bring to Light"]
     }
   ],
   "Variants": [

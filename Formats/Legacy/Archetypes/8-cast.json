@@ -37,6 +37,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Riddlesmith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
         }
     ]
 }
