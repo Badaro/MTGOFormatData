@@ -5,7 +5,11 @@
         {
             "Type": "InMainboard",
             "Cards": ["Khalni Garden"]
-        }
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Slippery Bogle"]
+        }      
 
     ]
 }
