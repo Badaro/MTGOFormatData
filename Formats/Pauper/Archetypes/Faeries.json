@@ -9,6 +9,14 @@
         {
             "Type": "InMainboard",
             "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Myr Enforcer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Moon-Circuit Hacker"]
         }
     ]
 }

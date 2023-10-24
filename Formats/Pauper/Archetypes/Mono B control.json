@@ -1,5 +1,5 @@
 {
-    "Name": "Mono Black Control",
+    "Name": "Mono B Control",
     "IncludeColorInName": false,
     "Conditions": [
         {
@@ -13,6 +13,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Pestilence"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Ephemerate"]
         }
     ]
 }
