@@ -1,0 +1,18 @@
+{
+    "Name": "Mono U aggro",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Moon-Circuit Hacker"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Ninja of the Deep Hours"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Myr Enforcer"]
+        }
+    ]
+}
