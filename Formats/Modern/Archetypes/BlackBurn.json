@@ -1,0 +1,14 @@
+{
+  "Name": "BlackBurn",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bump in the Night"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chancellor of the Dross"]
+    }
+  ]
+}

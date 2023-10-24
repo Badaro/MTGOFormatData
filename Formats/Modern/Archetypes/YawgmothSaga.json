@@ -1,0 +1,18 @@
+{
+  "Name": "YawgmothSaga",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Yawgmoth, Thran Physician"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Saga"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Young Wolf"]
+    }
+  ]
+}
