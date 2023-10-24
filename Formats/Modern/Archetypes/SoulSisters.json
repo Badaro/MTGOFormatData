@@ -4,8 +4,12 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Soul's Attendant","Soul Warden","Martyr of Sands","Serra Ascendant"]
-    }
+      "Cards": ["Soul's Attendant","Soul Warden","Martyr of Sands","Serra Ascendant","Auriok Champion"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Heliod, Sun-Crowned"]
+    }	
   ],
   "Variants": [
 	  {
@@ -27,30 +31,12 @@
 	  ]
 	},
 	{
-	  "Name": "HeliodSisters",
+	  "Name": "NorinSisters",
 	  "IncludeColorInName": false,
 	  "Conditions": [
 		{
 		  "Type": "InMainboard",
-		  "Cards": ["Heliod, Sun-Crowned"]
-		},
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Walking Ballista"]
-		},
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Ajani's Pridemate"]
-		}
-	  ]
-	},
-	{
-	  "Name": "HelioakCombo",
-	  "IncludeColorInName": false,
-	  "Conditions": [
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Scurry Oak"]
+		  "Cards": ["Norin the Wary"]
 		}
 	  ]
 	}

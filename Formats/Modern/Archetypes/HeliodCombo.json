@@ -7,12 +7,8 @@
       "Cards": ["Heliod, Sun-Crowned"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Walking Ballista"]
-    },
-    {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Spike Feeder","Anafenza, Kin-Tree Spirit","Luminarch Aspirant","Agatha's Soul Cauldron"]
+      "Cards": ["Walking Ballista", "Scurry Oak"]
     },
     {
       "Type": "DoesNotContain",
@@ -32,7 +28,23 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Scurry Oak"]
+      "Cards": ["Thopter Foundry"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enchantress's Presence"]
     }
+  ],
+  "Variants": [
+	{
+	  "Name": "HelioakCombo",
+	  "IncludeColorInName": false,
+	  "Conditions": [
+		{
+		  "Type": "InMainboard",
+		  "Cards": ["Scurry Oak"]
+		}
+	  ]
+	}
   ]
 }
