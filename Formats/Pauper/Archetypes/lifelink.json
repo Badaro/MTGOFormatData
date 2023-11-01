@@ -1,0 +1,10 @@
+{
+    "Name": "Linfelink",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Blood Researcher"]
+        }
+    ]   
+}

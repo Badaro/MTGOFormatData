@@ -7,8 +7,8 @@
             "Cards": ["Rancor"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Burning-Tree Emissary"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Burning-Tree Emissary","River Boa"]
         },
         {
             "Type": "InMainboard",

@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Songs of the Damned"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Balustrade Spy"]
         }
    ]   
 }

@@ -11,7 +11,7 @@
         "Cards": ["The Wandering Emperor","Narset, Parter of Veils"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Atraxa, Grand Unifier"]
     },
     {

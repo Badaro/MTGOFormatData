@@ -4,21 +4,11 @@
     "Conditions": [
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": [
-                "Reckless Wurm",
-                "Bloodmad Vampire",
-                "Arrogant Wurm",
-                "Basking Rootwalla",
-                "Kitchen Imp"
-            ]
+            "Cards": ["Reckless Wurm", "Bloodmad Vampire", "Arrogant Wurm", "Basking Rootwalla", "Kitchen Imp"]
         },
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": [
-                "Fiery Temper",
-                "Circular Logic",
-                "Alms of the Vein"
-            ]
+            "Cards": ["Fiery Temper", "Circular Logic", "Alms of the Vein"]
         }
     ]
 }

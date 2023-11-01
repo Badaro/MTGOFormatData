@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Rally the Ancestors"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
     }
   ]
 }

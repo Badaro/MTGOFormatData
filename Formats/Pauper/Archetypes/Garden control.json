@@ -9,7 +9,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Slippery Bogle"]
-        }      
-
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Pestilence"]
+        }     
     ]
 }

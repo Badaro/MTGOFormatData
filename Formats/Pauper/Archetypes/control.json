@@ -8,7 +8,7 @@
         },
         {
             "Type" : "TwoOrMoreInMainboard",
-            "Cards": ["Thought Scour","Consider","Mental Note","Brainstorm","Ponder","Fallaji Archaeologist","Preordain","Counterspell"]
+            "Cards": ["Thought Scour","Consider","Mental Note","Brainstorm","Ponder","Fallaji Archaeologist","Preordain","Counterspell","Cast Down"]
         },
         {
             "Type" : "DoesNotContain",

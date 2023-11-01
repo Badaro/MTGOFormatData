@@ -3,12 +3,12 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Gray Merchant of Asphodel"]
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Gray Merchant of Asphodel","Crypt Rats"]
         },
         {
             "Type": "OneormoreInMainboard",
-            "Cards": ["Thorn of the Black Rose","Chittering Rats"]
+            "Cards": ["Thorn of the Black Rose","Chittering Rats","Geth's Verdict"]
         },
         {
             "Type": "DoesNotContainMainboard",
@@ -17,6 +17,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Ephemerate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Khalni Garden"]
         }
     ]
 }

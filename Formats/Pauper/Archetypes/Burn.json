@@ -4,11 +4,11 @@
     "Conditions": [
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Chain Lightning","Lava Dart","Fireblast","Seal of Fire"]
+            "Cards": ["Chain Lightning","Lava Dart","Fireblast","Seal of Fire","Galvanic Blast",""]
         },
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Lightning Bolt","Monastery Swiftspear"]
+            "Cards": ["Lightning Bolt","Monastery Swiftspear","Lembas"]
         },
         {
             "Type": "DoesNotContainMainboard",
@@ -16,7 +16,11 @@
         },
         {
             "Type": "DoesNotContainMainboard",
-            "Cards": ["Galvanic Blast"]
+            "Cards": ["Alms of the Vein"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Myr Enforcer"]
         }
     ],
     "Variants": [
@@ -29,7 +33,19 @@
                     "Cards": ["Temur Battle Rage"]
                 }
             ]
+        },
+        {
+            "Name": "Synthesizer",
+            "IncludeColorInName": true,
+            "Conditions": [             
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Experimental Synthesizer"]
+                }
+
+            ]
         }
         
             ]
+            
 }
