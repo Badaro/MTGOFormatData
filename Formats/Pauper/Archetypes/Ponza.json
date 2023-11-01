@@ -11,8 +11,8 @@
             "Cards": ["Annoyed Altisaur"]
         },
         {
-            "Type" : "InMainboard",
-            "Cards": ["Boarding Party"]
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Boarding Party","Utopia Sprawl"]
         }
     ]
 }
