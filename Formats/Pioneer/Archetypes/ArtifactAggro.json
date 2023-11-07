@@ -5,6 +5,10 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Patchwork Automaton","Gingerbrute"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hardened Scales"]
     }
   ],
   "Variants": [

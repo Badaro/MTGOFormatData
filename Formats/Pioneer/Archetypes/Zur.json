@@ -1,0 +1,27 @@
+{
+    "Name": "Zur enchantement",
+    "IncludeColorInName": false,
+    "Conditions": [
+          {
+          "Type": "InMainboard",
+          "Cards": ["Zur, Eternal Schemer"]
+        }
+    ],
+    "Variants": [
+      {
+        "Name": "Zur enigmatic",
+        "IncludeColorInName": false,
+        "Conditions": [
+           
+          {
+            "Type": "InMainboard",
+            "Cards": ["Enigmatic Incarnation"]
+        },  
+          {
+            "Type": "DoesNotContain",
+            "Cards": ["Fires of Invention"]
+          }
+          ]
+      }
+    ]
+  }

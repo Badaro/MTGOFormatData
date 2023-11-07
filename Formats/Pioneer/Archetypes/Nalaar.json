@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Pia Nalaar, Consul of Revival"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Jeskai Ascendancy"]
     }
   ]
 }
