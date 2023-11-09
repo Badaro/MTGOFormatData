@@ -1,22 +1,22 @@
 {
-  "Name": "EmeriaControl",
+  "Name": "AmuletLotus",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Emeria, the Sky Ruin"]
+      "Cards": ["Amulet of Vigor"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Sun Titan","Abiding Grace"]
+      "Cards": ["Timeless Lotus","Lotus Field"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Serra Ascendant"]
+      "Cards": ["Primeval Titan"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Walking Ballista"]
+      "Cards": ["Twiddle"]
     }
   ]
 }

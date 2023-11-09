@@ -4,11 +4,11 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Memnite","Ornithopter","Darksteel Relic"]
+      "Cards": ["Memnite","Ornithopter","Darksteel Relic","Darksteel Citadel","Silverbluff Bridge"]
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Ensoul Artifact","The Blackstaff of Waterdeep","All That Glitters"]
+      "Cards": ["Ensoul Artifact","The Blackstaff of Waterdeep","All That Glitters","Rise and Shine"]
     }
   ]
 }
