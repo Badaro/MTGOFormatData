@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Hardened Scales"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
     }
   ],
   "Variants": [
