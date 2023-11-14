@@ -1,0 +1,14 @@
+{
+  "Name": "Knight",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tournament Grounds"]
+    },
+    {
+        "Type": "InMainboard",
+        "Cards": ["Inspiring Veteran"]
+    }
+  ]
+}
