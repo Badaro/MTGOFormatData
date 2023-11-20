@@ -58,12 +58,8 @@
             "Type": "DoesNotContain",
             "Cards": ["Archmage's Charm"]
         },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Witherbloom Command"]
-        },
-        {
-            "Type": "DoesNotContain",
+      {
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Narset, Parter of Veils"]
         }, 
         {

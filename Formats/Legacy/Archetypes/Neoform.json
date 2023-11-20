@@ -1,0 +1,10 @@
+{
+    "Name": "Neoform",
+    "IncludeColorInName": false,
+    "Conditions": [
+         {
+            "Type": "InMainboard",
+            "Cards": ["Neoform"]
+        }
+    ]
+}

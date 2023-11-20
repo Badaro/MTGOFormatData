@@ -49,8 +49,15 @@
         {
             "Type": "DoesNotContainSideboard",
             "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Chain of Smog"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Legolas's Quick Reflexes"]
         }
-        
     ],
     "Variants": [
         {
