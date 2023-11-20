@@ -4,11 +4,7 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": [
-                "Skirk Prospector",
-                "Goblin Sledder",
-                "Mogg Raider"            
-            ]
+            "Cards": ["Skirk Prospector","Goblin Sledder","Mogg Raider"]
         },
         {
             "Type": "DoesNotContain",

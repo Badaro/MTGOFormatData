@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Chain Lightning","Lava Dart","Fireblast","Seal of Fire","Galvanic Blast",""]
+            "Cards": ["Chain Lightning","Lava Dart","Fireblast","Seal of Fire","Galvanic Blast","Voldaren Epicure"]
         },
         {
             "Type" : "OneOrMoreInMainboard",
