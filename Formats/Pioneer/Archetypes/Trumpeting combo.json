@@ -1,0 +1,26 @@
+{
+  "Name": "Trumpeting Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Trumpeting Carnosaur"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards":["Esika's Chariot"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Quintorius Combo",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Quintorius Kand"]
+        }
+        ]
+    }
+  ]
+}

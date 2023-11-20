@@ -1,0 +1,14 @@
+{
+    "Name": "Toxic",
+    "IncludeColorInName": true,
+    "Conditions": [
+          {
+          "Type": "InMainboard",
+          "Cards": ["Slaughter Singer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Venerated Rotpriest"]
+          }
+    ]
+  }

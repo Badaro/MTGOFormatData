@@ -25,6 +25,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Overgrown Battlement"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Priest of Titania"]
         }
     ]	
 }

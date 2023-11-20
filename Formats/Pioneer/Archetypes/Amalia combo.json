@@ -1,0 +1,14 @@
+{
+  "Name": "Amalia Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Wildgrowth Walker"]
+    },
+    {
+        "Type": "InMainboard",
+        "Cards": ["Amalia Benavides Aguirre"]
+    }
+  ]
+}
