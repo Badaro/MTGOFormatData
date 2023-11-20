@@ -16,7 +16,7 @@
         },       
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Ad Nauseam", "Peer into the Abyss", "Tendrils of Agony"]
+            "Cards": ["Ad Nauseam", "Peer into the Abyss", "Tendrils of Agony","Empty the Warrens"]
         },       
         {
             "Type": "DoesNotContain",
@@ -27,7 +27,7 @@
             "Cards": ["Birgi, God of Storytelling"]
         },       
         {
-            "Type": "DoesNotContain",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Song of Creation"]
         }
     ]

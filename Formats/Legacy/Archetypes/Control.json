@@ -108,6 +108,14 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Samwise the Stouthearted"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["The Tabernacle at Pendrell Vale"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Murktide Regent"]
         }
     ]
 }

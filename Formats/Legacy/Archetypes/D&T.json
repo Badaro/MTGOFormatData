@@ -21,6 +21,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Brutal Cathar"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
         }
     ]
       
