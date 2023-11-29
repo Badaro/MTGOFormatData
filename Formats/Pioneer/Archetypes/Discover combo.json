@@ -1,5 +1,5 @@
 {
-  "Name": "Trumpeting Combo",
+  "Name": "Discover Combo",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -9,6 +9,14 @@
     {
         "Type": "DoesNotContain",
         "Cards":["Esika's Chariot"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Indomitable Creativity"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["God-Pharaoh's Gift"]
     }
   ],
   "Variants": [

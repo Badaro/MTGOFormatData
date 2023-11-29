@@ -7,8 +7,8 @@
         "Cards": ["Nykthos, Shrine to Nyx"]
       },
       {
-        "Type": "InMainboard",
-        "Cards": ["Leyline of Anticipation"]
+        "Type": "OneOrMoreInMainboard",
+        "Cards": ["Leyline of Anticipation","Tempest Djinn"]
       },
       {
         "Type": "OneOrMoreInMainboard",

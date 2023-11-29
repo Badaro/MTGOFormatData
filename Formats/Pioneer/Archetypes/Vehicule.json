@@ -1,0 +1,10 @@
+{
+  "Name": "Vehicule",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Colossal Plow"]
+    }
+  ]
+}
