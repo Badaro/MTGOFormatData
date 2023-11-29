@@ -1,0 +1,10 @@
+{
+  "Name": "Cycling",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Zenith Flare"]
+    }
+  ]
+}

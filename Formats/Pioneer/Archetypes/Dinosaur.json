@@ -1,0 +1,14 @@
+{
+  "Name": "Dinosaur",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Otepec Huntmaster"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Regisaur Alpha"]
+    }
+  ]
+}

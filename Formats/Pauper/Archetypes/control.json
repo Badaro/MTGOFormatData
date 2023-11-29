@@ -21,6 +21,10 @@
         {
             "Type" : "DoesNotContain",
             "Cards": ["Ephemerate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Trailblazer's Torch"]
         }
     ]
 }
