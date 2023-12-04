@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Lutri, the Spellchaser"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Bring to Light"]
     }
   ],
