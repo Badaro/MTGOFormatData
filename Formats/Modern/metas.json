@@ -28,6 +28,7 @@
       { "StartDate": "2023-06-20", "Name": "PostLOTR" },
       { "StartDate": "2023-08-07", "Name": "PostPreordainUnban" },
       { "StartDate": "2023-09-05", "Name": "PostWildsOfEldraine" },
-      { "StartDate": "2023-11-14", "Name": "PostLostCavesOfIxalan" }
+      { "StartDate": "2023-11-14", "Name": "PostLostCavesOfIxalan" },
+      { "StartDate": "2023-12-04", "Name": "PostFuryBeansBan" }
    ]
 }
