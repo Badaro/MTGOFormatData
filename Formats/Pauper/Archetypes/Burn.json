@@ -25,6 +25,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Squadron Hawk"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Kuldotha Rebirth"]
         }
     ],
     "Variants": [
