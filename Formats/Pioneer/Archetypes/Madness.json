@@ -1,0 +1,10 @@
+{
+  "Name": "Madness",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bloodhall Priest"]
+    }
+  ]
+}
