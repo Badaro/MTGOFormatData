@@ -7,54 +7,18 @@
             "Cards": ["Green Sun's Zenith"]
         },
         {
-            "Type": "oneormoreInMainboard",
-            "Cards": ["Leyline Binding","Abundant Growth","Fable of the Mirror-Breaker", "Sylvan Library","Natural Order","Collector Ouphe","Wrenn and Realmbreaker","Nashi, Moon's Legacy"]
-        }, 
+            "Type": "DoesNotContain",
+            "Cards": ["Heritage Druid"]
+        },  
         {
             "Type": "DoesNotContain",
-            "Cards": ["Chain of Smog"]
+            "Cards": ["Veteran Explorer"]
         },
         {
             "Type": "DoesNotContain",
             "Cards": ["Dark Depths"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Sylvan Safekeeper"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Aluren"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Omniscience"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Wirewood Symbiote"]
-        },
-           {
-            "Type": "DoesNotContain",
-            "Cards": ["Punishing Fire"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Thalia, Guardian of Thraben"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Kaldra Compleat"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Primeval Titan"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Argothian Enchantress"]
-        }      
-        
+        }
+
     ],
     "Variants": [
         {
@@ -64,6 +28,30 @@
                 {
                     "Type": "InSideboard",
                     "Cards": ["Yorion, Sky Nomad"]
+                }
+            ]
+        },
+        {
+            "Name": "Maverick",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InSideboard",
+                    "Cards": ["Knight of the Reliquary"]
+                }
+            ]
+        },
+        {
+            "Name": "Cradle Control",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InSideboard",
+                    "Cards": ["Gaea's Cradle"]
+                },
+                {
+                    "Type": "InSideboard",
+                    "Cards": ["Natural Order"]
                 }
             ]
         }

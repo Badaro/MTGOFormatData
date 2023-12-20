@@ -7,20 +7,12 @@
             "Cards": ["Veteran Explorer"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Phyrexian Tower"]
-        },
-        {
             "Type": "DoesNotContain",
             "Cards": ["Knight of the Reliquary"]  
         },
         {
             "Type": "DoesNotContain",
             "Cards": ["Aluren"]  
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Primeval Titan"]  
-        }	
+        }
     ]
 }

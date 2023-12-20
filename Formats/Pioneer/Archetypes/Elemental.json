@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Fires of Invention"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Trumpeting Carnosaur"]
     }	
   ]
 }

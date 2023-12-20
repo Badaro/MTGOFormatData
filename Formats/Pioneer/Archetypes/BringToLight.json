@@ -13,7 +13,11 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Rona, Herald of Invasion"]
-    }
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Trumpeting Carnosaur"]
+    }	
   ],
   "Variants": [
     {

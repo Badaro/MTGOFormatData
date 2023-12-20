@@ -4,15 +4,19 @@
     "Conditions": [
           {
             "Type": "InMainboard",
-            "Cards": ["Birgi, God of Storytelling"]
-          },         
+            "Cards": ["Beseech the Mirror"]
+          }         
+    ],
+    "Variants": [
+      {
+        "Name": "TES",
+        "IncludeColorInName": false,
+        "Conditions": [
           {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Burning Wish", "Grapeshot"]
-          },
-          {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Wish", "Containment Construct"]
+            "Type": "InMainboard",
+            "Cards": ["Lion's Eye Diamond"]
           }
+        ]
+    }
     ]
 }

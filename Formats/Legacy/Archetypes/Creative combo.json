@@ -9,6 +9,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Mind's Desire"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Show and Tell"]
         }
     ]
 }

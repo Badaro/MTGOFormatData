@@ -3,32 +3,16 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Grief","Leovold, Emissary of Trest","Hullbreacher","Elvish Reclaimer","Orcish Bowmasters"]
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Orcish Bowmasters","Murktide Regent"]
         },
         {
-            "Type" : "OneorMoreInMainboard",
-            "Cards": ["Murktide Regent", "Brazen Borrower","Pyroblast","Third Path Iconoclast","Hexdrinker","Pteramander"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Daze", "Force of Will"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Ponder", "Expressive Iteration", "Brainstorm"]
+            "Type": "InMainboard",
+            "Cards": ["Daze"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Arclight Phoenix"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Stoneforge Mystic"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Monastery Mentor"]
+            "Cards": ["Up the Beanstalk"]
         },
         {
             "Type": "DoesNotContain",
@@ -36,44 +20,22 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Painter's Servant"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Doomsday"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Green Sun's Zenith"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Tarmogoyf"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Phyrexian Dreadnought"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Archmage's Charm"]
-        },
+            "Cards": ["Animate Dead"]
+        }             
+        
+    ],
+    "Variants": [
       {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Narset, Parter of Veils"]
-        }, 
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Teferi, time raveler"]
-        }, 
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Go for the Throat"]
-        }, 
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Sneak Attack"]
-        }
+        "Name": "Temur Delver",
+        "IncludeColorInName": false,
+        "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Questing Druid"]
+          }
+        ]
+    }
     ]
 }
+
 

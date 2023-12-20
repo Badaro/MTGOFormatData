@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Song of Creation"]
-        }
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Lion's Eye Diamond"]
+        }       
     ]
 }
