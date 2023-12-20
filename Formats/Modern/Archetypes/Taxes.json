@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Thalia, Guardian of Thraben"]
+      "Type": "TwoOrMoreInMainOrSideboard",
+      "Cards": ["Thalia, Guardian of Thraben", "Leonin Arbiter", "Archon of Emeria"]
     },
     {
       "Type": "OneOrMoreInMainOrSideboard",
