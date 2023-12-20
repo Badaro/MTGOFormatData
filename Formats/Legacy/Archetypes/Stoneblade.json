@@ -11,14 +11,6 @@
             "Cards": ["Batterskull", "Kaldra Compleat"]
         },
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Daze", "Force of Will", "Swords to Plowshares"]
-        },       
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Cavern of Souls"]
-        },       
-        {
             "Type": "DoesNotContain",
             "Cards": ["Cephalid Illusionist"]
         },       

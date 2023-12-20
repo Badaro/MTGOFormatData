@@ -5,17 +5,13 @@
         {
             "Type": "InMainboard",
             "Cards": ["Hogaak, Arisen Necropolis"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Stitcher's Supplier"]
-        },      
+        },   
   	    {
             "Type": "oneormoreInMainboard",
             "Cards": ["Altar of Dementia", "Careful Study"]
         },
         {
-            "Type": "oneormoreInMainboard",
+            "Type": "OneormoreInMainboard",
             "Cards": ["Bridge from Below", "Hedron Crab"]
         }
     ]

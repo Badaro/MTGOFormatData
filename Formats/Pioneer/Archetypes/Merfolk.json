@@ -1,0 +1,10 @@
+{
+  "Name": "Merfolk",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kumena, Tyrant of Orazca"]
+    }
+  ] 
+}

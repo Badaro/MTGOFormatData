@@ -14,7 +14,7 @@
             "Type": "DoesNotContain",
             "Cards": ["Sneak Attack"]
         }
-    ],
+          ],
     "Variants": [
         {
             "Name": "Hypergenesis",
@@ -23,6 +23,16 @@
                 {
                     "Type": "InMainboard",
                     "Cards": ["Hypergenesis"]
+                }
+            ]
+        },
+        {
+            "Name": "Creative technique",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Creative Technique"]
                 }
             ]
         }

@@ -9,7 +9,11 @@
 	{
       "Type": "DoesNotContain",
       "Cards": ["Spirit of the Labyrinth"]
-    }	
+    }	,
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Greasefang, Okiba Boss"]
+      }	
   ],
   "Variants": [
     {

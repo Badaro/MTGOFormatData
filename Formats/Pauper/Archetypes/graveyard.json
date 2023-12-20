@@ -1,0 +1,14 @@
+{
+    "Name": "Graveyard",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Crawling Infestation"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dread Return"]
+        }
+    ]
+}

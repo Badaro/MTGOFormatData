@@ -2,17 +2,10 @@
     "Name": "Reanimator",
     "IncludeColorInName": false,
     "Conditions": [
+     
         {
-            "Type": "InMainboard",
-            "Cards": ["Reanimate"]
-        },
-        {
-            "Type": "OneormoreInMainboard",
-            "Cards": ["Entomb","Currency Converter"]
-        },
-        {
-            "Type": "OneormoreInMainboard",
-            "Cards": ["Exhume","Animate Dead","Atraxa, Grand Unifier"]
+            "Type": "TwoormoreInMainboard",
+            "Cards": ["Entomb","Currency Converter","Exhume","Animate Dead","Reanimate"]
         },
         {
             "Type": "DoesNotContain",
@@ -37,10 +30,6 @@
         {
             "Type": "DoesNotContainmainboard",
             "Cards": ["Death's Shadow"]
-        },
-        {
-            "Type": "DoesNotContainmainboard",
-            "Cards": ["Currency Converter"]
         }
     ]
 }

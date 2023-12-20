@@ -3,18 +3,14 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "oneormoreInMainboard",
-            "Cards": ["Sai, Master Thopterist", "Kappa Cannoneer", "Emry, Lurker of the Loch","Hullbreacher"]
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Sai, Master Thopterist", "Kappa Cannoneer", "Emry, Lurker of the Loch", "Patchwork Automaton"]
         },
         {
             "Type": "InMainboard",
             "Cards": ["Lotus Petal"]
         },        
-        {
-            "Type": "oneormoreInMainboard",
-            "Cards": ["Thoughtcast", "Urza's Bauble","Karn, the Great Creator"]
-        },
-        {
+                {
             "Type": "DoesNotContain",
             "Cards": ["Arcbound Ravager"]
         },
@@ -29,10 +25,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Auriok Salvagers"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Teferi, Time Raveler"]
         },
         {
             "Type": "DoesNotContain",

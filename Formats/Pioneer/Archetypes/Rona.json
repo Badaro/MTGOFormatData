@@ -10,5 +10,17 @@
       "Type": "DoesNotContain",
       "Cards": ["Greasefang, Okiba Boss"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "Rona Ascendancy",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Jeskai Ascendancy"]
+        }
+        ]
+    }
   ]
 }
