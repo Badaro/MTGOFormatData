@@ -3,8 +3,8 @@
     "IncludeColorInName": false,
     "Conditions": [
           {
-            "Type": "InMainboard",
-            "Cards": ["Beseech the Mirror"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Beseech the Mirror","Tendrils of Agony"]
           }         
     ],
     "Variants": [

@@ -17,10 +17,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Trumpeting Carnosaur"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Bring To Light"]
-    }	
+    }
   ]
 }
