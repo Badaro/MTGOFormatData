@@ -11,10 +11,6 @@
             "Cards": ["Fireblast"]
         },
         {
-            "Type": "OneormoreInMainboard",
-            "Cards": ["Price of Progress","Lightning Helix"]
-        },
-        {
             "Type": "DoesNotContain",
             "Cards": ["Chandra's Incinerator"]
         }
