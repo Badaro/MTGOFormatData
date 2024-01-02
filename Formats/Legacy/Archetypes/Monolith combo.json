@@ -1,0 +1,18 @@
+{
+    "Name": "Monolith combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Grim Monolith"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Basalt Monolith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradox Engine"]
+        }
+    ]
+}

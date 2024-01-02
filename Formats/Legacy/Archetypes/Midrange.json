@@ -12,7 +12,7 @@
         },
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Liliana of the Veil", "Dark Confidant","Sheoldred, the Apocalypse"]
+            "Cards": ["Liliana of the Veil", "Dark Confidant","Sheoldred, the Apocalypse","Stalactite Stalker"]
         },
         {
             "Type": "DoesNotContainmainboard",
