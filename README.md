@@ -7,7 +7,7 @@ Format data for use with MTGOArchetypeParser (https://github.com/Badaro/MTGOArch
 * Modern: [Badaro](https://github.com/Badaro), [Aliquanto](https://github.com/Aliquanto3)
 * Pioneer: [Lardach](https://github.com/Lardach), [Aliquanto](https://github.com/Aliquanto3)
 * Legacy: [Lardach](https://github.com/Lardach), [Aliquanto](https://github.com/Aliquanto3)
-* Pauper: [Aliquanto](https://github.com/Aliquanto3)
+* Pauper: [Lardach](https://github.com/Lardach), [Aliquanto](https://github.com/Aliquanto3)
 
 ## Data Structure
 
