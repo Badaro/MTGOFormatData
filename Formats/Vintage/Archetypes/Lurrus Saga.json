@@ -1,0 +1,34 @@
+{
+    "Name": "Lurrus Saga",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Goblin Engineer"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oswald Fiddlebender"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Saga"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wasteland"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Lórien Revealed"]
+        }
+    ]
+}

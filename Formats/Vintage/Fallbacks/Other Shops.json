@@ -1,0 +1,12 @@
+{
+  "Name": "Other Shops",
+  "IncludeColorInName": false,
+  "CommonCards": [
+	"Mishra's Workshop",
+  "Patchwork Automaton",
+  "Phyrexian Metamorph",
+  "Lodestone Golem",
+  "Mox Opal",
+  "Nettlecyst"
+  ]
+}

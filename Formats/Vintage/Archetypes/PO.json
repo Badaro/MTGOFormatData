@@ -1,0 +1,26 @@
+{
+    "Name": "PO",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Paradoxical Outcome"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Coveted Jewel"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Goblin Engineer"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oswald Fiddlebender"]
+        }
+    ]
+}

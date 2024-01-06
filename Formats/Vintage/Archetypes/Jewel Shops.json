@@ -1,0 +1,18 @@
+{
+    "Name": "Jewel Shops",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Mishra's Workshop"]
+        },  
+        {
+            "Type": "InMainboard",
+            "Cards": ["Coveted Jewel"]
+        },  
+                {
+            "Type": "InMainboard",
+            "Cards": ["Force of Will"]
+        }
+    ]
+}

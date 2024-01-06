@@ -1,0 +1,14 @@
+{
+    "Name": "Dredge",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Bazaar of Baghdad"]
+        }, 
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Stinkweed Imp","Shambling Shell","Golgari Thug"]
+        }
+    ]
+}

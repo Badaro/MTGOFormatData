@@ -1,0 +1,16 @@
+{
+  "Name": "Other Aggro",
+  "IncludeColorInName": false,
+  "CommonCards": [
+	"Archon of Emeria",
+  "Thalia, Guardian of Thraben",
+  "Stoneforge Mystic",
+  "Outland Liberator",
+  "Luminarch Aspirant",
+  "Noble Hierarch",
+  "Wasteland",
+  "Strip Mine",
+  "Plains",
+  "Cavern of Souls"
+  ]
+}

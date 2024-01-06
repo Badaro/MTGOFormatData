@@ -1,0 +1,14 @@
+{
+    "Name": "Lurrus Aggro",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        }
+    ]
+}

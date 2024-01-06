@@ -1,0 +1,26 @@
+{
+    "Name": "4c DRS Walkers",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Deathrite Shaman"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tropical Island"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Volcanic Island"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Underground Sea"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Wrenn and Six","Oko, Thief of Crowns","Dack Fayden","Minsc & Boo, Timeless Heroes"]
+        }
+    ]
+}

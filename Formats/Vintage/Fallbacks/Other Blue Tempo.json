@@ -1,0 +1,28 @@
+{
+  "Name": "Other Blue Tempo",
+  "IncludeColorInName": false,
+  "CommonCards": [
+	"Delver of Secrets",
+	"Murktide Regent",
+	"Dragon's Rage Channeler",
+    "Ledger Shredder",
+	"Ancestral Recall",
+	"Brainstorm",
+	"Ponder",
+	"Preordain",
+	"Dig Through Time",
+	"Treasure Cruise",
+	"Force of Will",
+	"Force of Negation",
+	"Spell Pierce",
+	"Gitaxian Probe",
+	"Ragavan, Nimble Pilferer",
+	"Hullbreacher",
+	"Lightning Bolt",
+	"Flusterstorm",
+	"Collector Ouphe",
+	"Vodalian Hexcatcher",
+	"Thieving Skydiver",
+	"Expressive Iteration"
+  ]
+}

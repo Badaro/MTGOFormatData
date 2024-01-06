@@ -1,0 +1,30 @@
+{
+    "Name": "Blue Ring",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Coveted Jewel"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Mishra's Workshop"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["White Plume Adventurer"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Painter's Servant"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Beseech the Mirror"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["The One Ring"]
+        }
+    ]
+}

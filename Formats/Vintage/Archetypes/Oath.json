@@ -1,0 +1,10 @@
+{
+    "Name": "Oath",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Oath of Druids"]
+        }
+    ]
+}
