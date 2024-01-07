@@ -2,7 +2,7 @@
 # MTGOFormatData
 Format data for use with MTGOArchetypeParser (https://github.com/Badaro/MTGOArchetypeParser).
 
-## Definition Maintainers
+## Active Maintainers
 
 * Modern: [Badaro](https://github.com/Badaro)
 * Pioneer: [Lardach](https://github.com/Lardach)
