@@ -4,10 +4,13 @@ Format data for use with MTGOArchetypeParser (https://github.com/Badaro/MTGOArch
 
 ## Definition Maintainers
 
-* Modern: [Badaro](https://github.com/Badaro), [Aliquanto](https://github.com/Aliquanto3)
-* Pioneer: [Lardach](https://github.com/Lardach), [Aliquanto](https://github.com/Aliquanto3)
-* Legacy: [Lardach](https://github.com/Lardach), [Aliquanto](https://github.com/Aliquanto3)
-* Pauper: [Lardach](https://github.com/Lardach), [Aliquanto](https://github.com/Aliquanto3)
+* Modern: [Badaro](https://github.com/Badaro)
+* Pioneer: [Lardach](https://github.com/Lardach)
+* Legacy: [Lardach](https://github.com/Lardach)
+* Pauper: [Lardach](https://github.com/Lardach)
+* Vintage: [IamActuallyLvL1](https://github.com/IamActuallyLvL1)
+
+[Aliquanto](https://github.com/Aliquanto3) also provides occasional help in several different formats.
 
 ## Data Structure
 
