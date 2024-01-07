@@ -1,0 +1,14 @@
+{
+    "Name": "Oops All Spells",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Balustrade Spy"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Undercity Informer"]
+        }
+    ]
+}

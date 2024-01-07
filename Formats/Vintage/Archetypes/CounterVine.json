@@ -1,0 +1,18 @@
+{
+    "Name": "Countervine",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Bazaar of Baghdad"]
+        }, 
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Master of Death","Squee, Goblin Nabob"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Basking Rootwalla","Blazing Rootwalla"]
+        }
+    ]
+}

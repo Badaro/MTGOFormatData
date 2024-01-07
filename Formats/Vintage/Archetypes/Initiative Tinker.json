@@ -1,0 +1,27 @@
+{
+    "Name": "Initiative Tinker",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Saga"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tinker"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tundra"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["White Plume Adventurer"]
+        }
+
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Aggrovine",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Bazaar of Baghdad"]
+        }, 
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Gaea's Cradle","Boseiju, Who Endures","Yavimaya, Cradle of Growth"]
+        },
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Basking Rootwalla","Blazing Rootwalla"]
+        }
+    ]
+}

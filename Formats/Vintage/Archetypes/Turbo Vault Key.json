@@ -1,0 +1,18 @@
+{
+    "Name": "Turbo Vault Key",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }, 
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Goblin Engineer","Oswald Fiddlebender","Paradoxical Outcome"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Urza's Saga"]
+        }
+    ]
+}
