@@ -1,0 +1,26 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Regal Bunnicorn"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Harbin, Vanguard Aviator"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Monastery Swiftspear"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Memory Deluge"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["The Restoration of Eiganjo"]
+    }
+  ]
+}

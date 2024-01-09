@@ -1,0 +1,42 @@
+{
+    "Name": "Midrange",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Mosswood Dreadknight"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Herd Migration"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Etali, Primal Conqueror"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Glissa Sunslayer"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Deep-Cavern Bat"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Raffine, Scheming Seer"
+            ]
+        }
+    ]
+}

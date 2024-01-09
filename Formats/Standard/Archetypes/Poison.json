@@ -1,0 +1,12 @@
+{
+    "Name": "Poison",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Jawbone Duelist"
+            ]
+        }
+    ]
+}
