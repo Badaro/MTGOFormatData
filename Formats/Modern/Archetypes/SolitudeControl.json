@@ -1,0 +1,26 @@
+{   
+  "Name": "Solitude Control",
+  "IncludeColorInName": false,  
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Solitude"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Counterspell"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Teferi, Time Raveler"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Felidar Guardian"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Delighted Halfling"]
+    }
+  ]
+}
