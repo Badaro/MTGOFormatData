@@ -1,0 +1,12 @@
+{
+    "Name": "Enchanments",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Jukai Naturalist"
+            ]
+        }
+    ]
+}

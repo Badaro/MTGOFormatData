@@ -1,0 +1,18 @@
+{
+    "Name": "Humans",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Coppercoat Vanguard"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Harbin, Vanguard Aviator"
+            ]
+        }
+    ]
+}

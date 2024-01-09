@@ -1,0 +1,24 @@
+{
+    "Name": "Combo",
+    "IncludeColorInName": true,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": [
+          "Rona, Herald of Invasion"
+        ]
+      },
+      {
+        "Type": "InMainboard",
+        "Cards": [
+          "Agatha's Soul Cauldron"
+        ]
+      },
+      {
+        "Type": "DoesNotContain",
+        "Cards": [
+          "Raffine, Scheming Seer"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,24 @@
+{
+    "Name": "Reanimator",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Etali, Primal Conqueror"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Deep-Cavern Bat"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Leyline Binding"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Tempo",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Haughty Djinn"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Memory Deluge"
+            ]
+        }
+    ]
+}

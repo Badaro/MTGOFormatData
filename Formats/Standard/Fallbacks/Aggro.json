@@ -1,0 +1,20 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Monastery Swiftspear",
+    "Kumano Faces Kakkazan",
+    "Adeline, Resplendent Cathar",
+    "Tenacious Underdog",
+    "Spellbook Vendor",
+    "Monstrous Rage",
+    "Pia Nalaar, Consul of Revival",
+    "Voldaren Thrillseeker",
+    "Vraan, Executioner Thane",
+    "Goddric, Cloaked Reveler",
+    "Sleep-Cursed Faerie",
+    "Gleeful Demolition",
+    "Knight-Errant of Eos",
+    "Royal Treatment"
+  ]
+}

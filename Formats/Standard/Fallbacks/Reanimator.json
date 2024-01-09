@@ -1,0 +1,10 @@
+{
+    "Name": "Reanimator",
+    "IncludeColorInName": true,
+    "CommonCards": [
+        "Atraxa, Grand Unifier",
+        "Etali, Primal Conqueror",
+        "Colossal Skyturtle",
+        "Big Score"
+    ]
+}

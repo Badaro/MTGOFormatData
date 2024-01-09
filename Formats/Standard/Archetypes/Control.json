@@ -1,0 +1,18 @@
+{
+    "Name": "Control",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Memory Deluge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Spyglass Siren"
+            ]
+        }
+    ]
+}

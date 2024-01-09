@@ -1,0 +1,14 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Monastery Swiftspear"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Memory Deluge"]
+    }
+  ]
+}
