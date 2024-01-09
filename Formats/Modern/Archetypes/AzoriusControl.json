@@ -1,0 +1,50 @@
+{   
+  "Name": "Azorius Control",
+  "IncludeColorInName": false,  
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Solitude","Leyline Binding"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Counterspell","Prismatic Ending"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Teferi, Time Raveler","The One Ring"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wrenn and Six"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Felidar Guardian"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Fatal Push"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Indomitable Creativity"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scapeshift"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Emeria, the Sky Ruin"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Delighted Halfling"]
+    }
+  ]
+}
