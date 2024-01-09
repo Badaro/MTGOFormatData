@@ -9,6 +9,7 @@ Format data for use with MTGOArchetypeParser (https://github.com/Badaro/MTGOArch
 * Legacy: [Lardach](https://github.com/Lardach)
 * Pauper: [Lardach](https://github.com/Lardach)
 * Vintage: [IamActuallyLvL1](https://github.com/IamActuallyLvL1)
+* Standard: [Jiliac](https://github.com/Jiliac)
 
 [Aliquanto](https://github.com/Aliquanto3) also provides occasional help in several different formats.
 
