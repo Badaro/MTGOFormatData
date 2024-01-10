@@ -6,7 +6,7 @@
       "Type": "TwoOrMoreInMainboard",
       "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage",
 		"Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Nivmagus Elemental","Clever Lumimancer",
-		"Ragavan, Nimble Pilferer","Dragon's Rage Channeler","Ledger Shredder"]
+		"Ragavan, Nimble Pilferer","Dragon's Rage Channeler","Ledger Shredder","Bomat Courier"]
     },
     {
       "Type": "InMainboard",
@@ -36,14 +36,6 @@
       "Type": "DoesNotContain",
       "Cards": ["Asmoranomardicadaistinaculdacar"]
     },
-	{
-      "Type": "DoesNotContain",
-      "Cards": ["Wrenn and Six"]
-    },
-	{
-	  "Type": "DoesNotContain",
-	  "Cards": ["Urza's Saga"]
-	},
 	{
 	  "Type": "DoesNotContain",
 	  "Cards": ["Grinding Station"]
@@ -127,7 +119,7 @@
       ]
     },
     {
-      "Name": "SagaAggro",
+      "Name": "Saga",
       "IncludeColorInName": true,
       "Conditions": [
         {
