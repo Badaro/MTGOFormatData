@@ -34,17 +34,5 @@
 	  "Type": "DoesNotContain",
 	  "Cards": ["Lotus Bloom"]
 	}
-  ],
-  "Variants": [
-    {
-      "Name": "ThopterUrza",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Urza, Lord High Artificer"]
-        }
-      ]
-    }
   ]
 }

@@ -42,17 +42,5 @@
       "Type": "DoesNotContainMainboard",
       "Cards": ["Underworld Breach"]
     }
-  ],
-  "Variants": [
-    {
-      "Name": "UrzaAffinity",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Urza, Lord High Artificer"]
-        }
-      ]
-    }
-   ]
+  ]
 }

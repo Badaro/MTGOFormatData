@@ -14,17 +14,5 @@
       "Type": "DoesNotContain",
       "Cards": ["Electrodominance"]
     }
-  ],
-  "Variants": [
-    {
-      "Name": "JundLivingEnd",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Demonic Dread"]
-        }
-      ]
-    }
   ]
 }

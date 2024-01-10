@@ -10,35 +10,5 @@
       "Type": "DoesNotContain",
       "Cards": ["Heliod, Sun-Crowned"]
     }	
-  ],
-  "Variants": [
-	  {
-	  "Name": "MartyrProc",
-	  "IncludeColorInName": false,
-	  "Conditions": [
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Martyr of Sands"]
-		},
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Serra Ascendant"]
-		},
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Squadron Hawk"]
-		}
-	  ]
-	},
-	{
-	  "Name": "NorinSisters",
-	  "IncludeColorInName": false,
-	  "Conditions": [
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Norin the Wary"]
-		}
-	  ]
-	}
   ]
 }

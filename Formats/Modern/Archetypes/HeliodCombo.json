@@ -34,17 +34,5 @@
       "Type": "DoesNotContain",
       "Cards": ["Enchantress's Presence"]
     }
-  ],
-  "Variants": [
-	{
-	  "Name": "HelioakCombo",
-	  "IncludeColorInName": false,
-	  "Conditions": [
-		{
-		  "Type": "InMainboard",
-		  "Cards": ["Scurry Oak"]
-		}
-	  ]
-	}
   ]
 }

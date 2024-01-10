@@ -159,28 +159,6 @@
 	  ]
     },
     {
-      "Name": "GenericMonkey",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Ragavan, Nimble Pilferer"]
-        },
-	    {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Counterspell","Force of Negation","Drown in the Loch"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Murktide Regent"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Underworld Breach"]
-        }
-      ]
-    },
-    {
       "Name": "BreachValue",
       "IncludeColorInName": false,
       "Conditions": [

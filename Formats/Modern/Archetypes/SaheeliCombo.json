@@ -34,17 +34,5 @@
       "Type": "DoesNotContain",
       "Cards": ["Crashing Footfalls"]
     }
-  ],
-  "Variants": [
-    {
-      "Name": "OmnathSaheeli",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Omnath, Locus of Creation"]
-        }
-      ]
-    }
   ]
 }

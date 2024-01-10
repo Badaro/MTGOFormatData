@@ -18,21 +18,5 @@
       "Type": "DoesNotContain",
       "Cards": ["Urza's Saga"]
     }
-  ],
-  "Variants": [
-    {
-      "Name": "ShadowProwess",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Scourge of the Skyclaves"]
-        },
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Soul-Scar Mage","Monastery Swiftspear"]
-        }
-      ]
-    }
   ]
 }
