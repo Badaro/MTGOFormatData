@@ -17,10 +17,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Persist"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Goryo's Vengeance"]
     }
   ]
 }

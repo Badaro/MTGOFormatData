@@ -20,10 +20,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Felidar Guardian"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Temporal Mastery"]
     }
   ]

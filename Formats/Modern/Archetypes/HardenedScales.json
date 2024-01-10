@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Arcbound Ravager"]
-    },
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Walking Ballista","Hangarback Walker"]
     }
   ]
 }

@@ -32,10 +32,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Gifts Ungiven"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Venerated Rotpriest"]
     }
   ]

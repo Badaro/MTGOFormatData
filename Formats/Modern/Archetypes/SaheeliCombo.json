@@ -20,10 +20,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Flamekin Harbinger"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Glimpse of Tomorrow"]
     },
     {

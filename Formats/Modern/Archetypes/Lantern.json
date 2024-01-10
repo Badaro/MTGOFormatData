@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Ensnaring Bridge"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Codex Shredder"]
     }
   ]
 }

@@ -28,10 +28,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Thopter Foundry"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Enchantress's Presence"]
     }
   ]

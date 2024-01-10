@@ -11,14 +11,6 @@
       "Cards": ["Planebound Accomplice"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Kiki-Jiki, Mirror Breaker"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Felidar Guardian"]
-    },
-    {
       "Type": "DoesNotContain",
       "Cards": ["Archon of Cruelty"]
     }

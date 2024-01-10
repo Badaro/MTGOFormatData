@@ -20,10 +20,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Crashing Footfalls"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Indomitable Creativity"]
     }
   ],

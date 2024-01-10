@@ -89,10 +89,6 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Bonecrusher Giant"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Obosh, the Preypiercer"]
         }
       ]
     },
@@ -137,14 +133,6 @@
         {
           "Type": "TwoOrMoreInMainboard",
           "Cards": ["Urza's Saga","Experimental Synthesizer","Dragon's Rage Channeler"]
-        },
-        {
-          "Type": "DoesNotContainMainboard",
-          "Cards": ["Tarmogoyf"]
-        },
-        {
-          "Type": "DoesNotContainSideboard",
-          "Cards": ["Obosh, the Preypiercer"]
         }
       ]
     },

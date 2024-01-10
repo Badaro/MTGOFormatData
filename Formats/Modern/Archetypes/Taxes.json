@@ -36,19 +36,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Devoted Druid"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Venerated Loxodon"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Cruel Celebrant"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Emeria, the Sky Ruin"]
     }
   ]
 }

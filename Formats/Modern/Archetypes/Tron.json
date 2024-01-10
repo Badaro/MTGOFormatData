@@ -27,10 +27,6 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Reality Smasher"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Hall of Storm Giants"]
         }
       ]
     },
@@ -77,10 +73,6 @@
         {
           "Type": "InMainboard",
           "Cards": ["Astral Cornucopia"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Everflowing Chalice"]
         }
       ]
     },

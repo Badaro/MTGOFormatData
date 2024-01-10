@@ -20,15 +20,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Lotus Field"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Lava Dart"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Kethis, the Hidden Hand"]
     }
   ]
 }

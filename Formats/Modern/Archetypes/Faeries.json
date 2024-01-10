@@ -24,10 +24,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Soulherder"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Delver of Secrets"]
     }
   ]

@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["As Foretold"]
-    },
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Crashing Footfalls","Restore Balance","Living End"]
     }
   ],
   "Variants": [

@@ -12,23 +12,7 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Past in Flames"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Manamorphose"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Gifts Ungiven"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Desperate Ritual"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Pyretic Ritual"]
     }
   ]
 }
