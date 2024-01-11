@@ -25,10 +25,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Uro, Titan of Nature's Wrath"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Kinnan, Bonder Prodigy"]
     }
   ]
 }

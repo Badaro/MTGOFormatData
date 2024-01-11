@@ -12,10 +12,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Primeval Titan"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Champion of the Parish"]
     },
     {
@@ -25,14 +21,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Angrath's Marauders"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Supreme Phantom"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Venerated Loxodon"]
     }
   ]
 }
