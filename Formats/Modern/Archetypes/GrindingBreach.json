@@ -13,14 +13,6 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Thassa's Oracle","Paradox Engine","Grapeshot"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Paradoxical Outcome"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Lava Dart"]
     }
   ]
 }

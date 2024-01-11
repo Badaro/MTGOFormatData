@@ -28,10 +28,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Urza's Tower"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Persist"]
     },
     {

@@ -28,10 +28,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Song of Creation"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Venerated Rotpriest"]
     }
   ]

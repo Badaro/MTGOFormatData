@@ -16,10 +16,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Niv-Mizzet Reborn"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Indomitable Creativity"]
     }
   ],

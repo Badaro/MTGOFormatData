@@ -16,14 +16,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Priest of Fell Rites"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Boom // Bust"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Funeral Charm"]
     },
     {
