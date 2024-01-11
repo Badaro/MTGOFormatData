@@ -37,10 +37,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Tameshi, Reality Architect"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Manamorphose"]
     }
   ]
 }
