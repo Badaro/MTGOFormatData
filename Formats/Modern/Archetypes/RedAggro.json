@@ -14,10 +14,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Kird Ape"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
     },
     {
