@@ -12,15 +12,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Tribal Flames"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Goblin Grenade"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Kuldotha Rebirth"]
     }
   ]
 }

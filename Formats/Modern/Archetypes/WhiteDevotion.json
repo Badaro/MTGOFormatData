@@ -17,10 +17,6 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Knight of the White Orchid","Auriok Champion"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Ajani's Pridemate"]
     }
   ]
 }

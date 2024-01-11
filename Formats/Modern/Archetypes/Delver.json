@@ -13,10 +13,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Soaring Thought-Thief"]
     }
   ]
 }

@@ -24,10 +24,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Asmoranomardicadaistinaculdacar"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Angrath's Marauders"]
     },
     {

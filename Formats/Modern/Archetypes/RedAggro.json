@@ -58,10 +58,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Scion of Draco"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Goblin Anarchomancer"]
     }
   ],
@@ -101,20 +97,12 @@
           "Cards": ["Obosh, the Preypiercer"]
         },
         {
-          "Type": "DoesNotContain",
-          "Cards": ["Force of Rage"]
-        },
-        {
           "Type": "DoesNotContainMainboard",
           "Cards": ["Force of Negation"]
         },
         {
           "Type": "DoesNotContainMainboard",
           "Cards": ["Skullcrack"]
-        },
-        {
-          "Type": "DoesNotContainMainboard",
-          "Cards": ["Akoum Hellhound"]
         }
       ]
     },

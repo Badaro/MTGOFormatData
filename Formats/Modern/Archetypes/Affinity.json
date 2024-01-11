@@ -28,10 +28,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Archon of Emeria"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Oswald Fiddlebender"]
     },
 	{

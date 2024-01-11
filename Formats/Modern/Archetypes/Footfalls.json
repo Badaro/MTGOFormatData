@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Crashing Footfalls"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Electrodominance"]
     }
   ]
 }

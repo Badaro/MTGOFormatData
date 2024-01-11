@@ -17,10 +17,6 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Mantis Rider","Meddling Mage","Intrepid Adversary","Unsettled Mariner","Extraction Specialist","Adeline, Resplendent Cathar"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Colossus Hammer"]
     }
   ]
 }

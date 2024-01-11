@@ -13,14 +13,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Omnath, Locus of Creation"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Felidar Guardian"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Temporal Mastery"]
     }
   ]
 }

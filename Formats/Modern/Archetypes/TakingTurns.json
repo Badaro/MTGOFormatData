@@ -9,10 +9,6 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Cryptic Command","Remand","Howling Mine","Velomachus Lorehold"]
-    },
-    {
-      "Type": "DoesNotContainMainboard",
-      "Cards": ["Emrakul, the Aeons Torn"]
     }
   ]
 }

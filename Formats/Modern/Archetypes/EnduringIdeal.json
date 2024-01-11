@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Lotus Bloom"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Form of the Dragon"]
     }
   ]
 }

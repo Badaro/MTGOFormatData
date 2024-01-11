@@ -13,10 +13,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Urza, Lord High Artificer"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Grinding Station"]
     }
   ]
 }

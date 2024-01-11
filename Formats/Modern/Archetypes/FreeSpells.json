@@ -33,10 +33,6 @@
         {
           "Type": "InMainboard",
           "Cards": ["Living End"]
-        },
-        {
-          "Type": "TwoOrMoreInMainboard",
-          "Cards": ["Striped Riverwinder","Street Wraith","Desert Cerodon","Waker of Waves"]
         }
       ]
     }

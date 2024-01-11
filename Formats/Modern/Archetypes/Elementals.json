@@ -24,10 +24,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Micromancer"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Scapeshift"]
     }
   ]

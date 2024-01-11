@@ -24,10 +24,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Violent Outburst"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Persist"]
     },
     {

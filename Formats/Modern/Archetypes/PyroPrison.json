@@ -13,10 +13,6 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Simian Spirit Guide","Desperate Ritual","Pyretic Ritual"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Skred"]
     }
   ]
 }

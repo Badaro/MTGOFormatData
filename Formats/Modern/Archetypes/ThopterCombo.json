@@ -29,10 +29,6 @@
 	{
 	  "Type": "DoesNotContain",
 	  "Cards": ["Asmoranomardicadaistinaculdacar"]
-	},
-	{
-	  "Type": "DoesNotContain",
-	  "Cards": ["Lotus Bloom"]
 	}
   ]
 }

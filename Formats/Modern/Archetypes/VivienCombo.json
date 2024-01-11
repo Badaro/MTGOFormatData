@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Planebound Accomplice"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Archon of Cruelty"]
     }
   ]
 }

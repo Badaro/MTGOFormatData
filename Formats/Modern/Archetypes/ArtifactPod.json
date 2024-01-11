@@ -17,10 +17,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Urza, Lord High Artificer"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Thalia, Guardian of Thraben"]
     }
   ]
 }

@@ -20,19 +20,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Loxodon Hierarch"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Arcbound Ravager"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Enchantress's Presence"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Yawgmoth, Thran Physician"]
     }
   ]
 }

@@ -20,10 +20,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Grinding Station"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Lava Dart"]
     },
     {

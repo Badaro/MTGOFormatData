@@ -20,10 +20,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Seismic Assault"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Crashing Footfalls"]
     }
   ]
