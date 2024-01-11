@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Enchantress's Presence"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Yawgmoth, Thran Physician"]
     }
   ]
 }
