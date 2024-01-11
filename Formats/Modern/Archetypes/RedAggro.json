@@ -48,10 +48,6 @@
 	  "Type": "DoesNotContain",
 	  "Cards": ["Reckless Bushwhacker"]
 	},
-	{
-	  "Type": "DoesNotContain",
-	  "Cards": ["Ground Rift"]
-	},
     {
       "Type": "DoesNotContain",
       "Cards": ["Archon of Cruelty"]
