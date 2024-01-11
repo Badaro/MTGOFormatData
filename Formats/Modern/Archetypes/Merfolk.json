@@ -4,11 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lord of Atlantis","Master of the Pearl Trident","Merrow Reejerey"]
+      "Cards": ["Lord of Atlantis","Master of the Pearl Trident","Merrow Reejerey","Vodalian Hexcatcher"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Merfolk Trickster","Silvergill Adept"]
+      "Cards": ["Merfolk Trickster","Silvergill Adept","Tide Shaper"]
     }
   ]
 }
