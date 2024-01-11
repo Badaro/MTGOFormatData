@@ -8,11 +8,7 @@
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Pillage","Cleansing Wildfire","Molten Rain","Stone Rain","Vindicate","Smallpox"]
-    },
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Chandra, Torch of Defiance","Karn, the Great Creator","Nahiri, the Harbinger","Goblin Dark-Dwellers","Stoneforge Mystic","Stormbreath Dragon"]
+      "Cards": ["Pillage","Cleansing Wildfire","Molten Rain","Stone Rain","Vindicate","Smallpox","Flagstones of Trokair"]
     }
   ]
 }
