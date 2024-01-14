@@ -12,7 +12,7 @@
         }, 
         {
             "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Patchwork Automaton","Foundry Inspector","Chief of Foundry","Phyrexian Revoker"]
+            "Cards": ["Patchwork Automaton","Foundry Inspector","Chief of the Foundry","Phyrexian Revoker"]
         },    
                 {
             "Type": "DoesNotContain",
