@@ -7,10 +7,6 @@
       "Cards": ["Eldrazi Temple"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Noble Hierarch","Ancient Stirrings"]
-    },
-    {
       "Type": "InMainboard",
       "Cards": ["Thought-Knot Seer"]
     },
@@ -19,12 +15,8 @@
       "Cards": ["Reality Smasher"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Karplusan Forest","Brushland","Llanowar Wastes","Yavimaya Coast","Grove of the Burnwillows","Cavern of Souls","Hashep Oasis"]
-    },
-    {
       "Type": "DoesNotContain",
-      "Cards": ["Leonin Arbiter"]
+      "Cards": ["Thalia, Guardian of Thraben"]
     },
     {
       "Type": "DoesNotContain",
