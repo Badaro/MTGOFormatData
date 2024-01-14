@@ -19,10 +19,6 @@
       "Cards": ["Grinding Station"]
     },
     {
-      "Type": "DoesNotContainMainboard",
-      "Cards": ["Urza, Lord High Artificer"]
-    },
-    {
       "Type": "DoesNotContain",
       "Cards": ["Priest of Fell Rites"]
     },
