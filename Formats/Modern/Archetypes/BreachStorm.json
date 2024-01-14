@@ -21,10 +21,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Lava Dart"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Venerated Rotpriest"]
     }
   ]
 }
