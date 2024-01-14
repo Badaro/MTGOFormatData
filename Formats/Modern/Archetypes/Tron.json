@@ -9,38 +9,6 @@
   ],
   "Variants": [
     {
-      "Name": "GreenTron",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Forest","Snow-Covered Forest"]
-        },
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Ancient Stirrings","Sylvan Scrying"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Oath of Nissa"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Reality Smasher"]
-        }
-      ]
-    },
-    {
-      "Name": "BlueTron",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Condescend","Remand","Repeal","Divide by Zero","Shark Typhoon"]
-        }
-      ]
-    },
-    {
       "Name": "EldraziTron",
       "IncludeColorInName": false,
       "Conditions": [
@@ -73,20 +41,6 @@
         {
           "Type": "InMainboard",
           "Cards": ["Astral Cornucopia"]
-        }
-      ]
-    },
-    {
-      "Name": "OathTron",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Oath of Nissa"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Doubling Season"]
         }
       ]
     },
