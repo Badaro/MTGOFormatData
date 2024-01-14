@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Wrenn and Six"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Wrenn and Six","Solitude"]
     },
     {
       "Type": "InMainboard",
@@ -37,6 +37,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Tameshi, Reality Architect"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Shardless Agent"]
     }
   ]
 }
