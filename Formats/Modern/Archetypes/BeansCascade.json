@@ -9,6 +9,18 @@
     {
       "Type": "InMainboard",
       "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Crashing Footfalls"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Living End"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Glimpse of Tomorrow"]
     }
   ]
 }
