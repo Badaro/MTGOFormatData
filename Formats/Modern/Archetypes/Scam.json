@@ -3,16 +3,16 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Grief"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Fury"]
-    },
-    {
       "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Grief","Fury","Dauthi Voidwalker","Orcish Bowmasters"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
       "Cards": ["Malakir Rebirth","Undying Evil","Undying Malice","Feign Death","Not Dead After All"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ragavan, Nimble Pilferer"]
     },
     {
       "Type": "DoesNotContain",
