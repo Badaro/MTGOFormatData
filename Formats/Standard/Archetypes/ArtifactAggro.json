@@ -1,0 +1,10 @@
+{
+  "Name": "Artifact Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Teething Wurmlet"]
+    }
+  ]
+}
