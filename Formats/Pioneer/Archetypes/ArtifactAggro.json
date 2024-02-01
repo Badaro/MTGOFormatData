@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Patchwork Automaton","Gingerbrute"]
+      "Cards": ["Patchwork Automaton", "Gingerbrute"]
     },
     {
       "Type": "DoesNotContain",
@@ -13,18 +13,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Colossus Hammer"]
-    }
-  ],
-  "Variants": [
-    {
-      "Name": "Ensoul",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Ensoul Artifact"]
-        }
-      ]
     }
   ]
 }

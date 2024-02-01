@@ -1,0 +1,10 @@
+{
+  "Name": "Ensoul Artifact",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ensoul Artifact"]
+    }
+  ]
+}

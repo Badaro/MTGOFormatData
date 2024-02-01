@@ -1,0 +1,11 @@
+{
+  "Name": "Artifacts Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Whir of Invention"]
+    }
+  ]
+}
+
