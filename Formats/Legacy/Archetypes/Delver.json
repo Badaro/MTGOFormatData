@@ -7,8 +7,8 @@
             "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Orcish Bowmasters","Murktide Regent"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Daze"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Daze","Snuff Out"]
         },
         {
             "Type": "DoesNotContain",
@@ -21,6 +21,14 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Animate Dead"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Hogaak, Arisen Necropolis"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Teferi, Time Raveler"]
         }             
         
     ],
@@ -32,6 +40,16 @@
           {
             "Type": "InMainboard",
             "Cards": ["Questing Druid"]
+          }
+        ]
+    },
+    {
+        "Name": "Dimir Scam",
+        "IncludeColorInName": false,
+        "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Grief"]
           }
         ]
     }

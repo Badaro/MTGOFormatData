@@ -3,53 +3,17 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "DoesNotContain",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Thalia, Guardian of Thraben"]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Stoneforge Mystic"]
         },
         {
             "Type": "InMainboard",
             "Cards": ["Aether Vial"]
-        },
-        {
-            "Type": "oneOrMoreInMainboard",
-            "Cards": ["Baleful Strix","Lavinia, Azorius Renegade", "Soulherder", "Brainstorm", "Force of Will", "Plague Engineer", "Meddling Mage", "Venser, Shaper Savant"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Goblin Lackey"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Painter's Servant"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Galerider Sliver"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Lord of Atlantis"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["General Kudro of Drannith"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Cephalid Illusionist"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Soulherder"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Samwise the Stouthearted"]
-        }
+        } 
         
     ]
 }

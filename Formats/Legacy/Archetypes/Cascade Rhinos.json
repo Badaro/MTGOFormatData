@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Shardless Agent","Crashing Footfalls","Violent Outburst"]
+            "Cards": ["Shardless Agent","Crashing Footfalls","Violent Outburst","Bloodbraid Marauder"]
         },
         {
             "Type": "DoesNotContain",

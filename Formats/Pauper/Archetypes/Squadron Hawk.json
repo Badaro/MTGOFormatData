@@ -1,28 +1,21 @@
 {
-    "Name": "High Tide",
+    "Name": "Squadron Hawk",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["High Tide"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Cunning Wish"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Force of Will"]
+            "Cards": ["Squadron Hawk"]
         }
+    
     ],
     "Variants": [
         {
-            "Name": "Solidarity",
+            "Name": "Caw Gate",
             "IncludeColorInName": false,
             "Conditions": [
                 {
                     "Type": "InMainboard",
-                    "Cards": ["Reset"]
+                    "Cards": ["Basilisk Gate"]
                 }
             ]
         }

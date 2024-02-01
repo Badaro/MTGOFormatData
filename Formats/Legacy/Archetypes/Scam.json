@@ -1,14 +1,15 @@
 {
-    "Name": "Goblins",
+    "Name": "Scam",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Goblin Matron"]
-        },
-        {
+            "Cards": ["Grief"]
+        },   
+  	    {
             "Type": "DoesNotContain",
-            "Cards": ["Experimental Synthesizer"]
+            "Cards": ["Murktide Regent"]
         }
+        
     ]
 }

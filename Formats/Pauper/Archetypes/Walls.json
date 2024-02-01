@@ -5,11 +5,7 @@
         {
             "Type": "InMainboard",
             "Cards": ["Overgrown Battlement"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Axebane Guardian"]
-        }        
+        }
     ],
     "Variants": [
         {
@@ -17,12 +13,8 @@
             "IncludeColorInName": false,
             "Conditions": [
                 {
-                    "Type": "OneOrMoreInMainboard",
-                    "Cards": ["Annoyed Altisaur","Boarding Parting"]
-                },
-                {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Freed from the Real"]
+                    "Type": "InMainboard",
+                    "Cards": ["Annoyed Altisaur"]
                 }
             ]
         },
@@ -31,8 +23,8 @@
             "IncludeColorInName": false,
             "Conditions": [
                 {
-                    "Type": "OneOrMoreInMainboard",
-                    "Cards": ["Shield-Wall Sentinel","Freed from the Real"]
+                    "Type": "InMainboard",
+                    "Cards": ["Freed from the Real"]
                 }
             ]
         }

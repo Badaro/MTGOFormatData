@@ -7,10 +7,6 @@
             "Cards": ["Hogaak, Arisen Necropolis"]
         },   
   	    {
-            "Type": "twoormoreInMainboard",
-            "Cards": ["Altar of Dementia", "Careful Study","Bridge from Below", "Hedron Crab","Stitcher's Supplier","Cabal Therapy"]
-        },
-        {
             "Type": "DoesNotContain",
             "Cards": ["Golgari Grave-Troll"]
         }

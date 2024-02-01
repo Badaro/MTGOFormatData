@@ -1,10 +1,10 @@
 {
-    "Name": "Kuldotha",
+    "Name": "Sacrifice",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Kuldotha Rebirth"]
+            "Cards": ["Carrion Feeder"]
         }
     ]
 }
