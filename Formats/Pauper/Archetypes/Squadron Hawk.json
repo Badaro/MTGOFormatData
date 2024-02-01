@@ -1,20 +1,21 @@
 {
-    "Name": "Mind's Desire",
+    "Name": "Squadron Hawk",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Mind's Desire"]
+            "Cards": ["Squadron Hawk"]
         }
+    
     ],
     "Variants": [
         {
-            "Name": "High Tide",
+            "Name": "Caw Gate",
             "IncludeColorInName": false,
             "Conditions": [
                 {
                     "Type": "InMainboard",
-                    "Cards": ["High Tide"]
+                    "Cards": ["Basilisk Gate"]
                 }
             ]
         }

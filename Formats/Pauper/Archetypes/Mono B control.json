@@ -1,26 +1,28 @@
 {
-    "Name": "Mono B Control",
+    "Name": "Mono B control",
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "OneormoreInMainboard",
-            "Cards": ["Gray Merchant of Asphodel","Crypt Rats","Vampire Sovereign"]
-        },
-        {
-            "Type": "OneormoreInMainboard",
-            "Cards": ["Thorn of the Black Rose","Chittering Rats","Geth's Verdict"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Pestilence"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Ephemerate"]
+            "Type": "twoormoreInMainboard",
+            "Cards": ["Defile","Crypt Rats","Tithing Blade"]
         },
         {
             "Type": "DoesNotContain",
             "Cards": ["Khalni Garden"]
         }
+        
+    ],
+    "Variants": [
+        {
+            "Name": "Mono B Devotion",
+            "IncludeColorInName": false,
+            "Conditions": [             
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Gray Merchant of Asphodel"]
+                }
+            ]
+        }
     ]
+            
 }

@@ -5,23 +5,29 @@
                 {
                     "Type": "InMainboard",
                     "Cards": ["Ephemerate"]
+                }                         
+            ],
+            "Variants": [
+                {
+                    "Name": "Ephemerate Tron",
+                    "IncludeColorInName": false,
+                    "Conditions": [             
+                        {
+                            "Type": "InMainboard",
+                            "Cards": ["Urza's Mine"]
+                        }
+                    ]
                 },
                 {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Pestilence"]
-                },
-                {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Sunscape Familiar"]
-                },
-                {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Urza's Mine"]
-                },
-                {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Basilisk Gate"]
+                    "Name": "Familiars",
+                    "IncludeColorInName": true,
+                    "Conditions": [             
+                        {
+                            "Type": "InMainboard",
+                            "Cards": ["Sunscape Familiar"]
+                        }
+                    ]
                 }
-                         
-            ]
+                
+                    ]
  }

@@ -1,0 +1,14 @@
+{
+    "Name": "Midrange",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Glint Hawk"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Kor Skyfisher"]
+        }
+    ]
+}

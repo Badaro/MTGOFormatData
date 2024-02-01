@@ -3,36 +3,32 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Dauthi Voidwalker", "Opposition Agent"]
+            "Type": "InMainboard",
+            "Cards": ["Uro, Titan of Nature's Wrath"]
         },
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Urborg, Tomb of Yawgmoth", "Castle Locthwain","Orcish Bowmasters"]
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Up the Beanstalk"]
         },
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Liliana of the Veil", "Dark Confidant","Sheoldred, the Apocalypse","Stalactite Stalker"]
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Teferi, Time Raveler"]
         },
         {
-            "Type": "DoesNotContainmainboard",
-            "Cards": ["Helm of Obedience"]
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Stifle"]
         },
         {
-            "Type": "DoesNotContain",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Dark Depths"]
         },
         {
-            "Type": "DoesNotContain",
-            "Cards": ["Stoneforge Mystic"]
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Aluren"]
         },
         {
-            "Type": "DoesNotContain",
-            "Cards": ["Smallpox"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Animate Dead"]
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Green Sun's Zenith"]
         }
     ]
 }

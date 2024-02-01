@@ -1,10 +1,10 @@
 {
-    "Name": "Faeries",
+    "Name": "Sacrifice",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Spellstutter Sprite"]
+            "Cards": ["Carrion Feeder"]
         }
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "Name": "Rakdos Scam",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Grief"]
+        },      
+        {
+            "Type": "InMainboard",
+            "Cards": ["Fury"]
+        }   
+    ]
+}
