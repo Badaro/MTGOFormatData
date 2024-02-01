@@ -1,10 +1,10 @@
 {
-  "Name": "Elves",
+  "Name": "Ensoul",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Elvish Warmaster"]
+      "Cards": ["Ensoul Artifact"]
     }
   ]
 }

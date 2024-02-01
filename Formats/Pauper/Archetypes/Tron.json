@@ -13,19 +13,11 @@
         {
             "Type": "InMainboard",
             "Cards": ["Urza's Tower"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Ephemerate"]
         }
        
-    ] ,
-    "Variants": [
-        {
-            "Name": "Flicker Tron",
-            "IncludeColorInName": false,
-            "Conditions": [             
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Mulldrifter"]
-                }
-            ]
-        }
     ]
 }

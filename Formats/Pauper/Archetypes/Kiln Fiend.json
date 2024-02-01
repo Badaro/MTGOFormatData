@@ -1,10 +1,10 @@
 {
-    "Name": "Faeries",
+    "Name": "Kiln Fiend",
     "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Spellstutter Sprite"]
+            "Cards": ["Kiln Fiend"]
         }
-    ]
+    ]   
 }

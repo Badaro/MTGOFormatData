@@ -4,27 +4,42 @@
     "Conditions": [
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Tolarian Terror","Murmuring Mystic"]
-        },
+            "Cards": ["Counterspell","Force Spike"]
+        },   
         {
-            "Type" : "TwoOrMoreInMainboard",
-            "Cards": ["Thought Scour","Consider","Mental Note","Brainstorm","Ponder","Fallaji Archaeologist","Preordain","Counterspell","Cast Down","Boomerang","Lórien Revealed"]
-        },
-        {
-            "Type" : "DoesNotContain",
-            "Cards": ["Ninja of the Deep Hours"]
-        },
-        {
-            "Type" : "DoesNotContainMainboard",
-            "Cards": ["Serpentine Curve"]
+            "Type" : "OneOrMoreInMainboard",
+            "Cards": ["Snuff Out","Augur of Bolas","Murmuring Mystic"]
         },
         {
             "Type" : "DoesNotContain",
-            "Cards": ["Ephemerate"]
+            "Cards": ["Delver of Secrets"]
         },
         {
-            "Type": "DoesNotContain",
-            "Cards": ["Trailblazer's Torch"]
+            "Type" : "DoesNotContain",
+            "Cards": ["Spellstutter Sprite"]
         }
-    ]
+    ],
+    "Variants": [
+        {
+            "Name": "Serpentine Curve",
+            "IncludeColorInName": true,
+            "Conditions": [             
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Serpentine Curve"]
+                }
+            ]
+        }, 
+        {
+            "Name": "Control Terror",
+            "IncludeColorInName": true,
+            "Conditions": [             
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Tolarian Terror"]
+                }
+            ]
+        }
+        
+            ]
 }

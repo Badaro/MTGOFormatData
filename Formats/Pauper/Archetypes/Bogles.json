@@ -1,22 +1,23 @@
 {
     "Name": "Bogles",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": ["Slippery Bogle"]
-        },
+        }
+    ],
+    "Variants": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Gladecover Scout"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Rancor"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Glint Hawk"]
-        }        
-    ]
+            "Name": "Aura Bogles",
+            "IncludeColorInName": true,
+            "Conditions": [             
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Ethereal Armor"]
+                }
+            ]
+        }
+        
+            ]
 }

@@ -9,22 +9,6 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Careful Study","Faithless Looting"]
-        },
-        {
-            "Type" : "DoesNotContain",
-            "Cards": ["Urza's Power Plant"]
-        },
-        {
-            "Type" : "DoesNotContain",
-            "Cards": ["Goblin Matron"]
-        },
-        {
-            "Type" : "DoesNotContain",
-            "Cards": ["Khalni Garden"]
-        },
-        {
-            "Type" : "DoesNotContain",
-            "Cards": ["Ephemerate"]
         }
 
     ]

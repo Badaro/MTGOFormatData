@@ -3,32 +3,12 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Chain Lightning","Lava Dart","Fireblast","Seal of Fire","Galvanic Blast","Voldaren Epicure"]
+            "Type" : "InMainboard",
+            "Cards": ["Lightning Bolt"]
         },
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Lightning Bolt","Monastery Swiftspear","Lembas"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Wild Nacatl"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Alms of the Vein"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Myr Enforcer"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Squadron Hawk"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Kuldotha Rebirth"]
+            "Cards": ["Chain Lightning","Galvanic Blast","Seal of Fire"]
         }
     ],
     "Variants": [
@@ -49,11 +29,24 @@
                 {
                     "Type": "InMainboard",
                     "Cards": ["Experimental Synthesizer"]
+                },
+                {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Kuldotha Rebirth"]
                 }
 
             ]
-        }
-        
+        },
+        {
+            "Name": "Kuldotha",
+            "IncludeColorInName": true,
+            "Conditions": [             
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Kuldotha Rebirth"]
+                }
             ]
+        }
+    ]
             
 }

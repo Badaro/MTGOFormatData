@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Trumpeting Carnosaur"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scapeshift"]
     }
   ]
 }

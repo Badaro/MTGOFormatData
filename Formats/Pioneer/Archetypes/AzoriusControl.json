@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Bring to Light"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enigmatic Incarnation"]
     }
   ],
   "Variants": [
@@ -31,6 +35,16 @@
         {
           "Type": "InMainboard",
           "Cards": ["Lotus Field"]
+        }
+        ]
+    },
+    {
+      "Name": "Azorius Artefact Control",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["The Mightstone and Weakstone"]
         }
         ]
     }

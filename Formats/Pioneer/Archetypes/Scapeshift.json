@@ -1,0 +1,14 @@
+{
+  "Name": "Scapeshift",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Scapeshift"]
+    }, 
+    {
+      "Type": "DoesNotContain",
+      "Cards":["Elesh Norn, Mother of Machines"]
+    }
+  ]
+}

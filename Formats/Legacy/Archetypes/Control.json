@@ -7,10 +7,6 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Murktide Regent"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Up the Beanstalk"]
         },
         {

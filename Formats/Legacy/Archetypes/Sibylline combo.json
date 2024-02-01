@@ -1,0 +1,11 @@
+{
+    "Name": "Sibylline combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sibylline Soothsayer"]
+        }       
+
+       ] 
+}
