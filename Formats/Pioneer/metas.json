@@ -1,5 +1,5 @@
 {
-   Metas:
+   "Metas":
    [
       { "StartDate": "2019-10-23", "Name": "PioneerCreation" },
       { "StartDate": "2020-01-17", "Name": "PostTherosBeyondDeath" },
@@ -26,6 +26,7 @@
       { "StartDate": "2023-05-11", "Name": "PostMarchOfTheMachineAftermath" },
       { "StartDate": "2023-09-05", "Name": "PostWildsOfEldraine" },
       { "StartDate": "2023-11-14", "Name": "PostLostCavesOfIxalan" },
-      { "StartDate": "2023-12-04", "Name": "PostKarnAppraiserBan" }
+      { "StartDate": "2023-12-04", "Name": "PostKarnAppraiserBan" },
+      { "StartDate": "2024-02-09", "Name": "PostMurdersAtKarlovManor" }
    ]
 }
