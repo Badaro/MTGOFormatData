@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Rattlechains"]
-    },
-    {
-      "Type": "OneormoreInMainboard",
-      "Cards": ["Supreme Phantom","Shacklegeist"]
     }
   ],
   "Variants": [

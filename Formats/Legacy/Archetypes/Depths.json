@@ -29,10 +29,6 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Force of Will"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Life from the Loam"]
         }
     ],
     "Variants": [
@@ -133,6 +129,17 @@
                 "Type": "DoesNotContain",
                 "Cards": ["Snapcaster Mage"]
             }           
+        ]
+      },
+      {
+        "Name": "Loam",
+        "IncludeColorInName":true,
+        "Conditions":[
+            {
+                "Type": "OneOrMoreInMainboard",
+                "Cards": ["Life from the Loam"]
+            
+            }
         ]
       }
      ]

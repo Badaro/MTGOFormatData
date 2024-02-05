@@ -1,0 +1,26 @@
+{
+    "Name": "Initiative",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "OneormoreInMainboard",
+            "Cards": ["Seasoned Dungeoneer","Caves of Chaos Adventurer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Kaldra Compleat"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Arena Rector"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Blood Moon"]
+        }
+    ]
+}

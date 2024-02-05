@@ -1,14 +1,10 @@
 {
-  "Name": "Azorius Control",
-  "IncludeColorInName": false,
+  "Name": "Control",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Teferi, Hero of Dominaria"]
-    },    
-    {
-        "Type": "OneOrMoreInMainboard",
-        "Cards": ["The Wandering Emperor","Narset, Parter of Veils"]
+      "Cards": ["Supreme Verdict"]
     },
     {
       "Type": "DoesNotContainMainboard",
@@ -29,8 +25,8 @@
   ],
   "Variants": [
     {
-      "Name": "Azorius Lotus Control",
-      "IncludeColorInName": false,
+      "Name": "Lotus Control",
+      "IncludeColorInName": true,
       "Conditions": [
         {
           "Type": "InMainboard",
@@ -39,12 +35,12 @@
         ]
     },
     {
-      "Name": "Azorius Artefact Control",
-      "IncludeColorInName": false,
+      "Name": "Artefact Control",
+      "IncludeColorInName": true,
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["The Mightstone and Weakstone"]
+          "Cards": ["Candy Trail"]
         }
         ]
     }

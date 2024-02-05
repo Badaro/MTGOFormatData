@@ -1,0 +1,15 @@
+{
+    "Name": "Miracle",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Counterbalance"]
+        },   
+  	    {
+            "Type": "InMainboard",
+            "Cards": ["Triumph of Saint Katherine"]
+        }
+        
+    ]
+}
