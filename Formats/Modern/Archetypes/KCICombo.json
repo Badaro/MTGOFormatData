@@ -1,0 +1,14 @@
+{
+  "Name": "KCI Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Krark-Clan Ironworks"]
+    },
+	{
+      "Type": "InMainboard",
+      "Cards": ["Scrap Trawler"]
+    }
+  ]
+}
