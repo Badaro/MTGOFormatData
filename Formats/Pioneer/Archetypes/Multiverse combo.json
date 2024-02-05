@@ -1,0 +1,10 @@
+{
+  "Name": "Multiverse combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["One with the Multiverse"]
+    }
+  ]
+}
