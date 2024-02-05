@@ -1,0 +1,22 @@
+{
+  "Name": "WhirPrison",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Whir of Invention"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Ensnaring Bridge","Chalice of the Void"," Bottled Cloister"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Lantern of Insight"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sword of the Meek"]
+    }
+  ]
+}
