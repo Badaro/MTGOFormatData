@@ -1,6 +1,7 @@
 {
    "Metas":
    [
+      { "StartDate": "2015-11-01", "Name": "StartOfMtgoData" },
       { "StartDate": "2019-05-20", "Name": "PostBlueMonday" }, 
       { "StartDate": "2019-06-14", "Name": "PostModernHorizons"},
       { "StartDate": "2019-07-02", "Name": "PostPauperSanctioning"},
@@ -32,6 +33,6 @@
       { "StartDate": "2023-09-05", "Name": "PostWildsOfEldraine" },
       { "StartDate": "2023-11-14", "Name": "PostLostCavesOfIxalan" },
       { "StartDate": "2023-12-04", "Name": "PostSwiftspearBan" },
-      { "StartDate": "2024-02-09", "Name": "PostMurdersAtKarlovManor" }
+      { "StartDate": "2024-02-06", "Name": "PostMurdersAtKarlovManor" }
    ]
 }
