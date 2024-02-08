@@ -1,0 +1,13 @@
+{
+    "Name": "Boros Convoke",
+    "IncludeColorInName": false,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": [
+          "Warleader's Call"
+        ]
+      }
+    ]
+}
+

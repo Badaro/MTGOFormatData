@@ -1,0 +1,10 @@
+{
+  "Name": "4c Legends",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Relic of Legends"]
+    }
+  ]
+}
