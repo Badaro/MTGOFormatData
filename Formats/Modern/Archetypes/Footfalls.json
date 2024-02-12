@@ -10,5 +10,17 @@
       "Type": "InMainboard",
       "Cards": ["Crashing Footfalls"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "Rainbow Rhinos",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Leyline of the Guildpact"]
+        }
+      ]
+    }
   ]
 }
