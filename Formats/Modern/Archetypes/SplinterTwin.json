@@ -1,0 +1,18 @@
+{
+  "Name": "SplinterTwin",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Splinter Twin"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Pestermite","Deceiver Exarch"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Kiki-Jiki, Mirror Breaker"]
+    }
+  ]
+}

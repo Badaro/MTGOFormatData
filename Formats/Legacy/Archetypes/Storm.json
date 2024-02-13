@@ -4,7 +4,7 @@
     "Conditions": [
           {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Beseech the Mirror","Tendrils of Agony"]
+            "Cards": ["Beseech the Mirror","Tendrils of Agony","Empty the Warrens"]
           }         
     ],
     "Variants": [
@@ -17,6 +17,16 @@
             "Cards": ["Lion's Eye Diamond"]
           }
         ]
-    }
+    },
+    {
+      "Name": "Birgi Storm",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Birgi, God of Storytelling"]
+        }
+      ]
+  }
     ]
 }

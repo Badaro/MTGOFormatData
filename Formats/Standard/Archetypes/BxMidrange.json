@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Relic of Legends"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Herd Migration"]
     },
     {
