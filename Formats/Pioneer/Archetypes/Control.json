@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Supreme Verdict"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Supreme Verdict","Akal Pakal, First Among Equals"]
     },
     {
       "Type": "DoesNotContainMainboard",

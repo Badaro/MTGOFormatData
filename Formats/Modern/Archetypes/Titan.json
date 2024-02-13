@@ -8,7 +8,15 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Summoner's Pact","Hour of Promise","Elvish Reclaimer","Sakura-Tribe Elder","Once Upon a Time","Search for Tomorrow","Dryad of the Ilysian Grove"]
+      "Cards": [
+        "Summoner's Pact",
+        "Hour of Promise",
+        "Elvish Reclaimer",
+        "Sakura-Tribe Elder",
+        "Once Upon a Time",
+        "Search for Tomorrow",
+        "Dryad of the Ilysian Grove"
+      ]
     },
     {
       "Type": "DoesNotContain",
@@ -42,25 +50,7 @@
         },
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Simic Growth Chamber","Selesnya Sanctuary"]
-        }
-      ]
-    },
-    {
-      "Name": "TitanShift",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Scapeshift"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Elvish Reclaimer"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Amulet of Vigor"]
+          "Cards": ["Simic Growth Chamber", "Selesnya Sanctuary"]
         }
       ]
     },
@@ -74,7 +64,7 @@
         },
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Eladamri's Call","Flagstones of Trokair"]
+          "Cards": ["Eladamri's Call", "Flagstones of Trokair"]
         },
         {
           "Type": "DoesNotContain",

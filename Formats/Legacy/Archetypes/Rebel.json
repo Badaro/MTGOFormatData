@@ -1,0 +1,10 @@
+{
+    "Name": "Rebel",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["lin sivvi, defiant hero"]
+        }
+    ]
+}

@@ -8,7 +8,7 @@
         },   
         {
             "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Snuff Out","Augur of Bolas","Murmuring Mystic"]
+            "Cards": ["Snuff Out","Augur of Bolas","Murmuring Mystic","Lórien Revealed"]
         },
         {
             "Type" : "DoesNotContain",
