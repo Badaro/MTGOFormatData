@@ -2,6 +2,7 @@
   "Name": "Aggro",
   "IncludeColorInName": true,
   "CommonCards": [
+    "Evolving Adaptive",
     "Monastery Swiftspear",
     "Kumano Faces Kakkazan",
     "Adeline, Resplendent Cathar",
@@ -15,6 +16,9 @@
     "Sleep-Cursed Faerie",
     "Gleeful Demolition",
     "Knight-Errant of Eos",
-    "Royal Treatment"
+    "Royal Treatment",
+    "Sharp-Eyed Rookie",
+    "Polukranos Reborn",
+    "Itzquinth, Firstborn of Gishath"
   ]
 }

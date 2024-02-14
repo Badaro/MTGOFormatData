@@ -1,10 +1,13 @@
 {
-    "Name": "Reanimator",
-    "IncludeColorInName": true,
-    "CommonCards": [
-        "Atraxa, Grand Unifier",
-        "Etali, Primal Conqueror",
-        "Colossal Skyturtle",
-        "Big Score"
-    ]
+  "Name": "Reanimator",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Atraxa, Grand Unifier",
+    "Etali, Primal Conqueror",
+    "Colossal Skyturtle",
+    "Titan of Industry",
+    "Fallaji Archaeologist",
+    "The Cruelty of Gix",
+    "Big Score"
+  ]
 }
