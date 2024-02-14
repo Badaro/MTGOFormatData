@@ -1,18 +1,18 @@
 {
-    "Name": "Humans",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Coppercoat Vanguard"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Harbin, Vanguard Aviator"
-            ]
-        }
-    ]
+  "Name": "Humans",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Coppercoat Vanguard"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Warleader's Call"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Harbin, Vanguard Aviator"]
+    }
+  ]
 }
