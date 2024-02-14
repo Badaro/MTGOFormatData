@@ -1,12 +1,10 @@
 {
-    "Name": "Poison",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Jawbone Duelist"
-            ]
-        }
-    ]
+  "Name": "Poison",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Jawbone Duelist", "White Sun's Twilight"]
+    }
+  ]
 }
