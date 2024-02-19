@@ -1,10 +1,10 @@
 {
-  "Name": "Artifact Aggro",
+  "Name": "Goblins",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Zoetic Glyph"]
+      "Cards": ["Rundvelt Hordemaster"]
     }
   ]
 }

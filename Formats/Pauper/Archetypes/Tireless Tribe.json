@@ -15,7 +15,7 @@
             "Cards": ["Basilisk Gate"]
         },
         {
-            "Type" : "DoesNotContain",
+            "Type" : "DoesNotContainMainBoard",
             "Cards": ["Spellstutter Sprite"]
         }
     ]

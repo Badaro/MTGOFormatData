@@ -4,7 +4,7 @@
     "Conditions": [
           {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Beseech the Mirror","Tendrils of Agony","Empty the Warrens"]
+            "Cards": ["Beseech the Mirror","Tendrils of Agony","Empty the Warrens","Wish"]
           }         
     ],
     "Variants": [

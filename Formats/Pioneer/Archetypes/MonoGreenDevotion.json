@@ -7,8 +7,8 @@
         "Cards": ["Nykthos, Shrine to Nyx"]
       },
       {
-        "Type": "InMainboard",
-        "Cards": ["Oath of Nissa"]
+        "Type": "OneOrMoreInMainboard",
+        "Cards": ["Oath of Nissa", "Old-Growth Troll"]
       }
     ]
   }

@@ -1,13 +1,10 @@
 {
-    "Name": "Boros Convoke",
-    "IncludeColorInName": false,
-    "Conditions": [
-      {
-        "Type": "InMainboard",
-        "Cards": [
-          "Warleader's Call"
-        ]
-      }
-    ]
+  "Name": "Boros Convoke",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Warleader's Call", "Imodane's Recruiter"]
+    }
+  ]
 }
-
