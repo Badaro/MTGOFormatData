@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Jawbone Duelist", "White Sun's Twilight"]
+      "Cards": ["Jawbone Duelist", "White Sun's Twilight", "Voidwing Hybrid"]
     }
   ]
 }
