@@ -1,0 +1,10 @@
+{
+  "Name": "Goblins",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Rundvelt Hordemaster"]
+    }
+  ]
+}

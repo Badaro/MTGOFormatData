@@ -36,7 +36,7 @@
             "IncludeColorInName": false,
             "Conditions": [
                 {
-                    "Type": "InSideboard",
+                    "Type": "InMainboard",
                     "Cards": ["Knight of the Reliquary"]
                 }
             ]
@@ -46,12 +46,16 @@
             "IncludeColorInName": false,
             "Conditions": [
                 {
-                    "Type": "InSideboard",
+                    "Type": "InMainboard",
                     "Cards": ["Gaea's Cradle"]
                 },
                 {
-                    "Type": "InSideboard",
-                    "Cards": ["Natural Order"]
+                    "Type": "InMainboard",
+                    "Cards": ["Fiend Artisan"]
+                },
+                {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Knight of the Reliquary"]
                 }
             ]
         }

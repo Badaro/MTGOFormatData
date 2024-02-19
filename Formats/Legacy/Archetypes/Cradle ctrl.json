@@ -1,0 +1,39 @@
+{
+    "Name": "Stoneblade",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Stoneforge Mystic"]
+        },
+	{
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Batterskull", "Kaldra Compleat"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cephalid Illusionist"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Punishing Fire"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Colossus Hammer"]
+        },       
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Aether Vial"]
+        },             
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Knight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Yorion, Sky Nomad"]
+        }
+    ]
+}
+
