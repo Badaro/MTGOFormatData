@@ -1,11 +1,11 @@
 {
-    "Name": "Control",
-    "IncludeColorInName": true,
-    "CommonCards": [
-      "Farewell",
-      "Make Disappear",
-      "Negate",
-      "Memory Deluge"
-    ]
-  }
-  
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Devious Cover-Up",
+    "Farewell",
+    "Make Disappear",
+    "Negate",
+    "Memory Deluge"
+  ]
+}
