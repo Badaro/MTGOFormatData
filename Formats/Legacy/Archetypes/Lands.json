@@ -21,10 +21,18 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Vampire Hexmage"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Primeval Titan"]
         }
+    ],
+    "Variants": [
+      {
+        "Name": "Titan",
+        "IncludeColorInName": true,
+        "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Primeval Titan"]
+          }
+        ]
+    }
     ]
 }

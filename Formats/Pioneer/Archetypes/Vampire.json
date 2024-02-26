@@ -1,0 +1,10 @@
+{
+  "Name": "Vampire",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Vein ripper"]
+    }
+  ]
+}
