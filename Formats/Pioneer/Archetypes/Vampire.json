@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Vein ripper"]
+      "Cards": ["Vein Ripper"]
     }
   ]
 }
