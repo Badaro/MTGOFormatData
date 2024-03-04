@@ -12,10 +12,6 @@
         },
         {
             "Type": "InMainboard",
-            "Cards": ["Karn, the Great Creator"]
-        },
-        {
-            "Type": "InMainboard",
             "Cards": ["Urza's Saga"]
         }
 

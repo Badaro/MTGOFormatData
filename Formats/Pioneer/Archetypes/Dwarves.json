@@ -1,10 +1,10 @@
 {
-  "Name": "Vampire",
+  "Name": "Dwarves",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Vein Ripper"]
+      "Cards": ["Depala, Pilot Exemplar"]
     }
   ]
 }

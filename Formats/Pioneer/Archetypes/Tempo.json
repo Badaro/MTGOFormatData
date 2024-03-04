@@ -1,10 +1,10 @@
 {
-  "Name": "Vampire",
+  "Name": "Tempo",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Vein Ripper"]
+      "Cards": ["Tolarian Terror"]
     }
   ]
 }
