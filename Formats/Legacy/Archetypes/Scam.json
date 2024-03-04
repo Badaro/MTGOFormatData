@@ -3,8 +3,8 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Grief"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Grief","Liliana of the Veil"]
         },   
   	    {
             "Type": "DoesNotContain",

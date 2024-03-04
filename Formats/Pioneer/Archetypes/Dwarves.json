@@ -1,0 +1,10 @@
+{
+  "Name": "Dwarves",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Depala, Pilot Exemplar"]
+    }
+  ]
+}
