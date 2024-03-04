@@ -1,0 +1,10 @@
+{
+  "Name": "Tempo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tolarian Terror"]
+    }
+  ]
+}
