@@ -1,0 +1,10 @@
+{
+  "Name": "Kethis Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kethis, the Hidden Hand"]
+    }
+  ]
+}

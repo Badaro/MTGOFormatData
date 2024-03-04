@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Glistener Elf","Blighted Agent"]
+      "Cards": ["Glistener Elf", "Blighted Agent", "Venerated Rotpriest"]
     },
     {
       "Type": "InMainboard",

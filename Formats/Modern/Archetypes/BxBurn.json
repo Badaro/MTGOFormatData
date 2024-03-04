@@ -1,0 +1,10 @@
+{
+  "Name": "Burn",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chancellor of the Dross"]
+    }
+  ]
+}
