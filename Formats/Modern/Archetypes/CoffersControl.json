@@ -12,7 +12,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Damnation","Invoke Despair","Defile"]
+      "Cards": ["Damnation", "Invoke Despair", "Defile", "Deadly Cover-Up"]
     },
     {
       "Type": "DoesNotContain",

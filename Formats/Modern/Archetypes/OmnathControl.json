@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Wrenn and Six","Solitude"]
+      "Cards": ["Wrenn and Six", "Solitude"]
     },
     {
       "Type": "InMainboard",
@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Scapeshift"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Leyline of the Guildpact"]
     },
     {
       "Type": "DoesNotContain",

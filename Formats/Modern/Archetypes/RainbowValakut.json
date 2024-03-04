@@ -1,0 +1,22 @@
+{
+  "Name": "Guildpact Valakut",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Leyline of the Guildpact"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Valakut, the Molten Pinnacle"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wish"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Nykthos, Shrine to Nyx"]
+    }
+  ]
+}
