@@ -12,7 +12,13 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Damnation", "Invoke Despair", "Defile", "Deadly Cover-Up"]
+      "Cards": [
+        "Damnation",
+        "Invoke Despair",
+        "Defile",
+        "Deadly Cover-Up",
+        "March of Wretched Sorrow"
+      ]
     },
     {
       "Type": "DoesNotContain",
