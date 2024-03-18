@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Grief", "Voidwalker", "Orcish Bowmasters"]
+      "Cards": ["Grief", "Dauthi Voidwalker", "Orcish Bowmasters"]
     },
     {
       "Type": "OneOrMoreInMainboard",
