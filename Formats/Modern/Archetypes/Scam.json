@@ -1,14 +1,20 @@
 {
-  "Name": "Scam",
-  "IncludeColorInName": true,
+  "Name": "Rakdos Scam",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Grief","Fury","Dauthi Voidwalker","Orcish Bowmasters"]
+      "Cards": ["Grief", "Voidwalker", "Orcish Bowmasters"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Malakir Rebirth","Undying Evil","Undying Malice","Feign Death","Not Dead After All"]
+      "Cards": [
+        "Malakir Rebirth",
+        "Undying Evil",
+        "Undying Malice",
+        "Feign Death",
+        "Not Dead After All"
+      ]
     },
     {
       "Type": "InMainboard",
