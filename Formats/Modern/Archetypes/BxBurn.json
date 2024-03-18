@@ -1,10 +1,10 @@
 {
-  "Name": "Vampire",
+  "Name": "Burn",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Vein Ripper"]
+      "Cards": ["Chancellor of the Dross"]
     }
   ]
 }

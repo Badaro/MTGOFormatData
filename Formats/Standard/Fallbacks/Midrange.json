@@ -1,18 +1,20 @@
 {
-    "Name": "Midrange",
-    "IncludeColorInName": true,
-    "CommonCards": [
-        "Mosswood Dreadknight",
-        "Restless Cottage",
-        "Sheoldred, the Apocalypse",
-        "The Wandering Emperor",
-        "Bloodtithe Harvester",
-        "Kaito Shizuki",
-        "Serra Paragon",
-        "Ambitious Farmhand",
-        "Faerie Mastermind",
-        "The Restoration of Eiganjo",
-        "Wedding Announcement",
-        "Ertai Resurrected"
-    ]
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Mosswood Dreadknight",
+    "Restless Cottage",
+    "Sheoldred, the Apocalypse",
+    "The Wandering Emperor",
+    "Bloodtithe Harvester",
+    "Kaito Shizuki",
+    "Serra Paragon",
+    "Ambitious Farmhand",
+    "Faerie Mastermind",
+    "The Restoration of Eiganjo",
+    "Wedding Announcement",
+    "Sharp-Eyed Rookie",
+    "Archfiend of the Dross",
+    "Ertai Resurrected"
+  ]
 }

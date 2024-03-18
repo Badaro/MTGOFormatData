@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Sai, Master Thopterist", "Kappa Cannoneer", "Emry, Lurker of the Loch", "Patchwork Automaton"]
+            "Cards": ["Sai, Master Thopterist", "Kappa Cannoneer", "Emry, Lurker of the Loch", "Patchwork Automaton","Thought Monitor"]
         },
         {
             "Type": "InMainboard",
@@ -13,10 +13,6 @@
                 {
             "Type": "DoesNotContain",
             "Cards": ["Arcbound Ravager"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Painter's Servant"]
         },
         {
             "Type": "DoesNotContain",

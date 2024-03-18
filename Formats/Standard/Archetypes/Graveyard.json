@@ -1,10 +1,10 @@
 {
-  "Name": "Vampire",
+  "Name": "Graveyard",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Vein Ripper"]
+      "Cards": ["Insidious Roots"]
     }
   ]
 }

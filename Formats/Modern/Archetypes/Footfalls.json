@@ -19,6 +19,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Leyline of the Guildpact"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Valakut, the Molten Pinnacle"]
         }
       ]
     }

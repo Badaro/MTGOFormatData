@@ -1,24 +1,22 @@
 {
-    "Name": "Reanimator",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": [
-                "Etali, Primal Conqueror"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Deep-Cavern Bat"
-            ]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": [
-                "Leyline Binding"
-            ]
-        }
-    ]
+  "Name": "Reanimator",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Etali, Primal Conqueror",
+        "Reenact the Crime",
+        "Breach the Multiverse"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Deep-Cavern Bat"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Leyline Binding"]
+    }
+  ]
 }

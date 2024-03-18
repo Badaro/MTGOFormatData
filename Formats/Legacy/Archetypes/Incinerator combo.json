@@ -1,0 +1,10 @@
+{
+    "Name": "Incinerator combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Chandra's Incinerator"]
+        }
+    ]
+}

@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Imodane's Recruiter"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Monastery Swiftspear"]
     },
     {
