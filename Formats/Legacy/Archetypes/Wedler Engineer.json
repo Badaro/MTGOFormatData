@@ -9,13 +9,19 @@
         {
             "Type": "InMainboard",
             "Cards": ["Goblin Welder"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Painter's Servant"]
         }    	
     ],
     "Variants": [
+        {
+            "Name": "Painter",
+            "IncludeColorInName": true,
+            "Conditions": [
+                {
+                    "Type": "InSideboard",
+                    "Cards": ["Painter's Servant"]
+                }
+            ]
+        },
         {
             "Name": "Devourer",
             "IncludeColorInName": true,
@@ -23,6 +29,10 @@
                 {
                     "Type": "InMainboard",
                     "Cards": ["Phyrexian Devourer"]
+                },
+                {
+                    "Type": "DoesNotContain",
+                    "Cards": ["Painter's Servant"]
                 }
             ]
         }

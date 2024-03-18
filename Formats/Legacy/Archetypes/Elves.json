@@ -3,8 +3,8 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Gaea's Cradle","Yavimaya, Cradle of Growth"]
+            "Type": "InMainboard",
+            "Cards": ["Gaea's Cradle"]
         },
         {
             "Type": "InMainboard",

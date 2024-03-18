@@ -1,23 +1,16 @@
 {
-    "Name": "Show and Tell",
+    "Name": "Sneak & Show",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": ["Show and Tell"]
-        }
-    ],
-    "Variants": [
+        },
         {
-            "Name": "Sneak & Show",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Sneak Attack"]
-                }
-            ]
+            "Type": "InMainboard",
+            "Cards": ["Sneak Attack"]
         }
+    
+
     ]
 }
-

@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Rundvelt Hordemaster","Goblin Trashmaster"]
+      "Type": "InMainboard",
+      "Cards": ["Rundvelt Hordemaster"]
     }
   ]
 }
