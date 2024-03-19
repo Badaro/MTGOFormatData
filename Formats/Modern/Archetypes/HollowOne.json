@@ -12,7 +12,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Goblin Lore","Cathartic Reunion"]
+      "Cards": [
+        "Goblin Lore",
+        "Cathartic Reunion",
+        "Inti, Seneschal of the Sun"
+      ]
     }
   ]
 }
