@@ -3,8 +3,12 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Baral, Chief of Compliance","Goblin Electromancer","Rowan, Scholar of Sparks"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Baral, Chief of Compliance",
+        "Goblin Electromancer",
+        "Rowan, Scholar of Sparks"
+      ]
     },
     {
       "Type": "InMainboard",
