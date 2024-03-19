@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Leyline of the Guildpact"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Indomitable Creativity"]
     }
   ],
