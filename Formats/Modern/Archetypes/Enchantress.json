@@ -3,12 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Enchantress's Presence"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Sterling Grove"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Enchantress's Presence", "Sterling Grove"]
     },
     {
       "Type": "DoesNotContain",
