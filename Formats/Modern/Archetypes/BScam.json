@@ -1,0 +1,44 @@
+{
+  "Name": "Mono Black Scam",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Grief", "Dauthi Voidwalker", "Orcish Bowmasters"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["The Rack"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Malakir Rebirth",
+        "Undying Evil",
+        "Undying Malice",
+        "Feign Death",
+        "Not Dead After All"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ragavan, Nimble Pilferer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mayhem Devil"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archon of Cruelty"]
+    }
+  ]
+}
