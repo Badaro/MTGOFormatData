@@ -1,0 +1,14 @@
+{
+  "Name": "Convoke",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Knight-Errant of Eos"]
+    },
+    {
+        "Type": "InMainboard",
+        "Cards": ["Venerated Loxodon"]
+    }
+  ]
+}
