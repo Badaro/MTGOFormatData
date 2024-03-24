@@ -26,6 +26,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Territorial Kavu"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Mayhem Devil"]
     },
     {
