@@ -1,0 +1,22 @@
+{
+  "Name": "Sultai Graveyard",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Aftermath Analyst"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Atraxa, Grand Unifier"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Worldsoul's Rage"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Insidious Roots"]
+    }
+  ]
+}

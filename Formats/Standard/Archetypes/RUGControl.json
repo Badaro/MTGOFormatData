@@ -7,12 +7,20 @@
       "Cards": ["Memory Deluge"]
     },
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Spyglass Siren"]
+      "Type": "InMainboard",
+      "Cards": ["Aftermath Analyst"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Worldsoul's Rage"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Aftermath Analyst"]
+      "Cards": ["Atraxa, Grand Unifier"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Spyglass Siren"]
     }
   ]
 }
