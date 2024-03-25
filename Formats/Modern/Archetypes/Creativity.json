@@ -4,11 +4,15 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Emrakul, the Aeons Torn","Primeval Titan","Archon of Cruelty"]
+      "Cards": [
+        "Emrakul, the Aeons Torn",
+        "Primeval Titan",
+        "Archon of Cruelty"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Indomitable Creativity","Transmogrify"]
+      "Cards": ["Indomitable Creativity", "Transmogrify"]
     },
     {
       "Type": "InMainboard",

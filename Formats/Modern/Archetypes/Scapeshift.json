@@ -12,7 +12,11 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Primeval Titan"]
+      "Cards": ["Amulet of Vigor"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Leyline of the Guildpact"]
     },
     {
       "Type": "DoesNotContain",
@@ -24,10 +28,14 @@
       "Name": "BlueScapeshift",
       "IncludeColorInName": false,
       "Conditions": [
-		{
-		  "Type": "OneOrMoreInMainboard",
-		  "Cards": ["Remand", "Omnath, Locus of Creation"]
-		}
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Remand", "Omnath, Locus of Creation", "Bring To Light"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Leyline of the Guildpact"]
+        }
       ]
     }
   ]
