@@ -1,0 +1,14 @@
+{
+    "Name": "Jund Artefact",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Cleansing Wildfire","Troublemaker Ouphe"]
+        },       
+        {
+            "Type": "InMainboard",
+            "Cards": ["Bleak Coven Vampires"]
+        }
+       ]
+}

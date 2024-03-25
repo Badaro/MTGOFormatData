@@ -1,17 +1,27 @@
 {
-  "Name": "Scam",
-  "IncludeColorInName": true,
+  "Name": "Scam Rack",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Grief","Fury","Dauthi Voidwalker","Orcish Bowmasters"]
-    },
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Malakir Rebirth","Undying Evil","Undying Malice","Feign Death","Not Dead After All"]
+      "Cards": ["Grief", "Dauthi Voidwalker", "Orcish Bowmasters"]
     },
     {
       "Type": "InMainboard",
+      "Cards": ["The Rack"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Malakir Rebirth",
+        "Undying Evil",
+        "Undying Malice",
+        "Feign Death",
+        "Not Dead After All"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Ragavan, Nimble Pilferer"]
     },
     {
