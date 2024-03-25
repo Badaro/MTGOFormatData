@@ -8,6 +8,22 @@
         }, 
         {
             "Type": "DoesNotContain",
+            "Cards": ["White Plume Adventurer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Beseech the Mirror"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Coveted Jewel"]
+        },
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Volcanic Island"]
         },
         {
