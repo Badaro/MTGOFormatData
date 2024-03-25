@@ -4,7 +4,7 @@
     "Conditions": [
         {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Laelia, the Blade Reforged", "Caves of Chaos Adventurer", "Fury","Lodestone Golem"]
+            "Cards": ["Laelia, the Blade Reforged", "Caves of Chaos Adventurer", "Fury","Lodestone Golem","Magus of the Moon"]
         },
         {
             "Type": "OneOrMoreInMainboard",

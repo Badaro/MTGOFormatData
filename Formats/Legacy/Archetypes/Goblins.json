@@ -8,11 +8,7 @@
          },
          {
             "Type": "OneOrMoreInMainboard",
-            "Cards": ["Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "goblin rabblemaster"]
-         },        
-         {
-            "Type": "DoesNotContain",
-            "Cards": ["Name Sticker Goblin"]
-        }
+            "Cards": ["Broadside Bombardiers", "Goblin Trashmaster", "Goblin Ringleader", "Goblin Matron", "Goblin Rabblemaster"]
+         }
     ]
 }
