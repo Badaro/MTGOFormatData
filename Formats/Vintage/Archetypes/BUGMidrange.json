@@ -1,14 +1,14 @@
 {
-  "Name": "Lurrus Deathrite",
-  "IncludeColorInName": false,
+  "Name": "Midrange",
+  "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InSideboard",
+      "Type": "DoesNotContainSideboard",
       "Cards": ["Lurrus of the Dream-Den"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Wasteland"]
+      "Cards": ["Tropical Island"]
     },
     {
       "Type": "InMainboard",
@@ -17,6 +17,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Deathrite Shaman"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Oko, Thief of Crowns"]
     }
   ]
 }
