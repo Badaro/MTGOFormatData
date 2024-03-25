@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Insidious Roots"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Relic of Legends"]
     },
     {

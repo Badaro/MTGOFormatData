@@ -1,5 +1,5 @@
 {
-  "Name": "Prison Shops",
+  "Name": "Sphere Shops",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -11,16 +11,8 @@
       "Cards": ["Sphere of Resistance"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Golos, Tireless Pilgrim"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Crucible of Worlds"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Karn, the Great Creator"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Patchwork Automaton", "Nettlecyst", "Phyrexian Revoker"]
     },
     {
       "Type": "DoesNotContain",
