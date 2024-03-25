@@ -8,10 +8,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Mishra's Workshop"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["White Plume Adventurer"]
     },
     {
