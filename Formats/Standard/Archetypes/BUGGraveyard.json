@@ -1,6 +1,6 @@
 {
-  "Name": "Graveyard",
-  "IncludeColorInName": true,
+  "Name": "Sultai Graveyard",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
