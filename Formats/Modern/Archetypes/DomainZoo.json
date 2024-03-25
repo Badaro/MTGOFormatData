@@ -12,7 +12,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lightning Bolt", "Lightning Helix"]
+      "Cards": ["Lightning Bolt", "Lightning Helix", "Thoughtseize"]
     },
     {
       "Type": "DoesNotContain",
@@ -40,7 +40,7 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Grief", "Dauthi Voidwalker", "Thoughseize"]
+          "Cards": ["Grief", "Dauthi Voidwalker", "Not Dead After All"]
         }
       ]
     }
