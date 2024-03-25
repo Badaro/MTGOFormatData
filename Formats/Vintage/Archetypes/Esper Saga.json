@@ -32,10 +32,6 @@
         },
         {
             "Type": "InMainboard",
-            "Cards": ["Mana Crypt"]
-        },
-        {
-            "Type": "InMainboard",
             "Cards": ["Bolas's Citadel"]
         }
     ]
