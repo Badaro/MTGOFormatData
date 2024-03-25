@@ -19,6 +19,10 @@
             "Cards": ["Beseech the Mirror"]
         }, 
         {
+            "Type": "DoesNotContain",
+            "Cards": ["Oath of Druids"]
+        }, 
+        {
             "Type": "InMainboard",
             "Cards": ["The One Ring"]
         }

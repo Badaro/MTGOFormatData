@@ -27,6 +27,10 @@
             "Cards": ["Collector Ouphe"]
         },
         {
+            "Type": "DoesNotContain",
+            "Cards": ["Volcanic Island"]
+        },
+        {
             "Type": "InMainboard",
             "Cards": ["Oko, Thief of Crowns"]
         }

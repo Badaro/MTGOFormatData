@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Underworld Breach"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oath of Druids"]
         }
     ]
 }
