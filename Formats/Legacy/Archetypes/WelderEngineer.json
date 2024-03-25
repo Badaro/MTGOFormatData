@@ -13,16 +13,6 @@
   ],
   "Variants": [
     {
-      "Name": "Painter",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InSideboard",
-          "Cards": ["Painter's Servant"]
-        }
-      ]
-    },
-    {
       "Name": "Devourer",
       "IncludeColorInName": true,
       "Conditions": [

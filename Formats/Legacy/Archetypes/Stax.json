@@ -1,0 +1,23 @@
+{
+    "Name": "Stax",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Anointed Peacekeeper"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Archon of Emeria"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Thalia, Guardian of Thraben"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Caves of Chaos Adventurer"]
+        }
+    ]
+      
+}
