@@ -7,14 +7,6 @@
       "Cards": ["Lurrus of the Dream-Den"]
     },
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Volcanic Island"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["White Plume Adventurer"]
-    },
-    {
       "Type": "InMainboard",
       "Cards": ["Urza's Saga"]
     },
@@ -41,6 +33,26 @@
     {
       "Type": "InMainboard",
       "Cards": ["Bolas's Citadel"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Paradoxical Outcome"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Volcanic Island"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Beseech the Mirror"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Oath of Druids"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["White Plume Adventurer"]
     }
   ]
 }

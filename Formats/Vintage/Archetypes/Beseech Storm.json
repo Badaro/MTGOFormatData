@@ -1,18 +1,22 @@
 {
-    "Name": "Beseech Storm",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Beseech the Mirror"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Tinker"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Tendrils of Agony"]
-        }
-    ]
+  "Name": "Beseech Storm",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Beseech the Mirror"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tinker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tendrils of Agony"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Paradoxical Outcome"]
+    }
+  ]
 }
