@@ -1,0 +1,22 @@
+{
+    "Name": "Sphere Shops",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Mishra's Workshop"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sphere of Resistance"]
+        }, 
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Patchwork Automaton","Nettlecyst","Phyrexian Revoker"]
+        },    
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Force of Will"]
+        }
+    ]
+}
