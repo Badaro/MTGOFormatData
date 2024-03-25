@@ -1,0 +1,14 @@
+{
+    "Name": "Jund artifact",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Krark-Clan Shaman"]
+        },
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Bleak Coven Vampires","Troublemaker Ouphe"]
+        }
+    ]	
+}

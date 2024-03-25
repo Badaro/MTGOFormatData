@@ -1,0 +1,14 @@
+{
+  "Name": "Mentor",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Monastery Mentor"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Jeskai Ascendancy"]
+    }
+  ]
+}
