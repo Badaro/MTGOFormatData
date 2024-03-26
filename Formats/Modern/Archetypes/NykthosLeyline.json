@@ -1,0 +1,14 @@
+{
+  "Name": "NykthosLeyline",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nykthos, Shrine to Nyx"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Leyline of the Guildpact"]
+    }
+  ]
+}
