@@ -1,14 +1,10 @@
 {
-  "Name": "Scam Rack",
-  "IncludeColorInName": false,
+  "Name": "Scam",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
       "Cards": ["Grief", "Dauthi Voidwalker", "Orcish Bowmasters"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["The Rack"]
     },
     {
       "Type": "OneOrMoreInMainboard",
