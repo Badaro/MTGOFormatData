@@ -24,6 +24,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Wish"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Leyline of the Guildpact"]
     },
     {
