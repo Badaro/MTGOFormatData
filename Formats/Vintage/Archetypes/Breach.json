@@ -1,14 +1,18 @@
 {
-    "Name": "Breach",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Underworld Breach"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Oath of Druids"]
-        }
-    ]
+  "Name": "Breach",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Underworld Breach"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Beseech the Mirror"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Oath of Druids"]
+    }
+  ]
 }
