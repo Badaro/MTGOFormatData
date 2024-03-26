@@ -1,26 +1,26 @@
 {
-  "Name": "Jeskai Control",
+  "Name": "Sphere Shops",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Volcanic Island"]
+      "Cards": ["Mishra's Workshop"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Tundra"]
+      "Cards": ["Sphere of Resistance"]
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Swords to Plowshares", "Preordain"]
+      "Cards": ["Patchwork Automaton", "Nettlecyst", "Phyrexian Revoker"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Urza's Saga"]
+      "Cards": ["Force of Will"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Underworld Breach"]
+      "Cards": ["The One Ring"]
     }
   ]
 }

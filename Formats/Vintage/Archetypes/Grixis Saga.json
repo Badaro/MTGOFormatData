@@ -11,6 +11,18 @@
             "Cards": ["Tundra"]
         },
         {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Beseech the Mirror"]
+        },
+        {
             "Type": "InMainboard",
             "Cards": ["Urza's Saga"]
         },
