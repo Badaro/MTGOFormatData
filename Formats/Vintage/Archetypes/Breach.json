@@ -9,6 +9,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Oath of Druids"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
         }
     ]
 }
