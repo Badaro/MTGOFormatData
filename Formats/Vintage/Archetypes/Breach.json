@@ -12,7 +12,7 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Underworld Breach"]
+            "Cards": ["Doomsday"]
         }
     ]
 }
