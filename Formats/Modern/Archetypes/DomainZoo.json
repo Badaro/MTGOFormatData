@@ -12,7 +12,12 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lightning Bolt", "Lightning Helix", "Thoughtseize"]
+      "Cards": [
+        "Lightning Bolt",
+        "Lightning Helix",
+        "Thoughtseize",
+        "Ragavan, Nimble Pilferer"
+      ]
     },
     {
       "Type": "DoesNotContain",
