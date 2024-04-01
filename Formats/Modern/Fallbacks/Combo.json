@@ -1,0 +1,12 @@
+{
+  "Name": "Combo",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Samwise Gamgee",
+    "Cauldron Familiar",
+    "Viscera Seer",
+    "Bartolomé del Presidio",
+    "Chord of Calling",
+    "Ranger-Captain of Eos"
+  ]
+}
