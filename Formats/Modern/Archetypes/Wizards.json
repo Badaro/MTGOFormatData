@@ -1,0 +1,26 @@
+{
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Flame of Anor"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Tishana's Tidebinder", "Snapcaster Mage"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ragavan, Nimble Pilferer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Crashing Footfalls"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Murktide Regent"]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Memnite",
+    "Ornithopter",
+    "Kuldotha Rebirth",
+    "Phoenix Chick",
+    "Goblin Guide",
+    "Monastery Swiftspear",
+    "Dragon's Rage Channeler",
+    "Soul-Scar Mage",
+    "Lightning Bolt"
+  ]
+}
