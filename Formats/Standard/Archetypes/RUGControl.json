@@ -1,10 +1,10 @@
 {
-  "Name": "Control",
+  "Name": "Analyst",
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Memory Deluge"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Memory Deluge", "Virtue of Strength"]
     },
     {
       "Type": "InMainboard",
