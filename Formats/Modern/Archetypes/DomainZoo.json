@@ -38,16 +38,6 @@
           "Cards": ["Force of Negation", "Counterspell"]
         }
       ]
-    },
-    {
-      "Name": "BlackZoo",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Grief", "Dauthi Voidwalker", "Not Dead After All"]
-        }
-      ]
     }
   ]
 }
