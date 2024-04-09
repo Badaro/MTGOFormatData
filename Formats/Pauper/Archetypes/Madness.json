@@ -22,7 +22,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": [""Galvanic Blast"]
+      "Cards": ["Galvanic Blast"]
     },
     {
       "Type": "DoesNotContain",
