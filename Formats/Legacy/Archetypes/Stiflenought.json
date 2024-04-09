@@ -1,18 +1,14 @@
 {
     "Name": "Stiflenought",
-    "IncludeColorInName": false,
+    "IncludeColorInName": true,
     "Conditions": [
         {
             "Type": "InMainboard",
             "Cards": ["Phyrexian Dreadnought"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Dress Down"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Stifle"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Stifle","Hushbringer"]
         }
     ]
 }
