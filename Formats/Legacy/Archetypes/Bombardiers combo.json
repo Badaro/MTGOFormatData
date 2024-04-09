@@ -1,0 +1,14 @@
+{
+    "Name": "Bombardiers combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Broadside Bombardiers"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Minsc & Boo, Timeless Heroes"]
+        }
+    ]
+}
