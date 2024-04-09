@@ -1,10 +1,10 @@
 {
-    "Name": "Faeries",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Spellstutter Sprite"]
-        }
-    ]
+  "Name": "Faeries",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Spellstutter Sprite"]
+    }
+  ]
 }
