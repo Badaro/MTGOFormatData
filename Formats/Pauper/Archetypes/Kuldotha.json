@@ -1,10 +1,10 @@
 {
-    "Name": "Kuldotha",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Kuldotha Rebirth"]
-        }
-    ]
+  "Name": "Kuldotha",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kuldotha Rebirth"]
+    }
+  ]
 }

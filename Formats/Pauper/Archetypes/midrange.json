@@ -1,14 +1,18 @@
 {
-    "Name": "Midrange",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Glint Hawk"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Kor Skyfisher"]
-        }
-    ]
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Glint Hawk"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Kor Skyfisher"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Experimental Synthesizer"]
+    }
+  ]
 }
