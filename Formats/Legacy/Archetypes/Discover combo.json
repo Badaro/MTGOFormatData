@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Trumpeting Carnosaur"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Creative Technique"]
     }
   ]
 }

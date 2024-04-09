@@ -19,10 +19,6 @@
         {
           "Type": "InMainboard",
           "Cards": ["Phyrexian Devourer"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Painter's Servant"]
         }
       ]
     }

@@ -1,38 +1,43 @@
 {
-    "Name": "8-cast",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Sai, Master Thopterist", "Kappa Cannoneer", "Emry, Lurker of the Loch", "Patchwork Automaton"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Lotus Petal"]
-        },        
-                {
-            "Type": "DoesNotContain",
-            "Cards": ["Arcbound Ravager"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Painter's Servant"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Grindstone"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Auriok Salvagers"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Riddlesmith"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Paradoxical Outcome"]
-        }
-    ]
+  "Name": "8-cast",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Sai, Master Thopterist",
+        "Kappa Cannoneer",
+        "Emry, Lurker of the Loch",
+        "Patchwork Automaton"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lotus Petal"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Arcbound Ravager"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grindstone"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Auriok Salvagers"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Riddlesmith"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Paradoxical Outcome"]
+    }
+  ]
 }
