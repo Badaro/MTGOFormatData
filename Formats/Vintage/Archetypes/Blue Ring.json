@@ -24,6 +24,10 @@
         }, 
         {
             "Type": "InMainboard",
+            "Cards": ["Force of Will"]
+        }, 
+        {
+            "Type": "InMainboard",
             "Cards": ["The One Ring"]
         }
     ]
