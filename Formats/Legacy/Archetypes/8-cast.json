@@ -13,7 +13,7 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Lotus Petal"]
+      "Cards": ["Thoughtcast"]
     },
     {
       "Type": "DoesNotContain",

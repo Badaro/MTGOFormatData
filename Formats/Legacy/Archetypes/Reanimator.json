@@ -1,6 +1,6 @@
 {
   "Name": "Reanimator",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoormoreInMainboard",

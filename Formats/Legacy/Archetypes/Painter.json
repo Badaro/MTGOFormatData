@@ -12,7 +12,15 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Goblin Welder"]
+      "Cards": ["Chaos Defiler"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Phyrexian Dragon Engine"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Phyrexian Devourer"]
     }
   ]
 }
