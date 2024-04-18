@@ -1,15 +1,14 @@
 {
-    "Name": "Narset control",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Narset, Parter of Veils"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Day's Undoing"]
-        }
-    ]
-    
+  "Name": "Narset control",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Narset, Parter of Veils"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Day's Undoing"]
+    }
+  ]
 }

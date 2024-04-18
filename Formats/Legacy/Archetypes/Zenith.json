@@ -1,63 +1,62 @@
 {
-    "Name": "Zenith",
-    "IncludeColorInName": true,
-    "Conditions": [
+  "Name": "Zenith",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Green Sun's Zenith"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Heritage Druid"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Veteran Explorer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dark Depths"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Yorion Zenith",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Green Sun's Zenith"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Heritage Druid"]
-        },  
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Veteran Explorer"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Dark Depths"]
+          "Type": "InSideboard",
+          "Cards": ["Yorion, Sky Nomad"]
         }
-
-    ],
-    "Variants": [
+      ]
+    },
+    {
+      "Name": "Maverick",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Name": "Yorion Zenith",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InSideboard",
-                    "Cards": ["Yorion, Sky Nomad"]
-                }
-            ]
-        },
-        {
-            "Name": "Maverick",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Knight of the Reliquary"]
-                }
-            ]
-        },
-        {
-            "Name": "Cradle Control",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Gaea's Cradle"]
-                },
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Fiend Artisan"]
-                },
-                {
-                    "Type": "DoesNotContain",
-                    "Cards": ["Knight of the Reliquary"]
-                }
-            ]
+          "Type": "InMainboard",
+          "Cards": ["Knight of the Reliquary"]
         }
-    ]
+      ]
+    },
+    {
+      "Name": "Cradle Control",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Gaea's Cradle"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Fiend Artisan"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Knight of the Reliquary"]
+        }
+      ]
+    }
+  ]
 }

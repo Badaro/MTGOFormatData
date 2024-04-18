@@ -2,13 +2,8 @@
   "Name": "Sneak & Show",
   "IncludeColorInName": false,
   "Conditions": [
-    {
-      "Type": "InMainboard",
-      "Cards": ["Show and Tell"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Sneak Attack"]
-    }
+    { "Type": "InMainboard", "Cards": ["Show and Tell"] },
+    { "Type": "InMainboard", "Cards": ["Sneak Attack"] },
+    { "Type": "DoesNotContain", "Cards": ["Omniscience"] }
   ]
 }

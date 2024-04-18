@@ -1,6 +1,6 @@
 {
   "Name": "Omni-Tell",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
