@@ -1,6 +1,6 @@
 {
   "Name": "Beanstalk",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -9,7 +9,7 @@
   ],
   "Variants": [
     {
-      "Name": "White Beans",
+      "Name": "White Beanstalk",
       "IncludeColorInName": false,
       "Conditions": [
         {
