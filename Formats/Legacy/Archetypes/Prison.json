@@ -1,22 +1,34 @@
 {
-    "Name": "Prison",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Laelia, the Blade Reforged", "Caves of Chaos Adventurer", "Fury","Lodestone Golem","Magus of the Moon"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Trinisphere", "Unlicensed Hearse", "Ensnaring Bridge","Sphere of Resistance"] 
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Chalice of the Void","Shatterskull Smashing"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Goblin Lackey"]
-        }
-    ]
+  "Name": "Prison",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Laelia, the Blade Reforged",
+        "Caves of Chaos Adventurer",
+        "Fury",
+        "Lodestone Golem",
+        "Magus of the Moon",
+        "Blood Moon"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Trinisphere",
+        "Unlicensed Hearse",
+        "Ensnaring Bridge",
+        "Sphere of Resistance"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Chalice of the Void", "Shatterskull Smashing"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Lackey"]
+    }
+  ]
 }
