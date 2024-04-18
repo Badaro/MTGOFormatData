@@ -5,6 +5,22 @@
     {
       "Type": "InMainboard",
       "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Monastery Mentor"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Crashing Footfalls"]
     }
   ],
   "Variants": [
@@ -13,8 +29,8 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "Type": "InMainboard",
-          "Cards": ["Leyline Binding"]
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Leyline Binding", "Swords to Plowshares"]
         }
       ]
     }

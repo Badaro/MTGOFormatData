@@ -1,6 +1,6 @@
 {
   "Name": "Other Patchwork",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "CommonCards": [
     "Patchwork Automaton",
     "Mox Opal",
