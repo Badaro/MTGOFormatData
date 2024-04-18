@@ -1,0 +1,38 @@
+{
+  "Name": "Agatha Devourer Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Emry, Lurker of the Loch", "Patchwork Automaton"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Agatha's Soul Cauldron"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Entomb"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Phyrexian Devourer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Arcbound Ravager"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grindstone"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Auriok Salvagers"]
+    }
+  ]
+}

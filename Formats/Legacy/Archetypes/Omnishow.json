@@ -1,40 +1,36 @@
 {
-    "Name": "Omnishow",
-    "IncludeColorInName": true,
-    "Conditions": [
+  "Name": "Omni-Tell",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Show and Tell"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Omniscience"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Hypergenesis",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Show and Tell"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Omniscience"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Sneak Attack"]
+          "Type": "InMainboard",
+          "Cards": ["Hypergenesis"]
         }
-          ],
-    "Variants": [
+      ]
+    },
+    {
+      "Name": "Creative technique",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Name": "Hypergenesis",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Hypergenesis"]
-                }
-            ]
-        },
-        {
-            "Name": "Creative technique",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Creative Technique"]
-                }
-            ]
+          "Type": "InMainboard",
+          "Cards": ["Creative Technique"]
         }
-    ]
+      ]
+    }
+  ]
 }
