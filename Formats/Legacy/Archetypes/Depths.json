@@ -117,10 +117,6 @@
           "Cards": ["Crop Rotation"]
         },
         {
-          "Type": "DoesNotContain",
-          "Cards": ["The Tabernacle at Pendrell Vale"]
-        },
-        {
           "Type": "DoesNotContainMainboard",
           "Cards": ["Thalia, Guardian of Thraben"]
         },

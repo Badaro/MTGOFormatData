@@ -3,6 +3,10 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
+      "Type": "InMainboard",
+      "Cards": ["The Tabernacle at Pendrell Vale"]
+    },
+    {
       "Type": "OneormoreInMainboard",
       "Cards": [
         "Dark Depths",
