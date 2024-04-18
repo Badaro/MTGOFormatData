@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Goblin Lackey", "Muxus, Goblin Grandee", "Simian Spirit Guide"]
+      "Cards": ["Goblin Lackey", "Muxus, Goblin Grandee", "Battle Cry Goblin"]
     },
     {
       "Type": "OneOrMoreInMainboard",
