@@ -1,10 +1,10 @@
 {
-  "Name": "Mono Black Midrange",
-  "IncludeColorInName": false,
+  "Name": "Midrange",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Sheoldred, the apocalypse"]
+      "Cards": ["Sheoldred, the Apocalyps"]
     },
     {
       "Type": "OneOrMoreInMainboard",
