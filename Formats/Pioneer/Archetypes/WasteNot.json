@@ -1,0 +1,14 @@
+{
+  "Name": "Waste Not",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Waste Not"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Fable of the Mirror-Breaker"]
+    }
+  ]
+}
