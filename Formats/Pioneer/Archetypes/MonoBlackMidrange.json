@@ -8,7 +8,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Invoke Despair", "Phyrexian Fleshgorger"]
+      "Cards": [
+        "Invoke Despair",
+        "Phyrexian Fleshgorger",
+        "Liliana of the Veil"
+      ]
     },
     {
       "Type": "DoesNotContain",
@@ -18,7 +22,7 @@
   "Variants": [
     {
       "Name": "Waste Not",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
