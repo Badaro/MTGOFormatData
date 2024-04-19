@@ -5,14 +5,26 @@
     {
       "Type": "InMainboard",
       "Cards": ["Sheoldred, the apocalypse"]
-    },    
+    },
     {
-        "Type": "OneOrMoreInMainboard",
-        "Cards": ["Invoke Despair","Phyrexian Fleshgorger"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Invoke Despair", "Phyrexian Fleshgorger"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["fable of the mirror breaker"]
+      "Cards": ["Fable of the Mirror-Breaker"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Waste Not",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Waste Not"]
+        }
+      ]
     }
   ]
 }
