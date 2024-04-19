@@ -1,23 +1,18 @@
 {
-    "Name": "Elves",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Gaea's Cradle"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Wirewood Symbiote"]
-        },       
-         {
-            "Type": "InMainboard",
-            "Cards": ["Allosaurus Shepherd"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Heritage Druid", "Elvish Visionary"]
-        }
-        
-    ]
-}	
+  "Name": "Elves",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Elvish Mystic", "Llanowar Elves", "Elvish Spirit Guide"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Heritage Druid", "Elvish Visionary", "Allosaurus Shepherd"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ignoble Hierarch"]
+    }
+  ]
+}

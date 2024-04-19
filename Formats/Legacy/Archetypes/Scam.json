@@ -1,15 +1,18 @@
 {
-    "Name": "Scam",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Grief","Liliana of the Veil"]
-        },   
-  	    {
-            "Type": "DoesNotContain",
-            "Cards": ["Murktide Regent"]
-        }
-        
-    ]
+  "Name": "Scam",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Grief", "Liliana of the Veil"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Entomb"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Murktide Regent"]
+    }
+  ]
 }

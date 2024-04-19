@@ -1,22 +1,31 @@
 {
-    "Name": "Storm",
-    "IncludeColorInName": false,
-    "Conditions": [
-          {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Beseech the Mirror","Tendrils of Agony","Empty the Warrens","Wish"]
-          }         
-    ],
-    "Variants": [
-      {
-        "Name": "TES",
-        "IncludeColorInName": false,
-        "Conditions": [
-          {
-            "Type": "InMainboard",
-            "Cards": ["Lion's Eye Diamond"]
-          }
-        ]
+  "Name": "Storm",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Beseech the Mirror",
+        "Tendrils of Agony",
+        "Empty the Warrens",
+        "Wish"
+      ]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "TES",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Lion's Eye Diamond"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Birgi, God of Storytelling"]
+        }
+      ]
     },
     {
       "Name": "Birgi Storm",
@@ -27,6 +36,6 @@
           "Cards": ["Birgi, God of Storytelling"]
         }
       ]
-  }
-    ]
+    }
+  ]
 }

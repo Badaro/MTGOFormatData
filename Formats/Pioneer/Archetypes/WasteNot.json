@@ -1,14 +1,14 @@
 {
-  "Name": "Discover Combo",
+  "Name": "Waste Not",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Trumpeting Carnosaur"]
+      "Cards": ["Waste Not"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Creative Technique"]
+      "Cards": ["Fable of the Mirror-Breaker"]
     }
   ]
 }

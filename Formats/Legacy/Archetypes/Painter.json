@@ -1,14 +1,26 @@
 {
-    "Name": "Painter",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Painter's Servant"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Grindstone"]
-        }    	
-    ]
+  "Name": "Painter",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Painter's Servant"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Grindstone"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Chaos Defiler"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Phyrexian Dragon Engine"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Phyrexian Devourer"]
+    }
+  ]
 }

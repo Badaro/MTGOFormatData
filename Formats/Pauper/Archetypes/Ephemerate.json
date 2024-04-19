@@ -1,33 +1,26 @@
- {
-    "Name": "Ephemerate",
-            "IncludeColorInName": true,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Ephemerate"]
-                }                         
-            ],
-            "Variants": [
-                {
-                    "Name": "Ephemerate Tron",
-                    "IncludeColorInName": false,
-                    "Conditions": [             
-                        {
-                            "Type": "InMainboard",
-                            "Cards": ["Urza's Mine"]
-                        }
-                    ]
-                },
-                {
-                    "Name": "Familiars",
-                    "IncludeColorInName": true,
-                    "Conditions": [             
-                        {
-                            "Type": "InMainboard",
-                            "Cards": ["Sunscape Familiar"]
-                        }
-                    ]
-                }
-                
-                    ]
- }
+{
+  "Name": "Ephemerate",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ephemerate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sunscape Familiar"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Ephemerate Tron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Urza's Mine"]
+        }
+      ]
+    }
+  ]
+}

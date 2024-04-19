@@ -1,19 +1,22 @@
 {
-    "Name": "Vial",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Thalia, Guardian of Thraben"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Stoneforge Mystic"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Aether Vial"]
-        } 
-        
-    ]
+  "Name": "Vial",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Thalia, Guardian of Thraben"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Lord of Atlantis"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Aether Vial"]
+    }
+  ]
 }

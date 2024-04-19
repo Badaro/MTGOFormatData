@@ -1,45 +1,57 @@
 {
-    "Name": "Control",
-    "IncludeColorInName": true,
-    "Conditions": [
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Counterspell", "Force Spike"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Snuff Out",
+        "Augur of Bolas",
+        "Murmuring Mystic",
+        "Lórien Revealed"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Delver of Secrets"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Basilisk Gate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ephemerate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Spellstutter Sprite"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Serpentine Curve",
+      "IncludeColorInName": true,
+      "Conditions": [
         {
-            "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Counterspell","Force Spike"]
-        },   
-        {
-            "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Snuff Out","Augur of Bolas","Murmuring Mystic","Lórien Revealed"]
-        },
-        {
-            "Type" : "DoesNotContainMainboard",
-            "Cards": ["Delver of Secrets"]
-        },
-        {
-            "Type" : "DoesNotContain",
-            "Cards": ["Spellstutter Sprite"]
+          "Type": "InMainboard",
+          "Cards": ["Serpentine Curve"]
         }
-    ],
-    "Variants": [
+      ]
+    },
+    {
+      "Name": "Control Terror",
+      "IncludeColorInName": true,
+      "Conditions": [
         {
-            "Name": "Serpentine Curve",
-            "IncludeColorInName": true,
-            "Conditions": [             
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Serpentine Curve"]
-                }
-            ]
-        }, 
-        {
-            "Name": "Control Terror",
-            "IncludeColorInName": true,
-            "Conditions": [             
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Tolarian Terror"]
-                }
-            ]
+          "Type": "InMainboard",
+          "Cards": ["Tolarian Terror"]
         }
-        
-            ]
+      ]
+    }
+  ]
 }

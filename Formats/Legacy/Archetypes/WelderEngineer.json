@@ -1,5 +1,5 @@
 {
-  "Name": "Welder Engineer",
+  "Name": "Painter",
   "IncludeColorInName": true,
   "Conditions": [
     {
@@ -9,21 +9,13 @@
     {
       "Type": "InMainboard",
       "Cards": ["Goblin Welder"]
-    }
-  ],
-  "Variants": [
+    },
     {
-      "Name": "Devourer",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Phyrexian Devourer"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Painter's Servant"]
-        }
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Phyrexian Devourer",
+        "Chaos Defiler",
+        "Phyrexian Dragon Engine"
       ]
     }
   ]

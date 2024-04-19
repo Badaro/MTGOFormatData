@@ -1,6 +1,6 @@
 {
   "Name": "Spirits",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",

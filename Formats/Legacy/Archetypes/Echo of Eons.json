@@ -1,14 +1,18 @@
 {
-    "Name": "Echo of Eons",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Echo of Eons"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Birgi, God of Storytelling"]
-        }
-    ]
+  "Name": "Echo of Eons",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Echo of Eons"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Birgi, God of Storytelling"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Lion's Eye Diamond"]
+    }
+  ]
 }
