@@ -15,18 +15,6 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Fiery Temper", "Circular Logic", "Alms of the Vein"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Seal of Fire"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Galvanic Blast"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Chain Lightning"]
     }
   ]
 }

@@ -7,12 +7,16 @@
       "Cards": ["Lightning Bolt"]
     },
     {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Chain Lightning", "Galvanic Blast", "Seal of Fire"]
+    },
+    {
       "Type": "DoesNotContain",
       "Cards": ["Kuldotha Rebirth"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Chain Lightning", "Galvanic Blast", "Seal of Fire"]
+      "Type": "DoesNotContain",
+      "Cards": ["Alms of the Vein"]
     }
   ],
   "Variants": [
