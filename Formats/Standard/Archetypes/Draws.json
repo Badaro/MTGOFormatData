@@ -4,13 +4,14 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Duelist of the Mind"]
+      "Cards": ["Evangel of Synthesis"]
     },
     {
       "Type": "TwoOrMoreInMainboard",
       "Cards": [
+        "Duelist of the Mind",
         "Proft's Eidetic Memory",
-        "Evangel of Synthesis",
+        "",
         "Three Steps Ahead",
         "Ledger Shredder"
       ]
