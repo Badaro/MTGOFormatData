@@ -1,18 +1,18 @@
 {
   "Name": "Burn",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
       "Cards": ["Lightning Bolt"]
     },
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Kuldotha Rebirth"]
-    },
-    {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Chain Lightning", "Galvanic Blast", "Seal of Fire"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kuldotha Rebirth"]
     }
   ],
   "Variants": [

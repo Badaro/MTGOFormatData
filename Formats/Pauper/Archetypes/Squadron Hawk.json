@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Basilisk Gate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Militia Bugler"]
     }
   ]
 }

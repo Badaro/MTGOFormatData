@@ -18,15 +18,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Seal of Fire"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Galvanic Blast"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Chain Lightning"]
     }
   ]
 }
