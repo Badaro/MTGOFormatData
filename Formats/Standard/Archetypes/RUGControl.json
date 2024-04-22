@@ -16,7 +16,11 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Atraxa, Grand Unifier"]
+      "Cards": ["Titan of Industry"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Virtue of Persistence"]
     },
     {
       "Type": "DoesNotContain",
