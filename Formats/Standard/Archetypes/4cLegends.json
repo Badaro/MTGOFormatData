@@ -10,7 +10,7 @@
   "Variants": [
     {
       "Name": "4c Legends",
-      "IncludeColorInName": fase,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
