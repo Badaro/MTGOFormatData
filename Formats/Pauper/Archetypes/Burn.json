@@ -1,6 +1,6 @@
 {
   "Name": "Burn",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -13,10 +13,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Kuldotha Rebirth"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Alms of the Vein"]
     }
   ],
   "Variants": [

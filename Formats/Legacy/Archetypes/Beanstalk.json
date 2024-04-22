@@ -31,6 +31,20 @@
         {
           "Type": "OneOrMoreInMainboard",
           "Cards": ["Leyline Binding", "Swords to Plowshares"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Supreme Verdict"]
+        }
+      ]
+    },
+    {
+      "Name": "Control Beanstalk",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Supreme Verdict"]
         }
       ]
     }

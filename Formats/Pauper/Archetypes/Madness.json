@@ -15,6 +15,10 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Fiery Temper", "Circular Logic", "Alms of the Vein"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Galvanic Blast"]
     }
   ]
 }
