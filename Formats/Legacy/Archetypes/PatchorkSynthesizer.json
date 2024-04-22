@@ -1,0 +1,34 @@
+{
+  "Name": "Patchwork Synthesizer",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Patchwork Automaton"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Simulacrum Synthesizer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Agatha's Soul Cauldron"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Arcbound Ravager"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grindstone"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Auriok Salvagers"]
+    }
+  ]
+}

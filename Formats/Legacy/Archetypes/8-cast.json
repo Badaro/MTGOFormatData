@@ -38,6 +38,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Paradoxical Outcome"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Paradox Engine"]
     }
   ]
 }
