@@ -15,6 +15,10 @@
       "Cards": ["Lord of Atlantis"]
     },
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Muxus, Goblin Grandee"]
+    },
+    {
       "Type": "InMainboard",
       "Cards": ["Aether Vial"]
     }
