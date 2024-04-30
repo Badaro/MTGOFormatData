@@ -15,7 +15,7 @@
       "Cards": ["Worldsoul's Rage"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Titan of Industry"]
     },
     {

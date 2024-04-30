@@ -14,5 +14,17 @@
       "Type": "DoesNotContain",
       "Cards": ["Murktide Regent"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "Mono Black Scam",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Dark Ritual"]
+        }
+      ]
+    }
   ]
 }
