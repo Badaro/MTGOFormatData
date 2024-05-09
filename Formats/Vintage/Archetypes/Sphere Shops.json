@@ -12,7 +12,7 @@
         }, 
         {
             "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Patchwork Automaton","Nettlecyst","Phyrexian Revoker"]
+            "Cards": ["Patchwork Automaton","Nettlecyst","Phyrexian Revoker","Golos, Tireless Pilgrim"]
         },    
                 {
             "Type": "DoesNotContain",
