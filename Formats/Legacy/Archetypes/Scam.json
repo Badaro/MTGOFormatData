@@ -21,8 +21,16 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "Type": "InMainboard",
-          "Cards": ["Dark Ritual"]
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Dark Ritual", "Dauthi Voidwalker"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Ephemerate"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Brainstorm"]
         }
       ]
     }
