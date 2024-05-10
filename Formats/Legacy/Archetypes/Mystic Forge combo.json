@@ -1,43 +1,77 @@
 {
-    "Name": "Mystic Forge combo",
-    "IncludeColorInName": false,
-    "Conditions": [
+  "Name": "Mystic Forge Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Karn, the Great Creator",
+        "Ugin, the Ineffable",
+        "Emrakul, the Aeons Torn"
+      ]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Urza, Lord High Artificer", "Trinisphere", "Mystic Forge"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Chalice of the Void",
+        "Urza's Bauble",
+        "Hope of Ghirapur",
+        "Grim Monolith"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Esper Sentinel"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thoughtcast"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Auriok Salvagers"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cloudpost"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Blood Moon"]
+    },
+    {
+      "Type": "DoesNotContainmainboard",
+      "Cards": ["Paradox Engine"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Paradox Combo",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Karn, the Great Creator","Ugin, the Ineffable"]
+          "Type": "InMainboard",
+          "Cards": ["Paradox Engine"]
         },
         {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Urza, Lord High Artificer", "Trinisphere", "Mystic Forge"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Chalice of the Void", "Urza's Bauble", "Hope of Ghirapur", "Grim Monolith"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Esper Sentinel"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Thoughtcast"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Auriok Salvagers"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Cloudpost"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Blood Moon"]
-        },
-        {
-            "Type": "DoesNotContainmainboard",
-            "Cards": ["Paradox Engine"]
+          "Type": "DoesNotContain",
+          "Cards": ["Coveted Jewel"]
         }
-    ]
+      ]
+    },
+    {
+      "Name": "Jewel Combo",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Coveted Jewel"]
+        }
+      ]
+    }
+  ]
 }
-
