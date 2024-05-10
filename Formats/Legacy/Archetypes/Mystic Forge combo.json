@@ -12,7 +12,12 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Urza, Lord High Artificer", "Trinisphere", "Mystic Forge"]
+      "Cards": [
+        "Urza, Lord High Artificer",
+        "Trinisphere",
+        "Mystic Forge",
+        "The One Ring"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
