@@ -21,20 +21,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": [
-        "Chalice of the Void",
-        "Urza's Bauble",
-        "Hope of Ghirapur",
-        "Grim Monolith"
-      ]
+      "Cards": ["Chalice of the Void", "Hope of Ghirapur", "Grim Monolith"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Esper Sentinel"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Thoughtcast"]
     },
     {
       "Type": "DoesNotContain",
@@ -47,10 +38,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Blood Moon"]
-    },
-    {
-      "Type": "DoesNotContainmainboard",
-      "Cards": ["Paradox Engine"]
     }
   ],
   "Variants": [
