@@ -3,11 +3,11 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "oneormoreInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Winota, Joiner of Forces", "Brutal Cathar", "Elite Spellbinder", "General Kudro of Drannith", "Champion of the Parish"]
         },  
         {
-            "Type": "oneormoreInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Thalia's Lieutenant", "Thalia, Guardian of Thraben"]
         },         
         {

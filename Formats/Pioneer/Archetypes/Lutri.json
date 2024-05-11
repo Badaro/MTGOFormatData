@@ -3,7 +3,7 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "Insideboard",
+      "Type": "InSideboard",
       "Cards": ["Lutri, the Spellchaser"]
     }
 

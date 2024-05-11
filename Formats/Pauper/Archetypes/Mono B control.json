@@ -3,7 +3,7 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "twoormoreInMainboard",
+            "Type": "TwoOrMoreInMainboard",
             "Cards": ["Defile","Crypt Rats","Tithing Blade"]
         },
         {

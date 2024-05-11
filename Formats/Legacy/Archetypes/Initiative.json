@@ -3,7 +3,7 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "OneormoreInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Seasoned Dungeoneer","Caves of Chaos Adventurer"]
         },
         {

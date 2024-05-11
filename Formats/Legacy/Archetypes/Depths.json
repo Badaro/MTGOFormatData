@@ -51,7 +51,7 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "type": "OneOrMoreInMainboard",
+          "Type": "OneOrMoreInMainboard",
           "Cards": ["Lotus Petal", "Elvish Spirit Guide", "Not of This World"]
         },
         {
@@ -65,7 +65,7 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "type": "InMainboard",
+          "Type": "InMainboard",
           "Cards": ["Vampire Hexmage"]
         },
         {

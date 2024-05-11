@@ -3,7 +3,7 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "OneormoreInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Hollow One","Ox of Agonas"]
         
         },  

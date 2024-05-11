@@ -35,7 +35,7 @@
             "Cards": ["Blood Moon"]
         },
         {
-            "Type": "DoesNotContainmainboard",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Paradox Engine"]
         }
     ]

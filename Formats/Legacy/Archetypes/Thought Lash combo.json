@@ -3,7 +3,7 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "twoOrMoreInMainboard",
+            "Type": "TwoOrMoreInMainboard",
             "Cards": ["Thassa's Oracle", "Thought Lash"]
         },
         {

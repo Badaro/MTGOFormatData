@@ -7,7 +7,7 @@
       "Cards": ["The Tabernacle at Pendrell Vale"]
     },
     {
-      "Type": "OneormoreInMainboard",
+      "Type": "OneOrMoreInMainboard",
       "Cards": [
         "Dark Depths",
         "Field of the Dead",
@@ -16,11 +16,11 @@
       ]
     },
     {
-      "Type": "OneormoreInMainboard",
+      "Type": "OneOrMoreInMainboard",
       "Cards": ["Exploration", "Elvish Reclaimer"]
     },
     {
-      "Type": "OneormoreInMainboard",
+      "Type": "OneOrMoreInMainboard",
       "Cards": ["Life from the Loam", "Dryad of the Ilysian Grove"]
     },
     {
