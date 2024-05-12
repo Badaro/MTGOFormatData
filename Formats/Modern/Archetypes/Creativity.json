@@ -1,6 +1,6 @@
 {
   "Name": "Creativity",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
