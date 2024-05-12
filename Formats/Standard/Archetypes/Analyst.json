@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Memory Deluge", "Virtue of Strength"]
+      "Cards": ["Memory Deluge", "Virtue of Strength", "Pitiless Carnage"]
     },
     {
       "Type": "InMainboard",
