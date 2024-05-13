@@ -28,6 +28,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Grief"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Knight of the Reliquary"]
     },
     {
