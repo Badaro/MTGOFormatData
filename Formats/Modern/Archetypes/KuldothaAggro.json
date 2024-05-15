@@ -4,11 +4,20 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Goblin Bushwhacker","Reckless Bushwhacker","Burning-Tree Emissary","Memnite"]
+      "Cards": [
+        "Goblin Bushwhacker",
+        "Reckless Bushwhacker",
+        "Burning-Tree Emissary",
+        "Memnite"
+      ]
     },
     {
       "Type": "InMainboard",
       "Cards": ["Kuldotha Rebirth"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Knight-Errant of Eos"]
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "Name": "EmeriaControl",
+  "Name": "MartyrControl",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Emeria, the Sky Ruin"]
+      "Cards": ["Martyr of Sands"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Sun Titan","Abiding Grace"]
+      "Type": "InMainboard",
+      "Cards": ["Emeria, the Sky Ruin"]
     },
     {
       "Type": "DoesNotContain",

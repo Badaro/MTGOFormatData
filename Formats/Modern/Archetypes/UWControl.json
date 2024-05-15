@@ -1,0 +1,27 @@
+{
+  "Name": "Azorius Control",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Narset, Parter of Veils",
+        "Teferi, Time Raveler",
+        "Counterspell",
+        "Solitude"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Omnath, Locus of Creation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dragon's Rage Channeler"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    }
+  ]
+}
