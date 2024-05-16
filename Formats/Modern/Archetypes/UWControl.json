@@ -21,6 +21,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Crashing Footfalls"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grief"]
     }
   ]
 }
