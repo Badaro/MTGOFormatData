@@ -4,12 +4,11 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": [
-        "Narset, Parter of Veils",
-        "Teferi, Time Raveler",
-        "Counterspell",
-        "Solitude"
-      ]
+      "Cards": ["Teferi, Time Raveler", "Counterspell", "Solitude"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scapeshift"]
     },
     {
       "Type": "DoesNotContain",
@@ -22,6 +21,22 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Crashing Footfalls"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grief"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Martyr of Sands"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hedron Crab"]
     }
   ]
 }
