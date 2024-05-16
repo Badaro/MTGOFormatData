@@ -4,12 +4,11 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": [
-        "Narset, Parter of Veils",
-        "Teferi, Time Raveler",
-        "Counterspell",
-        "Solitude"
-      ]
+      "Cards": ["Teferi, Time Raveler", "Counterspell", "Solitude"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scapeshift"]
     },
     {
       "Type": "DoesNotContain",
