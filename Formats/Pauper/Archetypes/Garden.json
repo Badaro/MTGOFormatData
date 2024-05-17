@@ -1,0 +1,10 @@
+{
+  "Name": "Garden",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Khalni Garden"]
+    }
+  ]
+}

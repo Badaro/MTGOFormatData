@@ -1,5 +1,5 @@
 {
-  "Name": "Gate",
+  "Name": "Gates",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -9,7 +9,7 @@
   ],
   "Variants": [
     {
-      "Name": "Caw Gate",
+      "Name": "Caw Gates",
       "IncludeColorInName": false,
       "Conditions": [
         {
