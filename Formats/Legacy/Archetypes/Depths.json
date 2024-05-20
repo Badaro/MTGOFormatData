@@ -135,6 +135,40 @@
       ]
     },
     {
+      "Name": "Maverick",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Knight of the Reliquary"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Swords to Plowshares"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Crop Rotation"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Thalia, Guardian of Thraben"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Yorion, Sky Nomad"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Manabond"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Snapcaster Mage"]
+        }
+      ]
+    },
+    {
       "Name": "Loam",
       "IncludeColorInName": true,
       "Conditions": [
