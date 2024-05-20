@@ -4,7 +4,12 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Elvish Mystic", "Llanowar Elves", "Elvish Spirit Guide"]
+      "Cards": [
+        "Elvish Mystic",
+        "Llanowar Elves",
+        "Elvish Spirit Guide",
+        "Gaea's Cradle"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",

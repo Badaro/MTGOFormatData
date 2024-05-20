@@ -1,20 +1,20 @@
 {
-  "Name": "Gates",
-  "IncludeColorInName": false,
+  "Name": "Garden",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Basilisk Gate"]
+      "Cards": ["Khalni Garden"]
     }
   ],
   "Variants": [
     {
-      "Name": "Caw Gates",
+      "Name": "Golgari Garden",
       "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Squadron Hawk"]
+          "Cards": ["Deadly Dispute"]
         }
       ]
     }
