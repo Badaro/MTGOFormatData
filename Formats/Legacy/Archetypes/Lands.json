@@ -3,7 +3,7 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "OneOrMoreInMainboard",
+      "Type": "OneOrMoreInMainOrSideboard",
       "Cards": ["The Tabernacle at Pendrell Vale", "Sphere of Resistance"]
     },
     {
