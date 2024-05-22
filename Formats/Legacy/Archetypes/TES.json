@@ -1,0 +1,26 @@
+{
+	"Name": "TES",
+	"IncludeColorInName": false,
+	"Conditions": [
+		{
+			"Type": "InMainboard",
+			"Cards": ["Burning Wish"]
+		},
+		{
+			"Type": "InMainboard",
+			"Cards": ["Lion's Eye Diamond"]
+		},
+		{
+			"Type": "InMainboard",
+			"Cards": ["Dark Ritual"]
+		},
+		{
+			"Type": "DoesNotContain",
+			"Cards": ["Infernal Tutor"]
+		},
+		{
+			"Type": "DoesNotContain",
+			"Cards": ["Griselbrand"]
+		}
+	]
+}
