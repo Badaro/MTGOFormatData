@@ -19,8 +19,12 @@
       "Cards": ["Leyline of the Void"]
     },
     {
-      "Type": "DoesNotContainMainboard",
+      "Type": "DoesNotContain",
       "Cards": ["Beseech the Mirror"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Smallpox"]
     }
   ],
   "Variants": [
