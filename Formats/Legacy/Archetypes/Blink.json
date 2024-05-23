@@ -7,23 +7,23 @@
             "Cards": ["Soulherder", "Samwise the Stouthearted"]
         },
         {
-            "type": "DoesNotContain",
+            "Type": "DoesNotContain",
             "Cards": ["Murktide Regent"]
         },
         {
-            "type": "DoesNotContainMainboard",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Thalia, Guardian of Thraben"]
         },
         {
-            "type": "DoesNotContain",
+            "Type": "DoesNotContain",
             "Cards": ["Seasoned Dungeoneer"]
         },
         {
-            "type": "DoesNotContain",
+            "Type": "DoesNotContain",
             "Cards": ["Dark Depths"]
         },
         {
-            "type": "DoesNotContain",
+            "Type": "DoesNotContain",
             "Cards": ["Narset, Parter of Veils"]
         }
     ]

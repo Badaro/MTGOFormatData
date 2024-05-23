@@ -3,7 +3,7 @@
     "IncludeColorInName": true,
     "Conditions": [
         {
-            "Type": "twoOrMoreInMainboard",
+            "Type": "TwoOrMoreInMainboard",
             "Cards": ["Galerider Sliver", "Cloudshredder Sliver", "Aether Vial", "Crystalline Sliver"]
         }
     ]

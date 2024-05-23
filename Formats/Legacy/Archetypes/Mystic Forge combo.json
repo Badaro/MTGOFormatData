@@ -52,7 +52,7 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Coveted Jewel"]
-        }
+        },
       ]
     },
     {
