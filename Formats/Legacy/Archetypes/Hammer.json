@@ -7,7 +7,7 @@
             "Cards": ["Colossus Hammer"]
         },
         {
-            "Type": "oneormoreInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Esper Sentinel","Puresteel Paladin"]
         },
         {
@@ -15,7 +15,7 @@
             "Cards": ["Sigarda's Aid"]
         },
         {
-            "Type": "oneormoreInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Inkmoth Nexus", "Urza's Saga"]
         }        
     ]

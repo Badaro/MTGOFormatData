@@ -19,7 +19,7 @@
             "Cards": ["Noble Hierarch"]
         },
         {
-            "Type": "DoesNotContainsideboard",
+            "Type": "DoesNotContainSideboard",
             "Cards": ["Yorion, Sky Nomad"]
         },
         {

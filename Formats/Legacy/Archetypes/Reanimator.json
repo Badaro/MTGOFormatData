@@ -3,7 +3,7 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "TwoormoreInMainboard",
+      "Type": "TwoOrMoreInMainboard",
       "Cards": [
         "Entomb",
         "Currency Converter",
@@ -29,11 +29,11 @@
       "Cards": ["Dark Depths"]
     },
     {
-      "Type": "DoesNotContainmainboard",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Show and Tell"]
     },
     {
-      "Type": "DoesNotContainmainboard",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Death's Shadow"]
     }
   ]
