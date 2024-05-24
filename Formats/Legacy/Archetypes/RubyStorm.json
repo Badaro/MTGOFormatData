@@ -1,0 +1,30 @@
+{
+	"Name": "Ruby Storm",
+	"IncludeColorInName": false,
+	"Conditions": [
+		{
+			"Type": "InMainboard",
+			"Cards": ["Rite of Flame"]
+		},
+		{
+			"Type": "InMainboard",
+			"Cards": ["Burning Wish"]
+		},
+		{
+			"Type": "DoesNotContain",
+			"Cards": ["Arclight Pheonix"]
+		}
+	],
+	"Variants": [
+		{
+			"Name": "The Epic Gamble",
+			"IncludeColorInName": false,
+			"Conditions": [
+				{
+					"Type": "InMainboard",
+					"Cards": ["Gamble"]
+				}
+			]
+		}
+	]
+}
