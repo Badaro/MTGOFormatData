@@ -74,7 +74,11 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Goblin Guide", "Eidolon of the Great Revel"]
+          "Cards": [
+            "Goblin Guide",
+            "Eidolon of the Great Revel",
+            "Slickshot Show-Off"
+          ]
         },
         {
           "Type": "TwoOrMoreInMainboard",
