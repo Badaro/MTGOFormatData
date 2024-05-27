@@ -1,19 +1,18 @@
 {
-    "Name": "Burn",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Chain Lightning"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Fireblast"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Chandra's Incinerator"]
-        }
-
-    ]
+  "Name": "Burn",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chain Lightning"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Fireblast"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Chandra's Incinerator"]
+    }
+  ]
 }
