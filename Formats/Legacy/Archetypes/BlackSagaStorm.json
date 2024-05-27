@@ -1,0 +1,30 @@
+{
+	"Name": "Black Saga Storm",
+	"IncludeColorInName": false,
+	"Conditions": [
+		{
+			"Type": "InMainboard",
+			"Cards": ["Urza's Saga"]
+		},
+		{
+			"Type": "InMainboard",
+			"Cards": ["Lion's Eye Diamond"]
+		},
+		{
+			"Type": "InMainboard",
+			"Cards": ["Dark Ritual"]
+		}
+	],
+	"Variants": [
+		{
+			"Name": "Echo Bowmasters Black Saga Storm",
+			"IncludeColorInName": false,
+			"Conditions": [
+				{
+					"Type": "InMainboard",
+					"Cards": ["Entomb"]
+				}
+			]
+		}
+	]
+}

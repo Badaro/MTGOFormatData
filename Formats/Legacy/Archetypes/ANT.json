@@ -1,0 +1,34 @@
+{
+	"Name": "Ad Nauseam Tendrils",
+	"IncludeColorInName": false,
+	"Conditions": [
+		{
+			"Type": "InMainboard",
+			"Cards": ["Lion's Eye Diamond"]
+		},
+		{
+			"Type": "InMainboard",
+			"Cards": ["Dark Ritual"]
+		},
+		{
+			"Type": "OneOrMoreInMainboard",
+			"Cards": [
+				"Infernal Tutor",
+				"Dark Petition",
+				"Wishclaw Talisman"
+			]
+		},
+		{
+			"Type": "OneOrMoreInMainboard",
+			"Cards": [
+				"Past in Flames",
+				"Gaea's Will",
+				"Pair o' Dice Lost"
+			]
+		},
+		{
+			"Type": "DoesNotContain",
+			"Cards": ["Urza's Saga"]
+		}
+	]
+}
