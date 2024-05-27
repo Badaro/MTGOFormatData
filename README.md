@@ -4,14 +4,14 @@ Format data for use with MTGOArchetypeParser (https://github.com/Badaro/MTGOArch
 
 ## Active Maintainers
 
-- Modern: [Jiliac](https://github.com/Jiliac)
+- Standard: [Jiliac](https://github.com/Jiliac)
 - Pioneer: [Jiliac](https://github.com/Jiliac)
+- Modern: [Jiliac](https://github.com/Jiliac)
 - Legacy: [Jiliac](https://github.com/Jiliac)
 - Pauper: [Jiliac](https://github.com/Jiliac)
 - Vintage: [IamActuallyLvL1](https://github.com/IamActuallyLvL1)
-- Standard: [Jiliac](https://github.com/Jiliac)
 
-[Aliquanto](https://github.com/Aliquanto3) and [Badaro](https://github.com/Badaro) also provide occasional help with archetypes.
+[Aliquanto](https://github.com/Aliquanto3), [Lardach](https://github.com/Lardach) and [Badaro](https://github.com/Badaro) also provide occasional help with archetypes.
 
 ## Data Structure
 
