@@ -12,10 +12,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Oath of Druids"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Beseech the Mirror"]
     },
     {
