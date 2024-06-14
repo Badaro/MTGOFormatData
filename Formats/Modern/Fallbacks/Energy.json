@@ -1,0 +1,11 @@
+{
+  "Name": "Energy",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Guide of Souls",
+    "Amped Raptor",
+    "Galvanic Discharge",
+    "Unstable Amulet",
+    "Static Prison"
+  ]
+}
