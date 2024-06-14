@@ -4,7 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Birgi, God of Storytelling","Goblin Anarchomancer","Pyretic Ritual"]
+      "Cards": [
+        "Birgi, God of Storytelling",
+        "Goblin Anarchomancer",
+        "Pyretic Ritual"
+      ]
     },
     {
       "Type": "InMainboard",
