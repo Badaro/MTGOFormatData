@@ -24,6 +24,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Ruby Medallion"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Lava Dart"]
     }
   ]
