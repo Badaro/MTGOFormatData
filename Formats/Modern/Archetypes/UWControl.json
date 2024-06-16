@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Nadu, Winged Wisdom"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Omnath, Locus of Creation"]
     },
     {
