@@ -19,6 +19,14 @@
       "Cards": ["Muxus, Goblin Grandee"]
     },
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Cephalid Illusionist"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Nadu, Winged Wisdom"]
+    },
+    {
       "Type": "InMainboard",
       "Cards": ["Aether Vial"]
     }
