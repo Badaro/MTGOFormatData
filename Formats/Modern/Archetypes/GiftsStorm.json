@@ -17,6 +17,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Gifts Ungiven"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ruby Medallion"]
     }
   ]
 }

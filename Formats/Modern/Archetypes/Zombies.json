@@ -6,13 +6,17 @@
       "Type": "InMainboard",
       "Cards": ["Gravecrawler"]
     },
-	{
+    {
       "Type": "DoesNotContain",
       "Cards": ["Hollow One"]
     },
-	{
+    {
       "Type": "DoesNotContain",
       "Cards": ["Hedron Crab"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grief"]
     }
   ]
 }

@@ -11,16 +11,16 @@
       "Cards": ["Entomb"]
     },
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Murktide Regent"]
-    },
-    {
       "Type": "DoesNotContainMainboard",
       "Cards": ["Leyline of the Void"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Beseech the Mirror"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Doomsday"]
     },
     {
       "Type": "DoesNotContain",

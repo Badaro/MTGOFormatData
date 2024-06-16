@@ -1,22 +1,30 @@
 {
-    "Name": "Mono Black Helm Combo",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Dauthi Voidwalker"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Helm of Obedience"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Leyline of the Void"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Dark Depths"]
-        }
-    ]
+  "Name": "Mono Black Helm Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Dauthi Voidwalker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Helm of Obedience"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Leyline of the Void"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dark Depths"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Entomb"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mystic Forge"]
+    }
+  ]
 }

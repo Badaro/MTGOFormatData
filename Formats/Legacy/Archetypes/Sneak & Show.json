@@ -1,9 +1,20 @@
 {
-  "Name": "Sneak & Show",
+  "Name": "Sneak",
   "IncludeColorInName": false,
   "Conditions": [
-    { "Type": "InMainboard", "Cards": ["Show and Tell"] },
     { "Type": "InMainboard", "Cards": ["Sneak Attack"] },
     { "Type": "DoesNotContain", "Cards": ["Omniscience"] }
+  ],
+  "Variants": [
+    {
+      "Name": "Sneak & Show",
+      "IncludeColorInName": false,
+      "Conditions": [{ "Type": "InMainboard", "Cards": ["Show and Tell"] }]
+    },
+    {
+      "Name": "Sneak & Breach",
+      "IncludeColorInName": false,
+      "Conditions": [{ "Type": "InMainboard", "Cards": ["Through the Breach"] }]
+    }
   ]
 }

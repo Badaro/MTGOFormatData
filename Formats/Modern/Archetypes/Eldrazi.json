@@ -7,12 +7,13 @@
       "Cards": ["Eldrazi Temple"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Thought-Knot Seer"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Reality Smasher"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Thought-Knot Seer",
+        "Reality Smasher",
+        "Devourer of Destiny",
+        "Sowing Mycospawn"
+      ]
     },
     {
       "Type": "DoesNotContain",

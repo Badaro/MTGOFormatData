@@ -3,14 +3,12 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "TwoOrMoreInMainboard",
-      "Cards": [
-        "Entomb",
-        "Currency Converter",
-        "Exhume",
-        "Animate Dead",
-        "Reanimate"
-      ]
+      "Type": "InMainboard",
+      "Cards": ["Entomb"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Currency Converter", "Exhume", "Animate Dead", "Reanimate"]
     },
     {
       "Type": "DoesNotContain",
@@ -23,10 +21,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Smallpox"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Dark Depths"]
     },
     {
       "Type": "DoesNotContainMainboard",

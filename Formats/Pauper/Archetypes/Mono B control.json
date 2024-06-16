@@ -1,28 +1,30 @@
 {
-    "Name": "Mono B control",
-    "IncludeColorInName": false,
-    "Conditions": [
+  "Name": "Mono B control",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Defile", "Crypt Rats", "Tithing Blade"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Khalni Garden"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Pestilence"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Mono B Devotion",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Defile","Crypt Rats","Tithing Blade"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Khalni Garden"]
+          "Type": "InMainboard",
+          "Cards": ["Gray Merchant of Asphodel"]
         }
-        
-    ],
-    "Variants": [
-        {
-            "Name": "Mono B Devotion",
-            "IncludeColorInName": false,
-            "Conditions": [             
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Gray Merchant of Asphodel"]
-                }
-            ]
-        }
-    ]
-            
+      ]
+    }
+  ]
 }

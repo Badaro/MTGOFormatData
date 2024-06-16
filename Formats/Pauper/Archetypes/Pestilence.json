@@ -1,10 +1,10 @@
 {
-    "Name": "Pestilence",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Pestilence"]
-        }
-    ]   
+  "Name": "Pestilence",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Pestilence"]
+    }
+  ]
 }

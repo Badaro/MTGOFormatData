@@ -1,23 +1,22 @@
 {
-    "Name": "Bogles",
-    "IncludeColorInName": true,
-    "Conditions": [
+  "Name": "Bogles",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Slippery Bogle"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Aura Bogles",
+      "IncludeColorInName": true,
+      "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Slippery Bogle"]
+          "Type": "InMainboard",
+          "Cards": ["Ethereal Armor"]
         }
-    ],
-    "Variants": [
-        {
-            "Name": "Aura Bogles",
-            "IncludeColorInName": true,
-            "Conditions": [             
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Ethereal Armor"]
-                }
-            ]
-        }
-        
-            ]
+      ]
+    }
+  ]
 }

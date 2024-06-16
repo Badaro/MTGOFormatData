@@ -1,0 +1,34 @@
+{
+  "Name": "Nadu",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nadu, Winged Wisdom"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Priest of Titania"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Amulet of Vigor"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thoughtcast"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thopter Foundry"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Yawgmoth, Thran Physician"]
+    }
+  ]
+}
