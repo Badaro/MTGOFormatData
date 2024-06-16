@@ -11,10 +11,6 @@
       "Cards": ["Entomb"]
     },
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Murktide Regent"]
-    },
-    {
       "Type": "DoesNotContainMainboard",
       "Cards": ["Leyline of the Void"]
     },
