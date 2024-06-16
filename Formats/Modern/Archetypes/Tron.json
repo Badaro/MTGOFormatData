@@ -27,20 +27,6 @@
       ]
     },
     {
-      "Name": "DiceFactoryTron",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Coretapper"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Astral Cornucopia"]
-        }
-      ]
-    },
-    {
       "Name": "PrisonTron",
       "IncludeColorInName": false,
       "Conditions": [
@@ -55,6 +41,34 @@
 		{
           "Type": "DoesNotContain",
           "Cards": ["Coretapper"]
+        }
+      ]
+    },
+    {
+      "Name": "DiceFactoryTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Coretapper"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Astral Cornucopia"]
+        }
+      ]
+    },
+    {
+      "Name": "AnvilTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Semblance Anvil"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Myr Retriever"]
         }
       ]
     }
