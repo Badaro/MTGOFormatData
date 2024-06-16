@@ -10,7 +10,7 @@
       "Name": "Sneak & Show",
       "IncludeColorInName": false,
       "Conditions": [{ "Type": "InMainboard", "Cards": ["Show and Tell"] }]
-    }
+    },
     {
       "Name": "Sneak & Breach",
       "IncludeColorInName": false,
