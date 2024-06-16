@@ -17,12 +17,8 @@
           "Cards": ["Eldrazi Temple"]
         },
         {
-          "Type": "InMainboard",
-          "Cards": ["Thought-Knot Seer"]
-        },
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Matter Reshaper","Reality Smasher","Oblivion Sower","Endbringer"]
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": ["Thought-Knot Seer","Matter Reshaper","Reality Smasher","Oblivion Sower","Endbringer"]
         },
         {
           "Type": "DoesNotContain",
