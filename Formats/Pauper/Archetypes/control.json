@@ -21,6 +21,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Myr Enforcer"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Basilisk Gate"]
     },
     {

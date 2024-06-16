@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Pestilence"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Experimental Synthesizer"]
     }
   ]

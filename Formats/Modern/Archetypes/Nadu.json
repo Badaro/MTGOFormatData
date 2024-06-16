@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Priest of Titania"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Amulet of Vigor"]
     },
     {
