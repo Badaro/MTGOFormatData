@@ -1,0 +1,18 @@
+{
+  "Name": "Necro Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Necrodominance"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Borne Upon a Wind"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Beseech the Mirror"]
+    }
+  ]
+}

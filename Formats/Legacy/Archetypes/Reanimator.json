@@ -23,10 +23,6 @@
       "Cards": ["Smallpox"]
     },
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Dark Depths"]
-    },
-    {
       "Type": "DoesNotContainMainboard",
       "Cards": ["Show and Tell"]
     },
