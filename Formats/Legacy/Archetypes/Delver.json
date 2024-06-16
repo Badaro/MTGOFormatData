@@ -1,59 +1,51 @@
 {
-    "Name": "Delver",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Dragon's Rage Channeler", "Delver of Secrets","Orcish Bowmasters","Murktide Regent"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Daze","Snuff Out"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Up the Beanstalk"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Death's Shadow"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Animate Dead"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Hogaak, Arisen Necropolis"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Teferi, Time Raveler"]
-        }             
-        
-    ],
-    "Variants": [
-      {
-        "Name": "Temur Delver",
-        "IncludeColorInName": false,
-        "Conditions": [
-          {
-            "Type": "InMainboard",
-            "Cards": ["Questing Druid"]
-          }
-        ]
+  "Name": "Delver",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Dragon's Rage Channeler",
+        "Delver of Secrets",
+        "Orcish Bowmasters",
+        "Murktide Regent"
+      ]
     },
     {
-        "Name": "Dimir Scam",
-        "IncludeColorInName": false,
-        "Conditions": [
-          {
-            "Type": "InMainboard",
-            "Cards": ["Grief"]
-          }
-        ]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Daze", "Snuff Out"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Animate Dead"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hogaak, Arisen Necropolis"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Teferi, Time Raveler"]
     }
-    ]
+  ],
+  "Variants": [
+    {
+      "Name": "Temur Delver",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Questing Druid"]
+        }
+      ]
+    }
+  ]
 }
-
-
