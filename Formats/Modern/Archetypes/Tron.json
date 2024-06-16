@@ -49,16 +49,12 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": ["Chalice of the Void","Pithing Needle","Ensnaring Bridge","Trinisphere","The Underworld Cookbook"]
+        },
+        {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Chalice of the Void","Pithing Needle"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Ensnaring Bridge"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Inventors' Fair"]
+          "Cards": ["Inventors' Fair","Ugin's Labyrinth"]
         },
 		{
           "Type": "DoesNotContain",
