@@ -1,5 +1,5 @@
 {
-  "Name": "Necro Combo",
+  "Name": "Necro Storm",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Beseech the Mirror"]
+      "Cards": ["Tendrils of Agony"]
     }
   ]
 }

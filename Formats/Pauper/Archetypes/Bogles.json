@@ -10,7 +10,7 @@
   "Variants": [
     {
       "Name": "Aura Bogles",
-      "IncludeColorInName": true,
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
