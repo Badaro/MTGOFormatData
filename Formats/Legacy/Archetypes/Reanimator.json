@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Undercity Informer"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Worldgorger Dragon"]
     },
     {
