@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Amulet of Vigor"]
     },
     {
