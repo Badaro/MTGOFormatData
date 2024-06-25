@@ -44,6 +44,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Flare of Cultivation"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Chord of Calling"]
     }
   ],

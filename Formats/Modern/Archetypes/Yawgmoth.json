@@ -12,7 +12,15 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Strangleroot Geist", "Hapatra, Vizier of Poisons","Grist, the Hunger Tide"]
+      "Cards": [
+        "Strangleroot Geist",
+        "Hapatra, Vizier of Poisons",
+        "Grist, the Hunger Tide"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thassa's Oracle"]
     }
   ]
 }

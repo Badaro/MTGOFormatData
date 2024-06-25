@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Amulet of Vigor"]
     },
     {
@@ -25,10 +29,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Thopter Foundry"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Yawgmoth, Thran Physician"]
     }
   ]
 }

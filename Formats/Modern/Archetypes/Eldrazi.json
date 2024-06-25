@@ -1,6 +1,6 @@
 {
   "Name": "Eldrazi",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -22,6 +22,18 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Urza's Tower"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Breach Eldrazi",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Through the Breach"]
+        }
+      ]
     }
   ]
 }

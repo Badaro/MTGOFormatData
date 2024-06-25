@@ -13,10 +13,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Walking Ballista"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Young Wolf"]
     }
   ]
 }
