@@ -33,10 +33,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Thopter Foundry"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Yawgmoth, Thran Physician"]
     }
   ]
 }
