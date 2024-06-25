@@ -36,5 +36,17 @@
       "Type": "DoesNotContain",
       "Cards": ["Archon of Cruelty"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "Necro",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Necrodominance"]
+        }
+      ]
+    }
   ]
 }
