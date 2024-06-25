@@ -1,6 +1,6 @@
 {
   "Name": "Nadu",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -25,10 +25,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Thoughtcast"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Orcish Bowmasters"]
     },
     {
       "Type": "DoesNotContain",
