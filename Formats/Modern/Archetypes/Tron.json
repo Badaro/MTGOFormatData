@@ -32,7 +32,7 @@
       "Conditions": [
         {
           "Type": "TwoOrMoreInMainboard",
-          "Cards": ["Chalice of the Void","Pithing Needle","Ensnaring Bridge","Trinisphere","The Underworld Cookbook"]
+          "Cards": ["Chalice of the Void","Pithing Needle","Ensnaring Bridge","Trinisphere","The Underworld Cookbook","Disruptor Flute"]
         },
         {
           "Type": "OneOrMoreInMainboard",
