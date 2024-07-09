@@ -1,6 +1,6 @@
 {
   "Name": "Nadu",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
