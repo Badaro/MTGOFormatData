@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Basking Broodscale"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Slippery Bogle"]
     }
   ],
