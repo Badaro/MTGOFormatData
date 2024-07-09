@@ -15,6 +15,10 @@
       "Cards": ["Leyline of the Void"]
     },
     {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Death's Shadow"]
+    },
+    {
       "Type": "DoesNotContain",
       "Cards": ["Beseech the Mirror"]
     },

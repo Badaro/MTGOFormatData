@@ -1,0 +1,10 @@
+{
+  "Name": "Broodscale Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Basking Broodscale"]
+    }
+  ]
+}

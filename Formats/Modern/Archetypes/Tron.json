@@ -1,10 +1,10 @@
 {
   "Name": "GenericTron",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Urza's Tower","Urza's Mine","Urza's Power Plant"]
+      "Cards": ["Urza's Tower", "Urza's Mine", "Urza's Power Plant"]
     }
   ],
   "Variants": [
@@ -18,7 +18,20 @@
         },
         {
           "Type": "TwoOrMoreInMainboard",
-          "Cards": ["Thought-Knot Seer","Matter Reshaper","Reality Smasher","Oblivion Sower","Endbringer"]
+          "Cards": [
+            "Thought-Knot Seer",
+            "Matter Reshaper",
+            "Reality Smasher",
+            "Oblivion Sower",
+            "Endbringer",
+            "Emrakul, the World Anew",
+            "Sowing Mycospawn",
+            "Devourer of Destiny"
+          ]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Trinisphere"]
         },
         {
           "Type": "DoesNotContain",
@@ -32,13 +45,20 @@
       "Conditions": [
         {
           "Type": "TwoOrMoreInMainboard",
-          "Cards": ["Chalice of the Void","Pithing Needle","Ensnaring Bridge","Trinisphere","The Underworld Cookbook","Disruptor Flute"]
+          "Cards": [
+            "Chalice of the Void",
+            "Pithing Needle",
+            "Ensnaring Bridge",
+            "Trinisphere",
+            "The Underworld Cookbook",
+            "Disruptor Flute"
+          ]
         },
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Inventors' Fair","Ugin's Labyrinth"]
+          "Cards": ["Inventors' Fair", "Ugin's Labyrinth"]
         },
-		{
+        {
           "Type": "DoesNotContain",
           "Cards": ["Coretapper"]
         }
