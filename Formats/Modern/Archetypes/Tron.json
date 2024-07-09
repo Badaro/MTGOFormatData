@@ -1,6 +1,6 @@
 {
   "Name": "GenericTron",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
