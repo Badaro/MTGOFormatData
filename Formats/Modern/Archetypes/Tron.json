@@ -31,6 +31,10 @@
         },
         {
           "Type": "DoesNotContain",
+          "Cards": ["Trinisphere"]
+        },
+        {
+          "Type": "DoesNotContain",
           "Cards": ["Chromatic Star"]
         }
       ]
