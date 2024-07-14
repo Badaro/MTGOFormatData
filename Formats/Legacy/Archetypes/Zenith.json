@@ -53,8 +53,8 @@
           "Cards": ["Gaea's Cradle"]
         },
         {
-          "Type": "InMainboard",
-          "Cards": ["Fiend Artisan"]
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Fiend Artisan", "Wight of the Reliquary"]
         },
         {
           "Type": "DoesNotContain",
