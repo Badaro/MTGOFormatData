@@ -24,6 +24,18 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Allosaurus Shepherd"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Crop Rotation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Knight of the Reliquary"]
     }
   ]
