@@ -5,6 +5,7 @@
     {
       "Type": "InMainboard",
       "Cards": ["Nadu, Winged Wisdom"]
+    },
     {
       "Type": "DoesNotContain",
       "Cards": ["Cephalid Illusionist"]
@@ -27,4 +28,3 @@
     }
   ]
 }
-
