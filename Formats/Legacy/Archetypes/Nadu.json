@@ -1,19 +1,10 @@
 {
-  "Name": "Stoneblade",
-  "IncludeColorInName": true,
+  "Name": "Nadu",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Stoneforge Mystic"]
-    },
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Batterskull", "Kaldra Compleat"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Nadu, Winged Wisdom"]
-    },
     {
       "Type": "DoesNotContain",
       "Cards": ["Cephalid Illusionist"]
@@ -28,10 +19,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Aether Vial"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Grief"]
     },
     {
@@ -40,3 +27,4 @@
     }
   ]
 }
+
