@@ -1,14 +1,30 @@
 {
-    "Name": "Black Burn",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Tyrant's Choice","Vampire's Kiss","Sovereign's Bite","Fruit of Tizerus","Morsel Theft","Soul Reap"]
-        },
-        {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Serrated Scorpion","Okiba Reckoner Raid","Guul Draz Vampire","Prickly Boggart","Changeling Outcast","Night Market Lookout","Serrated Scorpion"]
-        }        
-    ]
+  "Name": "Black Burn",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Tyrant's Choice",
+        "Vampire's Kiss",
+        "Sovereign's Bite",
+        "Fruit of Tizerus",
+        "Morsel Theft",
+        "Soul Reap"
+      ]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Serrated Scorpion",
+        "Okiba Reckoner Raid",
+        "Guul Draz Vampire",
+        "Prickly Boggart",
+        "Changeling Outcast",
+        "Night Market Lookout",
+        "Serrated Scorpion",
+        "Raven of Fell Omens"
+      ]
+    }
+  ]
 }
