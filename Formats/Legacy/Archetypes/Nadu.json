@@ -1,17 +1,9 @@
 {
-  "Name": "Stoneblade",
-  "IncludeColorInName": true,
+  "Name": "Nadu",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Stoneforge Mystic"]
-    },
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Batterskull", "Kaldra Compleat"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Nadu, Winged Wisdom"]
     },
     {
@@ -28,15 +20,31 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Aether Vial"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Grief"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Knight of the Reliquary"]
+      "Cards": ["Allosaurus Shepherd"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Crop Rotation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Up the Beanstalk"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Maverick",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Knight of the Reliquary"]
+        }
+      ]
     }
   ]
 }

@@ -16,7 +16,11 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Experimental Synthesizer"]
+      "Cards": ["Goblin Tomb Raider"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Tomb Raider"]
     }
   ]
 }

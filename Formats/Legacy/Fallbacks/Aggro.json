@@ -1,0 +1,12 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Guide of Souls",
+    "Ocelot Pride",
+    "Amped Raptor",
+    "Ajani, Nacatl Pariah",
+    "Thalia, Heretic Cathar",
+    "Preeminent Captain"
+  ]
+}

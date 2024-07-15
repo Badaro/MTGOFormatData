@@ -33,6 +33,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Experimental Synthesizer"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Refurbished Familiar"]
         }
       ]
     }
