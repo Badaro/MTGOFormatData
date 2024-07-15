@@ -13,10 +13,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Kuldotha Rebirth"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Refurbished Familiar"]
     }
   ],
   "Variants": [
@@ -37,6 +33,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Experimental Synthesizer"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Refurbished Familiar"]
         }
       ]
     }
