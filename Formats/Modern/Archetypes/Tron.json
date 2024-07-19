@@ -30,10 +30,6 @@
           ]
         },
         {
-          "Type": "DoesNotContainInMainboard",
-          "Cards": ["Trinisphere"]
-        },
-        {
           "Type": "DoesNotContain",
           "Cards": ["Chromatic Star"]
         }
