@@ -1,37 +1,38 @@
 {
-    "Name": "Post",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Cloudpost"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Lotus Petal"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Mox Diamond"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Knight of the Reliquary"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Not of This World"]
-        },{
-            "Type": "DoesNotContain",
-            "Cards": ["Thoughtseize"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Vampire Hexmage"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Sylvan Safekeeper"]
-        }
-    ]
+  "Name": "Post",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cloudpost"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Lotus Petal"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mox Diamond"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Knight of the Reliquary"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Not of This World"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thoughtseize"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Vampire Hexmage"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sylvan Safekeeper"]
+    }
+  ]
 }

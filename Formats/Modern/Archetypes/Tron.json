@@ -30,37 +30,12 @@
           ]
         },
         {
-          "Type": "DoesNotContain",
+          "Type": "DoesNotContainInMainboard",
           "Cards": ["Trinisphere"]
         },
         {
           "Type": "DoesNotContain",
           "Cards": ["Chromatic Star"]
-        }
-      ]
-    },
-    {
-      "Name": "PrisonTron",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "TwoOrMoreInMainboard",
-          "Cards": [
-            "Chalice of the Void",
-            "Pithing Needle",
-            "Ensnaring Bridge",
-            "Trinisphere",
-            "The Underworld Cookbook",
-            "Disruptor Flute"
-          ]
-        },
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Inventors' Fair", "Ugin's Labyrinth"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Coretapper"]
         }
       ]
     },
