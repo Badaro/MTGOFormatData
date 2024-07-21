@@ -1,0 +1,18 @@
+{
+  "Name": "Soultrader Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Gravecrawler"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Warren Soultrader"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Chthonian Nightmare"]
+    }
+  ]
+}

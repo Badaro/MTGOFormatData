@@ -35,6 +35,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Archon of Cruelty"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Warren Soultrader"]
     }
   ],
   "Variants": [
