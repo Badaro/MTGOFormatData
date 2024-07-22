@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Kuldotha Rebirth"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Rustvale Bridge"]
     }
   ]
 }
