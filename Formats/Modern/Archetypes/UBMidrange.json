@@ -13,18 +13,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
-    }
-  ],
-  "Variants": [
+    },
     {
-      "Name": "FrogTide",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Murktide Regent"]
-        }
-      ]
+      "Type": "DoesNotContain",
+      "Cards": ["Expressive Iteration"]
     }
   ]
 }
