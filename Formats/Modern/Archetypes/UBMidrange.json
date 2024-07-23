@@ -4,15 +4,7 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Orcish Bowmasters"]
-    },
-    {
-      "Type": "InMainboard",
       "Cards": ["Psychic Frog"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Murktide Regent"]
     },
     {
       "Type": "DoesNotContain",
@@ -21,6 +13,18 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
-    }
+    },
+    "Variants": [
+      {
+        "Name": "FrogTide",
+        "IncludeColorInName": true,
+        "Conditions": [
+          {
+            "Type": "InMainboard",
+            "Cards": ["Murktide Regent"]
+          }
+        ]
+      }
+    ]
   ]
 }
