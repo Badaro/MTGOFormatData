@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Ad Nauseam","Spoils of the Vault"]
+      "Cards": ["Ad Nauseam", "Spoils of the Vault"]
     },
     {
       "Type": "InMainboard",

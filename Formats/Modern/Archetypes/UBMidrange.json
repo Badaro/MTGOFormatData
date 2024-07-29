@@ -1,0 +1,22 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Psychic Frog"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grief"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Expressive Iteration"]
+    }
+  ]
+}
