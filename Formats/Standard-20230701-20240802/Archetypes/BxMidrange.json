@@ -1,0 +1,26 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Deep-Cavern Bat"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Relic of Legends"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Herd Migration"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Memory Deluge"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Raffine, Scheming Seer"]
+    }
+  ]
+}

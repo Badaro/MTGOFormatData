@@ -1,0 +1,22 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Monastery Swiftspear"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Warleader's Call"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Imodane's Recruiter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Memory Deluge"]
+    }
+  ]
+}

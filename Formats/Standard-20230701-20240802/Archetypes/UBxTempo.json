@@ -1,0 +1,24 @@
+{
+    "Name": "Tempo",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Halo Forager"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Memory Deluge"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Haughty Djinn"
+            ]
+        }
+    ]
+}

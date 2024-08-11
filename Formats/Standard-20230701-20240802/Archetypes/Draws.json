@@ -1,0 +1,24 @@
+{
+  "Name": "Draws",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Evangel of Synthesis"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Duelist of the Mind",
+        "Proft's Eidetic Memory",
+        "Three Steps Ahead",
+        "Steamcore Scholar",
+        "Ledger Shredder"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Raffine, Scheming Seer"]
+    }
+  ]
+}

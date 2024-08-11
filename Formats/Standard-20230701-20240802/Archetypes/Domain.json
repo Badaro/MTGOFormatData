@@ -1,0 +1,30 @@
+{
+  "Name": "Domain",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Herd Migration"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Leyline Binding"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Topiary Stomper"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Etali, Primal Conqueror"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Invasion of Alara"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Memory Deluge"]
+    }
+  ]
+}

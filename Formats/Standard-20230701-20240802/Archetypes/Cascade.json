@@ -1,0 +1,18 @@
+{
+    "Name": "Domain",
+    "IncludeColorInName": false,
+    "Conditions": [
+      {
+        "Type": "InMainboard",
+        "Cards": [
+          "Invasion of Alara"
+        ]
+      },
+      {
+        "Type": "DoesNotContain",
+        "Cards": [
+          "Archangel of Wrath"
+        ]
+      }
+    ]
+  }
