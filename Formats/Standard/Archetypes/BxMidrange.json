@@ -13,14 +13,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Herd Migration"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Memory Deluge"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Raffine, Scheming Seer"]
     }
   ]
 }
