@@ -7,16 +7,12 @@
       "Cards": ["Aether Vial", "Chalice of the Void", "Umezawa's Jitte"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Wasteland"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Wasteland", "Field of Ruin"]
     },
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Thalia, Guardian of Thraben", "Phelia, Exuberant Shepherd"]
-    },
-    {
-      "Type": "OneOrMoreInSideboard",
-      "Cards": ["Yorion, Sky Nomad", "Deafening Silence", "Sanctum Prelate"]
     },
     {
       "Type": "DoesNotContain",
