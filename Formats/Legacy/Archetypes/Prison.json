@@ -27,6 +27,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Goblin Lackey"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
     }
   ]
 }
