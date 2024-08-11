@@ -8,6 +8,9 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Archangel of Wrath"]
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Spyglass Siren"]
     }
   ]
