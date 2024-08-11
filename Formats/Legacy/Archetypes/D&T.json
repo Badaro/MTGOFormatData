@@ -12,7 +12,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Thalia, Guardian of Thraben", "Phelia, Exuberant Shepherd"]
+      "Cards": [
+        "Thalia, Guardian of Thraben",
+        "Phelia, Exuberant Shepherd",
+        "Flickerwisp"
+      ]
     },
     {
       "Type": "DoesNotContain",
