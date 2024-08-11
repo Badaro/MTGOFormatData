@@ -4,9 +4,6 @@
   "CommonCards": [
     "Evolving Adaptive",
     "Monastery Swiftspear",
-    "Kumano Faces Kakkazan",
-    "Adeline, Resplendent Cathar",
-    "Tenacious Underdog",
     "Spellbook Vendor",
     "Monstrous Rage",
     "Pia Nalaar, Consul of Revival",
@@ -23,10 +20,12 @@
     "Voja, Jaws of the Conclave",
     "Werefox Bodyguard",
     "Squee, Dubious Monarch",
-    "Thalia, Guardian of Thraben",
     "Inti, Seneschal of the Sun",
     "Tinybones, the Pickpocket",
     "Forsaken Miner",
-    "Gingerbrute"
+    "Gingerbrute",
+    "Pawpatch Recruit",
+    "Torch the Tower",
+    "Cunning Coyote"
   ]
 }

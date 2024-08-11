@@ -13,10 +13,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Imodane's Recruiter"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Memory Deluge"]
     }
   ]
 }
