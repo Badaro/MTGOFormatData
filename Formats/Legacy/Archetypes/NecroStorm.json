@@ -7,12 +7,12 @@
       "Cards": ["Necrodominance"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Borne Upon a Wind"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Beseech the Mirror", "Borne Upon a Wind"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Tendrils of Agony"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Tendrils of Agony", "Fateful Showdown"]
     }
   ]
 }

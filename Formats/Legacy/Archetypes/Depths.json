@@ -16,10 +16,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["The Tabernacle at Pendrell Vale"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Cloudpost"]
     },
     {

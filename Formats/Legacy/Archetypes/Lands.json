@@ -4,7 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainOrSideboard",
-      "Cards": ["The Tabernacle at Pendrell Vale", "Sphere of Resistance"]
+      "Cards": [
+        "The Tabernacle at Pendrell Vale",
+        "Sphere of Resistance",
+        "Crucible of Worlds"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
@@ -26,6 +30,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Knight of the Reliquary"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sowing Mycospawn"]
     },
     {
       "Type": "DoesNotContain",

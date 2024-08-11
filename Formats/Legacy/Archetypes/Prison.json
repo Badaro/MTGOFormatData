@@ -8,9 +8,8 @@
         "Laelia, the Blade Reforged",
         "Caves of Chaos Adventurer",
         "Fury",
-        "Lodestone Golem",
-        "Magus of the Moon",
-        "Blood Moon"
+        "Goblin Rabblemaster",
+        "Lodestone Golem"
       ]
     },
     {
@@ -19,16 +18,19 @@
         "Trinisphere",
         "Unlicensed Hearse",
         "Ensnaring Bridge",
-        "Sphere of Resistance"
+        "Sphere of Resistance",
+        "Vexing Bauble",
+        "Magus of the Moon",
+        "Blood Moon"
       ]
-    },
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Chalice of the Void", "Shatterskull Smashing"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Goblin Lackey"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
     }
   ]
 }

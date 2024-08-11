@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Chain Lightning"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Chain Lightning", "Rift Bolt", "Skewer the Critics"]
     },
     {
       "Type": "InMainboard",

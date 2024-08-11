@@ -1,31 +1,30 @@
 {
-    "Name": "Death & Taxes",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Aether Vial", "Chalice of the Void","Umezawa's Jitte"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Wasteland"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Thalia, Guardian of Thraben"]
-        },
-        {
-            "Type": "OneOrMoreInSideboard",
-            "Cards": ["Yorion, Sky Nomad", "Deafening Silence","Sanctum Prelate"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Brutal Cathar"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Green Sun's Zenith"]
-        }
-    ]
-      
+  "Name": "Death & Taxes",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Aether Vial", "Chalice of the Void", "Umezawa's Jitte"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Wasteland", "Field of Ruin"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Thalia, Guardian of Thraben",
+        "Phelia, Exuberant Shepherd",
+        "Flickerwisp"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Brutal Cathar"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Green Sun's Zenith"]
+    }
+  ]
 }
