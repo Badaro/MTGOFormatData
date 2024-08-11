@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["The Restoration of Eiganjo"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Zoetic Glyph"]
     }
   ]
 }

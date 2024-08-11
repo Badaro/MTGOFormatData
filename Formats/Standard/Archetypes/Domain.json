@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Invasion of Alara"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Warden of the Inner Sky"]
     }
   ]
 }
