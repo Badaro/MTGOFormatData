@@ -1,22 +1,18 @@
 {
-  "Name": "BG Midrange",
-  "IncludeColorInName": false,
+  "Name": "Ramp",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Avenging Hunter"]
+      "Cards": ["Writhing Chrysalis"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Cast Down", "Generous Ent"]
+      "Type": "InMainboard",
+      "Cards": ["Arbor Elf"]
     },
     {
       "Type": "DoesNotContainMainboard",
       "Cards": ["Pestilence"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Boarding Party"]
     },
     {
       "Type": "DoesNotContainMainboard",

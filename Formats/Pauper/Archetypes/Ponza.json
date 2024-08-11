@@ -1,18 +1,18 @@
 {
-    "Name": "Ponza",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Thermokarst","Mwonvuli Acid-Moss","Cleansing Wildfire"]
-        },
-        {
-            "Type" : "InMainboard",
-            "Cards": ["Annoyed Altisaur"]
-        },
-        {
-            "Type" : "OneOrMoreInMainboard",
-            "Cards": ["Boarding Party","Utopia Sprawl"]
-        }
-    ]
+  "Name": "Ponza",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thermokarst", "Mwonvuli Acid-Moss", "Cleansing Wildfire"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Annoyed Altisaur"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Boarding Party", "Utopia Sprawl"]
+    }
+  ]
 }
