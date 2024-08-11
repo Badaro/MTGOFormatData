@@ -29,6 +29,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Sowing Mycospawn"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Cloudpost"]
     },
     {
