@@ -12,7 +12,7 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Topiary Stomper"]
+      "Cards": ["Up the Beanstalk"]
     },
     {
       "Type": "DoesNotContain",
@@ -21,10 +21,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Invasion of Alara"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Memory Deluge"]
     }
   ]
 }
