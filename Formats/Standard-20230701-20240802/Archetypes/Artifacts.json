@@ -1,0 +1,18 @@
+{
+    "Name": "Artifacts",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Thran Spider"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Memory Deluge"
+            ]
+        }
+    ]
+}

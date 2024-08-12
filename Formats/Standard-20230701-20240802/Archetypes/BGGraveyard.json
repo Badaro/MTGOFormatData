@@ -1,0 +1,10 @@
+{
+  "Name": "Graveyard",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Insidious Roots"]
+    }
+  ]
+}

@@ -4,7 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Glissa Sunslayer"]
+      "Cards": ["The Restoration of Eiganjo"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Herd Migration"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Jukai Naturalist"]
     },
     {
       "Type": "DoesNotContain",
@@ -12,15 +20,11 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Insidious Roots"]
+      "Cards": ["Memory Deluge"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Relic of Legends"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Herd Migration"]
+      "Cards": ["Raffine, Scheming Seer"]
     }
   ]
 }

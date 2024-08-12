@@ -1,22 +1,22 @@
 {
-  "Name": "Midrange",
+  "Name": "Aggro",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Deep-Cavern Bat"]
+      "Cards": ["Monastery Swiftspear"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Relic of Legends"]
+      "Cards": ["Warleader's Call"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Herd Migration"]
+      "Cards": ["Imodane's Recruiter"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Iridescent Vinelasher"]
+      "Cards": ["Memory Deluge"]
     }
   ]
 }

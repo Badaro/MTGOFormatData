@@ -1,0 +1,18 @@
+{
+  "Name": "Esper Midrange",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Raffine, Scheming Seer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Skrelv, Defector Mite"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Memory Deluge"]
+    }
+  ]
+}

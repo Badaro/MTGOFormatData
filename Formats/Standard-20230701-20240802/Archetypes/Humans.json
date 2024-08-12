@@ -1,10 +1,10 @@
 {
-  "Name": "Aggro",
-  "IncludeColorInName": true,
+  "Name": "Humans",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Monastery Swiftspear"]
+      "Cards": ["Coppercoat Vanguard"]
     },
     {
       "Type": "DoesNotContain",
@@ -13,6 +13,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Imodane's Recruiter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Harbin, Vanguard Aviator"]
     }
   ]
 }

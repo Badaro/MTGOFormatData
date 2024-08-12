@@ -17,6 +17,14 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Springheart Nantuko"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Bristly Bill, Spine Sower"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Ignoble Hierarch"]
     }
   ]

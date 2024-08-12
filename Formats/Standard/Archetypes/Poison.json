@@ -4,12 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": [
-        "Jawbone Duelist",
-        "White Sun's Twilight",
-        "Voidwing Hybrid",
-        "Skrelv's Hive"
-      ]
+      "Cards": ["Jawbone Duelist", "Voidwing Hybrid", "Skrelv's Hive"]
     }
   ]
 }

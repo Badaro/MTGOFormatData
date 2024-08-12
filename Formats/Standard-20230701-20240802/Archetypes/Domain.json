@@ -12,7 +12,7 @@
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Up the Beanstalk"]
+      "Cards": ["Topiary Stomper"]
     },
     {
       "Type": "DoesNotContain",
@@ -24,7 +24,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Warden of the Inner Sky"]
+      "Cards": ["Memory Deluge"]
     }
   ]
 }

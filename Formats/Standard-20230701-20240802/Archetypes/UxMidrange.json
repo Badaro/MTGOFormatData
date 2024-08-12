@@ -1,26 +1,30 @@
 {
-  "Name": "Aggro",
+  "Name": "Midrange",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
+      "Cards": ["Dennick, Pious Apprentice"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Zephyr Sentinel"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Herd Migration"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Raffine, Scheming Seer"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Regal Bunnicorn"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Harbin, Vanguard Aviator"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Warleader's Call"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Imodane's Recruiter"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Monastery Swiftspear"]
+      "Cards": ["Deep-Cavern Bat"]
     },
     {
       "Type": "DoesNotContain",
@@ -28,11 +32,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["The Restoration of Eiganjo"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Zoetic Glyph"]
+      "Cards": ["Skrelv, Defector Mite"]
     }
   ]
 }

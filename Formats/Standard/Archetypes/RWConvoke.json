@@ -1,0 +1,18 @@
+{
+  "Name": "Convoke",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Warleader's Call", "Imodane's Recruiter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archangel of Wrath"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Spyglass Siren"]
+    }
+  ]
+}

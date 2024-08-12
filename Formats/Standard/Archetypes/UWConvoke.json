@@ -1,0 +1,23 @@
+{
+  "Name": "Convoke",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Warden of the Inner Sky"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Spyglass Siren",
+        "Mockingbird",
+        "Subterranean Schooner",
+        "Invasion of Segovia"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Zoetic Glyph"]
+    }
+  ]
+}

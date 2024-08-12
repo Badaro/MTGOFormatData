@@ -1,18 +1,18 @@
 {
-  "Name": "Aggro",
+  "Name": "Control",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Monastery Swiftspear"]
+      "Cards": ["Memory Deluge"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Warleader's Call"]
+      "Cards": ["Spyglass Siren"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Imodane's Recruiter"]
+      "Cards": ["Aftermath Analyst"]
     }
   ]
 }

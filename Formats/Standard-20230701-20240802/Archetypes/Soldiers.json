@@ -1,10 +1,10 @@
 {
-  "Name": "Aggro",
+  "Name": "Soldiers",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Monastery Swiftspear"]
+      "Cards": ["Harbin, Vanguard Aviator"]
     },
     {
       "Type": "DoesNotContain",
@@ -12,7 +12,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Imodane's Recruiter"]
+      "Cards": ["Raffine, Scheming Seer"]
     }
   ]
 }

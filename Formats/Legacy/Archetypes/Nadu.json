@@ -24,10 +24,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Allosaurus Shepherd"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Crop Rotation"]
     },
     {

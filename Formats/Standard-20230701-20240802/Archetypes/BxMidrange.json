@@ -4,15 +4,7 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Glissa Sunslayer"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Deep-Cavern Bat"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Insidious Roots"]
     },
     {
       "Type": "DoesNotContain",
@@ -21,6 +13,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Herd Migration"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Memory Deluge"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Raffine, Scheming Seer"]
     }
   ]
 }

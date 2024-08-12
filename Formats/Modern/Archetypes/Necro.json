@@ -1,20 +1,19 @@
 {
-  "Name": "Scam",
-  "IncludeColorInName": true,
+  "Name": "Necrodominance",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Grief", "Dauthi Voidwalker", "Orcish Bowmasters"]
+      "Cards": [
+        "Grief",
+        "Dauthi Voidwalker",
+        "Orcish Bowmasters",
+        "Boggart Trawler"
+      ]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": [
-        "Malakir Rebirth",
-        "Undying Evil",
-        "Undying Malice",
-        "Feign Death",
-        "Not Dead After All"
-      ]
+      "Type": "InMainboard",
+      "Cards": ["Necrodominance"]
     },
     {
       "Type": "DoesNotContain",
@@ -39,10 +38,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Warren Soultrader"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Necrodominance"]
     }
   ]
 }
