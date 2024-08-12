@@ -7,14 +7,8 @@
       "Cards": ["Grief", "Dauthi Voidwalker", "Orcish Bowmasters"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": [
-        "Malakir Rebirth",
-        "Undying Evil",
-        "Undying Malice",
-        "Feign Death",
-        "Not Dead After All"
-      ]
+      "Type": "InMainboard",
+      "Cards": ["Necrodominance"]
     },
     {
       "Type": "DoesNotContain",
@@ -39,10 +33,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Warren Soultrader"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Necrodominance"]
     }
   ]
 }
