@@ -1,6 +1,6 @@
 {
-  "Name": "Scam",
-  "IncludeColorInName": true,
+  "Name": "Necrodominance",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
