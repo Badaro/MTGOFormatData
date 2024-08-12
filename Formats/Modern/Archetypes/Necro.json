@@ -4,7 +4,12 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Grief", "Dauthi Voidwalker", "Orcish Bowmasters"]
+      "Cards": [
+        "Grief",
+        "Dauthi Voidwalker",
+        "Orcish Bowmasters",
+        "Boggart Trawler"
+      ]
     },
     {
       "Type": "InMainboard",
