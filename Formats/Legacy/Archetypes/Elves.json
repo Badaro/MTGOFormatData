@@ -17,6 +17,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Springheart Nantuko"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Ignoble Hierarch"]
     }
   ]
