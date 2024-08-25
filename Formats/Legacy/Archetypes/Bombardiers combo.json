@@ -9,6 +9,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Minsc & Boo, Timeless Heroes"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Caves of Chaos Adventurer"]
         }
     ]
 }

@@ -26,6 +26,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Caves of Chaos Adventurer"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Goblin Lackey"]
     },
     {
