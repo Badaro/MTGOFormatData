@@ -1,8 +1,10 @@
 {
-  "Metas": [
-    { "StartDate": "2015-11-01", "Name": "StartOfMtgoData" },
-    { "StartDate": "2021-06-03", "Name": "PostModernHorizons2" },
-    { "StartDate": "2023-06-20", "Name": "PostLOTR" },
-    { "StartDate": "2024-06-11", "Name": "PostModernHorizons3" }
-  ]
+   "Metas": 
+   [
+      { "StartDate": "2015-11-01", "Name": "StartOfMtgoData" },
+      { "StartDate": "2021-06-03", "Name": "PostModernHorizons2" },
+      { "StartDate": "2023-06-20", "Name": "PostLOTR" },
+      { "StartDate": "2024-06-11", "Name": "PostModernHorizons3" },
+      { "StartDate": "2024-08-26", "Name": "PostSagaBaubleRestriction" }
+   ]
 }
