@@ -36,10 +36,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Grief"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Martyr of Sands"]
     },
     {
