@@ -34,10 +34,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Teferi, Time Raveler"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Grief"]
     }
   ],
   "Variants": [

@@ -20,10 +20,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Grief"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Crop Rotation"]
     },
     {
