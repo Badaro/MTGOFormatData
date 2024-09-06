@@ -7,8 +7,8 @@
       "Cards": ["Goblin Engineer"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Goblin Welder"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Goblin Welder", "Agatha's Soul Cauldron"]
     },
     {
       "Type": "OneOrMoreInMainboard",
