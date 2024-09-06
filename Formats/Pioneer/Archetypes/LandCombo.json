@@ -1,0 +1,26 @@
+{
+  "Name": "Land Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Aftermath Analyst", "Nissa, Resurgent Animist"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Worldsoul's Rage"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Titan of Industry"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Virtue of Persistence"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Spyglass Siren"]
+    }
+  ]
+}

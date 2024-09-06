@@ -1,0 +1,14 @@
+{
+  "Name": "Tree Combo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Voldaren Thrillseeker"]
+    },
+    {
+        "Type": "InMainboard",
+        "Cards": ["Tree of Perdition"]
+    }
+  ]
+}

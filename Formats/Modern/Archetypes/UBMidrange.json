@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Expressive Iteration"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goryo's Vengeance"]
     }
   ]
 }

@@ -4,19 +4,34 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Goryo's Vengeance"]
+      "Cards": [
+        "Goryo's Vengeance"
+      ]
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Griselbrand","Emrakul, the Aeons Torn","Atraxa, Grand Unifier"]
+      "Cards": [
+        "Griselbrand",
+        "Emrakul, the Aeons Torn",
+        "Atraxa, Grand Unifier",
+        "Ulamog, the Defiler"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Nourishing Shoal"]
+      "Cards": [
+        "Nourishing Shoal"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Asmoranomardicadaistinaculdacar"]
+      "Cards": [
+        "Asmoranomardicadaistinaculdacar"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Murktide Regent"]
     }
   ]
 }
