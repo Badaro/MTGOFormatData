@@ -35,6 +35,16 @@
           "Cards": ["Through the Breach"]
         }
       ]
+    },
+    {
+      "Name": "Ramp Eldrazi",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Emrakul, the Promised End"]
+        }
+      ]
     }
   ]
 }
