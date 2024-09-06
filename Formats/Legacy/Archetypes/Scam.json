@@ -1,0 +1,54 @@
+{
+  "Name": "Scam",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Grief", "Liliana of the Veil"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Entomb"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Leyline of the Void"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Beseech the Mirror"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Doomsday"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Smallpox"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Mono Black Scam",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Dark Ritual", "Dauthi Voidwalker"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Ephemerate"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Brainstorm"]
+        }
+      ]
+    }
+  ]
+}
