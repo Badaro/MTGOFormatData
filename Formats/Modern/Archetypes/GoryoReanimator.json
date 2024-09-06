@@ -28,6 +28,10 @@
       "Cards": [
         "Asmoranomardicadaistinaculdacar"
       ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Murktide Regent"]
     }
   ]
 }
