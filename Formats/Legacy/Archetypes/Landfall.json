@@ -1,0 +1,19 @@
+{
+    "Name": "Landfall",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Elvish Reclaimer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Gaea's Cradle"]
+        }
+    ]
+}
+
