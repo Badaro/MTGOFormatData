@@ -29,6 +29,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Force of Will"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Freestrider Lookout"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Iridescent Vinelasher"]
     }
   ],
   "Variants": [
