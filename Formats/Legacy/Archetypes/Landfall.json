@@ -12,10 +12,6 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Gaea's Cradle"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Green Sun's Zenith"]
         },
         {
