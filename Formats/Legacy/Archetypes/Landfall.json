@@ -1,0 +1,23 @@
+{
+    "Name": "Landfall",
+    "IncludeColorInName": true,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Elvish Reclaimer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Wight of the Reliquary"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dark Depths"]
+        }
+    ]
+}
+
