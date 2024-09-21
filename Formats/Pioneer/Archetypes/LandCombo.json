@@ -7,8 +7,8 @@
       "Cards": ["Aftermath Analyst", "Nissa, Resurgent Animist"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Worldsoul's Rage"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Lotus Cobra", "Spelunking"]
     },
     {
       "Type": "DoesNotContainMainboard",
