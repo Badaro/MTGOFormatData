@@ -30,6 +30,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Eldrazi Temple"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Auriok Salvagers"]
     },
     {
