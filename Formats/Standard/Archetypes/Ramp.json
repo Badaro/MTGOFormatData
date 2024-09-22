@@ -1,0 +1,11 @@
+{
+  "Name": "Ramp",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lumra, Bellow of the Woods"]
+    }
+  ]
+}
+
