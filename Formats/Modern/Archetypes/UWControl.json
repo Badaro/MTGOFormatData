@@ -46,17 +46,17 @@
       "Type": "DoesNotContain",
       "Cards": ["Hedron Crab"]
     },
-    "Variants": [
-        {
-            "Name": "Scam",
-            "IncludeColorInName": true,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Nulldrifter"]
-                }
-            ]
-        }
-    ]
+  ],
+  "Variants": [
+      {
+          "Name": "Scam",
+          "IncludeColorInName": true,
+          "Conditions": [
+              {
+                  "Type": "InMainboard",
+                  "Cards": ["Nulldrifter"]
+              }
+          ]
+      }
   ]
 }
