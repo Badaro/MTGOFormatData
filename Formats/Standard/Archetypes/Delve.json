@@ -1,11 +1,12 @@
 {
-  "Name": "Delve",
-  "IncludeColorInName": true,
-  "Conditions": [
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Tolarian Terror", "Eddymurk Crab"]
-    }
-  ]
+    "Name": "Delve",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Tolarian Terror", "Eddymurk Crab"]
+        },
+        { "Type": "DoesNotContain", "Cards": [ "Haughty Djinn" ] }
+    ]
 }
 
