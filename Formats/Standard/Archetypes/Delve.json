@@ -1,0 +1,11 @@
+{
+  "Name": "Delve",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Tolarian Terror", "Eddymurk Crab"]
+    }
+  ]
+}
+
