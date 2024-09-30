@@ -11,6 +11,10 @@
         "Cards": ["The Wandering Emperor"]
     },
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Transmogrify"]
+    },
+    {
         "Type": "DoesNotContain",
         "Cards": ["Indomitable Creativity"]
     }

@@ -5,19 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Fires of Invention"]
-        }
-    ],
-    "Variants": [
-      {
-        "Name": "Enigmatic Fires",
-        "IncludeColorInName": true,
-        "Conditions": [
-          {
-            "Type": "InMainboard",
+        },
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Enigmatic Incarnation"]
-          }
-          ]
-  
-      }
+        }
     ]
   }
