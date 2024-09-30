@@ -8,6 +8,7 @@
         "Dragon's Rage Channeler",
         "Delver of Secrets",
         "Orcish Bowmasters",
+        "Nethergoyf",
         "Murktide Regent"
       ]
     },
@@ -48,6 +49,16 @@
         {
           "Type": "InMainboard",
           "Cards": ["Questing Druid"]
+        }
+      ]
+    },
+    {
+      "Name": "Frog",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Psychic Frog"]
         }
       ]
     }

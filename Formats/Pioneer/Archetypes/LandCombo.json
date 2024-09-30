@@ -21,6 +21,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Spyglass Siren"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Lotus Field"]
     }
   ]
 }

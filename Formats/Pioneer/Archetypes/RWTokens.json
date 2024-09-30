@@ -1,0 +1,23 @@
+{
+  "Name": "Token",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Fable of the Mirror-Breaker"]
+    },
+    {
+        "Type": "InMainboard",
+        "Cards": ["The Wandering Emperor"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Transmogrify"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Indomitable Creativity"]
+    }
+  ]
+}
+
