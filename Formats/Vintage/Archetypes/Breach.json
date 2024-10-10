@@ -6,6 +6,10 @@
             "Type": "InMainboard",
             "Cards": ["Underworld Breach"]
         },
+		{
+            "Type": "InMainboard",
+            "Cards": ["Brain Freeze"]
+        },
         {
             "Type": "DoesNotContain",
             "Cards": ["Oath of Druids"]
@@ -13,6 +17,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Doomsday"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
         }
     ]
 }

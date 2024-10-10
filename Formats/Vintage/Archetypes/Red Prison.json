@@ -1,0 +1,22 @@
+{
+    "Name": "Red Prison",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Magus of the Moon"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Mountain"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Chrome Mox"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Blood Moon"]
+        }
+    ]
+}

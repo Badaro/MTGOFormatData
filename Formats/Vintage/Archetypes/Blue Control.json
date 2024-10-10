@@ -1,0 +1,46 @@
+{
+    "Name": "Blue Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainOrSideboard",
+            "Cards": ["Swords to Plowshares","Preordain","Ponder","Pyroblast","Fatal Push"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Reanimate"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Tinker"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Bazaar of Baghdad"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Mishra's Workshop"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Deathrite Shaman"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "Merfolk",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Island"]
+        }, 
+        {
+            "Type": "TwoOrMoreInMainboard",
+            "Cards": ["Vodalian Hexcatcher","Tishana's Tidebinder","Thieving Skydiver","Lord of Atlantis"]
+        }
+    ]
+}

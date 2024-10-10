@@ -12,6 +12,10 @@
         },
         {
             "Type": "InMainboard",
+            "Cards": ["Plains"]
+        },
+        {
+            "Type": "InMainboard",
             "Cards": ["Chrome Mox"]
         }
     ]
