@@ -1,0 +1,19 @@
+{
+  "Name": "Black Demons",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Bloodletter of Aclazotz"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Unholy Annex"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Fable of the Mirror-Breaker"]
+    }
+  ]
+}
+
