@@ -3,7 +3,7 @@
     "IncludeColorInName": false,
     "Conditions": [
         {
-            "Type": "InMainOrSideboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Swords to Plowshares","Preordain","Ponder","Pyroblast","Fatal Push"]
         },
         {
