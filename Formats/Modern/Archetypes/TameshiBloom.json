@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Lotus Bloom"]
-    }
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Charbelcher"]
+    },
   ]
 }
