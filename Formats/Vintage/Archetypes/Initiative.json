@@ -11,8 +11,8 @@
             "Cards": ["Seasoned Dungeoneer"]
         },
         {
-            "Type": "InMainboard",
-            "Cards": ["Plains"]
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Plains","Snow-Covered Plains"]
         },
         {
             "Type": "InMainboard",
