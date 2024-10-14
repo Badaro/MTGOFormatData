@@ -9,10 +9,18 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Unholy Annex"]
-    },
+    }
+  ],
+  "Variants": [
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Fable of the Mirror-Breaker"]
+      "Name": "Demons",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Fable of the Mirror-Breaker"]
+        }
+      ]
     }
   ]
 }
