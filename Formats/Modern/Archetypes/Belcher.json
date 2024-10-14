@@ -1,14 +1,25 @@
 {
   "Name": "Belcher",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Goblin Charbelcher"]
+      "Cards": [
+        "Goblin Charbelcher"
+      ]
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Simian Spirit Guide","Irencrag Feat","Chancellor of the Tangle","Desperate Ritual","Pyretic Ritual"]
+      "Cards": [
+        "Simian Spirit Guide",
+        "Irencrag Feat",
+        "Chancellor of the Tangle",
+        "Desperate Ritual",
+        "Tameshi, Reality Architect",
+        "Sink into Stupor",
+        "Whir of Invention",
+        "Pyretic Ritual"
+      ]
     }
   ]
 }
