@@ -1,10 +1,12 @@
 {
   "Name": "Belcher",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Goblin Charbelcher"]
+      "Cards": [
+        "Goblin Charbelcher"
+      ]
     },
     {
       "Type": "TwoOrMoreInMainboard",
