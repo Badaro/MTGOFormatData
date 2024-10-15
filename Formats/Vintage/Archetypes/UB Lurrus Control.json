@@ -1,0 +1,42 @@
+{
+    "Name": "UB Lurrus Control",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Underground Sea"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Volcanic Island"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Tundra"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Tropical Island"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Deathrite Shaman"]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Name": "Lurrus Vault Key",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Time Vault"]
+        }, 
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Goblin Welder","Oswald Fiddlebender"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Brain Freeze"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Deathrite Shaman"]
+        }
+    ]
+}

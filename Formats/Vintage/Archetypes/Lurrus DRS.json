@@ -15,6 +15,10 @@
             "Cards": ["Underground Sea"]
         },
         {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
+        }, 
+        {
             "Type": "InMainboard",
             "Cards": ["Deathrite Shaman"]
         }

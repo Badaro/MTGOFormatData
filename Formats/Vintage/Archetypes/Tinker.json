@@ -1,0 +1,38 @@
+{
+    "Name": "Tinker",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Beseech the Mirror"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oath of Druids"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Mishra's Workshop"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Coveted Jewel"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tinker"]
+        }
+    ]
+}

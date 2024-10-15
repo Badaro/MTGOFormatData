@@ -11,6 +11,10 @@
             "Cards": ["Seasoned Dungeoneer"]
         },
         {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Plains","Snow-Covered Plains"]
+        },
+        {
             "Type": "InMainboard",
             "Cards": ["Chrome Mox"]
         }

@@ -1,26 +1,26 @@
 {
-  "Name": "Breach",
-  "IncludeColorInName": false,
-  "Conditions": [
-    {
-      "Type": "InMainboard",
-      "Cards": ["Underworld Breach"]
-    },
-    {
-      "Type": "DoesNotContainSideboard",
-      "Cards": ["Lurrus of the Dream-Den"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Beseech the Mirror"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Oath of Druids"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Doomsday"]
-    }
-  ]
+    "Name": "Breach",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Underworld Breach"]
+        },
+		{
+            "Type": "InMainboard",
+            "Cards": ["Brain Freeze"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oath of Druids"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }
+    ]
 }
