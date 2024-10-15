@@ -10,16 +10,7 @@
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": [
-        "Simian Spirit Guide",
-        "Irencrag Feat",
-        "Chancellor of the Tangle",
-        "Desperate Ritual",
-        "Tameshi, Reality Architect",
-        "Sink into Stupor",
-        "Whir of Invention",
-        "Pyretic Ritual"
-      ]
+      "Cards": ["Simian Spirit Guide","Irencrag Feat","Chancellor of the Tangle","Desperate Ritual","Pyretic Ritual","Lotus Bloom","Tameshi, Reality Architect"]
     }
   ]
 }

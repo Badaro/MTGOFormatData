@@ -1,0 +1,18 @@
+{
+  "Name": "TameshiBloom",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tameshi, Reality Architect"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lotus Bloom"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Charbelcher"]
+    },
+  ]
+}
