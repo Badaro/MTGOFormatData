@@ -1,0 +1,14 @@
+{
+    "Name": "Eldrazi",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Eye of Ugin"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Eldrazi Temple"]
+        }
+    ]
+}

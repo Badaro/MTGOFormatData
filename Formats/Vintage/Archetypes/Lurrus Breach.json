@@ -1,0 +1,26 @@
+{
+    "Name": "Lurrus Breach",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Underworld Breach"]
+        },
+		{
+            "Type": "InMainboard",
+            "Cards": ["Brain Freeze"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oath of Druids"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        },
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }
+    ]
+}

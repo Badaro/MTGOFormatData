@@ -1,34 +1,38 @@
 {
-  "Name": "PO",
-  "IncludeColorInName": false,
-  "Conditions": [
-    {
-      "Type": "InMainboard",
-      "Cards": ["Paradoxical Outcome"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Coveted Jewel"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Underworld Breach"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Goblin Engineer"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Beseech the Mirror"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Oath of Druids"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Oswald Fiddlebender"]
-    }
-  ]
+    "Name": "PO",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Paradoxical Outcome"]
+        },  
+        {
+            "Type": "InMainboard",
+            "Cards": ["Tinker"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Coveted Jewel"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oath of Druids"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Underworld Breach"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Goblin Engineer"]
+        },  
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oswald Fiddlebender"]
+        },
+        {
+            "Type": "DoesNotContainSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }
+    ]
 }
