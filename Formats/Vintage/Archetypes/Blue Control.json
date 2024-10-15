@@ -37,6 +37,14 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Deathrite Shaman"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oath of Druids"]
+        }, 
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["White Plume Adventurer"]
         },
         {
             "Type": "DoesNotContainSideboard",

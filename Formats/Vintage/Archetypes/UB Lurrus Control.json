@@ -32,6 +32,10 @@
         }, 
         {
             "Type": "DoesNotContain",
+            "Cards": ["Doomsday"]
+        }, 
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Deathrite Shaman"]
         }
     ]
