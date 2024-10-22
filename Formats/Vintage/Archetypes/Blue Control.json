@@ -41,10 +41,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Oath of Druids"]
-        }, 
+        },
         {
             "Type": "DoesNotContain",
-            "Cards": ["White Plume Adventurer"]
+            "Cards": ["Chrome Mox"]
         },
         {
             "Type": "DoesNotContainSideboard",
