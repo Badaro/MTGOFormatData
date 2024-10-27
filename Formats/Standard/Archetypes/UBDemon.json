@@ -1,0 +1,15 @@
+{
+  "Name": "Demons",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Bloodletter of Aclazotz", "Archfiend of the Dross"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Unholy Annex"]
+    }
+  ]
+}
+

@@ -7,7 +7,7 @@
       "Cards": ["Bloodletter of Aclazotz"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "InMainboard",
       "Cards": ["Unholy Annex"]
     }
   ],
