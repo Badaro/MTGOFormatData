@@ -1,0 +1,14 @@
+{
+  "Name": "OracleSpoils",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Thassa's Oracle"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Spoils of the Vault"]
+    }
+  ]
+}
