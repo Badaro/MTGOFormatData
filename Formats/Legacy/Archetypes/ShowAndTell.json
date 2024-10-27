@@ -1,5 +1,5 @@
 {
-  "Name": "Omni-Tell",
+  "Name": "Show and Tell",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -7,8 +7,8 @@
       "Cards": ["Show and Tell"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Omniscience"]
+      "Type": "DoesNotContain",
+      "Cards": ["Reanimate"]
     }
   ],
   "Variants": [
@@ -19,6 +19,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Hypergenesis"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Omniscience"]
         }
       ]
     },
@@ -29,6 +33,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Creative Technique"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Omniscience"]
         }
       ]
     }
