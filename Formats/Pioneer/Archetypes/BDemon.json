@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Bloodletter of Aclazotz"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Bloodletter of Aclazotz", "Archfiend of the Dross"]
     },
     {
       "Type": "InMainboard",
