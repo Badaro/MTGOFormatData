@@ -3,8 +3,8 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Herd Migration"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Herd Migration", "Overlord of the Hauntwoods"]
     },
     {
       "Type": "InMainboard",
