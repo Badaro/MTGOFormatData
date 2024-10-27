@@ -9,6 +9,10 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Unholy Annex && Ritual Chamber", "Unholy Annex", "Unholy Annex // Ritual Chamber"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Glissa Sunslayer"]
     }
   ]
 }
