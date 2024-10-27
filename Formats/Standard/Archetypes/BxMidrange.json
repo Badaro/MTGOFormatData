@@ -12,6 +12,14 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Archfiend of the Dross"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Bloodletter of Aclazotz"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Herd Migration"]
     },
     {
