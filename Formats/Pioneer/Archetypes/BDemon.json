@@ -7,8 +7,8 @@
       "Cards": ["Bloodletter of Aclazotz", "Archfiend of the Dross"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Unholy Annex && Ritual Chamber"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Unholy Annex && Ritual Chamber", "Unholy Annex", "Unholy Annex // Ritual Chamber"]
     }
   ],
   "Variants": [
