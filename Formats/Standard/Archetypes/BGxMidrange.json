@@ -7,7 +7,7 @@
       "Cards": ["Glissa Sunslayer"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Deep-Cavern Bat"]
     },
     {
