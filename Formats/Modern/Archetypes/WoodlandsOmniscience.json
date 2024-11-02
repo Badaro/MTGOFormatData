@@ -1,0 +1,19 @@
+{
+  "Name": "WoodlandsOmniscience",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Shifting Woodland"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Omniscience"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sowing Mycospawn"]
+    }
+  ]
+}
+

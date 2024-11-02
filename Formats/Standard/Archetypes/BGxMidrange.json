@@ -7,7 +7,7 @@
       "Cards": ["Glissa Sunslayer"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Deep-Cavern Bat"]
     },
     {
@@ -21,6 +21,18 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Herd Migration"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Ramp",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Up the Beanstalk"]
+        }
+      ]
     }
   ]
 }

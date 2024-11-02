@@ -1,6 +1,6 @@
 {
-  "Name": "Black Demons",
-  "IncludeColorInName": false,
+  "Name": "Demons",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
@@ -9,18 +9,10 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Unholy Annex && Ritual Chamber", "Unholy Annex", "Unholy Annex // Ritual Chamber"]
-    }
-  ],
-  "Variants": [
+    },
     {
-      "Name": "Demons",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Fable of the Mirror-Breaker"]
-        }
-      ]
+      "Type": "DoesNotContain",
+      "Cards": ["Glissa Sunslayer"]
     }
   ]
 }
