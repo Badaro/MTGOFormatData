@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Optimistic Scavenger"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Warleader's Call"]
     },
     {

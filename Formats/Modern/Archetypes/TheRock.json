@@ -1,0 +1,15 @@
+{
+  "Name": "TheRock",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Grist, the Hunger Tide"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Saga"]
+    }
+  ]
+}
+
