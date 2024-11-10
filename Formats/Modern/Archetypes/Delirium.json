@@ -1,0 +1,10 @@
+{
+  "Name": "Delirium",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Omnivorous Flytrap"]
+    }
+  ]
+}
