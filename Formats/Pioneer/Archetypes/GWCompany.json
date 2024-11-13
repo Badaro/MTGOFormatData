@@ -1,0 +1,22 @@
+{
+  "Name": "Company",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Enduring Innocence"]
+    },
+    {
+        "Type": "InMainboard",
+        "Cards": ["Archon of Emeria"]
+    },
+    {
+        "Type": "InMainboard",
+        "Cards": ["Collected Company"]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Giada, Font of Hope"]
+    }
+  ]
+}
