@@ -6,6 +6,10 @@
             "Type": "DoesNotContain",
             "Cards": ["Underworld Breach"]
         },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Time Vault"]
+        },
 		{
             "Type": "InMainboard",
             "Cards": ["Paradoxical Outcome"]
