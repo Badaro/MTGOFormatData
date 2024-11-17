@@ -40,6 +40,16 @@
       ]
     },
     {
+      "Name": "Broodscale Combo",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Basking Broodscale"]
+        }
+      ]
+    }
+    {
       "Name": "Ramp Eldrazi",
       "IncludeColorInName": false,
       "Conditions": [
