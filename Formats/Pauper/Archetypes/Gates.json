@@ -7,6 +7,10 @@
       "Cards": ["Basilisk Gate"]
     },
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Moment's Peace"]
+    },
+    {
       "Type": "OneOrMoreInMainboard",
       "Cards": [
         "Sea Gate",

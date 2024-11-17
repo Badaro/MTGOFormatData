@@ -1,0 +1,10 @@
+{
+  "Name": "Ninjas",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+        "Type": "InMainboard",
+        "Cards": ["Moon-Circuit Hacker"]
+    }
+  ]
+}

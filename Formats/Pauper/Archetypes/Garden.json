@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Moment's Peace"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Slippery Bogle"]
     }
   ],
