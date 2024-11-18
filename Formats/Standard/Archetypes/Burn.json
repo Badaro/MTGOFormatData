@@ -1,0 +1,19 @@
+{
+  "Name": "Burn",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Lightning Helix"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Burst Lightning"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Boros Charm"]
+    }
+  ]
+}
+
