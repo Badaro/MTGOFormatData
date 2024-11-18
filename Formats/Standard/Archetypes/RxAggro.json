@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Boros Charm"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Warleader's Call"]
     },
     {
