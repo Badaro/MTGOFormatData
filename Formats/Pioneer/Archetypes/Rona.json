@@ -21,6 +21,16 @@
           "Cards": ["Jeskai Ascendancy"]
         }
         ]
+    },
+    {
+      "Name": "Acererak Combo",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Acererak the Archlich"]
+        }
+        ]
     }
   ]
 }

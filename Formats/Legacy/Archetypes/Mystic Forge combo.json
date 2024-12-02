@@ -44,17 +44,5 @@
       "Type": "DoesNotContain",
       "Cards": ["Blood Moon"]
     }
-  ],
-  "Variants": [
-    {
-      "Name": "Paradox Combo",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Paradox Engine"]
-        }
-      ]
-    }
   ]
 }
