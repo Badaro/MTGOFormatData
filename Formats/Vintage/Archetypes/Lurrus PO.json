@@ -8,7 +8,11 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Time Vault"]
+            "Cards": ["Goblin Engineer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oswald Fiddlebender"]
         },
 		{
             "Type": "InMainboard",
