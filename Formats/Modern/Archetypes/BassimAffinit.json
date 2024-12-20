@@ -1,0 +1,14 @@
+{
+  "Name": "Affinity",
+  "IncludeColorInName": true,
+  "Conditions:": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Basim Ibn Ishaq"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    }
+  ]
+}
