@@ -1,7 +1,7 @@
 {
   "Name": "SongOfCreation",
   "IncludeColorInName": false,
-  "Conditions:": [
+  "Conditions": [
     {
       "Type": "InMainboard",
       "Cards": ["Song of Creation"]

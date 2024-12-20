@@ -1,7 +1,7 @@
 {
   "Name": "Affinity",
   "IncludeColorInName": true,
-  "Conditions:": [
+  "Conditions": [
     {
       "Type": "InMainboard",
       "Cards": ["Basim Ibn Ishaq"]
