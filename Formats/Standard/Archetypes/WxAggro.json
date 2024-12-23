@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Warden of the Inner Sky"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Warleader's Call"]
     },
     {
