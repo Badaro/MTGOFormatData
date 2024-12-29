@@ -1,6 +1,6 @@
 {
   "Name": "Nadu",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -39,6 +39,16 @@
         {
           "Type": "InMainboard",
           "Cards": ["Knight of the Reliquary"]
+        }
+      ]
+    },
+    {
+      "Name": "Nadu Elves",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Natural Order"]
         }
       ]
     }
