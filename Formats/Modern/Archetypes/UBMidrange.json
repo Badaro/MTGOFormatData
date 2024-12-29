@@ -1,6 +1,6 @@
 {
-  "Name": "Midrange",
-  "IncludeColorInName": true,
+  "Name": "Dimir Midrange",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -25,6 +25,18 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Splinter Twin"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Frog",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Faithless Looting"]
+        }
+      ]
     }
   ]
 }
