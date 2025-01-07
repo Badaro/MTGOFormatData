@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Optimistic Scavenger"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hopeless Nightmare"]
     }
   ],
   "Variants": [
