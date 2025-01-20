@@ -58,24 +58,6 @@
         {
           "Type": "InMainboard",
           "Cards": ["Emrakul, the Promised End"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Karn, the Great Creator"]
-        }
-      ]
-    },
-    {
-      "Name": "Karndrazi",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Emrakul, the Promised End"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Karn, the Great Creator"]
         }
       ]
     }
