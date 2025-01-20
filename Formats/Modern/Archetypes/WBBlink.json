@@ -1,0 +1,15 @@
+{
+  "Name": "Blink",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Overlord of the Balemurk"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ephemerate"]
+    }
+  ]
+}
+
