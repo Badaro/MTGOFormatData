@@ -1,0 +1,13 @@
+{
+  "Name": "Energy",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ajani, Nacatl Pariah"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scion of Draco"]
+    }
+}

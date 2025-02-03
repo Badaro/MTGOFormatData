@@ -1,0 +1,11 @@
+{
+  "Name": "SelfBounce",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hopeless Nightmare"]
+    }
+  ]
+}
+
