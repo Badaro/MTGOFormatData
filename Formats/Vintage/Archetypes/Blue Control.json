@@ -47,6 +47,14 @@
             "Cards": ["Chrome Mox"]
         },
         {
+            "Type": "DoesNotContain",
+            "Cards": ["Oath of Druids"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Chrome Mox"]
+        },
+        {
             "Type": "DoesNotContainSideboard",
             "Cards": ["Lurrus of the Dream-Den"]
         }

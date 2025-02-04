@@ -24,10 +24,6 @@
         }, 
         {
             "Type": "DoesNotContain",
-            "Cards": ["Paradoxical Outcome"]
-        }, 
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Deathrite Shaman"]
         }
     ]

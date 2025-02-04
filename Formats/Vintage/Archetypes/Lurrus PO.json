@@ -6,6 +6,14 @@
             "Type": "DoesNotContain",
             "Cards": ["Underworld Breach"]
         },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Goblin Engineer"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Oswald Fiddlebender"]
+        },
 		{
             "Type": "InMainboard",
             "Cards": ["Paradoxical Outcome"]
