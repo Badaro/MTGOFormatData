@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Manifold Key"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Phyrexian Devourer"]
     }
   ]

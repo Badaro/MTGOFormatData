@@ -41,6 +41,16 @@
           "Cards": ["Knight of the Reliquary"]
         }
       ]
+    },
+    {
+      "Name": "Nadu Elves",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Allosaurus Shepherd"]
+        }
+      ]
     }
   ]
 }

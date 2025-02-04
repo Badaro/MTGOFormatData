@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Reanimate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Manifold Key"]
     }
   ],
   "Variants": [

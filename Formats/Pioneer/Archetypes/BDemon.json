@@ -4,11 +4,19 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Bloodletter of Aclazotz", "Archfiend of the Dross"]
+      "Cards": [
+        "Bloodletter of Aclazotz",
+        "Archfiend of the Dross",
+        "Blade of the Oni"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Unholy Annex && Ritual Chamber", "Unholy Annex", "Unholy Annex // Ritual Chamber"]
+      "Cards": [
+        "Unholy Annex && Ritual Chamber",
+        "Unholy Annex",
+        "Unholy Annex // Ritual Chamber"
+      ]
     }
   ],
   "Variants": [
@@ -24,4 +32,3 @@
     }
   ]
 }
-

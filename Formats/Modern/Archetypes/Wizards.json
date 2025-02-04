@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Splinter Twin"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
     }
   ]
 }

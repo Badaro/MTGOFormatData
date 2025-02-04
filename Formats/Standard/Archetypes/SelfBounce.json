@@ -1,14 +1,11 @@
 {
-  "Name": "Blade",
+  "Name": "SelfBounce",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Tithing Blade"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Hopeless Nightmare"]
     }
   ]
 }
+

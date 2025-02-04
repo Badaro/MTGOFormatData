@@ -1,14 +1,14 @@
 {
-  "Name": "Blade",
+  "Name": "Energy",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Tithing Blade"]
+      "Cards": ["Ajani, Nacatl Pariah"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Hopeless Nightmare"]
+      "Cards": ["Scion of Draco"]
     }
   ]
 }
