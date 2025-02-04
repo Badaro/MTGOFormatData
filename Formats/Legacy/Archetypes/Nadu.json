@@ -48,7 +48,7 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Natural Order"]
+          "Cards": ["Allosaurus Shepherd"]
         }
       ]
     }
