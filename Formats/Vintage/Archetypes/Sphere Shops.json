@@ -17,6 +17,10 @@
                 {
             "Type": "DoesNotContain",
             "Cards": ["Force of Will"]
+        },
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Glaring Fleshraker"]
         }
     ]
 }
