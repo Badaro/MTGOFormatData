@@ -1,6 +1,6 @@
 {
   "Name": "Dimir Midrange",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
