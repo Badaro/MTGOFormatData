@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Lumra, Bellow of the Woods"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Lumra, Bellow of the Woods", "Outcaster Trailblazer"]
     }
   ]
 }

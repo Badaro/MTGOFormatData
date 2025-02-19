@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Hopeless Nightmare"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Hopeless Nightmare", "This Town Ain't Big Enough"]
     }
   ]
 }
