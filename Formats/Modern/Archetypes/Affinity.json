@@ -4,11 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Ornithopter","Memnite","Esper Sentinel","Springleaf Drum"]
+      "Cards": ["Ornithopter","Memnite","Esper Sentinel","Springleaf Drum", "Mox Opal"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion","Thought Monitor"]
+      "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion","Thought Monitor", "Thoughtcast"]
     },
     {
       "Type": "DoesNotContain",
