@@ -13,6 +13,6 @@
                 {
             "Type": "DoesNotContain",
             "Cards": ["Sowing Mycospawn"]
-        },
+        }
     ]
 }
