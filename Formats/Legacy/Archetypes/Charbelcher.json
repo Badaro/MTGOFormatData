@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Goblin Charbelcher"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Balustrade Spy"]
         }
     ]
 }
