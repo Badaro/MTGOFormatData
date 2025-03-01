@@ -4,11 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Aether Vial", "Chalice of the Void", "Umezawa's Jitte"]
+      "Cards": ["Aether Vial", "Chalice of the Void", "Umezawa's Jitte", "Relic of Progenitus"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Wasteland", "Field of Ruin"]
+      "Cards": ["Wasteland", "Field of Ruin", "Karakas"]
     },
     {
       "Type": "OneOrMoreInMainboard",
