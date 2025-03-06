@@ -58,6 +58,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Emrakul, the Promised End"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Basking Broodscale"]
         }
       ]
     }

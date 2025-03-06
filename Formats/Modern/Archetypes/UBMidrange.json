@@ -1,6 +1,6 @@
 {
-  "Name": "Dimir Midrange",
-  "IncludeColorInName": false,
+  "Name": "Midrange",
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Splinter Twin"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scion of Draco"]
     }
   ],
   "Variants": [

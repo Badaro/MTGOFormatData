@@ -7,8 +7,8 @@
 			"Cards": ["Rite of Flame"]
 		},
 		{
-			"Type": "InMainboard",
-			"Cards": ["Burning Wish"]
+      "Type": "OneOrMoreInMainboard",
+			"Cards": ["Burning Wish", "Wish"]
 		},
 		{
 			"Type": "DoesNotContain",
