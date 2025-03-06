@@ -16,7 +16,15 @@
         },    
                 {
             "Type": "DoesNotContain",
+            "Cards": ["Bazaar of Baghdad"]
+        },
+                {
+            "Type": "DoesNotContain",
             "Cards": ["Force of Will"]
+        },
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Glaring Fleshraker"]
         }
     ]
 }
