@@ -1,0 +1,18 @@
+{
+    "Name": "Raker Shops",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Mishra's Workshop"]
+        }, 
+        {
+            "Type": "InMainboard",
+            "Cards": ["Glaring Fleshraker"]
+        },   
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Sowing Mycospawn"]
+        }
+    ]
+}
