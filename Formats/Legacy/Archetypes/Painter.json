@@ -9,18 +9,18 @@
     {
       "Type": "InMainboard",
       "Cards": ["Grindstone"]
-    },
+    }
+  ],
+  "Variants": [
     {
-      "Type": "DoesNotContain",
-      "Cards": ["Chaos Defiler"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Manifold Key"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Phyrexian Devourer"]
+      "Name": "Blue Painter",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Force of Will"]
+        }
+      ]
     }
   ]
 }
