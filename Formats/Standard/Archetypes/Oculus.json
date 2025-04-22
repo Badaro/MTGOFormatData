@@ -1,8 +1,8 @@
 {
-    "Name": "Tempo",
+    "Name": "Oculus",
     "IncludeColorInName": true,
     "Conditions": [
-        { "Type": "InMainboard", "Cards": [ "Haughty Djinn" ] },
+        { "Type": "InMainboard", "Cards": [ "Abhorrent Oculus" ] },
         { "Type": "DoesNotContain", "Cards": [ "Memory Deluge" ] }
     ]
 }
