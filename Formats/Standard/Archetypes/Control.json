@@ -4,15 +4,7 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Memory Deluge"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Spyglass Siren"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Aftermath Analyst"]
+      "Cards": ["Shiko, Paragon of the Way"]
     }
   ]
 }
