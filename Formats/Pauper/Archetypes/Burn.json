@@ -41,6 +41,20 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Refurbished Familiar"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Clockwork Percussionist"]
+        }
+      ]
+    },
+    {
+      "Name": "RDW",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Clockwork Percussionist"]
         }
       ]
     }

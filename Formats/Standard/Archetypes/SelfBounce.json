@@ -13,6 +13,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Slickshot Show-Off"]
     }
   ]
 }
