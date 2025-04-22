@@ -12,7 +12,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Thassa's Oracle","Paradox Engine","Grapeshot"]
+      "Cards": ["Thassa's Oracle","Paradox Engine","Grapeshot", "Jace, Wielder of Mysteries"]
     }
   ]
 }
