@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["High Tide"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Sunscape Familiar"]
         }
     ]   
 }

@@ -1,0 +1,15 @@
+{
+  "Name": "Samwise",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Samwise Gamgee"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thassa's Oracle"]
+    }
+  ]
+}
+
