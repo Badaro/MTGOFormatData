@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Slickshot Show-Off"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Monastery Swiftspear"]
     }
   ]
 }
