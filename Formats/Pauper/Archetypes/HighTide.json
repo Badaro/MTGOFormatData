@@ -1,0 +1,11 @@
+{
+    "Name": "HighTide",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["High Tide"]
+        }
+    ]   
+}
+
