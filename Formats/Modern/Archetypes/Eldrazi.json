@@ -64,6 +64,16 @@
           "Cards": ["Basking Broodscale"]
         }
       ]
+    },
+    {
+      "Name": "Black Eldrazi",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Fatal Push"]
+        }
+      ]
     }
   ]
 }
