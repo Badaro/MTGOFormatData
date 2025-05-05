@@ -28,6 +28,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Jeskai Ascendancy"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Grinding Station"]
     }
   ]
