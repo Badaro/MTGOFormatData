@@ -10,7 +10,19 @@
     },
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Simian Spirit Guide","Irencrag Feat","Chancellor of the Tangle","Desperate Ritual","Pyretic Ritual","Lotus Bloom","Tameshi, Reality Architect", "Whir of Invention"]
+      "Cards": ["Irencrag Feat","Chancellor of the Tangle","Desperate Ritual","Pyretic Ritual","Lotus Bloom","Tameshi, Reality Architect", "Whir of Invention"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Mono Blue Belcher",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Whir of Invention"]
+        }
+      ]
     }
   ]
 }
