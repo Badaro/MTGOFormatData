@@ -36,20 +36,6 @@
       ]
     },
     {
-      "Name": "DiceFactoryTron",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Coretapper"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Astral Cornucopia"]
-        }
-      ]
-    },
-    {
       "Name": "AnvilTron",
       "IncludeColorInName": false,
       "Conditions": [

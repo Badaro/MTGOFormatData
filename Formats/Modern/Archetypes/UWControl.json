@@ -1,6 +1,6 @@
 {
-  "Name": "Control",
-  "IncludeColorInName": true,
+  "Name": "UW Control",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
