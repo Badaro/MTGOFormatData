@@ -28,6 +28,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Urza's Tower"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hardened Scales"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Coretapper"]
     }
   ],
   "Variants": [
