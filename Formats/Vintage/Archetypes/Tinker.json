@@ -24,10 +24,6 @@
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Mishra's Workshop"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Coveted Jewel"]
         },
         {
