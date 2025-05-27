@@ -44,6 +44,10 @@
         },
         {
             "Type": "DoesNotContain",
+            "Cards": ["Phyrexian Dreadnought"]
+        },
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Chrome Mox"]
         },
         {
