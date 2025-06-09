@@ -74,6 +74,16 @@
       ]
     },
     {
+      "Name": "Aggro Eldrazi",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Eldrazi Linebreaker"]
+        }
+      ]
+    },
+    {
       "Name": "Black Eldrazi",
       "IncludeColorInName": false,
       "Conditions": [
