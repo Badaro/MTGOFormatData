@@ -28,6 +28,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Basim Ibn Ishaq"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Oswald Fiddlebender"]
     },
 	{

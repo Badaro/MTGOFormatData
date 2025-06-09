@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Song of Creation"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Urza, Lord High Artificer"]
     }
   ]
