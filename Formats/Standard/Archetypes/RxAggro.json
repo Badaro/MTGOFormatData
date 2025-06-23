@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Cori-Steel Cutter"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Boros Charm"]
     },
     {
