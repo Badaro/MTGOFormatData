@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Deep-Cavern Bat"]
+      "Cards": ["Kaito, Bane of Nightmares"]
     },
     {
       "Type": "DoesNotContain",
