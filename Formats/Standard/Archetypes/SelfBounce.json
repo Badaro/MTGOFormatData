@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Cori-Steel Cutter"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Slickshot Show-Off"]
     },
     {
