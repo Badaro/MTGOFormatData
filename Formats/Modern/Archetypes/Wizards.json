@@ -20,6 +20,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Psychic Frog"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Cori-Steel Cutter"]
     },
     {
