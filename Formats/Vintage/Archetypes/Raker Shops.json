@@ -13,6 +13,10 @@
                 {
             "Type": "DoesNotContain",
             "Cards": ["Sowing Mycospawn"]
+        },
+                {
+            "Type": "DoesNotContain",
+            "Cards": ["Sphere of Resistance"]
         }
     ]
 }
