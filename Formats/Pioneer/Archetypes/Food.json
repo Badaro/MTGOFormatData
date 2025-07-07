@@ -1,0 +1,15 @@
+{
+  "Name": "Food",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cauldron Familiar"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Gilded Goose"]
+    }
+  ]
+}
+
