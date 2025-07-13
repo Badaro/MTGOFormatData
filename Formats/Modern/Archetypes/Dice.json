@@ -1,0 +1,10 @@
+{
+  "Name": "DiceFactory",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Coretapper"]
+    }
+  ]
+}

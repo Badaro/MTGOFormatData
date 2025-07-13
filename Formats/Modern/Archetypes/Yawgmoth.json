@@ -20,6 +20,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Samwise Gamgee"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Thassa's Oracle"]
     }
   ]

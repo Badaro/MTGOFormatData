@@ -1,14 +1,15 @@
 {
-    "Name": "Cycle Storm",
+    "Name": "HighTide",
     "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
-            "Cards": ["Songs of the Damned"]
+            "Cards": ["High Tide"]
         },
         {
             "Type": "DoesNotContain",
-            "Cards": ["Lotleth Giant"]
+            "Cards": ["Sunscape Familiar"]
         }
-   ]   
+    ]   
 }
+

@@ -28,6 +28,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Urza's Tower"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hardened Scales"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Coretapper"]
     }
   ],
   "Variants": [
@@ -62,6 +70,26 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Basking Broodscale"]
+        }
+      ]
+    },
+    {
+      "Name": "Aggro Eldrazi",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Eldrazi Linebreaker"]
+        }
+      ]
+    },
+    {
+      "Name": "Black Eldrazi",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Fatal Push"]
         }
       ]
     }

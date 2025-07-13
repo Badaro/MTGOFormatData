@@ -1,18 +1,14 @@
 {
-  "Name": "Aggro",
+  "Name": "Prowess",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Monastery Swiftspear"]
+      "Cards": ["Cori-Steel Cutter"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Optimistic Scavenger"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Cori-Steel Cutter"]
     },
     {
       "Type": "DoesNotContain",

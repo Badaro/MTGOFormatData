@@ -29,6 +29,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Green Sun's Zenith"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Show and Tell"]
         }
     ]
 }

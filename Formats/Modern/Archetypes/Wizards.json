@@ -20,11 +20,23 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Psychic Frog"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cori-Steel Cutter"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Crashing Footfalls"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Splinter Twin"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Jeskai Ascendancy"]
     },
     {
       "Type": "DoesNotContain",

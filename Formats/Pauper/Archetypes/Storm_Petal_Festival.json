@@ -9,6 +9,10 @@
         {
             "Type": "TwoOrMoreInMainboard",
             "Cards": ["Ideas Unbound","Peer Through Depths","Psychic Puppetry","Reach Through Mists"]                            
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["High Tide"]
         }
     ]   
 }

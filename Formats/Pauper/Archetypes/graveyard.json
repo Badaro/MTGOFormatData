@@ -10,5 +10,17 @@
             "Type": "InMainboard",
             "Cards": ["Dread Return"]
         }
+    ],
+    "Variants": [
+        {
+            "Name": "Reanimator",
+            "IncludeColorInName": true,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Balustrade Spy"]
+                }
+            ]
+        },
     ]
 }

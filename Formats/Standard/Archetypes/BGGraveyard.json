@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Insidious Roots"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Insidious Roots", "Rubblebelt Maverick"]
     }
   ]
 }
