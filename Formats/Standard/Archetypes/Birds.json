@@ -1,0 +1,11 @@
+{
+  "Name": "Landfall",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sazh's Chocobo"]
+    }
+  ]
+}
+
