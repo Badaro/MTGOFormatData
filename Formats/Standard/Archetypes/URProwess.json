@@ -7,7 +7,7 @@
       "Cards": ["Vivi Ornitier"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Abhorrent Oculus"]
     }
   ],
