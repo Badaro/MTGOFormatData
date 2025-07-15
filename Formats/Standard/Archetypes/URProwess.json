@@ -4,11 +4,23 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Ral, Crackling Wit"]
+      "Cards": ["Vivi Ornitier"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Stormcatch Mentor"]
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Abhorrent Oculus"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Cauldron",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Agatha's Soul Cauldron"]
+        }
+      ]
     }
   ]
 }
