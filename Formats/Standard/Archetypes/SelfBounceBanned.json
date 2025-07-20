@@ -3,12 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Nurturing Pixie"]
-    },
-    {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Sunpearl Kirin", "Fear of Isolation"]
+      "Cards": ["Hopeless Nightmare", "This Town Ain't Big Enough"]
     },
     {
       "Type": "DoesNotContain",
