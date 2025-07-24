@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Overlord of the Balemurk"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Expressive Iteration"]
     },
     {
@@ -29,18 +33,6 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Scion of Draco"]
-    }
-  ],
-  "Variants": [
-    {
-      "Name": "Frog",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Faithless Looting"]
-        }
-      ]
     }
   ]
 }

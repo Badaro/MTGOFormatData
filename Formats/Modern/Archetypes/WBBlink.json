@@ -9,10 +9,6 @@
     {
       "Type": "InMainboard",
       "Cards": ["Ephemerate"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Psychic Frog"]
     }
   ]
 }
