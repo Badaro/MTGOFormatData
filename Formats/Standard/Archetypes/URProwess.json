@@ -19,6 +19,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Agatha's Soul Cauldron"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Proft's Eidetic Memory"]
         }
       ]
     }
