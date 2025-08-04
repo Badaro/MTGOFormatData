@@ -13,14 +13,14 @@
     ],
     "Variants": [
         {
-            "Name": "Reanimator",
-            "IncludeColorInName": true,
+            "Name": "Spy Combo",
+            "IncludeColorInName": false,
             "Conditions": [
                 {
                     "Type": "InMainboard",
                     "Cards": ["Balustrade Spy"]
                 }
             ]
-        },
+        }
     ]
 }
