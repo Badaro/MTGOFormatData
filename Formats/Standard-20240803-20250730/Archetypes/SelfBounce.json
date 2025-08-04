@@ -1,0 +1,35 @@
+{
+  "Name": "SelfBounce",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Nurturing Pixie"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Sunpearl Kirin", "Fear of Isolation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enduring Vitality"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cori-Steel Cutter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Slickshot Show-Off"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Monastery Swiftspear"]
+    }
+  ]
+}
+

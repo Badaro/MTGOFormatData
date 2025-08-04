@@ -1,0 +1,30 @@
+{
+  "Name": "Domain",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Herd Migration", "Overlord of the Hauntwoods"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Leyline Binding"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Etali, Primal Conqueror"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Invasion of Alara"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Warden of the Inner Sky"]
+    }
+  ]
+}

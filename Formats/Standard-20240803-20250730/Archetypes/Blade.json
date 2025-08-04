@@ -1,0 +1,14 @@
+{
+  "Name": "Blade",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Tithing Blade"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hopeless Nightmare"]
+    }
+  ]
+}

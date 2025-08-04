@@ -1,0 +1,22 @@
+{
+  "Name": "Humans",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Coppercoat Vanguard"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Warleader's Call"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Imodane's Recruiter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Harbin, Vanguard Aviator"]
+    }
+  ]
+}

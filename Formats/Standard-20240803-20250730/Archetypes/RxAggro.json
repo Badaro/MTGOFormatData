@@ -1,0 +1,30 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Monastery Swiftspear"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Optimistic Scavenger"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cori-Steel Cutter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Boros Charm"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Warleader's Call"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Imodane's Recruiter"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Shiko, Paragon of the Way"]
+    }
+  ]
+}

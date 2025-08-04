@@ -1,0 +1,26 @@
+{
+  "Name": "Auras",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Optimistic Scavenger"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hopeless Nightmare"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Enchantments",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Inquisitive Glimmer"]
+        }
+      ]
+    }
+  ]
+}

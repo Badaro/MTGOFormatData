@@ -1,0 +1,18 @@
+{
+  "Name": "Exile",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Pia Nalaar, Consul of Revival"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Questing Druid", "Quintorius Kand"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Imodane's Recruiter"]
+    }
+  ]
+}

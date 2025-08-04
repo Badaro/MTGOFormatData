@@ -1,0 +1,22 @@
+{
+  "Name": "Prowess",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Valley Floodcaller"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Enduring Vitality"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hopeless Nightmare"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Nowhere to Run"]
+    }
+  ]
+}

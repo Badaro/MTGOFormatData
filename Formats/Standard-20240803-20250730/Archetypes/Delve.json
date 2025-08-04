@@ -1,0 +1,16 @@
+{
+    "Name": "Simic Tempo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Tolarian Terror", "Eddymurk Crab"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Up the Beanstalk"]
+        },
+        { "Type": "DoesNotContain", "Cards": [ "Haughty Djinn" ] }
+    ]
+}
+

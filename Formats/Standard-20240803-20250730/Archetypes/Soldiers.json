@@ -1,0 +1,18 @@
+{
+  "Name": "Soldiers",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Harbin, Vanguard Aviator"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Warleader's Call"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Raffine, Scheming Seer"]
+    }
+  ]
+}

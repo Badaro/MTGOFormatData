@@ -1,0 +1,31 @@
+{
+  "Name": "SelfBounce",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Hopeless Nightmare", "This Town Ain't Big Enough"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enduring Vitality"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cori-Steel Cutter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Slickshot Show-Off"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Monastery Swiftspear"]
+    }
+  ]
+}
+
