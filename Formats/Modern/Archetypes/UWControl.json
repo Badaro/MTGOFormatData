@@ -1,5 +1,5 @@
 {
-  "Name": "UW Control",
+  "Name": "Azorius Control",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -40,6 +40,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Overlord of the Balemurk"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Martyr of Sands"]
     },
     {
@@ -49,7 +53,7 @@
   ],
   "Variants": [
       {
-          "Name": "Scam",
+          "Name": "Control",
           "IncludeColorInName": true,
           "Conditions": [
               {
