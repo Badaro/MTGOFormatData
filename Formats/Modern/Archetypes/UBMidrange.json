@@ -34,5 +34,17 @@
       "Type": "DoesNotContain",
       "Cards": ["Scion of Draco"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "Reanimator",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Persist"]
+        }
+      ]
+    }
   ]
 }
