@@ -5,7 +5,7 @@
     {
       "Type": "InMainboard",
       "Cards": ["Sephiroth, Fabled SOLDIER"]
-    }
+    },
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Infestation Sage", "Umbral Collar Zealot"]
