@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Nurturing Pixie"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Relic of Legends"]
     },
     {
