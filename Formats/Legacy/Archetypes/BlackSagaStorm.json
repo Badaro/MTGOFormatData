@@ -13,6 +13,10 @@
 		{
 			"Type": "InMainboard",
 			"Cards": ["Dark Ritual"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mind's Desire"]
 		}
 	],
 	"Variants": [

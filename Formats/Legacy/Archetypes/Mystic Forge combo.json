@@ -38,6 +38,14 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Fury"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grindstone"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Eye of Ugin"]
     },
     {

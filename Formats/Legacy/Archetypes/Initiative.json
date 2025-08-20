@@ -21,6 +21,10 @@
         {
             "Type": "DoesNotContainMainboard",
             "Cards": ["Blood Moon"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Magus of the Moon"]
         }
     ]
 }

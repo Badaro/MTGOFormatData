@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Entomb"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Entomb", "Fable of the Mirror-Breaker"]
     },
     {
       "Type": "OneOrMoreInMainboard",

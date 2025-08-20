@@ -9,6 +9,10 @@
   	    {
             "Type": "DoesNotContain",
             "Cards": ["Golgari Grave-Troll"]
+        },   
+  	    {
+            "Type": "DoesNotContain",
+            "Cards": ["Smallpox"]
         }
         
     ]
