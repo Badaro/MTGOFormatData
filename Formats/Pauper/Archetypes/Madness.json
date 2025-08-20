@@ -1,24 +1,14 @@
 {
   "Name": "Madness",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": [
-        "Reckless Wurm",
-        "Bloodmad Vampire",
-        "Arrogant Wurm",
-        "Basking Rootwalla",
-        "Kitchen Imp"
-      ]
-    },
-    {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Fiery Temper", "Circular Logic", "Alms of the Vein"]
+      "Type": "InMainboard",
+      "Cards": ["Fiery Temper"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Kuldotha Rebirth"]
+      "Cards": ["Goblin Tomb Raider"]
     }
   ]
 }
