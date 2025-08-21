@@ -15,6 +15,10 @@
         "Goblin Matron",
         "Goblin Rabblemaster"
       ]
+    },
+    {
+        "Type": "DoesNotContain",
+        "Cards": ["Food Chain"]
     }
   ]
 }

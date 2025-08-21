@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Green Sun's Zenith"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Tamiyo, Inquisitive Student"]
     }
   ]
 }

@@ -35,6 +35,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Painter's Servant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Seasoned Dungeoneer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Caves of Chaos Adventurer"]
     }
   ]
 }

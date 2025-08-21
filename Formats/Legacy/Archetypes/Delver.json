@@ -53,12 +53,30 @@
       ]
     },
     {
-      "Name": "Frog",
+      "Name": "Tempo",
       "IncludeColorInName": true,
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Psychic Frog"]
+          "Cards": ["Kaito, Bane of Nightmares"]
+        }
+      ]
+    },
+    {
+      "Name": "Tempo",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Nethergoyf"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Murktide Regent"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Kaito, Bane of Nightmares"]
         }
       ]
     }
