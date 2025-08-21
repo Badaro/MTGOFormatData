@@ -51,6 +51,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Blood Moon"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cloudpost"]
     }
   ]
 }
