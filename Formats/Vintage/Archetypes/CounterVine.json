@@ -7,7 +7,7 @@
             "Cards": ["Bazaar of Baghdad"]
         }, 
         {
-            "Type": "TwoOrMoreInMainboard",
+            "Type": "OneOrMoreInMainboard",
             "Cards": ["Master of Death","Squee, Goblin Nabob"]
         },
         {
