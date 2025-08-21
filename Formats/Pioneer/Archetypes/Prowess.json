@@ -1,0 +1,30 @@
+{
+  "Name": "Prowess",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cori-Steel Cutter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Arclight Phoenix"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Rona, Herald of Invasion"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ensoul Artifact"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Pia Nalaar, Consul of Revival"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Screaming Nemesis"]
+    }
+  ]
+}
