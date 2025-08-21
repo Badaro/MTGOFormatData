@@ -17,6 +17,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Arena Rector"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Karn, the Great Creator"]
         }
     ]
 }

@@ -42,7 +42,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Caves of Chaos Adventurer"]
+      "Cards": ["Cavern of Souls"]
     }
   ]
 }
