@@ -13,7 +13,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Boros Charm"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Emberheart Challenger"]
     }
   ]
 }
-

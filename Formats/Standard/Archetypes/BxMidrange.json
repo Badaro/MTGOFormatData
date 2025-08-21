@@ -4,7 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
+      "Cards": ["Archenemy's Charm"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Kaito, Bane of Nightmares"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Nurturing Pixie"]
     },
     {
       "Type": "DoesNotContain",

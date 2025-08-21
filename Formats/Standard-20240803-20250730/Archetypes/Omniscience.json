@@ -1,0 +1,10 @@
+{
+  "Name": "Omniscience",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [ "Omniscience" ]
+    }
+  ]
+}

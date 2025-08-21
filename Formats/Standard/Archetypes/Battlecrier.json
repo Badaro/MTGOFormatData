@@ -1,0 +1,11 @@
+{
+  "Name": "Temur Battlecrier",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Temur Battlecrier"]
+    }
+  ]
+}
+

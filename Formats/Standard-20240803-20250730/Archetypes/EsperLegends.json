@@ -1,0 +1,18 @@
+{
+    "Name": "Esper Legends",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Raffine, Scheming Seer"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Skrelv, Defector Mite"
+            ]
+        }
+    ]
+}

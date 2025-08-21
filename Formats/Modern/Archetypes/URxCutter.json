@@ -12,10 +12,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Thoughtcast"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Song of Creation"]
     },
     {

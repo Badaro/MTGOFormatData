@@ -9,6 +9,10 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Axebane Guardian"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Lotleth Giant"]
         }        
     ],
     "Variants": [

@@ -1,0 +1,15 @@
+{
+  "Name": "Simic Ritual",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ice-Fang Coatl"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Birthing Ritual"]
+    }
+  ]
+}
+

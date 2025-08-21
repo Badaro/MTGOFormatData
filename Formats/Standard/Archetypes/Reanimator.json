@@ -4,20 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": [
-        "Etali, Primal Conqueror",
-        "No One Left Behind",
-        "Reenact the Crime",
-        "Breach the Multiverse"
-      ]
+      "Cards": ["Zombify", "Kona, Rescue Beastie"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Deep-Cavern Bat"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Leyline Binding"]
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Glissa Sunslayer"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Deep-Cavern Bat"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Insidious Roots"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Relic of Legends"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Herd Migration"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Ramp",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Up the Beanstalk"]
+        }
+      ]
+    }
+  ]
+}

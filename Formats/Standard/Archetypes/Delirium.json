@@ -1,0 +1,11 @@
+{
+  "Name": "Delirium",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Patchwork Beastie"]
+    }
+  ]
+}
+

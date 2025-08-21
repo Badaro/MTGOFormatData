@@ -1,22 +1,14 @@
 {
-  "Name": "Aggro",
+  "Name": "Mice",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Monastery Swiftspear"]
+      "Cards": ["Emberheart Challenger"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Optimistic Scavenger"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Cori-Steel Cutter"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Boros Charm"]
     },
     {
       "Type": "DoesNotContain",

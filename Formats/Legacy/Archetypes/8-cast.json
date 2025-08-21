@@ -17,10 +17,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Simulacrum Synthesizer"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Arcbound Ravager"]
     },
     {

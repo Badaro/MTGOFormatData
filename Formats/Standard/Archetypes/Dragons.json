@@ -1,0 +1,11 @@
+{
+  "Name": "Dragons",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sarkhan, Dragon Ascendant"]
+    }
+  ]
+}
+

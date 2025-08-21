@@ -19,8 +19,8 @@
             "Cards": ["Arena Rector"]
         },
         {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Blood Moon"]
+            "Type": "DoesNotContain",
+            "Cards": ["Karn, the Great Creator"]
         }
     ]
 }

@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Narset, Parter of Veils"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
     }
   ]
 }

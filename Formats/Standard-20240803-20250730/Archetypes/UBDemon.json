@@ -1,0 +1,23 @@
+{
+  "Name": "Demons",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Bloodletter of Aclazotz", "Archfiend of the Dross"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Unholy Annex && Ritual Chamber", "Unholy Annex", "Unholy Annex // Ritual Chamber"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Glissa Sunslayer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mosswood Dreadknight"]
+    }
+  ]
+}
+

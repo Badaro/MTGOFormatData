@@ -1,0 +1,15 @@
+{
+  "Name": "Combo",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Waxen Shapethief"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Coalstoke Gearhulk"]
+    }
+  ]
+}
+

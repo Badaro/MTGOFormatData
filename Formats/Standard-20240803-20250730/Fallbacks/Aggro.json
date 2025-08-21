@@ -1,0 +1,31 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Evolving Adaptive",
+    "Monastery Swiftspear",
+    "Spellbook Vendor",
+    "Monstrous Rage",
+    "Pia Nalaar, Consul of Revival",
+    "Voldaren Thrillseeker",
+    "Vraan, Executioner Thane",
+    "Goddric, Cloaked Reveler",
+    "Sleep-Cursed Faerie",
+    "Gleeful Demolition",
+    "Knight-Errant of Eos",
+    "Royal Treatment",
+    "Sharp-Eyed Rookie",
+    "Polukranos Reborn",
+    "Itzquinth, Firstborn of Gishath",
+    "Voja, Jaws of the Conclave",
+    "Werefox Bodyguard",
+    "Squee, Dubious Monarch",
+    "Inti, Seneschal of the Sun",
+    "Tinybones, the Pickpocket",
+    "Forsaken Miner",
+    "Gingerbrute",
+    "Pawpatch Recruit",
+    "Torch the Tower",
+    "Cunning Coyote"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "Poison",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Jawbone Duelist", "Voidwing Hybrid", "Skrelv's Hive"]
+    }
+  ]
+}

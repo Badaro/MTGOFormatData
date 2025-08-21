@@ -1,5 +1,5 @@
 {
-  "Name": "Midrange",
+  "Name": "Frog",
   "IncludeColorInName": true,
   "Conditions": [
     {
@@ -13,6 +13,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Overlord of the Balemurk"]
     },
     {
       "Type": "DoesNotContain",
@@ -33,12 +37,12 @@
   ],
   "Variants": [
     {
-      "Name": "Frog",
+      "Name": "Reanimator",
       "IncludeColorInName": true,
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Faithless Looting"]
+          "Cards": ["Persist"]
         }
       ]
     }

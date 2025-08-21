@@ -15,11 +15,11 @@
   ],
   "Variants": [
     {
-      "Name": "Mono Blue Belcher",
+      "Name": "Blue Belcher",
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "Type": "InMainboard",
+          "Type": "OneOrMoreInMainboard",
           "Cards": ["Whir of Invention"]
         }
       ]
