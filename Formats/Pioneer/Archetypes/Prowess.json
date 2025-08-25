@@ -25,6 +25,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Screaming Nemesis"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
     }
   ]
 }
