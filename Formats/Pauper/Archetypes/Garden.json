@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Goblin Matron"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Basking Broodscale"]
     },
     {

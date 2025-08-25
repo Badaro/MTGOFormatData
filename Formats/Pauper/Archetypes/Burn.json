@@ -12,10 +12,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Sneaky Snacker"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Kuldotha Rebirth"]
     }
   ],
