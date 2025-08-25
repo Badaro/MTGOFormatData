@@ -12,6 +12,18 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Faithless Looting"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Alms of the Vein"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kitchen Imp"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Kuldotha Rebirth"]
     }
   ],

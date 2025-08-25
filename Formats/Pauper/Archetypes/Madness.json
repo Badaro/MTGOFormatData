@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Goblin Tomb Raider"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Dread Return"]
     }
   ]
 }
