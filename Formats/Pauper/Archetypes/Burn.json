@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lightning Bolt", "Goblin Tomb Raider"]
+      "Type": "InMainboard",
+      "Cards": ["Goblin Tomb Raider"]
     },
     {
       "Type": "OneOrMoreInMainboard",
