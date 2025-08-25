@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Dread Return"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Moment's Peace"]
     },
     {

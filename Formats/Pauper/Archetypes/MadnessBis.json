@@ -1,0 +1,14 @@
+{
+  "Name": "Madness",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Fiery Temper", "Kitchen Imp", "Alms of the Vein"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Tomb Raider"]
+    }
+  ]
+}

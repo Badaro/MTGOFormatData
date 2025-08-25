@@ -9,6 +9,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Khalni Garden"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dread Return"]
         }
     ]
 }
