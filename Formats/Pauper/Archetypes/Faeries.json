@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Spellstutter Sprite"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Priest of Titania"]
     }
   ]
 }

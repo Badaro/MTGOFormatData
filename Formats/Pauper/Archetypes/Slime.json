@@ -1,0 +1,10 @@
+{
+  "Name": "Slime",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Slime Against Humanity"]
+    }
+  ]
+}
