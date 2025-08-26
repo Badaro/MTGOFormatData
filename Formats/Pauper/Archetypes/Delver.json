@@ -1,6 +1,6 @@
 {
-    "Name": "Delver",
-    "IncludeColorInName": true,
+    "Name": "Blue Terror",
+    "IncludeColorInName": false,
     "Conditions": [
         {
             "Type" : "InMainboard",
