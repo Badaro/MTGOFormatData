@@ -39,24 +39,6 @@
       ]
     },
     {
-      "Name": "Synthesizer",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Experimental Synthesizer"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Refurbished Familiar"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Clockwork Percussionist"]
-        }
-      ]
-    },
-    {
       "Name": "RDW",
       "IncludeColorInName": false,
       "Conditions": [
