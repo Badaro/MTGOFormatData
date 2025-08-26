@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Guardians' Pledge"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Sunscape Familiar"]
     }
   ],

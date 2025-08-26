@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Myr Enforcer"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Slippery Bogle"]
     }
   ]

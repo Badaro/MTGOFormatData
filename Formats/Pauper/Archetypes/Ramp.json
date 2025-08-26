@@ -7,8 +7,8 @@
       "Cards": ["Writhing Chrysalis"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Arbor Elf"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Arbor Elf", "Arboreal Grazer", "Llanowar Elves"]
     },
     {
       "Type": "DoesNotContainMainboard",
