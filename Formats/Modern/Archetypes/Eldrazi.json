@@ -90,6 +90,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Fatal Push"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Basking Broodscale"]
         }
       ]
     }
