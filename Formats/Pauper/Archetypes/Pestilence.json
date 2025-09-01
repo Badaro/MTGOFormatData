@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Pestilence"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Khalni Garden"]
     }
   ]
 }
