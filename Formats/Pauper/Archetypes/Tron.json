@@ -26,7 +26,7 @@
             "Conditions": [
                 {
                     "Type": "InMainboard",
-                    "Cards": ["Ashnod's Altar"]
+                    "Cards": ["Myr Retriever"]
                 }
             ]
         }
