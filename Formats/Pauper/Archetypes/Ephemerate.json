@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Ephemerate"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ephemerate", "Ghostly Flicker"]
     },
     {
       "Type": "DoesNotContain",
