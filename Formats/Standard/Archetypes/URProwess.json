@@ -24,6 +24,18 @@
           "Type": "InMainboard",
           "Cards": ["Proft's Eidetic Memory"]
         }
+      ],
+      "Variants": [
+        {
+          "Name": "Talent",
+          "IncludeColorInName": true,
+          "Conditions": [
+            {
+              "Type": "InMainboard",
+              "Cards": ["Artist's Talent"]
+            }
+          ]
+        }
       ]
     }
   ]
