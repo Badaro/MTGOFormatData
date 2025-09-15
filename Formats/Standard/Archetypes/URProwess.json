@@ -23,20 +23,30 @@
         {
           "Type": "InMainboard",
           "Cards": ["Proft's Eidetic Memory"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Artist's Talent"]
         }
       ],
-      "Variants": [
+    },
+    {
+      "Name": "Talent",
+      "IncludeColorInName": true,
+      "Conditions": [
         {
-          "Name": "Talent",
-          "IncludeColorInName": true,
-          "Conditions": [
-            {
-              "Type": "InMainboard",
-              "Cards": ["Artist's Talent"]
-            }
-          ]
+          "Type": "InMainboard",
+          "Cards": ["Agatha's Soul Cauldron"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Proft's Eidetic Memory"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Artist's Talent"]
         }
-      ]
+      ],
     }
   ]
 }
