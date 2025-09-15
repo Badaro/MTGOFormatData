@@ -24,6 +24,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Glistener Elf"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Slippery Bogle"]
     }
   ],

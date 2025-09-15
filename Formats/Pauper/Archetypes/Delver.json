@@ -9,6 +9,10 @@
         {
             "Type" : "DoesNotContain",
             "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type" : "DoesNotContain",
+            "Cards": ["Mystical Teachings"]
         }
     ]
 }
