@@ -3,11 +3,11 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Fiery Temper"]
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Fiery Temper", "Kitchen Imp", "Alms of the Vein"]
     },
     {
-      "Type": "DoesNotContain",
+      "Type": "InMainboard",
       "Cards": ["Goblin Tomb Raider"]
     },
     {

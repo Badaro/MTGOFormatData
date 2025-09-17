@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Flame of Anor"]
     },
     {

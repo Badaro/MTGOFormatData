@@ -1,10 +1,10 @@
 {
-  "Name": "Omniscience",
+  "Name": "Slime",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Omniscience"]
+      "Cards": ["Slime Against Humanity"]
     }
   ]
 }

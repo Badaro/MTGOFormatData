@@ -17,7 +17,22 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Ephemerate"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Ghostly Flicker"]
         }
-       
+    ],
+    "Variants": [
+        {
+            "Name": "Altar Tron",
+            "IncludeColorInName": false,
+            "Conditions": [
+                {
+                    "Type": "InMainboard",
+                    "Cards": ["Myr Retriever"]
+                }
+            ]
+        }
     ]
 }

@@ -15,6 +15,10 @@
       "Cards": ["Pestilence"]
     },
     {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Writhing Chrysalis"]
+    },
+    {
       "Type": "DoesNotContain",
       "Cards": ["Boarding Party"]
     },

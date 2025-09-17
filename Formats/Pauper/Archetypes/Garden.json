@@ -8,11 +8,23 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Goblin Matron"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Basking Broodscale"]
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Dread Return"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Moment's Peace"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Glistener Elf"]
     },
     {
       "Type": "DoesNotContain",

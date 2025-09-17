@@ -4,37 +4,14 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Urza's Tower", "Urza's Mine", "Urza's Power Plant"]
+      "Cards": [
+        "Urza's Tower",
+        "Urza's Mine",
+        "Urza's Power Plant"
+      ]
     }
   ],
   "Variants": [
-    {
-      "Name": "EldraziTron",
-      "IncludeColorInName": false,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Eldrazi Temple"]
-        },
-        {
-          "Type": "TwoOrMoreInMainboard",
-          "Cards": [
-            "Matter Reshaper",
-            "Reality Smasher",
-            "Oblivion Sower",
-            "Endbringer",
-            "Thought-Knot Seer",
-            "Devourer of Destiny",
-            "All Is Dust",
-            "Kozilek's Command"
-          ]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Chromatic Star"]
-        }
-      ]
-    },
     {
       "Name": "AnvilTron",
       "IncludeColorInName": false,

@@ -32,6 +32,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Necrodominance"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Arclight Phoenix"]
     },
     {

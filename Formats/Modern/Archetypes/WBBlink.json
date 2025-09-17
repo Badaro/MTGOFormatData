@@ -7,8 +7,12 @@
       "Cards": ["Overlord of the Balemurk"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Ephemerate"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Ephemerate", "Phelia, Exuberant Shepherd", "Flickerwisp"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ajani, Nacatl Pariah"]
     }
   ]
 }

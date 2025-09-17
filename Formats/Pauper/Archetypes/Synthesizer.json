@@ -1,14 +1,14 @@
 {
-  "Name": "Pestilence",
+  "Name": "Synthesizer",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Pestilence"]
+      "Cards": ["Experimental Synthesizer"]  
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Khalni Garden"]
+      "Cards": ["Goblin Tomb Raider"]
     }
   ]
 }

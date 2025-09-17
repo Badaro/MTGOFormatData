@@ -9,6 +9,10 @@
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": ["Careful Study","Faithless Looting"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dread Return"]
         }
 
     ]

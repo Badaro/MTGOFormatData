@@ -5,6 +5,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Sarkhan, Dragon Ascendant"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Emberheart Challenger"]
     }
   ]
 }

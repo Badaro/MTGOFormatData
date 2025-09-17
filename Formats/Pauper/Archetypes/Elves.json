@@ -1,6 +1,6 @@
 {
     "Name": "Elves",
-    "IncludeColorInName": true,
+    "IncludeColorInName": false,
     "Conditions": [
         {
             "Type": "InMainboard",
@@ -9,6 +9,10 @@
         {
             "Type": "DoesNotContain",
             "Cards": ["Khalni Garden"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Dread Return"]
         }
     ]
 }

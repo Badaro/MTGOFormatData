@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Lightning Bolt", "Goblin Tomb Raider"]
+      "Type": "InMainboard",
+      "Cards": ["Goblin Tomb Raider"]
     },
     {
       "Type": "OneOrMoreInMainboard",
@@ -12,7 +12,15 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Sneaky Snacker"]
+      "Cards": ["Faithless Looting"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Alms of the Vein"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kitchen Imp"]
     },
     {
       "Type": "DoesNotContain",
@@ -27,24 +35,6 @@
         {
           "Type": "InMainboard",
           "Cards": ["Temur Battle Rage"]
-        }
-      ]
-    },
-    {
-      "Name": "Synthesizer",
-      "IncludeColorInName": true,
-      "Conditions": [
-        {
-          "Type": "InMainboard",
-          "Cards": ["Experimental Synthesizer"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Refurbished Familiar"]
-        },
-        {
-          "Type": "DoesNotContain",
-          "Cards": ["Clockwork Percussionist"]
         }
       ]
     },

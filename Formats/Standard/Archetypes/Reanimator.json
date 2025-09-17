@@ -9,6 +9,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Deep-Cavern Bat"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Yuna, Hope of Spira"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Omniscience"]
     }
   ]
 }

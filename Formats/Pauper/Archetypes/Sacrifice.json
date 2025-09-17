@@ -5,6 +5,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Carrion Feeder"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Floating-Dream Zubera"]
         }
     ]
 }
