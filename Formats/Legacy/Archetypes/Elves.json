@@ -26,6 +26,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Ignoble Hierarch"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wight of the Reliquary"]
     }
   ]
 }
