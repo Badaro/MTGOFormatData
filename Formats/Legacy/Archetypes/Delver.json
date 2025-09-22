@@ -12,6 +12,10 @@
         "Murktide Regent"
       ]
     },
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Entomb"]
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Daze", "Snuff Out"]
