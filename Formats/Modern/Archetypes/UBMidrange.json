@@ -24,6 +24,14 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Phlage, Titan of Fire's Fury"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wrath of the Skies"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Goryo's Vengeance"]
     },
     {

@@ -9,10 +9,6 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Street Wraith","Desert Cerodon"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Electrodominance"]
     }
   ]
 }
