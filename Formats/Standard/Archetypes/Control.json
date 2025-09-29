@@ -1,10 +1,10 @@
 {
   "Name": "Control",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Shiko, Paragon of the Way"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Shiko, Paragon of the Way", "Jeskai Revelation"]
     }
   ]
 }
