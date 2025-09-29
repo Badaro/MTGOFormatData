@@ -24,6 +24,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Urza's Saga"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Thassa's Oracle"]
     }
   ]

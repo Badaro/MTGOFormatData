@@ -40,6 +40,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Emry, Lurker of the Loch"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Grinding Station"]
     }
   ]

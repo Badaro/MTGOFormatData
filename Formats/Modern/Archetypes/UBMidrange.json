@@ -36,6 +36,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Teferi, Time Raveler"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Splinter Twin"]
     },
     {
