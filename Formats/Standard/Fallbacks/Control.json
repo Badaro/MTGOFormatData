@@ -1,6 +1,6 @@
 {
   "Name": "Control",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "CommonCards": [
     "Devious Cover-Up",
     "Elspeth, Storm Slayer",
