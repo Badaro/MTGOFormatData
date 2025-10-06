@@ -1,0 +1,50 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Fear of Missing Out"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Proft's Eidetic Memory"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Vivi Ornitier"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Agatha's Soul Cauldron"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Abhorrent Oculus"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Nurturing Pixie"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Relic of Legends"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archfiend of the Dross"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Bloodletter of Aclazotz"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Herd Migration"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Iridescent Vinelasher"]
+    }
+  ]
+}
