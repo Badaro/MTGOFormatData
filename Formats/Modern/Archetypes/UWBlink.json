@@ -1,0 +1,15 @@
+{
+  "Name": "Blink",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Quantum Riddler"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Phelia, Exuberant Shepherd"]
+    }
+  ]
+}
+
