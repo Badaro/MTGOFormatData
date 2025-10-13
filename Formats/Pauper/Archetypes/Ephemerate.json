@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Glint Hawk"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Guardians' Pledge"]
     },
     {
