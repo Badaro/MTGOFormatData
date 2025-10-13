@@ -10,6 +10,10 @@
             "Type": "InMainboard",
             "Cards": ["Glaring Fleshraker"]
         },   
+        {
+            "Type": "InMainboard",
+            "Cards": ["Sensei's Divining Top"]
+        },   
                 {
             "Type": "DoesNotContain",
             "Cards": ["Sowing Mycospawn"]
