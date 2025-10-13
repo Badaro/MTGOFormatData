@@ -1,0 +1,22 @@
+{
+    "Name": "Lurrus Doomsday",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Doomsday"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Dark Ritual"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Thassa's Oracle"]
+        },
+        {
+            "Type": "InSideboard",
+            "Cards": ["Lurrus of the Dream-Den"]
+        }
+    ]
+}
