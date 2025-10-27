@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Stinkweed Imp"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
     },
     {

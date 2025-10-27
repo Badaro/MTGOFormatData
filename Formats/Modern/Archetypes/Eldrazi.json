@@ -70,6 +70,10 @@
         {
           "Type": "DoesNotContain",
           "Cards": ["Basking Broodscale"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Through the Breach"]
         }
       ]
     },
@@ -80,6 +84,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Eldrazi Linebreaker"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Basking Broodscale"]
         }
       ]
     },

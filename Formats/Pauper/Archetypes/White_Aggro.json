@@ -2,7 +2,6 @@
     "Name": "White Aggro",
     "IncludeColorInName": false,
     "Conditions": [
-        
         {
             "Type": "OneOrMoreInMainboard",
             "Cards": [

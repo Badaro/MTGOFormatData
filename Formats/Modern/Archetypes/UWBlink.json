@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Territorial Kavu"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Goryo's Vengeance"]
     },
     {
