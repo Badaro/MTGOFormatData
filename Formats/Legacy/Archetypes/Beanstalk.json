@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Show and Tell"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Painter's Servant"]
     },
     {

@@ -8,6 +8,10 @@
         },
         {
             "Type": "DoesNotContainMainboard",
+            "Cards": ["Hogaak, Arisen Necropolis"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Up the Beanstalk"]
         },
         {

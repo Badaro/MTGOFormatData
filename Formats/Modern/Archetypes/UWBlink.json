@@ -20,6 +20,14 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Ajani, Nacatl Pariah"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Bombardment"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Overlord of the Balemurk"]
     }
   ]
