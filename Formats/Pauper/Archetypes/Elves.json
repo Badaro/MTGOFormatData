@@ -12,6 +12,10 @@
         },
         {
             "Type": "DoesNotContain",
+            "Cards": ["Drift of Phantasms"]
+        },
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Dread Return"]
         }
     ]

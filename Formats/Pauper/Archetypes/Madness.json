@@ -1,5 +1,5 @@
 {
-  "Name": "Madness",
+  "Name": "Red Madness",
   "IncludeColorInName": false,
   "Conditions": [
     {
@@ -13,6 +13,18 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Dread Return"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Rakdos Madness",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Kitchen Imp"]
+        }
+      ]
     }
   ]
 }

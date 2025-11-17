@@ -39,12 +39,12 @@
       ]
     },
     {
-      "Name": "RDW",
+      "Name": "Red Rally",
       "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Clockwork Percussionist"]
+          "Cards": ["Rally at the Hornburg"]
         }
       ]
     }
