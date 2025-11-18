@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Phelia, Exuberant Shepherd"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Goryo's Vengeance"]
     },
     {

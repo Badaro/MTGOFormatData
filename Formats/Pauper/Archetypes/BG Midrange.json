@@ -12,6 +12,14 @@
     },
     {
       "Type": "DoesNotContainMainboard",
+      "Cards": ["Trailblazer's Torch"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Goliath Paladin"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
       "Cards": ["Pestilence"]
     },
     {

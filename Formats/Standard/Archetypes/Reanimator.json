@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Zombify", "Kona, Rescue Beastie"]
+      "Cards": ["Zombify", "Kona, Rescue Beastie", "Bringer of the Last Gift"]
     },
     {
       "Type": "DoesNotContain",

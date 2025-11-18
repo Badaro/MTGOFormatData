@@ -13,6 +13,10 @@
       ]
     },
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Entomb"]
+    },
+    {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Daze", "Snuff Out"]
     },
@@ -35,6 +39,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Teferi, Time Raveler"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Doomsday"]
     },
     {
       "Type": "DoesNotContain",

@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Stinkweed Imp"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Death's Shadow"]
     },
     {
@@ -24,7 +28,19 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Phlage, Titan of Fire's Fury"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wrath of the Skies"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Teferi, Time Raveler"]
     },
     {
       "Type": "DoesNotContain",

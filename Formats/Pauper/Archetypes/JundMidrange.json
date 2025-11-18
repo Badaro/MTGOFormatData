@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Writhing Chrysalis"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Khalni Garden"]
     }
   ]
 }

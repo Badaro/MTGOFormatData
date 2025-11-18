@@ -1,0 +1,35 @@
+{
+  "Name": "Blink",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Quantum Riddler"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Phelia, Exuberant Shepherd"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Territorial Kavu"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ajani, Nacatl Pariah"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Bombardment"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Overlord of the Balemurk"]
+    }
+  ]
+}
+

@@ -8,6 +8,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Basilisk Gate"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Goblin Matron"]
     },
     {
@@ -20,7 +24,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Moment's Peace"]
+      "Cards": ["Tangle"]
     },
     {
       "Type": "DoesNotContain",

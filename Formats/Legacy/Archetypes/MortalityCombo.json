@@ -1,0 +1,14 @@
+{
+    "Name": "Mortality Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Shadow of Mortality"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Soul Spike"]
+        }
+    ]
+}

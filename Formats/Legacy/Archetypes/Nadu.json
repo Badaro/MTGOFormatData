@@ -29,6 +29,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Thoughtcast"]
     }
   ],
   "Variants": [

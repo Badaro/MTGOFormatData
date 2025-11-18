@@ -54,6 +54,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Omniscience"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Cloudpost"]
     }
   ]

@@ -6,15 +6,19 @@
       "Type": "InMainboard",
       "Cards": ["Through the Breach"]
     },
-	{
+	  {
       "Type": "InMainboard",
       "Cards": ["Emrakul, the Aeons Torn"]
     },
-	{
+	  {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Cryptic Command", "Remand"]
     },
-	{
+	  {
+      "Type": "DoesNotContain",
+      "Cards": ["Eldrazi Temple"]
+    },
+	  {
       "Type": "DoesNotContain",
       "Cards": ["Indomitable Creativity"]
     }

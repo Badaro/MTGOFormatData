@@ -9,7 +9,7 @@
       ]
     },
     {
-      "Type": "TwoOrMoreInMainboard",
+      "Type": "OneOrMoreInMainboard",
       "Cards": [
         "Griselbrand",
         "Emrakul, the Aeons Torn",

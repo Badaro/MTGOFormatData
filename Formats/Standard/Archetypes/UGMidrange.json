@@ -1,0 +1,14 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ouroboroid"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Spyglass Siren", "Azure Beastbinder"]
+    }
+  ]
+}

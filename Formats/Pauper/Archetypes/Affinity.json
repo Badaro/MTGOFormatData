@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Slippery Bogle"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Experimental Synthesizer"]  
     }
   ]
 }

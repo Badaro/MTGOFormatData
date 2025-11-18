@@ -1,0 +1,42 @@
+{
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Quantum Riddler"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Splash Portal"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Enduring Vitality"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Nurturing Pixie"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Relic of Legends"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archfiend of the Dross"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Bloodletter of Aclazotz"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Herd Migration"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Iridescent Vinelasher"]
+    }
+  ]
+}

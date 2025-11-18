@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Coveted Jewel"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Hive Mind"]
     }
   ],

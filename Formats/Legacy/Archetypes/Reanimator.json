@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Entomb", "Fable of the Mirror-Breaker"]
+      "Cards": ["Entomb", "Fable of the Mirror-Breaker", "Unmask"]
     },
     {
       "Type": "OneOrMoreInMainboard",
