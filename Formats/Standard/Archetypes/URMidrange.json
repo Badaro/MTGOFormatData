@@ -4,23 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Fear of Missing Out"]
+      "Cards": ["Quantum Riddler"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Proft's Eidetic Memory"]
+      "Cards": ["Splash Portal"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Vivi Ornitier"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Agatha's Soul Cauldron"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Abhorrent Oculus"]
+      "Cards": ["Enduring Vitality"]
     },
     {
       "Type": "DoesNotContain",
