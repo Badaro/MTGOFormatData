@@ -3,6 +3,9 @@
     "IncludeColorInName": true,
     "Conditions": [
         { "Type": "InMainboard", "Cards": [ "Abhorrent Oculus" ] },
-        { "Type": "DoesNotContain", "Cards": [ "Memory Deluge" ] }
+        { "Type": "DoesNotContain", "Cards": [ "Superior Spider-Man" ] },
+        { "Type": "DoesNotContain", "Cards": [ "Memory Deluge" ] },
+        { "Type": "DoesNotContain", "Cards": [ "Bringer of the Last Gift" ] },
+        { "Type": "DoesNotContain", "Cards": [ "Ouroboroid" ] }
     ]
 }

@@ -1,5 +1,5 @@
 {
-  "Name": "Midrange",
+  "Name": "Cub",
   "IncludeColorInName": true,
   "Conditions": [
     {
@@ -7,8 +7,20 @@
       "Cards": ["Ouroboroid"]
     },
     {
-      "Type": "OneOrMoreInMainboard",
-      "Cards": ["Spyglass Siren", "Azure Beastbinder"]
+      "Type": "InMainboard",
+      "Cards": ["Badgermole Cub"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sazh's Chocobo"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Earthbender Ascension"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Patchwork Beastie"]
     }
   ]
 }

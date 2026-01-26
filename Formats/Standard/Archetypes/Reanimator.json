@@ -4,7 +4,7 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Zombify", "Bringer of the Last Gift"]
+      "Cards": ["Zombify", "Bringer of the Last Gift", "Superior Spider-Man"]
     },
     {
       "Type": "DoesNotContain",

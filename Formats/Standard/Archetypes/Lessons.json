@@ -37,8 +37,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Iridescent Vinelasher"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Omniscience"]
     }
   ]
 }
-
-

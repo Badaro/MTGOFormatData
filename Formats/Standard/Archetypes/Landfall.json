@@ -12,6 +12,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Temur Battlecrier"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Deep-Cavern Bat"]
     }
   ]

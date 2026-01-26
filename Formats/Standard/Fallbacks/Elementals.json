@@ -1,0 +1,11 @@
+{
+  "Name": "Elementals",
+  "IncludeColorInName": true,
+  "CommonCards": [
+    "Sunderflock",
+    "Vibrance",
+    "Wistfulness",
+    "Emptiness",
+    "Deceit"
+  ]
+}

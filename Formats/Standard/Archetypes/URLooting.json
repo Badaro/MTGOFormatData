@@ -1,5 +1,5 @@
 {
-  "Name": "Looting",
+  "Name": "Midrange",
   "IncludeColorInName": true,
   "Conditions": [
     {
@@ -9,6 +9,10 @@
     {
       "Type": "InMainboard",
       "Cards": ["Winternight Stories"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Splash Portal"]
     },
     {
       "Type": "DoesNotContain",

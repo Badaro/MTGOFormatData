@@ -16,6 +16,10 @@
     },
     {
       "Type": "DoesNotContain",
+      "Cards": ["Bringer of the Last Gift"]
+    },
+    {
+      "Type": "DoesNotContain",
       "Cards": ["Archfiend of the Dross"]
     },
     {
