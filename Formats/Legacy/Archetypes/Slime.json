@@ -1,10 +1,10 @@
 {
-    "Name": "Slime",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Slime Against Humanity"]
-        }
-    ]
+  "Name": "Slime",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Slime Against Humanity"]
+    }
+  ]
 }

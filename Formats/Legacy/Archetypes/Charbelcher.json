@@ -1,14 +1,14 @@
 {
-    "Name": "Charbelcher",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Goblin Charbelcher"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Balustrade Spy"]
-        }
-    ]
+  "Name": "Charbelcher",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Charbelcher"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Balustrade Spy"]
+    }
+  ]
 }

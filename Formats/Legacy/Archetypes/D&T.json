@@ -4,7 +4,12 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Aether Vial", "Chalice of the Void", "Umezawa's Jitte", "Relic of Progenitus"]
+      "Cards": [
+        "Aether Vial",
+        "Chalice of the Void",
+        "Umezawa's Jitte",
+        "Relic of Progenitus"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",

@@ -1,30 +1,30 @@
 {
-	"Name": "Ruby Storm",
-	"IncludeColorInName": false,
-	"Conditions": [
-		{
-			"Type": "InMainboard",
-			"Cards": ["Rite of Flame"]
-		},
-		{
+  "Name": "Ruby Storm",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Rite of Flame"]
+    },
+    {
       "Type": "OneOrMoreInMainboard",
-			"Cards": ["Burning Wish", "Wish"]
-		},
-		{
-			"Type": "DoesNotContain",
-			"Cards": ["Arclight Pheonix"]
-		}
-	],
-	"Variants": [
-		{
-			"Name": "The Epic Gamble",
-			"IncludeColorInName": false,
-			"Conditions": [
-				{
-					"Type": "InMainboard",
-					"Cards": ["Gamble"]
-				}
-			]
-		}
-	]
+      "Cards": ["Burning Wish", "Wish"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Arclight Pheonix"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "The Epic Gamble",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Gamble"]
+        }
+      ]
+    }
+  ]
 }

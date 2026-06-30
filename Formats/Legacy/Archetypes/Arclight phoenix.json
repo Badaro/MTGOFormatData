@@ -1,19 +1,18 @@
 {
-    "Name": "Arclight Phoenix",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Arclight Phoenix"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Murktide Regent"]
-        },        
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Stoneforge Mystic"]
-        }
-
-    ]
+  "Name": "Arclight Phoenix",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Arclight Phoenix"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Murktide Regent"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
-    "Name": "Equilibrium Combo",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Equilibrium"]
-        }
-    ]
+  "Name": "Equilibrium Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Equilibrium"]
+    }
+  ]
 }

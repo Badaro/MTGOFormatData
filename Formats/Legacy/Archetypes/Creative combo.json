@@ -1,18 +1,18 @@
 {
-    "Name": "Creative combo",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Creative Technique"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Mind's Desire"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Show and Tell"]
-        }
-    ]
+  "Name": "Creative combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Creative Technique"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mind's Desire"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Show and Tell"]
+    }
+  ]
 }

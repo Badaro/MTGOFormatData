@@ -1,0 +1,18 @@
+{
+  "Name": "Welder Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Welder"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Engineer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Painter's Servant"]
+    }
+  ]
+}

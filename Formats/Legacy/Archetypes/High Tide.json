@@ -1,34 +1,34 @@
 {
-    "Name": "High Tide",
-    "IncludeColorInName": false,
-    "Conditions": [
+  "Name": "High Tide",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["High Tide"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cunning Wish"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Force of Will"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mind's Desire"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Solidarity",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["High Tide"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Cunning Wish"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Force of Will"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Mind's Desire"]
+          "Type": "InMainboard",
+          "Cards": ["Reset"]
         }
-    ],
-    "Variants": [
-        {
-            "Name": "Solidarity",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["Reset"]
-                }
-            ]
-        }
-    ]
+      ]
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
-    "Name": "Hive Mind",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Hive Mind"]
-        }
-    ]
+  "Name": "Hive Mind",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hive Mind"]
+    }
+  ]
 }

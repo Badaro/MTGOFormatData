@@ -1,0 +1,14 @@
+{
+  "Name": "Azorius Momo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Momo, Friendly Flier"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Starfield Shepherd", "Sage of the Skies"]
+    }
+  ]
+}

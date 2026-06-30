@@ -1,14 +1,19 @@
 {
-    "Name": "Cascade Rhinos",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Shardless Agent","Crashing Footfalls","Violent Outburst","Bloodbraid Marauder"]
-        },
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Omniscience"]
-        }
-    ]
+  "Name": "Cascade Rhinos",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Shardless Agent",
+        "Crashing Footfalls",
+        "Violent Outburst",
+        "Bloodbraid Marauder"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Omniscience"]
+    }
+  ]
 }

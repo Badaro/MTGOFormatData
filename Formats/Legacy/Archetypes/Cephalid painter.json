@@ -1,14 +1,14 @@
 {
-    "Name": "Cephalid Painter",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Cephalid Illusionist"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Painter's Servant"]
-        }
-    ]
+  "Name": "Cephalid Painter",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cephalid Illusionist"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Painter's Servant"]
+    }
+  ]
 }

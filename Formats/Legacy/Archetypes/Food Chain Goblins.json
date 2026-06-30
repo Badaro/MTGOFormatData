@@ -1,0 +1,14 @@
+{
+  "Name": "Food Chain Goblins",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Food Chain"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Lackey"]
+    }
+  ]
+}

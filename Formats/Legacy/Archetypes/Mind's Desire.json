@@ -1,22 +1,22 @@
 {
-    "Name": "Mind's Desire",
-    "IncludeColorInName": false,
-    "Conditions": [
+  "Name": "Mind's Desire",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mind's Desire"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "High Tide",
+      "IncludeColorInName": false,
+      "Conditions": [
         {
-            "Type": "InMainboard",
-            "Cards": ["Mind's Desire"]
+          "Type": "InMainboard",
+          "Cards": ["High Tide"]
         }
-    ],
-    "Variants": [
-        {
-            "Name": "High Tide",
-            "IncludeColorInName": false,
-            "Conditions": [
-                {
-                    "Type": "InMainboard",
-                    "Cards": ["High Tide"]
-                }
-            ]
-        }
-    ]
+      ]
+    }
+  ]
 }

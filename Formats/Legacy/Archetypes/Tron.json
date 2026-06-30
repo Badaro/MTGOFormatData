@@ -16,11 +16,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": [
-        "Karn, the Great Creator",
-        "Trinisphere",
-        "The One Ring"
-      ]
+      "Cards": ["Karn, the Great Creator", "Trinisphere", "The One Ring"]
     },
     {
       "Type": "DoesNotContain",

@@ -1,31 +1,30 @@
 {
-    "Name": "Hogaak",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Hogaak, Arisen Necropolis"]
-        },   
-  	    {
-            "Type": "DoesNotContain",
-            "Cards": ["Gaea's Cradle"]
-        },   
-  	    {
-            "Type": "DoesNotContain",
-            "Cards": ["Golgari Grave-Troll"]
-        },   
-  	    {
-            "Type": "DoesNotContain",
-            "Cards": ["Wight of the Reliquary"]
-        },   
-  	    {
-            "Type": "DoesNotContain",
-            "Cards": ["Talon Gates of Madara"]
-        },   
-  	    {
-            "Type": "DoesNotContain",
-            "Cards": ["Smallpox"]
-        }
-        
-    ]
+  "Name": "Hogaak",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hogaak, Arisen Necropolis"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Gaea's Cradle"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Golgari Grave-Troll"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Wight of the Reliquary"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Talon Gates of Madara"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Smallpox"]
+    }
+  ]
 }

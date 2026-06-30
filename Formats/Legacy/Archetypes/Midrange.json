@@ -1,42 +1,42 @@
 {
-    "Name": "Midrange",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Uro, Titan of Nature's Wrath"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Hogaak, Arisen Necropolis"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Up the Beanstalk"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Teferi, Time Raveler"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Stifle"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Dark Depths"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Aluren"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Green Sun's Zenith"]
-        },
-        {
-            "Type": "DoesNotContainMainboard",
-            "Cards": ["Show and Tell"]
-        }
-    ]
+  "Name": "Midrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Uro, Titan of Nature's Wrath"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Hogaak, Arisen Necropolis"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Up the Beanstalk"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Teferi, Time Raveler"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Stifle"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Dark Depths"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Aluren"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Green Sun's Zenith"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Show and Tell"]
+    }
+  ]
 }

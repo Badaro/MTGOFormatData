@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Necrodominance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cosmogoyf"]
     }
   ]
 }

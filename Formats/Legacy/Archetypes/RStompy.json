@@ -43,24 +43,24 @@
       "Cards": ["Cavern of Souls"]
     },
     {
-        "Type": "DoesNotContain",
-        "Cards": ["Yorion, Sky Nomad"]
+      "Type": "DoesNotContain",
+      "Cards": ["Yorion, Sky Nomad"]
     },
     {
-        "Type": "DoesNotContain",
-        "Cards": ["Kaldra Compleat"]
+      "Type": "DoesNotContain",
+      "Cards": ["Kaldra Compleat"]
     },
     {
-        "Type": "DoesNotContain",
-        "Cards": ["Arena Rector"]
+      "Type": "DoesNotContain",
+      "Cards": ["Arena Rector"]
     },
     {
-        "Type": "DoesNotContain",
-        "Cards": ["Karn, the Great Creator"]
+      "Type": "DoesNotContain",
+      "Cards": ["Karn, the Great Creator"]
     },
     {
-        "Type": "DoesNotContainMainboard",
-        "Cards": ["Trinisphere"]
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Trinisphere"]
     }
   ]
 }

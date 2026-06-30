@@ -45,6 +45,14 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Lord of Atlantis",
+        "Master of the Pearl Trident",
+        "Vodalian Hexcatcher"
+      ]
     }
   ]
 }

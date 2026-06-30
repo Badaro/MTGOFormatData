@@ -1,10 +1,10 @@
 {
-    "Name": "Scales",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Hardened Scales"]
-        }
-    ]
+  "Name": "Scales",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hardened Scales"]
+    }
+  ]
 }

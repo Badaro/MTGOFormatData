@@ -1,22 +1,22 @@
 {
-    "Name": "Hammer",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Colossus Hammer"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Esper Sentinel","Puresteel Paladin"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Sigarda's Aid"]
-        },
-        {
-            "Type": "OneOrMoreInMainboard",
-            "Cards": ["Inkmoth Nexus", "Urza's Saga"]
-        }        
-    ]
+  "Name": "Hammer",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Colossus Hammer"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Esper Sentinel", "Puresteel Paladin"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sigarda's Aid"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Inkmoth Nexus", "Urza's Saga"]
+    }
+  ]
 }

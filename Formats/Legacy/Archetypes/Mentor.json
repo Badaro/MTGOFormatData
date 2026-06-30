@@ -1,19 +1,18 @@
 {
-    "Name": "Mentor",
-    "IncludeColorInName": true,
-    "Conditions": [
-        {
-            "Type": "DoesNotContain",
-            "Cards": ["Stoneforge Mystic"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Swords to Plowshares"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Monastery Mentor"]
-        }
-
-    ]
+  "Name": "Mentor",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Swords to Plowshares"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Monastery Mentor"]
+    }
+  ]
 }

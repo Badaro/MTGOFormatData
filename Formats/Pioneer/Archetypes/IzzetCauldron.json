@@ -1,0 +1,14 @@
+{
+  "Name": "Izzet Cauldron",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Agatha's Soul Cauldron"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Vivi Ornitier"]
+    }
+  ]
+}

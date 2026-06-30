@@ -4,9 +4,7 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": [
-        "Goryo's Vengeance"
-      ]
+      "Cards": ["Goryo's Vengeance"]
     },
     {
       "Type": "OneOrMoreInMainboard",
@@ -19,19 +17,19 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": [
-        "Nourishing Shoal"
-      ]
+      "Cards": ["Nourishing Shoal"]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": [
-        "Asmoranomardicadaistinaculdacar"
-      ]
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
     },
     {
       "Type": "DoesNotContain",
       "Cards": ["Murktide Regent"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Omniscience"]
     }
   ]
 }

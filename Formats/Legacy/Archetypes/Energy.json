@@ -1,15 +1,14 @@
 {
-    "Name": "Energy",
-    "IncludeColorInName": false,
-    "Conditions": [
-        {
-            "Type": "InMainboard",
-            "Cards": ["Guide of Souls"]
-        },
-        {
-            "Type": "InMainboard",
-            "Cards": ["Ocelot Pride"]
-        }
-    ]
+  "Name": "Energy",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Guide of Souls"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ocelot Pride"]
+    }
+  ]
 }
-

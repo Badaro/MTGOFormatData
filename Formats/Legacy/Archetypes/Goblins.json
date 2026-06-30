@@ -17,8 +17,8 @@
       ]
     },
     {
-        "Type": "DoesNotContain",
-        "Cards": ["Food Chain"]
+      "Type": "DoesNotContain",
+      "Cards": ["Food Chain"]
     }
   ]
 }

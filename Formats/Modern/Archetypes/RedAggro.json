@@ -69,6 +69,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Goblin Anarchomancer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Splinter Twin"]
     }
   ],
   "Variants": [

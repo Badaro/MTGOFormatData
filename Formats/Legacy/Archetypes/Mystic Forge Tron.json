@@ -1,0 +1,18 @@
+{
+  "Name": "Mystic Forge Tron",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Mystic Forge"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Mine"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Tower"]
+    }
+  ]
+}

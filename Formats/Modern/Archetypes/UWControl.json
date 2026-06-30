@@ -65,18 +65,18 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Hedron Crab"]
-    },
+    }
   ],
   "Variants": [
-      {
-          "Name": "Control",
-          "IncludeColorInName": true,
-          "Conditions": [
-              {
-                  "Type": "InMainboard",
-                  "Cards": ["Nulldrifter"]
-              }
-          ]
-      }
+    {
+      "Name": "Control",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Nulldrifter"]
+        }
+      ]
+    }
   ]
 }

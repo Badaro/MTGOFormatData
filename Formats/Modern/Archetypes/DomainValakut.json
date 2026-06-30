@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Nykthos, Shrine to Nyx"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Glimpse of Tomorrow"]
     }
   ]
 }
