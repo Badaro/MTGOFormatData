@@ -1,0 +1,22 @@
+{
+    "Name": "Persistent Petitioners",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Persistent Petitioners"]
+        },
+        {
+            "Type": "DoesNotContainMainboard",
+            "Cards": ["Spellstutter Sprite"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Ghostly Flicker"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Khalni Garden"]
+        }
+    ]
+}
