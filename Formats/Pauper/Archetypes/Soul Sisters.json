@@ -1,0 +1,26 @@
+{
+    "Name": "Soul Sisters",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Soul Warden", "Essence Warden", "Soul's Attendant"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Unflinching Hortimancer"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Marauding Blight-Priest"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Cauldron Familiar"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Khalni Garden"]
+        }
+    ]
+}
