@@ -1,0 +1,18 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Warleader's Call"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ajani's Pridemate"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hinterland Sanctifier"]
+    }
+  ]
+}

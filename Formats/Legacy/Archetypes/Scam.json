@@ -4,35 +4,58 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Grief", "Liliana of the Veil"]
+      "Cards": [
+        "Grief",
+        "Liliana of the Veil"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Entomb"]
+      "Cards": [
+        "Entomb"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Leyline of the Void"]
+      "Cards": [
+        "Leyline of the Void"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Death's Shadow"]
+      "Cards": [
+        "Death's Shadow"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Beseech the Mirror"]
+      "Cards": [
+        "Beseech the Mirror"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Doomsday"]
+      "Cards": [
+        "Doomsday"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Smallpox"]
+      "Cards": [
+        "Smallpox"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Bloodbraid Elf"]
+      "Cards": [
+        "Bloodbraid Elf"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Minsc & Boo, Timeless Heroes"
+      ]
     }
   ],
   "Variants": [
@@ -42,15 +65,22 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Dark Ritual", "Dauthi Voidwalker"]
+          "Cards": [
+            "Dark Ritual",
+            "Dauthi Voidwalker"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Ephemerate"]
+          "Cards": [
+            "Ephemerate"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Brainstorm"]
+          "Cards": [
+            "Brainstorm"
+          ]
         }
       ]
     }

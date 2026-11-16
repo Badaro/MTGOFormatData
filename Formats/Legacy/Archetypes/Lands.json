@@ -21,27 +21,47 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Exploration", "Elvish Reclaimer"]
+      "Cards": [
+        "Exploration",
+        "Elvish Reclaimer"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Life from the Loam", "Dryad of the Ilysian Grove"]
+      "Cards": [
+        "Life from the Loam",
+        "Dryad of the Ilysian Grove"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Knight of the Reliquary"]
+      "Cards": [
+        "Knight of the Reliquary"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Sowing Mycospawn"]
+      "Cards": [
+        "Sowing Mycospawn"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Cloudpost"]
+      "Cards": [
+        "Cloudpost"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Vampire Hexmage"]
+      "Cards": [
+        "Vampire Hexmage"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Grindstone"
+      ]
     }
   ],
   "Variants": [
@@ -51,7 +71,9 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Primeval Titan"]
+          "Cards": [
+            "Primeval Titan"
+          ]
         }
       ]
     }

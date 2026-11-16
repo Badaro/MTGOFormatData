@@ -3,6 +3,10 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Psychic Frog"]
+    },
+    {
       "Type": "InMainboard",
       "Cards": ["Quantum Riddler"]
     },

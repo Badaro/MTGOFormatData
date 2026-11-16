@@ -17,6 +17,10 @@
         "Unholy Annex",
         "Unholy Annex // Ritual Chamber"
       ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Moon-Circuit Hacker"]
     }
   ],
   "Variants": [

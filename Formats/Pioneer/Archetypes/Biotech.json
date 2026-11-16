@@ -1,0 +1,22 @@
+{
+  "Name": "Biotech",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Biotech Specialist"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Oni-Cult Anvil", "Shrapnel Blast"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Mayhem Devil"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Ygra, Eater of All"]
+    }
+  ]
+}

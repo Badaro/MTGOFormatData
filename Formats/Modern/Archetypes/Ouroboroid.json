@@ -1,0 +1,36 @@
+{
+  "Name": "Ouroboroid",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Ouroboroid"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Badgermole Cub"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Yawgmoth, Thran Physician"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Devoted Druid"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Vizier of Remedies"
+      ]
+    }
+  ]
+}

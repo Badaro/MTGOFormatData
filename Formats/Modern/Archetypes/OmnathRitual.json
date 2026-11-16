@@ -1,0 +1,22 @@
+{
+  "Name": "Omnath Ritual",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Birthing Ritual"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Omnath, Locus of Creation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scapeshift"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Risen Reef"]
+    }
+  ]
+}

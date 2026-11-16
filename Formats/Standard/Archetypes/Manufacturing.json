@@ -1,0 +1,18 @@
+{
+  "Name": "Manufacturing",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Weapons Manufacturing"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Legion Extruder"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Tithing Blade"]
+    }
+  ]
+}

@@ -4,39 +4,64 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Soulherder", "Samwise the Stouthearted"]
+      "Cards": [
+        "Soulherder",
+        "Samwise the Stouthearted"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Murktide Regent"]
+      "Cards": [
+        "Murktide Regent"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Guide of Souls"]
+      "Cards": [
+        "Guide of Souls"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Thalia, Guardian of Thraben"]
+      "Cards": [
+        "Thalia, Guardian of Thraben"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Seasoned Dungeoneer"]
+      "Cards": [
+        "Seasoned Dungeoneer"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Dark Depths"]
+      "Cards": [
+        "Dark Depths"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Nadu, Winged Wisdom"]
+      "Cards": [
+        "Nadu, Winged Wisdom"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Narset, Parter of Veils"]
+      "Cards": [
+        "Narset, Parter of Veils"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Stoneforge Mystic"]
+      "Cards": [
+        "Stoneforge Mystic"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Aether Vial"
+      ]
     }
   ]
 }

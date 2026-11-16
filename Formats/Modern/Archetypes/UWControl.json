@@ -3,68 +3,112 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Psychic Frog"]
+    },
+    {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Teferi, Time Raveler", "Counterspell", "Solitude"]
+      "Cards": [
+        "Teferi, Time Raveler",
+        "Counterspell",
+        "Solitude"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Ajani, Nacatl Pariah"]
+      "Cards": [
+        "Ajani, Nacatl Pariah"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Phelia, Exuberant Shepherd"]
+      "Cards": [
+        "Phelia, Exuberant Shepherd"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Goryo's Vengeance"]
+      "Cards": [
+        "Goryo's Vengeance"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Flame of Anor"]
+      "Cards": [
+        "Flame of Anor"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Scapeshift"]
+      "Cards": [
+        "Scapeshift"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Nadu, Winged Wisdom"]
+      "Cards": [
+        "Nadu, Winged Wisdom"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Omnath, Locus of Creation"]
+      "Cards": [
+        "Omnath, Locus of Creation"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Dragon's Rage Channeler"]
+      "Cards": [
+        "Dragon's Rage Channeler"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Death's Shadow"]
+      "Cards": [
+        "Death's Shadow"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Crashing Footfalls"]
+      "Cards": [
+        "Crashing Footfalls"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Grief"]
+      "Cards": [
+        "Grief"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Overlord of the Balemurk"]
+      "Cards": [
+        "Overlord of the Balemurk"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Martyr of Sands"]
+      "Cards": [
+        "Martyr of Sands"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Birthing Ritual"]
+      "Cards": [
+        "Birthing Ritual"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Hedron Crab"]
+      "Cards": [
+        "Hedron Crab"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Emrakul, the Promised End"
+      ]
     }
   ],
   "Variants": [
@@ -74,7 +118,9 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Nulldrifter"]
+          "Cards": [
+            "Nulldrifter"
+          ]
         }
       ]
     }

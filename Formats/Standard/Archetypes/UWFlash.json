@@ -1,40 +1,54 @@
 {
-  "Name": "Flash",
+  "Name": "Tempo",
   "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Aang, Swift Savior"]
+      "Cards": [
+        "Aang, Swift Savior"
+      ]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Aven Interrupter"]
+      "Cards": [
+        "Aven Interrupter"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Momo, Friendly Flier"]
+      "Cards": [
+        "Momo, Friendly Flier"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Kaito, Bane of Nightmares"]
+      "Cards": [
+        "Kaito, Bane of Nightmares"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Sarkhan, Dragon Ascendant"]
+      "Cards": [
+        "Sarkhan, Dragon Ascendant"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Doc Aurlock, Grizzled Genius"]
+      "Cards": [
+        "Doc Aurlock, Grizzled Genius"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Jeskai Revelation"]
+      "Cards": [
+        "Jeskai Revelation"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Enduring Vitality"]
+      "Cards": [
+        "Enduring Vitality"
+      ]
     }
   ]
 }
-
-

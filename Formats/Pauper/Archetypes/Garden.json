@@ -37,6 +37,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Slippery Bogle"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Devoted Druid"]
     }
   ],
   "Variants": [

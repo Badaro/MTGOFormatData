@@ -149,6 +149,10 @@
       "IncludeColorInName": true,
       "Conditions": [
         {
+          "Type": "InMainboard",
+          "Cards": ["Urza's Saga"]
+        },
+        {
           "Type": "TwoOrMoreInMainboard",
           "Cards": [
             "Urza's Saga",

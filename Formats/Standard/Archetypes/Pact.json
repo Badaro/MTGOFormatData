@@ -1,0 +1,14 @@
+{
+  "Name": "Pact",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Demonic Pact"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Harmless Offering"]
+    }
+  ]
+}

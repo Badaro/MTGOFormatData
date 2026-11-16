@@ -1,0 +1,60 @@
+{
+    "Name": "Jeskai Lurrus",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InSideboard",
+            "Cards": [
+                "Lurrus of the Dream-Den"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Tundra"
+            ]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": [
+                "Volcanic Island"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Underworld Breach"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Paradoxical Outcome"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Doomsday"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Oswald Fiddlebender"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Deathrite Shaman"
+            ]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": [
+                "Time Vault"
+            ]
+        }
+    ]
+}

@@ -4,23 +4,39 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Emberheart Challenger"]
+      "Cards": [
+        "Emberheart Challenger"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Optimistic Scavenger"]
+      "Cards": [
+        "Optimistic Scavenger"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Elusive Otter"]
+      "Cards": [
+        "Elusive Otter"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Warleader's Call"]
+      "Cards": [
+        "Warleader's Call"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Imodane's Recruiter"]
+      "Cards": [
+        "Imodane's Recruiter"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Kíli the Resourceful"
+      ]
     }
   ]
 }

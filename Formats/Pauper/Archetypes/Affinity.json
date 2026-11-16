@@ -17,6 +17,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Experimental Synthesizer"]  
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Devoted Druid"]
     }
   ]
 }

@@ -9,7 +9,8 @@
         "Delver of Secrets",
         "Orcish Bowmasters",
         "Nethergoyf",
-        "Murktide Regent"
+        "Murktide Regent",
+        "Bilbo, Thief in the Night"
       ]
     },
     {
@@ -71,6 +72,24 @@
         {
           "Type": "InMainboard",
           "Cards": ["Kaito, Bane of Nightmares"]
+        }
+      ]
+    },
+    {
+      "Name": "Bilbo",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Bilbo, Thief in the Night"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Delver of Secrets"]
+        },
+        {
+          "Type": "DoesNotContainMainboard",
+          "Cards": ["Dragon's Rage Channeler"]
         }
       ]
     },

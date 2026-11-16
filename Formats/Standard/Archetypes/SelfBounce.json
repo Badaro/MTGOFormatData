@@ -8,7 +8,7 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Sunpearl Kirin", "Fear of Isolation"]
+      "Cards": ["Sunpearl Kirin", "Fear of Isolation", "Dark Matter Manipulator"]
     },
     {
       "Type": "DoesNotContain",

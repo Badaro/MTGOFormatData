@@ -1,0 +1,21 @@
+{
+  "Name": "Land Destruction",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": [
+        "Cleansing Wildfire",
+        "Price of Freedom",
+        "Avengers Disassembled",
+        "Erode"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Bring to Light"
+      ]
+    }
+  ]
+}

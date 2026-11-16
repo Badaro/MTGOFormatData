@@ -24,10 +24,6 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Glaring Fleshraker"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Cloudpost"]
     },
     {

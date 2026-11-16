@@ -10,5 +10,17 @@
       "Type": "DoesNotContain",
       "Cards": ["Accumulate Wisdom"]
     }
+  ],
+  "Variants": [
+    {
+      "Name": "4c Control",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Inevitable Defeat"]
+        }
+      ]
+    }
   ]
 }

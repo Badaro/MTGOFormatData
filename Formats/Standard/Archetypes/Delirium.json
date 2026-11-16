@@ -4,8 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Patchwork Beastie"]
+      "Cards": [
+        "Patchwork Beastie"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Practiced Offense"
+      ]
     }
   ]
 }
-

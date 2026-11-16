@@ -4,35 +4,62 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Entomb", "Fable of the Mirror-Breaker", "Unmask"]
+      "Cards": [
+        "Entomb",
+        "Fable of the Mirror-Breaker",
+        "Unmask"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Currency Converter", "Exhume", "Animate Dead", "Reanimate"]
+      "Cards": [
+        "Currency Converter",
+        "Exhume",
+        "Animate Dead",
+        "Reanimate"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Children of Korlis"]
+      "Cards": [
+        "Children of Korlis"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Undercity Informer"]
+      "Cards": [
+        "Undercity Informer"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Worldgorger Dragon"]
+      "Cards": [
+        "Worldgorger Dragon"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Smallpox"]
+      "Cards": [
+        "Smallpox"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Show and Tell"]
+      "Cards": [
+        "Show and Tell"
+      ]
     },
     {
       "Type": "DoesNotContainMainboard",
-      "Cards": ["Death's Shadow"]
+      "Cards": [
+        "Death's Shadow"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Balustrade Spy"
+      ]
     }
   ]
 }

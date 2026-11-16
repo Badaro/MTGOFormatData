@@ -9,6 +9,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Priest of Titania"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Persistent Petitioners"]
     }
   ]
 }

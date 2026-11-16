@@ -1,0 +1,14 @@
+{
+  "Name": "Cats",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Arahbo, the First Fang"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cat Collector"]
+    }
+  ]
+}

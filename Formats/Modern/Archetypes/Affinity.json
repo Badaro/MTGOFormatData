@@ -4,11 +4,11 @@
   "Conditions": [
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Ornithopter","Memnite","Esper Sentinel","Springleaf Drum", "Mox Opal"]
+      "Cards": ["Ornithopter","Memnite","Esper Sentinel","Springleaf Drum", "Mox Opal", "Kappa Cannoneer"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion","Thought Monitor", "Thoughtcast"]
+      "Cards": ["Arcbound Ravager","Nettlecyst","Frogmite","Sojourner's Companion","Thought Monitor", "Thoughtcast", "Kappa Cannoneer", "Pinnacle Emissary", "Weapons Manufacturing", "Erayo, Soratami Ascendant"]
     },
     {
       "Type": "DoesNotContain",
@@ -38,6 +38,14 @@
       "Type": "DoesNotContain",
       "Cards": ["Oswald Fiddlebender"]
     },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Song of Creation"]
+    },
 	{
       "Type": "DoesNotContain",
       "Cards": ["Asmoranomardicadaistinaculdacar"]
@@ -45,6 +53,18 @@
     {
       "Type": "DoesNotContainMainboard",
       "Cards": ["Underworld Breach"]
+    }
+    ],
+  "Variants": [
+    {
+      "Name": "Erayo Affinity",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Erayo, Soratami Ascendant"]
+        }
+      ]
     }
   ]
 }

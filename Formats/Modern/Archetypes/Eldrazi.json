@@ -40,6 +40,16 @@
   ],
   "Variants": [
     {
+      "Name": "Fight Rigging Eldrazi",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Fight Rigging"]
+        }
+      ]
+    },
+    {
       "Name": "Breach Eldrazi",
       "IncludeColorInName": false,
       "Conditions": [
@@ -66,6 +76,10 @@
         {
           "Type": "InMainboard",
           "Cards": ["Emrakul, the Promised End"]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": ["Fight Rigging"]
         },
         {
           "Type": "DoesNotContain",

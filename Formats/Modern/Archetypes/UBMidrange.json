@@ -48,15 +48,7 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Wrath of the Skies"]
-    },
-    {
-      "Type": "DoesNotContain",
       "Cards": ["Goryo's Vengeance"]
-    },
-    {
-      "Type": "DoesNotContain",
-      "Cards": ["Teferi, Time Raveler"]
     },
     {
       "Type": "DoesNotContain",
@@ -68,6 +60,16 @@
     }
   ],
   "Variants": [
+    {
+      "Name": "Midrange",
+      "IncludeColorInName": true,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Ketramose, the New Dawn"]
+        }
+      ]
+    },
     {
       "Name": "Reanimator",
       "IncludeColorInName": true,

@@ -3,8 +3,8 @@
   "IncludeColorInName": true,
   "Conditions": [
     {
-      "Type": "InMainboard",
-      "Cards": ["Zoetic Glyph"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Zoetic Glyph", "Ravenous Robots"]
     }
   ]
 }

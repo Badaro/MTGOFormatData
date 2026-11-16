@@ -1,0 +1,14 @@
+{
+  "Name": "Naya Gates",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Seeker of Skybreak"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Basilisk Gate"]
+    }
+  ]
+}

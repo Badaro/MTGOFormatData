@@ -4,7 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Balustrade Spy"]
+      "Cards": [
+        "Balustrade Spy"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Golgari Grave-Troll"
+      ]
     }
   ]
 }

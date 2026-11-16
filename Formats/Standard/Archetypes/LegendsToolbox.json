@@ -1,0 +1,18 @@
+{
+  "Name": "5c Legends",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cecil, Dark Knight"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Cavern of Souls"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Relic of Legends"]
+    }
+  ]
+}

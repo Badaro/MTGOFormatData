@@ -13,7 +13,10 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Fires of Invention"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Hopeless Nightmare"]
     }
-
   ]
 }

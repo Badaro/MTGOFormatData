@@ -4,12 +4,21 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Cauldron Familiar"]
+      "Cards": [
+        "Cauldron Familiar"
+      ]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Gilded Goose"]
+      "Cards": [
+        "Gilded Goose"
+      ]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Mayhem Devil"
+      ]
     }
   ]
 }
-

@@ -1,22 +1,30 @@
 {
-  "Name": "Landfall",
-  "IncludeColorInName": true,
+  "Name": "Hogaak Moonshadow",
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Elvish Reclaimer"]
+      "Cards": [
+        "Elvish Reclaimer"
+      ]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Wight of the Reliquary"]
+      "Cards": [
+        "Wight of the Reliquary"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Green Sun's Zenith"]
+      "Cards": [
+        "Green Sun's Zenith"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Dark Depths"]
+      "Cards": [
+        "Dark Depths"
+      ]
     }
   ]
 }

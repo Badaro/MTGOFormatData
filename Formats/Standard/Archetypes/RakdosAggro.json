@@ -1,0 +1,30 @@
+{
+  "Name": "Aggro",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Marauding Mako"
+      ]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": [
+        "Moonshadow"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Tersa Lightshatter"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Monument to Endurance"
+      ]
+    }
+  ]
+}

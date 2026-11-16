@@ -25,6 +25,19 @@
     {
       "Type": "DoesNotContain",
       "Cards": ["Pia Nalaar, Consul of Revival"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Firebending Lesson",
+        "Combustion Technique",
+        "Abandon Attachments",
+        "Accumulate Wisdom"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stormchaser's Talent"]
     }
   ]
 }

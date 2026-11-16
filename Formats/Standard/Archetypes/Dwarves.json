@@ -1,0 +1,14 @@
+{
+  "Name": "Dwarves",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Kíli the Resourceful", "Dáin's Company", "Dwarven Mauler", "Thorin, Mountain-king"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Shiko, Paragon of the Way"]
+    }
+  ]
+}

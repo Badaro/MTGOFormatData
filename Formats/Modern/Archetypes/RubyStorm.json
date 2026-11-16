@@ -4,11 +4,16 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Ral, Monsoon Mage"]
+      "Cards": [
+        "Ral, Monsoon Mage"
+      ]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Ruby Medallion"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Ruby Medallion",
+        "Stormcatch Mentor"
+      ]
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "Name": "Loki",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Emry, Lurker of the Loch"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Loki, God of Mischief", "Grinding Station", "Oswald Fiddlebender"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Kappa Cannoneer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Underworld Breach"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Kethis, the Hidden Hand"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Cori-Steel Cutter"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Song of Creation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Sword of the Meek"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
+    }
+  ]
+}

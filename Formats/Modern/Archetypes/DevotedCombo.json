@@ -4,15 +4,24 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Devoted Druid"]
+      "Cards": [
+        "Devoted Druid"
+      ]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Vizier of Remedies"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Vizier of Remedies",
+        "Ouroboroid"
+      ]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Walking Ballista"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": [
+        "Walking Ballista",
+        "Craterhoof Behemoth",
+        "Ouroboroid"
+      ]
     }
   ]
 }

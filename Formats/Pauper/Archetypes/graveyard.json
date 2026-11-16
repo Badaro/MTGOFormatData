@@ -9,6 +9,10 @@
         {
             "Type": "InMainboard",
             "Cards": ["Dread Return"]
+        },
+        {
+            "Type": "DoesNotContain",
+            "Cards": ["Persistent Petitioners"]
         }
     ],
     "Variants": [

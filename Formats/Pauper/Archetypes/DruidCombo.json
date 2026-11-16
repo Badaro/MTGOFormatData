@@ -1,0 +1,14 @@
+{
+    "Name": "Druid Combo",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "InMainboard",
+            "Cards": ["Devoted Druid"]
+        },
+        {
+            "Type": "InMainboard",
+            "Cards": ["Guac & Marshmallow Pizza"]
+        }
+    ]
+}

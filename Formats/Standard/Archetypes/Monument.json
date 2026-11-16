@@ -4,47 +4,75 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Monument to Endurance"]
+      "Cards": [
+        "Monument to Endurance"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Accumulate Wisdom"]
+      "Cards": [
+        "Accumulate Wisdom"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Enduring Vitality"]
+      "Cards": [
+        "Enduring Vitality"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Temur Battlecrier"]
+      "Cards": [
+        "Temur Battlecrier"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Nurturing Pixie"]
+      "Cards": [
+        "Nurturing Pixie"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Relic of Legends"]
+      "Cards": [
+        "Relic of Legends"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Archfiend of the Dross"]
+      "Cards": [
+        "Archfiend of the Dross"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Bloodletter of Aclazotz"]
+      "Cards": [
+        "Bloodletter of Aclazotz"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Herd Migration"]
+      "Cards": [
+        "Herd Migration"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Iridescent Vinelasher"]
+      "Cards": [
+        "Iridescent Vinelasher"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Omniscience"]
+      "Cards": [
+        "Omniscience"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Practiced Offense"
+      ]
     }
   ]
 }

@@ -4,11 +4,29 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Momo, Friendly Flier"]
+      "Cards": [
+        "Momo, Friendly Flier"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Starfield Shepherd", "Sage of the Skies"]
+      "Cards": [
+        "Starfield Shepherd",
+        "Sage of the Skies",
+        "Quantum Riddler"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Rona, Herald of Invasion"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Unholy Annex // Ritual Chamber"
+      ]
     }
   ]
 }

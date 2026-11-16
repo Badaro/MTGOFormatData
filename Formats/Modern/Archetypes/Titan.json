@@ -4,7 +4,9 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Primeval Titan"]
+      "Cards": [
+        "Primeval Titan"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
@@ -20,49 +22,94 @@
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Force of Negation"]
+      "Cards": [
+        "Force of Negation"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Wish"]
+      "Cards": [
+        "Wish"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Leyline of the Guildpact"]
+      "Cards": [
+        "Leyline of the Guildpact"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Gyruda, Doom of Depths"]
+      "Cards": [
+        "Gyruda, Doom of Depths"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Indomitable Creativity"]
+      "Cards": [
+        "Indomitable Creativity"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Persist"]
+      "Cards": [
+        "Persist"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Flare of Cultivation"]
+      "Cards": [
+        "Flare of Cultivation"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Chord of Calling"]
+      "Cards": [
+        "Chord of Calling"
+      ]
     }
   ],
   "Variants": [
+    {
+      "Name": "TitanShift",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": [
+            "Scapeshift"
+          ]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": [
+            "Valakut, the Molten Pinnacle"
+          ]
+        },
+        {
+          "Type": "DoesNotContain",
+          "Cards": [
+            "Amulet of Vigor"
+          ]
+        }
+      ]
+    },
     {
       "Name": "AmuletTitan",
       "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Amulet of Vigor"]
+          "Cards": [
+            "Amulet of Vigor"
+          ]
         },
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Simic Growth Chamber", "Selesnya Sanctuary"]
+          "Cards": [
+            "Simic Growth Chamber",
+            "Selesnya Sanctuary"
+          ]
         }
       ]
     },
@@ -72,15 +119,22 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Elvish Reclaimer"]
+          "Cards": [
+            "Elvish Reclaimer"
+          ]
         },
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Eladamri's Call", "Flagstones of Trokair"]
+          "Cards": [
+            "Eladamri's Call",
+            "Flagstones of Trokair"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Amulet of Vigor"]
+          "Cards": [
+            "Amulet of Vigor"
+          ]
         }
       ]
     },
@@ -90,15 +144,21 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Through the Breach"]
+          "Cards": [
+            "Through the Breach"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Amulet of Vigor"]
+          "Cards": [
+            "Amulet of Vigor"
+          ]
         },
         {
           "Type": "DoesNotContain",
-          "Cards": ["Scapeshift"]
+          "Cards": [
+            "Scapeshift"
+          ]
         }
       ]
     }

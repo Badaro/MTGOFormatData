@@ -1,0 +1,23 @@
+{
+  "Name": "Prowess",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Stormchaser's Talent"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Emberheart Challenger"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": [
+        "Firebending Lesson",
+        "Combustion Technique",
+        "Abandon Attachments",
+        "Accumulate Wisdom"
+      ]
+    }
+  ]
+}

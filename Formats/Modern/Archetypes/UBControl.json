@@ -1,0 +1,50 @@
+{
+  "Name": "Control",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Wan Shi Tong, Librarian"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Solitude"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Teferi, Time Raveler"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Counterspell", "Fatal Push", "Sheoldred's Edict", "Snapcaster Mage", "Subtlety", "Force of Negation", "No More Lies", "Solitude", "Orcish Bowmasters"]
+    },
+    {
+      "Type": "DoesNotContainMainboard",
+      "Cards": ["Psychic Frog"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Omnath, Locus of Creation"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Scapeshift"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goryo's Vengeance"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archon of Cruelty"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grief"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Flame of Anor"]
+    }
+  ]
+}

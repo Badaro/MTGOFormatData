@@ -1,0 +1,14 @@
+{
+  "Name": "Spellementals",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Hearth Elemental"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Eddymurk Crab"]
+    }
+  ]
+}

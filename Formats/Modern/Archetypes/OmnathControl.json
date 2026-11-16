@@ -3,6 +3,10 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
+      "Type": "DoesNotContain",
+      "Cards": ["Birthing Ritual"]
+    },
+    {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Wrenn and Six", "Solitude"]
     },

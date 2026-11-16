@@ -1,18 +1,24 @@
 {
-  "Name": "Welder Combo",
+  "Name": "Sewer-Cam Combo",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Goblin Welder"]
+      "Cards": [
+        "Goblin Welder"
+      ]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Goblin Engineer"]
+      "Cards": [
+        "Goblin Engineer"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Painter's Servant"]
+      "Cards": [
+        "Painter's Servant"
+      ]
     }
   ]
 }

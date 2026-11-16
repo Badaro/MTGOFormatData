@@ -4,11 +4,15 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Hollow One"]
+      "Cards": [
+        "Hollow One"
+      ]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Burning Inquiry"]
+      "Cards": [
+        "Burning Inquiry"
+      ]
     },
     {
       "Type": "OneOrMoreInMainboard",
@@ -16,7 +20,9 @@
         "Goblin Lore",
         "Cathartic Reunion",
         "Inti, Seneschal of the Sun",
-        "Fear of Missing Out"
+        "Fear of Missing Out",
+        "Faithless Looting",
+        "Hardened Academic"
       ]
     }
   ]

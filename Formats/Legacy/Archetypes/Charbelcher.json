@@ -4,11 +4,21 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Goblin Charbelcher"]
+      "Cards": [
+        "Goblin Charbelcher"
+      ]
     },
     {
       "Type": "DoesNotContain",
-      "Cards": ["Balustrade Spy"]
+      "Cards": [
+        "Balustrade Spy"
+      ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": [
+        "Basking Rootwalla"
+      ]
     }
   ]
 }

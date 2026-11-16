@@ -11,8 +11,8 @@
       "Cards": ["Steelshaper's Gift","Stoneforge Mystic"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Sigarda's Aid"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Sigarda's Aid","Puresteel Paladin","Kíli the Resourceful","Leyline Axe"]
     }
   ]
 }
