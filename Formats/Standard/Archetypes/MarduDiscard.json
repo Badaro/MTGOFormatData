@@ -7,8 +7,12 @@
       "Cards": ["Tersa Lightshatter", "Bloodghast"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Practiced Offense"]
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Practiced Offense", "Darklight Phoenix"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Abhorrent Oculus"]
     }
   ]
 }
