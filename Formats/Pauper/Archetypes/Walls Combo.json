@@ -22,7 +22,7 @@
             "Conditions": [
                 {
                     "Type": "OneOrMoreInMainboard",
-                    "Cards": ["Annoyed Altisaur","Boarding Parting"]
+                    "Cards": ["Annoyed Altisaur","Boarding Party"]
                 },
                 {
                     "Type": "DoesNotContain",
