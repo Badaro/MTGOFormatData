@@ -8,7 +8,7 @@
         },
         {
             "Type": "TwoOrMoreInMainboard",
-            "Cards": ["Cabal Ritual, Dark Ritual, Rite of Flame","Seething Song"]
+            "Cards": ["Cabal Ritual","Dark Ritual","Rite of Flame","Seething Song"]
         }
     ]
 }
