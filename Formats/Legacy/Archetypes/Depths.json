@@ -46,7 +46,7 @@
       "Conditions": [
         {
           "Type": "InMainboard",
-          "Cards": ["Dark confident"]
+          "Cards": ["Dark Confidant"]
         }
       ]
     },
